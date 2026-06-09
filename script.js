@@ -1,18 +1,28 @@
 let allData = [];
 
+// The dynamic descriptions for each category
+const categoryDescriptions = {
+    'All': "Browsing the full collection. From accounting platforms to AI-driven design tools, explore every piece of software we've handpicked for your business.",
+    'Financial Operations': "Everything you need to keep the numbers straight. This category features top-tier tools for accounting, automated payroll, tax compliance, and seamless invoicing.",
+    'Growth & Revenue': "The engines that drive your business forward. Here you'll find powerful platforms for marketing automation, sales outreach, CRM, and social media management.",
+    'Operations & Workflow': "The systems that keep the chaos at bay. Discover software for project management, team collaboration, document creation, and building solid Standard Operating Procedures (SOPs).",
+    'Communication & Voice': "Tools that keep your team and customers connected. Explore modern solutions for business VoIP, smart call centers, live chat, and AI voice assistants.",
+    'IT & Productivity': "The silent backbone of your daily operations. This section covers essential tools for cybersecurity, cloud storage, web hosting, and advanced AI infrastructure."
+};
+
 // Fetch the data on page load
 document.addEventListener("DOMContentLoaded", () => {
     fetch('data.json')
         .then(response => response.json())
         .then(data => {
             allData = data;
-            render(data);
+            filterTools('All'); // Initialize with 'All' filter to set the text and render
         })
         .catch(error => console.error('Error loading directory data:', error));
 });
 
 function filterTools(category) {
-    // Update active button styling
+    // 1. Update active button styling
     const buttons = document.querySelectorAll('.cat-btn');
     buttons.forEach(btn => {
         if(btn.innerText === category || (category === 'All' && btn.innerText === 'All Tools')) {
@@ -22,7 +32,15 @@ function filterTools(category) {
         }
     });
 
-    // Filter logic
+    // 2. Update the dynamic description text
+    const descElement = document.getElementById('category-desc');
+    descElement.style.opacity = 0; // fade out effect
+    setTimeout(() => {
+        descElement.innerText = categoryDescriptions[category] || categoryDescriptions['All'];
+        descElement.style.opacity = 1; // fade in effect
+    }, 150);
+
+    // 3. Filter logic
     if (category === 'All') {
         render(allData);
     } else {
@@ -50,7 +68,7 @@ function render(data) {
                     <div class="w-12 h-12 rounded-lg bg-white p-1.5 border border-slate-700 shadow-sm flex items-center justify-center overflow-hidden">
                         <img src="${logoUrl}" alt="${item.name} logo" class="w-full h-full object-contain" loading="lazy">
                     </div>
-                    <span class="text-[10px] uppercase font-mono tracking-widest text-indigo-400 bg-indigo-950/40 px-2.5 py-1 rounded border border-indigo-900/30">
+                    <span class="text-[10px] uppercase font-mono tracking-widest text-indigo-400 bg-indigo-950/40 px-2.5 py-1 rounded border border-indigo-900/30 text-right max-w-[60%]">
                         ${item.category}
                     </span>
                 </div>
