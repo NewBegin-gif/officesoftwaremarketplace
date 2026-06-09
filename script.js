@@ -28,15 +28,20 @@ const categoryInfo = {
     }
 };
 
-// Fetch the data on page load
+// Fetch the data on page load from the CENTRAL GITHUB REPO
 document.addEventListener("DOMContentLoaded", () => {
-    fetch('data.json')
-        .then(response => response.json())
+    fetch('https://raw.githubusercontent.com/NewBegin-gif/affiliate-database/refs/heads/main/data.json')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.json();
+        })
         .then(data => {
             allData = data;
             filterTools('All'); // Initialize with 'All' filter
         })
-        .catch(error => console.error('Error loading directory data:', error));
+        .catch(error => console.error('Error loading central directory data:', error));
 });
 
 function filterTools(category) {
