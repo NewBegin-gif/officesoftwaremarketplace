@@ -1,13 +1,31 @@
 let allData = [];
 
-// The dynamic descriptions for each category
-const categoryDescriptions = {
-    'All': "Browsing the full collection. From accounting platforms to AI-driven design tools, explore every piece of software we've handpicked for your business.",
-    'Financial Operations': "Everything you need to keep the numbers straight. This category features top-tier tools for accounting, automated payroll, tax compliance, and seamless invoicing.",
-    'Growth & Revenue': "The engines that drive your business forward. Here you'll find powerful platforms for marketing automation, sales outreach, CRM, and social media management.",
-    'Operations & Workflow': "The systems that keep the chaos at bay. Discover software for project management, team collaboration, document creation, and building solid Standard Operating Procedures (SOPs).",
-    'Communication & Voice': "Tools that keep your team and customers connected. Explore modern solutions for business VoIP, smart call centers, live chat, and AI voice assistants.",
-    'IT & Productivity': "The silent backbone of your daily operations. This section covers essential tools for cybersecurity, cloud storage, web hosting, and advanced AI infrastructure."
+// Vlotte, menselijke omschrijvingen per categorie
+const categoryInfo = {
+    'All': {
+        title: "Explore All Tools",
+        desc: "Browsing the full collection. From accounting platforms to AI-driven design tools, explore every piece of software we've handpicked to scale your business."
+    },
+    'Financial Operations': {
+        title: "Financial Operations",
+        desc: "Keep your numbers straight and your cash flowing. Dive into top-tier tools for accounting, automated payroll, tax compliance, and seamless invoicing."
+    },
+    'Growth & Revenue': {
+        title: "Growth & Revenue",
+        desc: "The engines that drive your business forward. Discover powerful platforms for marketing automation, sales outreach, CRM, and social media management."
+    },
+    'Operations & Workflow': {
+        title: "Operations & Workflow",
+        desc: "Keep the chaos at bay. We've highlighted the best software for project management, team collaboration, document creation, and building solid SOPs."
+    },
+    'Communication & Voice': {
+        title: "Communication & Voice",
+        desc: "Connect clearly and professionally. Explore modern solutions for business VoIP, smart call centers, live chat, and autonomous AI voice assistants."
+    },
+    'IT & Productivity': {
+        title: "IT & Productivity",
+        desc: "The silent backbone of your daily operations. Equip your team with essential tools for cybersecurity, cloud storage, web hosting, and advanced AI infrastructure."
+    }
 };
 
 // Fetch the data on page load
@@ -16,7 +34,7 @@ document.addEventListener("DOMContentLoaded", () => {
         .then(response => response.json())
         .then(data => {
             allData = data;
-            filterTools('All'); // Initialize with 'All' filter to set the text and render
+            filterTools('All'); // Initialize with 'All' filter
         })
         .catch(error => console.error('Error loading directory data:', error));
 });
@@ -32,12 +50,18 @@ function filterTools(category) {
         }
     });
 
-    // 2. Update the dynamic description text
+    // 2. Update the dynamic info card
+    const cardElement = document.getElementById('category-info-card');
+    const titleElement = document.getElementById('category-title');
     const descElement = document.getElementById('category-desc');
-    descElement.style.opacity = 0; // fade out effect
+    
+    cardElement.style.opacity = 0; // fade out effect
+    
     setTimeout(() => {
-        descElement.innerText = categoryDescriptions[category] || categoryDescriptions['All'];
-        descElement.style.opacity = 1; // fade in effect
+        const info = categoryInfo[category] || categoryInfo['All'];
+        titleElement.innerText = info.title;
+        descElement.innerText = info.desc;
+        cardElement.style.opacity = 1; // fade in effect
     }, 150);
 
     // 3. Filter logic
