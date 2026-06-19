@@ -28,15 +28,33 @@ CARD = """\
                         </div>
                         <span class="text-[10px] uppercase font-mono tracking-widest text-indigo-400 bg-indigo-950/40 px-2.5 py-1 rounded border border-indigo-900/30 text-right max-w-[60%]">{category}</span>
                     </div>
-                    <h3 class="font-bold text-xl text-white group-hover:text-indigo-400 transition-colors mb-3">{name}</h3>{reviews_row}
+                    <h3 class="font-bold text-xl text-white group-hover:text-indigo-400 transition-colors mb-3">{name}</h3>{alt_row}{reviews_row}
                     <p class="text-sm text-slate-400 leading-relaxed mb-6 flex-grow">{desc}</p>
-                    <a href="{link}" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta mt-auto inline-flex items-center justify-center gap-2 w-full bg-indigo-600 hover:bg-indigo-500 text-white font-semibold text-sm px-4 py-2.5 rounded-lg transition-colors">
+                    <div class="mt-auto flex items-center gap-2">
+                    <a href="{link}" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta flex-1 inline-flex items-center justify-center gap-2 bg-indigo-600 hover:bg-indigo-500 text-white font-semibold text-sm px-4 py-2.5 rounded-lg transition-colors">
                         <span>Visit {name}</span><span aria-hidden="true">&rarr;</span>
                     </a>
+                    <button class="shortlist-btn" data-name="{name}" aria-label="Save to shortlist">&#9734;</button>
+                    </div>
                 </div>"""
 
 REVIEWS_ROW = """
                     <a href="{reviews_url}" target="_blank" rel="noopener" class="inline-flex items-center gap-1.5 text-xs text-indigo-300 hover:text-white mb-3 transition-colors"><span class="text-emerald-400">&#9679;</span> {n} in-depth review{s} &rarr;</a>"""
+
+
+# Tools met een handgebouwde single-page hero op AIBM (niet in de auto-gegenereerde
+# /b2b/-index, dus tel-mechanisme vindt ze niet). Directe koppeling + telling.
+DIRECT_REVIEWS = {
+    "Aspire": ("https://aibuildermarketplace.com/b2b/aspire-review/", 1),
+}
+
+
+ALT_ROW = """\n                    <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">{leader}</span></div>"""
+
+
+def alt_row_for(t):
+    r = t.get("replaces")
+    return ALT_ROW.format(leader=html.escape(r)) if r else ""
 
 
 def norm(name):
@@ -71,6 +89,10 @@ def main():
     counts = {norm(k): (k, v) for k, v in raw_counts.items()}
 
     def reviews_row(t):
+        direct = DIRECT_REVIEWS.get(t["name"])
+        if direct:
+            url, n = direct
+            return REVIEWS_ROW.format(reviews_url=url, n=n, s="" if n == 1 else "s")
         hit = counts.get(norm(t["name"]))
         if not hit:
             return ""
@@ -90,6 +112,7 @@ def main():
             desc=html.escape(t["desc"]),
             link=html.escape(t["link"], quote=True),
             reviews_row=reviews_row(t),
+            alt_row=alt_row_for(t),
         )
         for t in tools
     )
