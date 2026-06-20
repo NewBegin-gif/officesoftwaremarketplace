@@ -46,6 +46,12 @@ REVIEWS_ROW = """
 # /b2b/-index, dus tel-mechanisme vindt ze niet). Directe koppeling + telling.
 DIRECT_REVIEWS = {
     "Aspire": ("https://aibuildermarketplace.com/b2b/aspire-review/", 1),
+    "1Password": ("https://aibuildermarketplace.com/b2b/1password-review/", 1),
+    "Payoneer": ("https://aibuildermarketplace.com/b2b/payoneer-review/", 1),
+    "NordVPN": ("https://aibuildermarketplace.com/b2b/nordvpn-review/", 1),
+    "Apollo": ("https://aibuildermarketplace.com/b2b/apollo-review/", 1),
+    "Streak": ("https://aibuildermarketplace.com/b2b/streak-review/", 1),
+    "AWeber": ("https://aibuildermarketplace.com/b2b/aweber-review/", 1),
 }
 
 
