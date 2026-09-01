@@ -158,6 +158,7 @@ SNEDE = {
     "Financial Operations",
     "Finance & Accounting",
     "Finance",
+    "HR & People",
 }
 
 
