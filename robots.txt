@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://officesoftwaremarketplace.com/sitemap.xml
+Sitemap: https://officesoftwaremarketplace.com/sitemap-video.xml
