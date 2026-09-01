@@ -141,10 +141,38 @@ def fetch_review_slugs(root):
         return set(json.loads(cache.read_text(encoding="utf-8")))
     return set()
 
+# ── De snede van deze site ────────────────────────────────────────────────
+# 1 sep 2026: deze pagina toonde alle 424 tools uit de centrale database --
+# 420 koppen en 413 sponsored links op een pagina van 19.301 woorden, oftewel
+# 46 woorden per tool. Dat is precies de dunne-affiliate-vorm die AIBM in juni
+# heeft geraakt, en de enige zustersite die wel indexeert (ZTS) is toevallig
+# ook de enige zonder zo'n mega-pagina.
+#
+# Office Software Marketplace houdt daarom de categorieen die bij zijn naam
+# horen: kantoor, productiviteit, IT en finance. De rest blijft gewoon op
+# aibuildermarketplace.com staan, waar het dossier hoort -- dit is een keuze
+# over waar iets thuishoort, niet over wat we publiceren.
+SNEDE = {
+    "IT & Productivity",
+    "Productivity",
+    "Financial Operations",
+    "Finance & Accounting",
+    "Finance",
+}
+
+
+def in_snede(t):
+    return t.get("category") in SNEDE
+
+
 def main():
     root = Path(__file__).parent
     tools = json.loads((root / "data.json").read_text(encoding="utf-8"))
+    voor = len(tools)
+    tools = [t for t in tools if in_snede(t)]
     tools.sort(key=lambda t: t["name"].lower())
+    print(f"snede: {len(tools)} van {voor} tools "
+          f"({', '.join(sorted(SNEDE))})")
 
     raw_counts = fetch_review_counts(root)
     counts = {norm(k): (k, v) for k, v in raw_counts.items()}
