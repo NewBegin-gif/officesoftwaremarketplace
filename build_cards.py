@@ -269,6 +269,7 @@ def fetch_review_slugs(root):
 # aibuildermarketplace.com staan, waar het dossier hoort -- dit is een keuze
 # over waar iets thuishoort, niet over wat we publiceren.
 SNEDE = {
+    "Operations & Workflow",  # 3 sep 2026, Daan: kantoortools, 80 partners; landing bestond al
     "IT & Productivity",
     "Productivity",
     "Financial Operations",
