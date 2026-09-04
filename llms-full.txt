@@ -1,6 +1,6 @@
 # Office Software Marketplace — Full Review Catalog
 
-> All 43 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-09-04.
+> All 44 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-09-04.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -145,6 +145,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/modge-review.html
 - Verdict: Modge: Basic is $5 per seat per month billed monthly or $4 billed annually. The numbers on Modge's own pages do not agree with each other.
 - Price: (read 2026-09-03 on modge.com/pricing, both billing toggles and the comparison table) Per-seat plans with a full-feature 14-day trial and no card. Basic is $5 per seat per month billed monthly or $4 billed annually: app and URL tracking with AI productivity classification, workforce dashboards, automatic time tracking with optional screenshots, timesheets, approvals and payroll exports, invoice creation, email…
+
+## Mycroft
+- Review: https://officesoftwaremarketplace.com/mycroft-review.html
+- Verdict: Mycroft has no public pricing: three packages, and not one number between them. The pricing page is a feature list with the prices taken out.
+- Price: (read 4 September 2026 on www.mycroft.io/pricing) Mycroft has no public pricing: three packages, and not one number between them. Platform is the entry tier and the only one whose button says Get started rather than something sales-shaped; it bundles the full GRC platform for SOC 2, ISO 27001, GDPR, HIPAA and more, a Cloud Native Application Protection Platform, security, AI and privacy awareness training,…
 
 ## Navan
 - Review: https://officesoftwaremarketplace.com/navan-review.html
