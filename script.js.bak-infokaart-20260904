@@ -116,8 +116,8 @@ function filterTools(category, updateHash = true) {
     cardElement.style.opacity = 0;
     setTimeout(() => {
         const info = categoryInfo[category] || categoryInfo['All'];
-        if (titleElement) titleElement.innerText = info.title;
-        if (descElement) descElement.innerText = info.desc;
+        titleElement.innerText = info.title;
+        descElement.innerText = info.desc;
         cardElement.style.opacity = 1;
     }, 150);
 
@@ -130,40 +130,3 @@ function filterTools(category, updateHash = true) {
         history.replaceState(null, '', category === 'All' ? '#' : '#' + encodeURIComponent(category));
     }
 }
-
-// --- infokaart: alleen tonen als er iets gekozen is (4 sep 2026) ---
-// In de openingsstand ('All', geen stack) zei de kaart 'Browsing the full
-// collection' -- een doos van 128px die niets toevoegt boven de resultaten.
-// En zonder eigen regel viel een categorie terug op de All-tekst, dus
-// 'Security' las als 'Explore All Tools'. Beide zijn hier dichtgezet.
-const _extraInfo = {
-    "Business Operations": { title: "Business Operations", desc: "The back office nobody budgets for: contracts, compliance, procurement and the admin that only gets attention once it breaks." },
-    "Finance": { title: "Finance", desc: "Money tools, plainly priced. What the entry tier actually covers, and where the meter starts running once you grow." },
-    "Finance & Accounting": { title: "Finance & Accounting", desc: "Bookkeeping, invoicing and filing. We check what the base plan includes before the per-transaction fees get added on top." },
-    "Financial Operations": { title: "Financial Operations", desc: "Keep the numbers straight and the cash moving: accounting, payroll, spend control and invoicing, with the real cost per seat spelled out." },
-    "HR & People": { title: "HR & People", desc: "Hiring, onboarding, payroll and time tracking. Priced per employee almost everywhere, so we show what a team of ten actually pays." },
-    "IT & Productivity": { title: "IT & Productivity", desc: "The silent backbone: security, cloud storage, hosting, password management and the AI infrastructure sitting underneath it all." },
-    "Operations & Workflow": { title: "Operations & Workflow", desc: "Keep the chaos at bay: project management, collaboration, documents and the SOPs that stop the work living in one person's head." },
-    "Productivity": { title: "Productivity", desc: "Small tools that take the friction out of a working day, and are honest about which features sit behind the next tier up." },
-    "Project Management": { title: "Project Management", desc: "Plans, boards and deadlines. Watch the seat count here: this is the category where the bill grows fastest as the team does." },
-    "Security": { title: "Security", desc: "Endpoint protection, background checks and access control. Priced per seat or per device, and we note which, because it changes the sum." }
-};
-Object.keys(_extraInfo).forEach(k => { if (!categoryInfo[k]) categoryInfo[k] = _extraInfo[k]; });
-
-function _toonInfokaart(category) {
-    const wrap = document.getElementById('category-info-wrap');
-    if (!wrap) return;
-    const leeg = !_bundle && (!category || category === 'All');
-    wrap.style.display = leeg ? 'none' : '';
-}
-
-const _filterTools = filterTools, _selectBundle = selectBundle;
-window.filterTools = function (category, updateHash = true) {
-    _filterTools(category, updateHash);
-    _toonInfokaart(category);
-};
-window.selectBundle = function (key) {
-    _selectBundle(key);
-    _toonInfokaart(_cat);
-};
-document.addEventListener('DOMContentLoaded', () => _toonInfokaart(_cat));
