@@ -58,7 +58,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Cloudways
 - Review: https://officesoftwaremarketplace.com/cloudways-review.html
-- Verdict: Cloudways: $0.0208 an hour is the $14 plan.
+- Verdict: Cloudways: $0.0208 an hour is the $14 plan. "Fully managed" here means the server, not your site — and that distinction is where the money is.
 - Price: (read 2026-08-26 on cloudways.com/en/pricing.php, DigitalOcean tab) No free tier, but a 3-day free trial with no credit card required. Billing is hourly and post-paid, invoiced in the first week of the following month, with no annual contract — and the hourly figure is the one that decides the bill: every card divides its monthly price by 672 hours, so $0.0208 an hour is the $14 plan.
 
 ## Compliancely
@@ -118,8 +118,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Heard
 - Review: https://officesoftwaremarketplace.com/heard-review.html
-- Verdict: Heard: Lite $129/mo or $1,548 a year, Essential $169/mo or $2,028, Premium $255/mo or $3,060, with a stated 15% saving for paying annually.
-- Price: (re-verified 2026-08-17 on their own pricing page) Annual billing only, and the page shows both the monthly-equivalent and the yearly total: Lite $129/mo or $1,548 a year, Essential $169/mo or $2,028, Premium $255/mo or $3,060, with a stated 15% saving for paying annually. Lite covers done-for-you bookkeeping, financial reports and quarterly and annual tax support for solo sole proprietors; Essential adds…
+- Verdict: Heard: Lite $129/mo or $1,548 a year, Essential $169/mo or $2,028, Premium $255/mo or $3,060. Mind the fine print between tiers.
+- Price: (re-verified 2026-09-05 on their own pricing page) Three plans, billed upfront per year with the monthly equivalent shown: Lite $129/mo or $1,548 a year, Essential $169/mo or $2,028, Premium $255/mo or $3,060. Lite covers done-for-you bookkeeping, financial reports and quarterly and annual tax support for solo sole proprietors; Essential adds personal tax preparation and filing; Premium is for group practices and…
 
 ## Hostinger
 - Review: https://officesoftwaremarketplace.com/hostinger-review.html
