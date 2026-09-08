@@ -67,7 +67,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [TestGorilla Review (2026): Paid Tiers Are Annual Only](https://officesoftwaremarketplace.com/testgorilla-review.html): TestGorilla: Free $0 with 10 credits a month, no card needed, including preset custom questions and 1 full-access seat.
 - [TextExpander Review (2026): macOS Already Does the Basics](https://officesoftwaremarketplace.com/textexpander-review.html): TextExpander: Free is $0 forever with no credit card, Pro $5 (billed annually at $60), Business $10 (billed annually at $120), Enterprise quoted.
 - [Top Echelon Review (2026): From $75/mo, Checked Aug 2026](https://officesoftwaremarketplace.com/top-echelon-review.html): Top Echelon: $89 billed annually or $110 month-to-month on Professional. Almost everything people shop for sits in Professional, not Standard.
-- [Tresorit Review (2026): From €16/user, No Server-Side Search](https://officesoftwaremarketplace.com/tresorit-review.html): Tresorit: Priced from our location in euros, they run €29.99, €20 and €25 per user per month on monthly billing. You pay the Swiss-E2EE premium.
+- [Tresorit Review (2026): From €16/user, No Server-Side Search](https://officesoftwaremarketplace.com/tresorit-review.html): Tresorit: €23.99, €16 and €20 on yearly. You pay the Swiss-E2EE premium — noticeably above mainstream clouds and above Proton Drive per GB.
 - [World Businesses for Sale Review (2026): 3%, 2% or 1%](https://officesoftwaremarketplace.com/world-businesses-for-sale-review.html): World Businesses for Sale: Browsing is free for buyers. On the broker plans you pay twice: a listing fee up front AND commission when it sells.
 
 ## Free calculators (9)

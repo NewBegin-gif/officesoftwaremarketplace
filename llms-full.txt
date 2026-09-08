@@ -238,7 +238,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Tresorit
 - Review: https://officesoftwaremarketplace.com/tresorit-review.html
-- Verdict: Tresorit: Priced from our location in euros, they run €29.99, €20 and €25 per user per month on monthly billing. You pay the Swiss-E2EE premium.
+- Verdict: Tresorit: €23.99, €16 and €20 on yearly. You pay the Swiss-E2EE premium — noticeably above mainstream clouds and above Proton Drive per GB.
 - Price: (re-verified 2026-08-14, read on their own business and personal pricing pages) There are three business plans: Professional for 1 user, Business from 3 users and Business Pro from 5 users. Priced from our location in euros, they run €29.99, €20 and €25 per user per month on monthly billing, and €23.99, €16 and €20 on yearly — which the page badges as 20% off.
 
 ## World Businesses for Sale
