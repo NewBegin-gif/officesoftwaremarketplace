@@ -23,8 +23,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Aplos
 - Review: https://officesoftwaremarketplace.com/aplos-review.html
-- Verdict: Aplos — Three published tiers, billed monthly: Lite at $79/month, then $129, then $229. The headline you will see first is not the price you will pay.
-- Price: (2026-08-15, read on their own pricing page) Three published tiers, billed monthly: Lite at $79/month, then $129, then $229. A promotion was still running when we re-read the page on 19 August 2026 — 50% off for three months with code SUMMER26, showing Lite at $39.50 and Core at $64.50 — and the footnote now dates it: new customers only, ending 31 August.
+- Verdict: Aplos: 50% off for three months with code FALL26, showing Lite at $39.50 and Core at $64.50. The headline you will see first is not the price you will pay.
+- Price: (2026-09-10, read on their own pricing page) Three published tiers, billed monthly: Lite at $79/month, Core at $129 and Advanced at $229, plus a fourth Custom tier with tailored pricing aimed at organisations above $1 million in annual revenue. Advanced is framed as a quote rather than a checkout: the card reads "Customized solutions start at $229/month" and the button asks for a demo.
 
 ## Arbor
 - Review: https://officesoftwaremarketplace.com/arbor-review.html
@@ -243,8 +243,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Top Echelon
 - Review: https://officesoftwaremarketplace.com/top-echelon-review.html
-- Verdict: Top Echelon: $89 billed annually or $110 month-to-month on Professional. Almost everything people shop for sits in Professional, not Standard.
-- Price: TE Recruit (the ATS and CRM) runs $75 per seat per month billed annually or $89 month-to-month on Standard, and $89 billed annually or $110 month-to-month on Professional. TE Network, the split-placement network, is priced per agency rather than per seat: $135 per month billed annually with the $350 startup fee waived, or $150 per month billed monthly plus a $350 one-time startup fee (2026).
+- Verdict: Top Echelon: $95 billed annually or $115 month-to-month on Professional. Almost everything people shop for sits in Professional, not Standard.
+- Price: (2026-09-10, read on their own pricing page, both billing toggles) TE Recruit (the ATS and CRM) runs $79 per seat per month billed annually or $95 month-to-month on Standard, and $95 billed annually or $115 month-to-month on Professional. Those seat rates rose during 2026: the same cards read $75/$89 on Standard and $89/$110 on Professional when we read them on 25 August 2026.
 
 ## Tresorit
 - Review: https://officesoftwaremarketplace.com/tresorit-review.html
