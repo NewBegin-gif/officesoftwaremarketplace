@@ -1,6 +1,6 @@
 # Office Software Marketplace — Full Review Catalog
 
-> All 52 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-09-12.
+> All 53 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-09-13.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -105,6 +105,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/compliancely-review.html
 - Verdict: Compliancely — The published price list covers one product only: TIN-match volume. The pricing page prices one product and the marketing sells about a dozen.
 - Price: (2026-07-29, re-verified 2026-08-05, read in a live browser session on their own pricing page, both billing toggles) The published price list covers one product only: TIN-match volume. Billed annually, Essential 25 is $16.95/mo for 25 monthly TIN verifications ($0.67 per match), Essential 50 $32.54/mo ($0.65), Essential 75 $45.79/mo ($0.61), Plus 100 $57.99/mo ($0.57) and Plus 250 $135.04/mo ($0.54).
+
+## Contractor Foreman
+- Review: https://officesoftwaremarketplace.com/contractor-foreman-review.html
+- Verdict: Contractor Foreman: Priced for the company rather than per seat, with unlimited projects on every tier. Quarterly costs 26% more than annual on the same plan.
+- Price: (re-verified 28 Aug 2026 on their own pricing page; all plan prices unchanged since 1 Aug 2026) Priced for the company rather than per seat, with unlimited projects on every tier, and every plan opens with 30 days free before the first bill. Annual: Basic $49/month ($588 a year, 1 user), Standard $105 ($1,264, 3 users), Plus $166 ($1,997, 8 users), Pro $221 ($2,654, 15 users), Unlimited $332 ($3,984, unlimited…
 
 ## Datarails
 - Review: https://officesoftwaremarketplace.com/datarails-review.html

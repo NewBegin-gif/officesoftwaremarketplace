@@ -1,6 +1,6 @@
 # Office Software Marketplace
 
-> Independent, hands-researched reviews of office, finance, HR and IT software for small and mid-sized teams. 52 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-09-12.
+> Independent, hands-researched reviews of office, finance, HR and IT software for small and mid-sized teams. 53 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-09-13.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -20,7 +20,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [The Best WP Engine Alternatives (2026)](https://officesoftwaremarketplace.com/best-wp-engine-alternatives.html): WP Engine alternatives compared on the numbers we read ourselves: what each host really costs, where the meter is, and who each one is actua
 - [How to Set Up Your Business Finance Stack (2026)](https://officesoftwaremarketplace.com/build-business-finance-stack.html): A blueprint for your money operations: a business account, paying bills, bookkeeping, payroll and tax — the exact stack, what each tool does
 
-## Reviews (52) — canonical versions
+## Reviews (53) — canonical versions
 - [accessiBe Review (2026): From $59/mo, Checked Sep 2026](https://officesoftwaremarketplace.com/accessibe-review.html): accessiBe: $490 is the first figure a visitor sees. The thing you most need to know about this product is not on its pricing page, it is on the FTC’s.
 - [ADP Review (2026): No Public Price, Quote Only](https://officesoftwaremarketplace.com/adp-review.html): ADP shows no public pricing for RUN anywhere on its site. The quote-only posture is normal in payroll.
 - [Airia Review (2026): Real Deployments Land in Custom Quotes](https://officesoftwaremarketplace.com/airia-review.html): Airia used to publish a ladder: a free tier, Individual around $50 a month and Team around $250. As of 20 August 2026 that is over.
@@ -41,6 +41,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [CloudTask Review (2026): The $299 Deposit Is the Small Part](https://officesoftwaremarketplace.com/cloudtask-review.html): CloudTask: Two hiring models, both published, plus one deposit. The $299 is the honest part and also the small part.
 - [Cloudways Review (2026): From $14/mo, Checked Sep 2026](https://officesoftwaremarketplace.com/cloudways-review.html): Cloudways: $0.0208 an hour is the $14 plan. "Fully managed" here means the server, not your site — and that distinction is where the money is.
 - [Compliancely Review (2026): Only TIN Matching Has a Price](https://officesoftwaremarketplace.com/compliancely-review.html): Compliancely — The published price list covers one product only: TIN-match volume. The pricing page prices one product and the marketing sells about a
+- [Contractor Foreman Review (2026): $49/mo Is the Entry Price](https://officesoftwaremarketplace.com/contractor-foreman-review.html): Contractor Foreman: Priced for the company rather than per seat, with unlimited projects on every tier. Quarterly costs 26% more than annual on the sa
 - [Datarails Review (2026): Excel-Native FP&A, Quote Only](https://officesoftwaremarketplace.com/datarails-review.html): Datarails publishes three plans. You cannot find out what it costs without talking to sales, and the entry plan is smaller than it looks.
 - [Deel Review (2026): EOR From $599 Buys Risk, Not Software](https://officesoftwaremarketplace.com/deel-review.html): Deel: Pricing is per worker and demo-led. Know what EOR money buys: at $599+/month per employee you’re paying for compliance risk transfer, not softwa
 - [Dext Review (2026): From $25/mo for 250 Documents](https://officesoftwaremarketplace.com/dext-review.html): Dext — Add-ons are billed separately: AI Assist $10.5 a month until 31 October, Commerce Lite from $7.50 and Vault free for 100MB then from $4.
