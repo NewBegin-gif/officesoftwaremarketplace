@@ -38,8 +38,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Bill.com
 - Review: https://officesoftwaremarketplace.com/bill-com-review.html
-- Verdict: Bill.com: Essentials $49, Team $65 and Corporate $89 per user per month, plus a quote-only Enterprise.
-- Price: (re-verified 2026-09-15 on their own pricing page) Accounts-payable and receivable plans priced per user: Essentials $49, Team $65 and Corporate $89 per user per month, plus a quote-only Enterprise — the same four cards as on 15 August 2026. The separate Spend and Expense product is $0 per user per month.
+- Verdict: Bill.com: Essentials $49, Team $65 and Corporate $89 per user per month, plus a quote-only Enterprise - the same four cards as on 15 August 2026.
+- Price: (re-verified 2026-09-15 on their own pricing page) Accounts-payable and receivable plans priced per user: Essentials $49, Team $65 and Corporate $89 per user per month, plus a quote-only Enterprise - the same four cards as on 15 August 2026. The separate Spend and Expense product is $0 per user per month and carries credit lines the page advertises as $1,000-$5M, not guaranteed and set on approval.
 
 ## BillingNow
 - Review: https://officesoftwaremarketplace.com/billingnow-review.html
