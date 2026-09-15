@@ -330,7 +330,7 @@ window.filterTools = function (c) {
     b.classList.toggle('active', b.dataset.cat === c);
   });
   document.querySelectorAll('article.tool-card').forEach(function (k) {
-    k.style.display = (c === 'All' || k.dataset.category === c) ? '' : 'none';
+    k.style.display = (c === 'All' || (k.dataset.category || '').split('|').indexOf(c) > -1) ? '' : 'none';
   });
 };
 </script>
@@ -439,12 +439,12 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>1Password</h3><span class="tool-badge pick">IT</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$3.99</b><span>Individual · per year</span><span class="tc-chips"><em>read 11 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$3.99</b><span>Individual · regular rate billed annually</span><span class="tc-chips"><em>read 11 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Password manager and security platform for teams: store and share passwords, passkeys and secrets with autofill, breach monitoring and developer secrets management — enterprise-grade vaults with simple admin controls.</p>
  <p class="tc-best"><b>Best for</b>Teams that want the most polished, secure password manager with solid admin controls and integrations.</p>
  <p class="tc-catch"><b>The catch</b>It&#x27;s the polished, category-leading pick, and it&#x27;s priced like it — free and cheaper managers exist, so you&#x27;re paying for the UX, ecosystem and business controls, not raw functionality.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">IT</span><span class="tool-tag">Productivity</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://1password.partnerlinks.io/jvm7u5ka0ctm" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit 1Password <span aria-hidden="true">&rarr;</span></a>
@@ -459,12 +459,12 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>accessiBe</h3><span class="tool-badge pick">IT</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$59</b><span>Micro · per month</span><span class="tc-chips"><em>read 10 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$59</b><span>Micro · per month for up to 5,000 monthly visits</span><span class="tc-chips"><em>read 10 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Web-accessibility widget (accessWidget) that scans a site every 24 hours and adjusts it in the browser — contrast, text sizing, keyboard hints — plus an accessibility statement.</p>
  <p class="tc-best"><b>Best for</b>Small and medium sites on ordinary CMS templates whose owners want a visible, cheap first step — contrast, text sizing, keyboard hints and an accessibility statement.</p>
  <p class="tc-catch"><b>The catch</b>The thing you most need to know about this product is not on its pricing page, it is on the FTC’s.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">IT</span><span class="tool-tag">Productivity</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://try.accessibe.com/g102j14bqso5" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit accessiBe <span aria-hidden="true">&rarr;</span></a>
@@ -551,7 +551,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/alohi-review/?utm_source=officesoftwaremarketplace&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Operations &amp; Workflow" data-flag="per_seat">
+<article class="tool-card ledger fade-in" data-category="Operations &amp; Workflow">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/alvys.com" alt="Alvys" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=alvys.com&amp;sz=64'">
@@ -564,7 +564,6 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>FTL trucking carriers and asset-based (hybrid) brokers with roughly 5–300 trucks — especially compliance-heavy freight like hazmat, reefer and cross-border.</p>
  <p class="tc-catch"><b>The catch</b>Two honest boundaries.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Operations</span><span class="tool-tag">Workflow</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://get.alvys.com/nuay0lqxew7c" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Alvys <span aria-hidden="true">&rarr;</span></a>
@@ -579,7 +578,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Aplos</h3><span class="tool-badge pick">Finance</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$79</b><span>Lite · per month</span><span class="tc-chips"><em>read 10 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$79</b><span>Lite · billed monthly, as published for all three tiers</span><span class="tc-chips"><em>read 10 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Fund accounting built for nonprofits and faith-based organisations, tracking restricted and unrestricted money separately. Lite is $79/month for 2 users, then $129 and $229.</p>
  <p class="tc-best"><b>Best for</b>Small nonprofits and faith-based organisations that need true fund accounting rather than general small-business bookkeeping.</p>
  <p class="tc-catch"><b>The catch</b>The headline you will see first is not the price you will pay.</p></div>
@@ -679,7 +678,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>BackupMaster</h3><span class="tool-badge pick">Ops</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$19</b><span>Essentials · per month</span><span class="tc-chips"><em>read 22 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$19</b><span>Essentials · per month for a live store up to 300 orders a month</span><span class="tc-chips"><em>read 22 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Automatic daily backups for Shopify: products, collections, themes, blogs, pages, files, metafields, metaobjects, translations, customers, orders and inventory, with 365-day retention and one-click restore; Pro adds downloadable copies…</p>
  <p class="tc-best"><b>Best for</b>Shopify stores under roughly 1,500 orders a month that want the whole store backed up daily — metafields, metaobjects and translations included.</p>
  <p class="tc-catch"><b>The catch</b>The listing header says free to install, and there is a free tier, but it is not for you unless you are an agency: Agency is limited to Shopify Partner development stores before they are handed over to a client.</p></div>
@@ -720,7 +719,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">PowerPoint</span></div></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$45</b><span>Pro, per user · per month</span><span class="tc-chips"><span class="tc-pw increase">price up</span><em>read 2 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$45</b><span>Pro, per user · billed monthly</span><span class="tc-chips"><span class="tc-pw increase">price up</span><em>read 2 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Presentation builder whose templates lay themselves out as you type. Pro is about $12/month billed annually but $45 month-to-month — a steep gap — and the constraints that make decks look consistent also block pixel-level custom layouts.</p>
  <p class="tc-best"><b>Best for</b>Founders, sales and small teams that want consistently good-looking decks fast, where design consistency matters more than pixel-level control.</p>
  <p class="tc-catch"><b>The catch</b>The smart-template engine is the feature and the fence: decks look polished with zero design skill precisely because the system constrains you, so pixel-perfect custom layouts and heavy brand exceptions fight the tool.</p></div>
@@ -752,7 +751,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="bill-com-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Financial Operations" data-flag="per_seat">
+<article class="tool-card ledger fade-in" data-category="Financial Operations" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/billingnow.com" alt="BillingNow" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=billingnow.com&amp;sz=64'">
@@ -765,7 +764,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>Freelancers and small teams that want unlimited invoicing, expenses and client management with zero per-user maths.</p>
  <p class="tc-catch"><b>The catch</b>The pricing is genuinely refreshing — two plans, same features on both, unlimited users, no per-seat maths.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Financial Operations</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://billingnow.com/?red=aibuil" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit BillingNow <span aria-hidden="true">&rarr;</span></a>
@@ -822,7 +821,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Blinq</h3><span class="tool-badge pick">IT</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$9.99</b><span>Premium, for individuals · per month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 17 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$9.99</b><span>Premium, for individuals · billed monthly</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 17 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Digital business cards shared by QR code or link, with contacts syncing into your CRM.</p>
  <p class="tc-best"><b>Best for</b>Teams and field-sales orgs that want consistent, branded digital cards with contacts syncing straight into the CRM — and events teams via the capture add-on.</p>
  <p class="tc-catch"><b>The catch</b>The core product is honestly cheap — the price jump hides in the event lead-capture add-on (~$199/mo), which is where teams that live on trade shows actually get value.</p></div>
@@ -842,7 +841,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Bokun</h3><span class="tool-badge pick">Ops</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$49</b><span>Start · per month</span><span class="tc-chips"><em>read 11 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$49</b><span>Start · per month, cancel anytime per their own FAQ</span><span class="tc-chips"><em>read 11 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Booking management for tours and activities, by Tripadvisor. Manage availability, channel sales and online bookings in one place — built for experience businesses.</p>
  <p class="tc-best"><b>Best for</b>Tour, activity and experience operators who want booking management plus wide OTA distribution (Viator, GetYourGuide and more) from one dashboard.</p>
  <p class="tc-catch"><b>The catch</b>Bokun is a Tripadvisor/Viator company, and that&#x27;s both the draw and the lock-in.</p></div>
@@ -882,7 +881,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>BookX</h3><span class="tool-badge pick">Ops</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$9.99</b><span>Starter · per month</span><span class="tc-chips"><em>read 8 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$9.99</b><span>Starter · per month, a month, or $107.99 a year, for five locations and team members with…</span><span class="tc-chips"><em>read 8 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Shopify appointment booking that lives in the storefront: Calendly-style slots for services, classes, rentals and events, with staff and multi-location schedules, deposits and partial payments, and the money taken at your own checkout.</p>
  <p class="tc-best"><b>Best for</b>Shopify merchants running appointment-based services — salons, studios, clinics, rentals, classes and events.</p>
  <p class="tc-catch"><b>The catch</b>The free plan is a demonstration rather than a plan.</p></div>
@@ -1122,7 +1121,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <a href="https://aibuildermarketplace.com/b2b/monday-com-review/" target="_blank" rel="nofollow noopener" class="underline decoration-dotted hover:text-indigo-300">monday.com</a></div></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$10</b><span>Unlimited, per user · per month</span><span class="tc-chips"><em>read 5 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$10</b><span>Unlimited, per user · billed monthly</span><span class="tc-chips"><em>read 5 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">The &#x27;everything app&#x27; for project and work management. Centralize your tasks, docs, sprints, and team communication in one hub.</p>
  <p class="tc-best"><b>Best for</b>Teams that want one highly customizable app for tasks, docs, goals and reporting and will invest in setting it up.</p>
  <p class="tc-catch"><b>The catch</b>The everything-app breadth is also the downside — it&#x27;s feature-dense with a real learning curve, and teams can drown in options.</p></div>
@@ -1161,12 +1160,12 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Cloudways</h3><span class="tool-badge pick">IT</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$14</b><span>per month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 5 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$14</b><span>Micro (DigitalOcean… · per month, billed hourly at $0.0208 over a 672-hour month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 5 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Managed-hosting layer that rents you servers on DigitalOcean, Vultr, Linode, AWS or Google Cloud through one dashboard, with the stack, caching, staging, cloning, backups and 24/7 platform support pre-built on top.</p>
  <p class="tc-best"><b>Best for</b>Agencies and PHP shops running many sites who want servers managed but not metered. One server holds as many sites as it can carry with no visit caps.</p>
  <p class="tc-catch"><b>The catch</b>&quot;Fully managed&quot; here means the server, not your site — and that distinction is where the money is.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
  <div class="tc-coupon" title="Reader code, verified with the vendor"><span aria-hidden="true">&#127915;</span><span class="cd">NETWORK26</span><span class="lb">20% off for 3 months</span></div><div class="tool-tags"><span class="tool-tag">IT</span><span class="tool-tag">Productivity</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://www.awin1.com/cread.php?awinmid=89935&amp;awinaffid=2880219&amp;ued=https%3A%2F%2Fwww.awin1.com%2Fcread.php%3Fs%3D4430136%26v%3D89935%26q%3D574000%26r%3D2880219" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Cloudways <span aria-hidden="true">&rarr;</span></a>
@@ -1200,7 +1199,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Compliancely</h3><span class="tool-badge pick">Finance</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$19.95</b><span>per month</span><span class="tc-chips"><em>read 5 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$19.95</b><span>Essential 25 (25 TIN… · on the monthly toggle</span><span class="tc-chips"><em>read 5 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Compliance and verification API for US businesses and individuals: real-time and bulk IRS TIN matching, KYB business verification, USPS address and Secretary of State lookups, Form I-9 and E-Verify, consent-based IRS tax transcript…</p>
  <p class="tc-best"><b>Best for</b>Finance, tax and HR teams with a steady monthly volume of US identity and business checks, who would rather buy TIN matching, KYB.</p>
  <p class="tc-catch"><b>The catch</b>The pricing page prices one product and the marketing sells about a dozen.</p></div>
@@ -1260,7 +1259,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Contractor Foreman</h3><span class="tool-badge pick">Ops</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$49</b><span>Basic · per month</span><span class="tc-chips"><em>read 28 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$49</b><span>Basic · per month billed annually for the whole company with 1 user</span><span class="tc-chips"><em>read 28 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Construction management — estimating, scheduling, daily logs and financial tracking — priced per company rather than per seat, with unlimited projects on every tier.</p>
  <p class="tc-best"><b>Best for</b>Small and mid-size contractors who want estimating, scheduling and daily logs in one place and can commit to a year.</p>
  <p class="tc-catch"><b>The catch</b>Credit where it is due first: this is company pricing with unlimited projects and no per-user overage inside your tier, which is rare in construction software and genuinely cheaper than per-seat rivals for a crew.</p></div>
@@ -1300,7 +1299,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>CrowdStrike</h3><span class="tool-badge pick">Security</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$7.99</b><span>Falcon Go · per month</span><span class="tc-chips"><em>read 28 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$7.99</b><span>Falcon Go · per device per month, or $59.99 per device a year</span><span class="tc-chips"><em>read 28 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Endpoint protection built around a cloud-delivered agent: antivirus, EDR and threat hunting.</p>
  <p class="tc-best"><b>Best for</b>Small and mid-size companies that want a serious endpoint agent without running a security team — Falcon Go is genuinely priced for businesses under 100 devices.</p>
  <p class="tc-catch"><b>The catch</b>Two numbers decide whether this is for you, and neither is the headline.</p></div>
@@ -1311,7 +1310,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/crowdstrike-review/?utm_source=officesoftwaremarketplace&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Operations &amp; Workflow" data-flag="per_seat">
+<article class="tool-card ledger fade-in" data-category="Operations &amp; Workflow" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/databox.com" alt="Databox" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=databox.com&amp;sz=64'">
@@ -1324,7 +1323,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>SMBs and agencies that want clean KPI dashboards from 130+ one-click integrations without building them by hand.</p>
  <p class="tc-catch"><b>The catch</b>The pricing model bites, just not where it used to.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Operations</span><span class="tool-tag">Workflow</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://join.databox.com/2re8xsf55qj4" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Databox <span aria-hidden="true">&rarr;</span></a>
@@ -1344,7 +1343,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>Excel-bound finance teams that have outgrown the spreadsheet plumbing but not the spreadsheets.</p>
  <p class="tc-catch"><b>The catch</b>You cannot find out what it costs without talking to sales, and the entry plan is smaller than it looks: Professional covers 2 users and 1 integration, so a finance team of three, or one that needs both the ERP and the CRM connected, is priced into the next tier before the conversation starts.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Financial Operations</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://datarails.partnerlinks.io/jfaezjgqrnua" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Datarails <span aria-hidden="true">&rarr;</span></a>
@@ -1379,7 +1378,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Deputy</h3><span class="tool-badge pick">Ops</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$5</b><span>Lite · per month</span><span class="tc-chips"><em>read 5 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$5</b><span>Lite · per user per month on annual billing, excluding tax</span><span class="tc-chips"><em>read 5 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Workforce management for hourly and shift-based teams: rota building, time clocking, timesheet approval and labour-law compliance, with payroll and HR integrations.</p>
  <p class="tc-best"><b>Best for</b>Shift-based businesses — hospitality, retail, healthcare, any hourly workforce.</p>
  <p class="tc-catch"><b>The catch</b>The minimum monthly spend is the number to check before anything else: at $5.50 per user on monthly billing, a team of fewer than about six people still pays the $30 floor, so the headline per-user price is misleading at small scale.</p></div>
@@ -1399,7 +1398,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Descript</h3><span class="tool-badge pick">Ops</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$24</b><span>Hobbyist · per month</span><span class="tc-chips"><em>read 7 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$24</b><span>Hobbyist · per person per month billed monthly</span><span class="tc-chips"><em>read 7 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">AI-powered video and podcast editor: edit media by editing the text transcript — cut, overdub and remove filler words like editing a doc — with screen recording, AI voice cloning and an AI assistant (Underlord) built in.</p>
  <p class="tc-best"><b>Best for</b>Podcasters and video creators who want to edit by editing the transcript, cutting.</p>
  <p class="tc-catch"><b>The catch</b>It&#x27;s per-editor pricing with two meters running underneath: media hours AND monthly AI credits.</p></div>
@@ -1419,7 +1418,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Devs.ai</h3><span class="tool-badge pick">IT</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$18</b><span>Personal, per seat · per month</span><span class="tc-chips"><em>read 26 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$18</b><span>Personal, per seat · billed monthly</span><span class="tc-chips"><em>read 26 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Build and ship AI agents and apps across many models without engineering work.</p>
  <p class="tc-best"><b>Best for</b>Teams that want to prototype and ship AI agents and apps across multiple models without engineering overhead.</p>
  <p class="tc-catch"><b>The catch</b>The seat price is the smaller half of the bill.</p></div>
@@ -1480,7 +1479,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Digit</h3><span class="tool-badge pick">Ops</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$400</b><span>Starter · per month</span><span class="tc-chips"><em>read 5 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$400</b><span>Starter · per month including 5 users</span><span class="tc-chips"><em>read 5 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Inventory, production, purchasing and sales in one system for manufacturers and distributors. Starter $400/month with 5 users, Growth $750, Professional $1,300, extra users $63 each.</p>
  <p class="tc-best"><b>Best for</b>Manufacturers and distributors outgrowing spreadsheets who need inventory, production, purchasing and sales in one system.</p>
  <p class="tc-catch"><b>The catch</b>The tier price is a floor, not a ceiling, and the add-ons are where an inventory system quietly doubles.</p></div>
@@ -1618,7 +1617,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Employment Hero</h3><span class="tool-badge pick">HR</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$10</b><span>HR Essentials · per month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 28 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$10</b><span>HR Essentials · per employee per month excluding GST on the Australian pricing page…</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 28 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Modular HR, payroll and recruitment platform for small and mid-size employers.</p>
  <p class="tc-best"><b>Best for</b>Australian and New Zealand employers who want HR and payroll from one vendor and will genuinely use both, where the per-employee rate beats separate systems.</p>
  <p class="tc-catch"><b>The catch</b>There is no such thing as the Employment Hero price, and the first thing to fix is the currency: the pricing page is the Australian one, its disclaimer says every figure is AUD excluding GST, and there is no US page.</p></div>
@@ -1638,7 +1637,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Envoy</h3><span class="tool-badge pick">Ops</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$362</b><span>Visitors Premium · per month</span><span class="tc-chips"><em>read 3 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$362</b><span>Visitors Premium · per location per month, billed annually (the pricing page&#x27;s JSON-LD…</span><span class="tc-chips"><em>read 3 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Workplace platform for visitor sign-in, desk and room booking, deliveries and emergency notifications.</p>
  <p class="tc-best"><b>Best for</b>Companies with a real office and a front desk problem.</p>
  <p class="tc-catch"><b>The catch</b>None of the prices on that page is a price you can budget from.</p></div>
@@ -1682,7 +1681,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>Online stores that need a steady stream of product photos and short video ads and would otherwise pay a studio or a freelancer per shoot.</p>
  <p class="tc-catch"><b>The catch</b>The plan cards and the calculator on the same page do not agree, and the gap is large enough to pick the wrong tier.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">IT</span><span class="tool-tag">Productivity</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://try.expertex.ai/0e5xivitpivy" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit ExpertEx <span aria-hidden="true">&rarr;</span></a>
@@ -1697,7 +1696,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Expertise AI</h3><span class="tool-badge pick">IT</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$2,000</b><span>Business · per month</span><span class="tc-chips"><span class="tc-pw increase">price up</span><em>read 3 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$2,000</b><span>Business · per month on both monthly and yearly billing -- there is no annual…</span><span class="tc-chips"><span class="tc-pw increase">price up</span><em>read 3 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">AI sales agent for B2B websites. Replaces a static chatbot with a live, RAG-grounded agent that holds buying conversations, qualifies visitors and routes them to reps or calendar slots — HubSpot-first, with visitor intelligence.</p>
  <p class="tc-best"><b>Best for</b>B2B software teams (especially HubSpot-first) that want a live AI sales agent to qualify website visitors, hold buying conversations and route leads to reps.</p>
  <p class="tc-catch"><b>The catch</b>The honest catch is that there is no middle any more.</p></div>
@@ -1718,7 +1717,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Gmail</span></div></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$5</b><span>Individual · per month</span><span class="tc-chips"><em>read 26 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$5</b><span>Individual · per month, or $60 for twelve months, with 60 GB for one person</span><span class="tc-chips"><em>read 26 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Private, ad-free email hosting with your own domain. Fast, secure email, calendars and contacts from an independent provider that doesn&#x27;t mine your data.</p>
  <p class="tc-best"><b>Best for</b>Individuals and small businesses that want fast, private, ad-free email on their own domain with proper support and masked-email aliases.</p>
  <p class="tc-catch"><b>The catch</b>You&#x27;re paying for what the free giants monetize differently: no ads, no profiling, real support and standards-first email (JMAP/IMAP everywhere).</p></div>
@@ -1729,7 +1728,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/fastmail-review/?utm_source=officesoftwaremarketplace&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Business Operations" data-flag="per_seat">
+<article class="tool-card ledger fade-in" data-category="Business Operations" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/filevine.com" alt="Filevine" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=filevine.com&amp;sz=64'">
@@ -1742,7 +1741,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>Law firms past the point where a general project tool works, with enough matters that case-specific workflows and intake tracking pay back a negotiated annual contract.</p>
  <p class="tc-catch"><b>The catch</b>Nothing is priced, so everything is negotiable — which cuts both ways.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Business Operations</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://partner.filevine.com/o1qy5bba80nw" target="_blank" rel="nofollow noopener noreferrer" class="tool-cta-primary">Visit Filevine <span aria-hidden="true">&rarr;</span></a>
@@ -1858,7 +1857,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>FreshBooks</h3><span class="tool-badge pick">Finance</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$23</b><span>Lite · per month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 7 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$23</b><span>Lite · per month at the REGULAR rate</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 7 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Invoicing and accounting aimed at freelancers and service businesses, priced by billable clients.</p>
  <p class="tc-best"><b>Best for</b>Freelancers and small service firms who bill time and want invoicing that chases payment for them.</p>
  <p class="tc-catch"><b>The catch</b>Two things multiply the number you first see.</p></div>
@@ -1878,7 +1877,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Freshservice</h3><span class="tool-badge pick">IT</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$29</b><span>Starter, per agent · per month</span><span class="tc-chips"><em>read 1 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$29</b><span>Starter, per agent · billed monthly</span><span class="tc-chips"><em>read 1 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">AI-powered IT service management (ITSM) from Freshworks: cloud help desk, ticketing, asset management and workflow automation to run IT support and internal service desks without heavy ITIL overhead.</p>
  <p class="tc-best"><b>Best for</b>IT teams that want proper ITSM (incidents, assets, changes, service catalog) running in weeks, without enterprise-suite implementation pain.</p>
  <p class="tc-catch"><b>The catch</b>The $19 headline rarely survives contact with a real deployment: the ITSM features most IT teams buy for (change/problem management, deeper analytics) live at Pro, and the modern extras — AI agent sessions, orchestration runs, asset counts — meter separately.</p></div>
@@ -1940,7 +1939,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Glide</h3><span class="tool-badge pick">IT</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$25</b><span>per month</span><span class="tc-chips"><em>read 7 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$25</b><span>Classic Explorer (one… · billed monthly</span><span class="tc-chips"><em>read 7 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">No-code app builder — now sold as Glide Classic, next to the newer GlideOS — that turns spreadsheets and databases into working business apps: internal tools, client portals and field apps, with workflows and an API.</p>
  <p class="tc-best"><b>Best for</b>Teams that already run operations out of spreadsheets and want a real app on top — internal tools, field data capture, client portals — without hiring a developer.</p>
  <p class="tc-catch"><b>The catch</b>Glide meters updates, not just seats.</p></div>
@@ -1960,7 +1959,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Goflow</h3><span class="tool-badge pick">Ops</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$499</b><span>Launch · per month</span><span class="tc-chips"><em>read 3 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$499</b><span>Launch · per month for 750 orders</span><span class="tc-chips"><em>read 3 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Multichannel e-commerce operations: orders, inventory, listings and shipping across all your marketplaces in one dashboard.</p>
  <p class="tc-best"><b>Best for</b>Multichannel e-commerce operations with serious order volume that want orders, inventory, purchasing, listings and shipping unified — including EDI retail.</p>
  <p class="tc-catch"><b>The catch</b>Every tier ships the whole platform — you pay for volume, not unlocks — and Core really is free forever, so 500 orders a month costs $0.</p></div>
@@ -1972,7 +1971,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/goflow-review/?utm_source=officesoftwaremarketplace&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="IT &amp; Productivity" data-flag="renewal_jump">
+<article class="tool-card ledger fade-in" data-category="IT &amp; Productivity" data-flag="addons_extra">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/gravity.com" alt="Gravity Forms" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=gravity.com&amp;sz=64'">
@@ -1985,7 +1984,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>WordPress site owners and developers who want powerful, self-hosted forms with conditional logic, payments and deep integrations they fully control.</p>
  <p class="tc-catch"><b>The catch</b>Two honest notes.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="renewal_jump">📈 Renewal jump</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">IT</span><span class="tool-tag">Productivity</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://try.gravity.com/8odrg2wkes2d" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Gravity Forms <span aria-hidden="true">&rarr;</span></a>
@@ -2042,7 +2041,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">SimplePractice</span></div></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$19.99</b><span>Core · per month, billed monthly — $18 is the yearly rate</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$19.99</b><span>Core · billed monthly — $18 is the yearly rate</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">All-in-one practice management and EHR for health, wellness and nutrition providers: scheduling, telehealth, secure messaging, billing and a branded client portal — plus a full API (GraphQL + webhooks) for automation.</p>
  <p class="tc-best"><b>Best for</b>Growing group practices (10+ clinicians) in health, wellness and nutrition that need multi-provider scheduling, telehealth and a real API to automate operations.</p>
  <p class="tc-catch"><b>The catch</b>Two honest limits: it&#x27;s pricier than alternatives with thin mid-tier options, and several users report slow customer service (sometimes a week or more to reply).</p></div>
@@ -2061,7 +2060,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Heard</h3><span class="tool-badge pick">Finance</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$129</b><span>Lite · per month</span><span class="tc-chips"><em>read 5 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$129</b><span>Lite · annual billing only</span><span class="tc-chips"><em>read 5 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Done-for-you bookkeeping and taxes built for therapists and a growing range of health-and-wellness practices — SLPs, dieticians, chiropractors, audiologists, coaches, massage and physical therapists: monthly books, quarterly tax estimates…</p>
  <p class="tc-best"><b>Best for</b>Therapists and health-and-wellness practice owners — SLPs, dieticians, chiropractors, audiologists, coaches, massage and physical therapists.</p>
  <p class="tc-catch"><b>The catch</b>Mind the fine print between tiers: the entry plan does not include your annual tax filing (a ~$750 one-off on Lite), it is annual billing only, and messy back-months cost extra as catch-up fees.</p></div>
@@ -2184,7 +2183,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Hubstaff</h3><span class="tool-badge pick">HR</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$10</b><span>Team · per month</span><span class="tc-chips"><em>read 29 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$10</b><span>Team · per seat per month billed annually ($12 billed monthly)</span><span class="tc-chips"><em>read 29 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Time tracking with screenshots, activity levels, GPS and payroll integration for distributed teams.</p>
  <p class="tc-best"><b>Best for</b>Agencies and distributed teams that bill clients for hours and need defensible time records.</p>
  <p class="tc-catch"><b>The catch</b>The seat definition is the whole story and they state it plainly, which deserves credit: you pay for every seat you have created, not every person actually being tracked.</p></div>
@@ -2205,7 +2204,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Backblaze</span></div></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$9.99</b><span>Personal 5 TB · per month</span><span class="tc-chips"><em>read 4 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$9.99</b><span>Personal 5 TB · per month at the STANDARD annual-billing rate</span><span class="tc-chips"><em>read 4 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Cloud backup across many devices, with versioning, snapshots and physical seed-and-restore shipping.</p>
  <p class="tc-best"><b>Best for</b>Individuals and small businesses that want cheap multi-device cloud backup with versioning, snapshots and physical seed/restore shipping.</p>
  <p class="tc-catch"><b>The catch</b>The first-year price is a teaser and the renewal is the price — IDrive says so itself under the plan table, and on the current numbers the step from discounted to standard is about 43% (Personal 5 TB goes from $6.99 to $9.99 a month).</p></div>
@@ -2344,7 +2343,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Jubilee</h3><span class="tool-badge pick">Finance</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$995</b><span>Jubilee 36 · per year</span><span class="tc-chips"><em>read 26 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$995</b><span>Jubilee 36 · per YEAR for up to 36 filings</span><span class="tc-chips"><em>read 26 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Bankruptcy petition preparation, document automation and case management for legal practices. $95 per case pay-as-you-go, or annual plans from $995 for up to 36 filings to $4,995 for 500.</p>
  <p class="tc-best"><b>Best for</b>Bankruptcy attorneys and legal professionals who want streamlined petition preparation, document automation and case management for filings.</p>
  <p class="tc-catch"><b>The catch</b>It&#x27;s a focused vertical tool — bankruptcy petition preparation and case management — so its whole value is bounded by that practice area; a general legal practice won&#x27;t get much from it.</p></div>
@@ -2364,12 +2363,12 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Katana MRP</h3><span class="tool-badge pick">Ops</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b><span class="fp">from ~</span>$299</b><span>per month</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b><span class="fp">from ~</span>$299</b><span>per month</span><span class="tc-chips"><em>read 14 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Cloud manufacturing and inventory platform for product businesses. Live inventory control, production scheduling and order syncing across your sales channels — know exactly what to make and when.</p>
  <p class="tc-best"><b>Best for</b>Product makers and small manufacturers who need live inventory, production scheduling and multi-channel order sync in one cloud platform.</p>
  <p class="tc-catch"><b>The catch</b>The $299 headline is the floor.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="quote_only">🔒 Hidden pricing</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="quote_only">🔒 Hidden pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Operations</span><span class="tool-tag">Workflow</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://psref.katanamrp.com/gn4sa2lpjjph" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Katana MRP <span aria-hidden="true">&rarr;</span></a>
@@ -2430,7 +2429,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>Teams that want straightforward time-tracking, attendance and overtime banking with transparent per-user pricing.</p>
  <p class="tc-catch"><b>The catch</b>The tidy per-user numbers are annual-billed, and it&#x27;s priced per seat — every employee you track adds to the bill, with no volume break shown.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">HR</span><span class="tool-tag">People</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://leavo.com/?red=aibuil" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Leavo <span aria-hidden="true">&rarr;</span></a>
@@ -2487,7 +2486,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>MigrationPro</h3><span class="tool-badge pick">Ops</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$29</b><span>Automated app · published price</span><span class="tc-chips"><em>read 23 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$29</b><span>Automated app · a one-time payment rather than a subscription, and a floor rather than…</span><span class="tc-chips"><em>read 23 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Shopify app that imports products, customers, orders, collections, URLs and 301 redirects from WooCommerce, Wix, Magento and 30-odd other platforms.</p>
  <p class="tc-best"><b>Best for</b>Merchants moving an existing store into Shopify who want products, customers, orders and — critically.</p>
  <p class="tc-catch"><b>The catch</b>The listing tells you nothing about what this costs.</p></div>
@@ -2527,7 +2526,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Miro</h3><span class="tool-badge pick">Ops</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$10</b><span>Starter, per member · per month</span><span class="tc-chips"><em>read 2 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$10</b><span>Starter, per member · billed monthly</span><span class="tc-chips"><em>read 2 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Visual collaboration platform: an infinite online whiteboard for brainstorms, diagrams, workshops and planning — with templates, voting and AI that generates diagrams and summaries, built for real-time and async teamwork.</p>
  <p class="tc-best"><b>Best for</b>Teams that think visually — brainstorms, flowcharts, retros, workshops and planning on an infinite shared canvas with strong templates and facilitation tools.</p>
  <p class="tc-catch"><b>The catch</b>Per-member pricing charges for every member added to the workspace, so an org-wide rollout multiplies at full headcount — and the free plan&#x27;s 3-board cap is workspace-wide, not per person, so real teams outgrow it in days.</p></div>
@@ -2547,7 +2546,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Modge</h3><span class="tool-badge pick">HR</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$4</b><span>Basic · per month, annual</span><span class="tc-chips"><em>read 3 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$4</b><span>Basic · annual</span><span class="tc-chips"><em>read 3 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Desktop time tracking and workforce analytics for remote and hybrid teams: automatic hours, app and URL classification, shift adherence, leave, payroll-ready timesheets and Stripe invoicing.</p>
  <p class="tc-best"><b>Best for</b>Desk-bound remote or hybrid teams of a few to a few hundred people who want time tracking, app classification, shift adherence.</p>
  <p class="tc-catch"><b>The catch</b>The numbers on Modge&#x27;s own pages do not agree with each other.</p></div>
@@ -2659,7 +2658,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/murf-review/?utm_source=officesoftwaremarketplace&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Security" data-flag="per_seat">
+<article class="tool-card ledger fade-in" data-category="Security">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/mycroft.io" alt="Mycroft" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=mycroft.io&amp;sz=64'">
@@ -2672,7 +2671,6 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>Companies chasing an attestation they cannot staff for.</p>
  <p class="tc-catch"><b>The catch</b>The pricing page is a feature list with the prices taken out, and that is a choice rather than an oversight — Mycroft publishes what is in each package down to the individual capability, then stops short of the one line you came for.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Security</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://try.mycroft.io/tlfhcxheacia" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Mycroft <span aria-hidden="true">&rarr;</span></a>
@@ -2828,7 +2826,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Papaya Global</h3><span class="tool-badge pick">HR</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$499</b><span>Employer of Record · per month</span><span class="tc-chips"><em>read 10 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$499</b><span>Employer of Record · per employee per month, and a published &#x27;starting from&#x27; floor under a…</span><span class="tc-chips"><em>read 10 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Enterprise workforce-payments platform unifying global payroll, EOR hiring, contractor management and cross-border payments in one system — finance-first, with same-day local payouts on owned payment rails and deep ERP/HRIS integration.</p>
  <p class="tc-best"><b>Best for</b>Finance-led mid-market and enterprises already running legal entities in several countries. They want to consolidate fragmented multi-country payroll and cross-border payments into one platform, with real-time workforce-cost dashboards, automated GL mapping, same-day local payouts and deep ERP/HRIS integration (Workday, SAP, NetSuite, HiBob). And they can absorb premium quote-only pricing for a white-glove managed service.</p>
  <p class="tc-catch"><b>The catch</b>Every headline price is a &#x27;starting from&#x27; that dead-ends at &#x27;book a demo&#x27;.</p></div>
@@ -2890,12 +2888,12 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">PayPal</span></div></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b><span class="fp">from ~</span>$19</b><span>per month</span><span class="tc-chips"><em>read 16 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b><span class="fp">from ~</span>$50</b><span>per month</span><span class="tc-chips"><em>read 14 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Local receiving accounts for freelancers and sellers paid by international clients and marketplaces.</p>
  <p class="tc-best"><b>Best for</b>Freelancers and sellers getting paid by international clients and marketplaces (Amazon, Upwork, Fiverr) who need local receiving accounts.</p>
  <p class="tc-catch"><b>The catch</b>The conversion and cross-currency withdrawal markups are where it quietly costs you — for pure currency conversion a specialist like Wise is often cheaper.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Financial Operations</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://payoneer557.partnerlinks.io/whpnqt92bm0j" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Payoneer <span aria-hidden="true">&rarr;</span></a>
@@ -2929,7 +2927,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Planday</h3><span class="tool-badge pick">HR</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>€2.99</b><span>Starter · per month</span><span class="tc-chips"><em>read 20 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>€2.99</b><span>Starter · per user per month with a 5-user minimum, so the real floor is EUR 14.95</span><span class="tc-chips"><em>read 20 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Employee scheduling and time tracking for shift businesses, owned by Xero. Starter is €2.99 per user/month with a 5-user minimum; Plus is €4.99 per user plus a €25 monthly platform fee and a 10-user minimum. 30-day trial, no card.</p>
  <p class="tc-best"><b>Best for</b>Shift-based businesses in hospitality and retail with 10 or more staff who need leave management and payroll integration.</p>
  <p class="tc-catch"><b>The catch</b>The €25 monthly platform fee on Plus is the line most comparisons miss.</p></div>
@@ -2971,7 +2969,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">cPanel</span></div></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$16.99</b><span>Web Admin Edition (VPS) · per month</span><span class="tc-chips"><em>read 30 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$16.99</b><span>Web Admin Edition (VPS) · per server per month billed monthly for 10 domains, or 15.57 a month on…</span><span class="tc-chips"><em>read 30 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Server control panel for agencies and hosters running many sites — per-domain management, security and one-click stacks. Licensed per server from about $14–18/month for 10 domains.</p>
  <p class="tc-best"><b>Best for</b>Agencies and hosters managing multiple sites on their own servers who want a mature control panel with per-domain management, security and one-click stacks.</p>
  <p class="tc-catch"><b>The catch</b>Two honest notes.</p></div>
@@ -3031,7 +3029,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Proton</h3><span class="tool-badge pick">IT</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>€7.99</b><span>per month</span><span class="tc-chips"><em>read 26 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>€7.99</b><span>Proton for Business… · billed monthly with no commitment</span><span class="tc-chips"><em>read 26 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Privacy-first suite from the makers of ProtonMail — encrypted mail, calendar, drive, VPN and password manager under one account, with a free tier and paid bundles.</p>
  <p class="tc-best"><b>Best for</b>Teams and individuals for whom encryption is an actual requirement rather than a preference.</p>
  <p class="tc-catch"><b>The catch</b>Storage is the axis, and the jump from Drive Plus to Unlimited is not really about storage at all: you go from 200 GB to 500 GB, but you also start paying for Mail, Calendar, Pass and VPN whether or not you wanted them.</p></div>
@@ -3072,7 +3070,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Qoyod</h3><span class="tool-badge pick">Finance</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$320</b><span>Basic · per year</span><span class="tc-chips"><em>read 5 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$320</b><span>Basic · per YEAR (1,200 SAR at the 3.75 peg) for 1 user and 1 location</span><span class="tc-chips"><em>read 5 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Saudi accounting and e-invoicing platform built around ZATCA compliance, used by 25,000+ businesses.</p>
  <p class="tc-best"><b>Best for</b>Saudi businesses that need ZATCA-compliant e-invoicing from software built for that regime rather than retrofitted to it, and who have counted their users.</p>
  <p class="tc-catch"><b>The catch</b>The entry tier does not do the thing the product is sold on.</p></div>
@@ -3084,7 +3082,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/qoyod-review/?utm_source=officesoftwaremarketplace&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Financial Operations" data-flag="renewal_jump">
+<article class="tool-card ledger fade-in" data-category="Financial Operations" data-flag="addons_extra">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/quickbooks.intuit.com" alt="QuickBooks UK" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=quickbooks.intuit.com&amp;sz=64'">
@@ -3097,7 +3095,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>UK sole traders and small businesses that need Making Tax Digital submissions handled and would rather their accountant worked in the same system they do.</p>
  <p class="tc-catch"><b>The catch</b>The 90% offer is the number to be careful with, because it is the one you will see everywhere and it is not what you will pay.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="renewal_jump">📈 Renewal jump</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Financial Operations</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://www.tkqlhce.com/click-101832528-17250302-1771877066000" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit QuickBooks UK <span aria-hidden="true">&rarr;</span></a>
@@ -3134,7 +3132,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Grammarly</span></div></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$8.33</b><span>Premium · per month</span><span class="tc-chips"><em>read 8 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$8.33</b><span>Premium · per month billed annually at $99.95 a year</span><span class="tc-chips"><em>read 8 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Paraphrasing, grammar, summarising and plagiarism checking in one box of writing utilities.</p>
  <p class="tc-best"><b>Best for</b>Students, non-native writers and anyone who wants quick paraphrasing, grammar and summarizing help.</p>
  <p class="tc-catch"><b>The catch</b>The free tier is deliberately narrow: 125 words per paraphrase and two of the modes.</p></div>
@@ -3157,7 +3155,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <div class="tc-price"><b class="na">see the review</b><span>pricing read on the vendor page</span><span class="tc-chips"></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Auto-schedules tasks, habits and meetings around your stated priorities. Google Calendar-first, so Outlook-heavy teams are out, and the free tier is limited.</p>
  <p class="tc-best"><b>Best for</b>Google Calendar teams that want AI to auto-schedule tasks, habits and meetings around their priorities.</p>
- <p class="tc-catch"><b>The catch</b>The magic only works if your team lives in Google Calendar — it&#x27;s Google-first, so Outlook-heavy shops are out, and the free tier is quite limited.</p></div>
+ <p class="tc-catch"><b>The catch</b>The magic only works on a calendar it can write to.</p></div>
  <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Operations</span><span class="tool-tag">Workflow</span></div></div>
@@ -3174,7 +3172,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Remote People</h3><span class="tool-badge pick">HR</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$199</b><span>EOR Flex, per employee · per month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 22 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$199</b><span>EOR Flex, per employee · billed monthly with no commitment, no setup fee and no minimum headcount</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 22 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Employer of Record and global hiring in 150+ countries. EOR from $199 per employee a month with no setup fee, no deposit and no minimum headcount; contractor management from $29, US PEO from $99.</p>
  <p class="tc-best"><b>Best for</b>Small and mid-size teams hiring a handful of people abroad who want to pay monthly, keep the option to stop.</p>
  <p class="tc-catch"><b>The catch</b>The monthly rates are the cheapest we have on file for this category, and that is worth saying plainly.</p></div>
@@ -3235,7 +3233,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Runpod</h3><span class="tool-badge pick">IT</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$0.27</b><span>published price</span><span class="tc-chips"><em>read 5 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$0.27</b><span>RTX A5000 pod, Secure… · per hour, billed per second</span><span class="tc-chips"><em>read 5 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Serverless GPU compute platform. Rent high-end NVIDIA GPUs by the hour to train and deploy your own machine learning models.</p>
  <p class="tc-best"><b>Best for</b>Developers and ML teams that want cheap, per-second GPU compute for inference and experiments without committing to hyperscaler contracts.</p>
  <p class="tc-catch"><b>The catch</b>The honest math is utilization.</p></div>
@@ -3255,7 +3253,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>SaneBox</h3><span class="tool-badge pick">Ops</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$9.49</b><span>per month</span><span class="tc-chips"><em>read 5 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$9.49</b><span>Snack, the entry plan… · per month, billed month to month with no commitment</span><span class="tc-chips"><em>read 5 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Email triage that moves low-priority mail out of the inbox and works with any provider. From $4.54/month for one account on a two-year commitment — $9.49 month to month — up to $22.04 for four accounts with every feature.</p>
  <p class="tc-best"><b>Best for</b>Heavy-email professionals drowning in a cluttered inbox who want AI triage that works across any mail client.</p>
  <p class="tc-catch"><b>The catch</b>It works with any email provider, which is a genuine advantage over the built-in tools in Gmail and Outlook.</p></div>
@@ -3275,7 +3273,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">ShipStation</span></div></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>€28</b><span>Lite · per month</span><span class="tc-chips"><em>read 31 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>€28</b><span>Lite · billed monthly</span><span class="tc-chips"><em>read 31 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">European e-commerce shipping platform: connect 160+ carriers, print labels in batches, show delivery options at checkout, send branded tracking (email, WhatsApp, SMS) and run a self-service returns portal — with rules-based shipping…</p>
  <p class="tc-best"><b>Best for</b>European e-commerce stores that want easy multi-carrier shipping (DHL, PostNL, Colissimo, GLS, DPD), branded tracking and a returns portal live in under 30 minutes.</p>
  <p class="tc-catch"><b>The catch</b>The pricing has layers — a per-label fee on top of the subscription, plus carrier surcharges that can land on invoices weeks later.</p></div>
@@ -3451,7 +3449,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/signnow-review/?utm_source=officesoftwaremarketplace&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Operations &amp; Workflow" data-flag="per_seat">
+<article class="tool-card ledger fade-in" data-category="Operations &amp; Workflow" data-flag="annual_lock">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/simplybook.me" alt="SimplyBook.me" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=simplybook.me&amp;sz=64'">
@@ -3464,7 +3462,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>Service businesses that take appointments and want a booking page, reminders and online payment without building one.</p>
  <p class="tc-catch"><b>The catch</b>The plan ladder is set by bookings per month and by how many custom features you may switch on, and those two ceilings move independently — so you can outgrow a plan on features while nowhere near the booking cap, or the reverse.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="annual_lock">📅 Annual commit</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Operations</span><span class="tool-tag">Workflow</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://simplybook.me/?red=aibuil" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit SimplyBook.me <span aria-hidden="true">&rarr;</span></a>
@@ -3480,12 +3478,12 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Airtable</span></div></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$20</b><span>Team, per seat · per month</span><span class="tc-chips"><em>read 14 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$20</b><span>Team, per seat · billed monthly</span><span class="tc-chips"><em>read 14 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">One flexible work management platform to plan, track and automate any process. Projects, CRM and operations side by side — replace a stack of scattered tools with a single source of truth.</p>
  <p class="tc-best"><b>Best for</b>Teams consolidating projects, CRM and operations into one flexible, database-driven work-management platform.</p>
  <p class="tc-catch"><b>The catch</b>It&#x27;s a broad, do-everything work-management platform, so the power comes with a learning curve and a per-seat cost that adds up for bigger teams — a single source of truth if you commit, overkill if you just need a task list.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Operations</span><span class="tool-tag">Workflow</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://partners.smartsuite.com/3o9qow98qlja" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit SmartSuite <span aria-hidden="true">&rarr;</span></a>
@@ -3505,7 +3503,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>Businesses and developers needing dependable high-deliverability transactional or bulk email via SMTP relay and API, with dedicated IPs at scale.</p>
  <p class="tc-catch"><b>The catch</b>It&#x27;s a veteran, reliable relay, but two honest notes.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">IT</span><span class="tool-tag">Productivity</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://pstk.smtp.com/aav1yxqg0i9h" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit SMTP.com <span aria-hidden="true">&rarr;</span></a>
@@ -3561,7 +3559,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Sunsama</h3><span class="tool-badge pick">Ops</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$22</b><span>Pro · per month</span><span class="tc-chips"><em>read 30 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$22</b><span>Pro · billed monthly</span><span class="tc-chips"><em>read 30 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Daily planning that pulls tasks from your other tools into one deliberate schedule.</p>
  <p class="tc-best"><b>Best for</b>People whose problem is deciding what to do today rather than tracking what exists — it pulls from your existing tools and forces a daily plan, which is the whole product.</p>
  <p class="tc-catch"><b>The catch</b>The pricing page contradicts itself: the plan card says $17 yearly and $22 monthly, the FAQ on the same page says $20 yearly and $25 monthly.</p></div>
@@ -3601,7 +3599,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Survicate</h3><span class="tool-badge pick">Ops</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$56</b><span>Growth (100 responses) · per month</span><span class="tc-chips"><em>read 8 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$56</b><span>Growth (100 responses) · per month, billed annually</span><span class="tc-chips"><em>read 8 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Customer feedback platform for continuous surveys: NPS, CSAT and in-product micro-surveys across web, in-app, email and link — with templates, audience targeting and native integrations (Segment and RudderStack among them) that pipe…</p>
  <p class="tc-best"><b>Best for</b>Product and CX teams running always-on feedback — NPS, CSAT and in-app surveys — piped into the CRM and analytics stack they already use.</p>
  <p class="tc-catch"><b>The catch</b>The plan is metered by response volume, not by surveys — a viral NPS month can push you a tier up, and the free plan&#x27;s 30-day retention quietly deletes your history.</p></div>
@@ -3626,7 +3624,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>Creators, churches, events and small businesses that want multi-camera live production and streaming using iPhones and iPads they already own — no broadcast hardware.</p>
  <p class="tc-catch"><b>The catch</b>The app runs on Mac and iOS only — Android phones can join as cameras, but there is no Windows version — so the machine doing the switching has to be an Apple one.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="renewal_jump">📈 Renewal jump</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="renewal_jump">📈 Renewal jump</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Operations</span><span class="tool-tag">Workflow</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://start.switcherstudio.com/pq0alaki5yss" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Switcher Studio <span aria-hidden="true">&rarr;</span></a>
@@ -3642,7 +3640,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">HeyGen</span></div></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$29</b><span>Starter · per month</span><span class="tc-chips"><em>read 14 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$29</b><span>Starter · billed monthly</span><span class="tc-chips"><em>read 14 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">AI avatar video for training, explainers and onboarding: type a script, no camera or actors needed.</p>
  <p class="tc-best"><b>Best for</b>Teams making talking-head training, explainer and onboarding videos without cameras, actors or editing.</p>
  <p class="tc-catch"><b>The catch</b>The video-minute caps are tight — 10 min/mo on Starter goes fast when you iterate, and re-generating edits burns minutes.</p></div>
@@ -3803,7 +3801,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>TheTop</h3><span class="tool-badge pick">IT</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$8</b><span>Pro · per month</span><span class="tc-chips"><em>read 10 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$8</b><span>Pro · per month on the only plan there is, month to month</span><span class="tc-chips"><em>read 10 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">An AI &#x27;chief of staff&#x27; that pulls your calendar, inbox and news feeds into one ranked morning brief through Google or Microsoft, then drafts the replies and quick actions the brief calls for.</p>
  <p class="tc-best"><b>Best for</b>Professionals and small-business owners who lose the first hour of the day triaging Gmail and a calendar, and want one ranked brief instead of five open tabs.</p>
  <p class="tc-catch"><b>The catch</b>Everything sits on one $8 plan, so the question is not which tier to buy but whether the caps on that plan fit your day.</p></div>
@@ -3885,7 +3883,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Top Echelon</h3><span class="tool-badge pick">HR</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$95</b><span>per month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 10 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$95</b><span>TE Recruit Standard… · per month, billed month to month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 10 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Recruiting software for agencies and staffing firms: TE Recruit is an ATS and CRM with resume parsing, pipeline management, hotlists and job-board integrations, while TE Network is a split-placement network for sharing roles and candidates…</p>
  <p class="tc-best"><b>Best for</b>Recruiting agencies and SMB staffing firms that want an applicant tracking system and CRM in one place.</p>
  <p class="tc-catch"><b>The catch</b>Almost everything people shop for sits in Professional, not Standard: Smart-TE AI, automations, sequences, inbound email sync and API access are all one tier up, so Standard is a competent but plain ATS.</p></div>
@@ -3910,7 +3908,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>Electricians, plumbers, HVAC and other trades businesses that want quoting, scheduling, job tracking and invoicing from the field in one simple app.</p>
  <p class="tc-catch"><b>The catch</b>Per-user pricing is honest and simple, but it means the cost scales linearly with headcount — a ten-person crew is a real monthly number, not the single-seat sticker.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Operations</span><span class="tool-tag">Workflow</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://partners.tradifyhq.com/633b6rwbm23b" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Tradify <span aria-hidden="true">&rarr;</span></a>
@@ -3965,7 +3963,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Dropbox</span></div></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>€29.99</b><span>Professional, 1 user · per month</span><span class="tc-chips"><em>read 5 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>€29.99</b><span>Professional, 1 user · billed monthly</span><span class="tc-chips"><em>read 5 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">End-to-end encrypted cloud storage and secure file sharing. Protect sensitive business documents with zero-knowledge security and granular access controls.</p>
  <p class="tc-best"><b>Best for</b>Businesses and professionals with confidentiality obligations (legal, health, finance) that need end-to-end-encrypted storage.</p>
  <p class="tc-catch"><b>The catch</b>You pay the Swiss-E2EE premium — noticeably above mainstream clouds and above Proton Drive per GB — and the encryption trade-offs are inherent: no server-side content search, more deliberate sharing flows, and credential/recovery discipline is on you.</p></div>
@@ -3985,12 +3983,12 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Turbotic</h3><span class="tool-badge pick">Ops</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$25</b><span>per month</span><span class="tc-chips"><em>read 12 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$25</b><span>AI Assistant, per seat… · per seat per month as published</span><span class="tc-chips"><em>read 12 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Enterprise automation orchestration. Manage your entire ecosystem of RPA, AI, and scripts from a single control tower.</p>
  <p class="tc-best"><b>Best for</b>Teams that want an AI-assisted way to discover, document and run automations without deep RPA expertise.</p>
  <p class="tc-catch"><b>The catch</b>It&#x27;s a newer, enterprise-leaning automation platform, so it&#x27;s less proven with a smaller community than the big names — and the credit-per-execution model means heavy volume needs cost-checking.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Operations</span><span class="tool-tag">Workflow</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://try.turbotic.com/9bsnqewlv0qm" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Turbotic <span aria-hidden="true">&rarr;</span></a>
@@ -4045,7 +4043,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Unleashed Software</h3><span class="tool-badge pick">Ops</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$399</b><span>Core · per month</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$399</b><span>Core · per month excluding tax, and it includes only 3 users and 100 sales…</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Inventory and MRP software for manufacturers and wholesalers — real-time stock across warehouses, purchasing, sales orders and batch or serial tracking.</p>
  <p class="tc-best"><b>Best for</b>Manufacturers and wholesalers who have outgrown spreadsheets and need real-time stock across multiple warehouses, with batch and serial tracking.</p>
  <p class="tc-catch"><b>The catch</b>The 100 sales orders a month included on both bundles is the number that decides your bill, not the $399.</p></div>
@@ -4125,7 +4123,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Wing Assistant</h3><span class="tool-badge pick">Ops</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$699</b><span>per month</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$699</b><span>General Virtual… · per month as published</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Managed virtual assistants for founders and teams: delegate admin, inbox, scheduling and repetitive tasks to a dedicated, trained assistant.</p>
  <p class="tc-best"><b>Best for</b>Founders drowning in delegatable admin who have processes to hand off and want a managed VA without recruiting one themselves.</p>
  <p class="tc-catch"><b>The catch</b>You&#x27;re renting a person, not automating a task — a good VA is real leverage, but only if you already have documented, delegatable work.</p></div>
