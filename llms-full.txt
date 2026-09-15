@@ -168,8 +168,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Gusto
 - Review: https://officesoftwaremarketplace.com/gusto-review.html
-- Verdict: Gusto: Contractor Only is $35 a month plus $6 per contractor, with the base fee waived in the current promotion.
-- Price: Read in a browser on gusto.com/pricing on 5 September 2026 (the page blocks plain fetches): Simple $49 a month plus $6 per person for single-state payroll, Plus $80 plus $12 per person with multi-state payroll, next-day pay and time tracking, Premium $180 plus $22 per person with a dedicated service advisor and HR experts. Contractor Only is $35 a month plus $6 per contractor, with the base fee waived in the…
+- Verdict: Gusto: Premium $180 plus $22 per person with a dedicated service advisor and HR experts. The base-plus-per-employee model is transparent but adds up.
+- Price: Read in a browser on gusto.com/pricing on 5 September 2026; the page blocks plain fetches. Simple is $49 a month plus $6 per person for single-state payroll, Plus $80 plus $12 per person with multi-state payroll, next-day pay and time tracking, and Premium $180 plus $22 per person with a dedicated service advisor and HR experts.
 
 ## Heard
 - Review: https://officesoftwaremarketplace.com/heard-review.html
