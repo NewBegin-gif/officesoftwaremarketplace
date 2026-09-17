@@ -144,7 +144,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Digit
 - Review: https://officesoftwaremarketplace.com/digit-review.html
 - Verdict: Digit: Starter $400/month including 5 users, Growth $750 including 10, Professional $1,300 including 15. The tier price is a floor, not a ceiling.
-- Price: (re-read 2026-09-05 in a rendered browser on their own pricing page) Four tiers with three published: Starter $400/month including 5 users, Growth $750 including 10, Professional $1,300 including 15, and Enterprise on quote. Extra users are $63/month each on every tier.
+- Price: (re-read 2026-09-17 in a rendered browser on heysutton.com/pricing, the rebranded site; unchanged from the 5 September reading on digit-software.com) Four tiers with three published: Starter $400/month including 5 users, Growth $750 including 10, Professional $1,300 including 15, and Enterprise on quote. Extra users are $63/month each on every tier.
 
 ## doola
 - Review: https://officesoftwaremarketplace.com/doola-review.html
