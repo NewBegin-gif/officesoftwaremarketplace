@@ -1,6 +1,6 @@
 # Office Software Marketplace — Full Review Catalog
 
-> All 61 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-09-20.
+> All 62 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-09-21.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -175,6 +175,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/expertex-review.html
 - Verdict: ExpertEx: Starter is $10 or $7 for 1,000 credits. Starter is sold as 65 product photos and 10 short video ads a month on 1,000 credits.
 - Price: (read 2026-08-22 in a live browser on expertex.ai/pricing -- plain fetches return an empty page, so this is the first reading we have of the real ladder) There are four credit tiers, monthly against yearly with two months free. Starter is $10 or $7 for 1,000 credits, and Premium $30 or $20 for 3,000.
+
+## Expertise AI
+- Review: https://officesoftwaremarketplace.com/expertise-ai-review.html
+- Verdict: Expertise AI — The ladder was rebuilt since our July read: the Growth tier at $500/mo is gone. The honest catch is that there is no middle any more.
+- Price: (re-verified 2026-09-03; the ladder itself is unchanged since our 15 August read, but the Business conversation allowance is not) The ladder was rebuilt since our July read: the Growth tier at $500/mo is gone, and Business is now $2,000/mo instead of $1,250. What is left is three tiers.
 
 ## Flatpay
 - Review: https://officesoftwaremarketplace.com/flatpay-review.html
