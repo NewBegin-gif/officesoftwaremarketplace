@@ -169,7 +169,7 @@
 .filter-btn:hover{border-color:var(--border-hi);color:var(--text)}
 .filter-btn.active{background:var(--text);border-color:var(--text);color:var(--bg)}
 /* TOOLS GRID */
-.tools-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.tools-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
 .tool-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:26px 26px 22px;transition:border-color .25s var(--ease),transform .25s var(--ease),box-shadow .25s var(--ease);display:flex;flex-direction:column;position:relative;overflow:hidden;box-shadow:var(--shadow-card)}
 .tool-card:hover{border-color:var(--border-hi);transform:translateY(-3px);box-shadow:0 12px 32px -16px rgba(0,0,0,.6)}
 .tool-card.featured{border-color:rgba(59,130,246,.4)}
@@ -191,9 +191,9 @@
 .tool-cta-primary:hover{opacity:.88;transform:translateY(-1px)}
 .tool-cta-secondary{color:var(--accent-2);font-size:.85rem;font-weight:600;transition:gap .15s;display:inline-flex;align-items:center;gap:5px;white-space:nowrap}
 .tool-cta-secondary:hover{gap:9px}
-.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,1fr)}
-.tools-grid,.social-grid{grid-template-columns:1fr}
-@media(max-width:960px){.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,1fr)}
+.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+.tools-grid,.social-grid{grid-template-columns:minmax(0,1fr)}
+@media(max-width:960px){.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
  .how-grid{grid-template-columns:1fr}
  .footer-inner{grid-template-columns:1fr 1fr 1fr}
  .compare-card{grid-template-columns:1fr;text-align:left}}
@@ -210,7 +210,7 @@
  .stats-inner{grid-template-columns:repeat(2,1fr)}
  .stat-item:nth-child(2){border-right:none}
  .stat-item:nth-child(1),.stat-item:nth-child(2){border-bottom:1px solid var(--border)}
- .tools-grid,.social-grid{grid-template-columns:1fr}
+ .tools-grid,.social-grid{grid-template-columns:minmax(0,1fr)}
  .section{padding:70px 24px 40px}
  .how-section{padding:70px 24px;margin-top:50px}
  .footer-inner{grid-template-columns:1fr 1fr;gap:28px}
@@ -248,7 +248,7 @@
 .tc-catch b,.tc-best b{font-size:.66rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--amber);margin-right:6px}
 .tc-best b{color:var(--green)}
 .tool-tags{margin-top:auto;margin-bottom:16px}
-.tool-card{container-type:inline-size}.tool-cta-row{gap:8px;flex-direction:column;align-items:stretch}.tool-cta-review{flex:1 1 auto}.tool-cta-primary{white-space:nowrap}.tc-catch{}
+.tool-card{container-type:inline-size;min-width:0}.tool-cta-row{gap:8px;flex-direction:column;align-items:stretch}.tool-cta-review{flex:1 1 auto}.tool-cta-primary{white-space:nowrap}.tc-catch{}
 /* KAART_V3: Atlas-chips en vlagkleur op de linkerrand */
 .tool-card{border-left:3px solid var(--border-hi)}
 .tool-card[data-flag=quote_only]{border-left-color:#f59e0b}
@@ -279,7 +279,7 @@
 .tc-coupon{min-height:40px;margin:-4px 0 12px;display:flex;align-items:center;gap:8px;padding:7px 10px;border-radius:9px;border:1px dashed rgba(52,211,153,.45);background:rgba(52,211,153,.06);font-size:.78rem;color:var(--text-2)}
 .tc-coupon.leeg{display:none}
 .tc-coupon .cd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:800;color:var(--green);letter-spacing:.04em;background:rgba(52,211,153,.12);border:1px solid rgba(52,211,153,.35);border-radius:6px;padding:1px 7px;white-space:nowrap}
-.tc-coupon .lb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tc-coupon .lb{min-width:0;flex:1 1 auto;overflow-wrap:anywhere}
 
 /* KAART_V7: ledger. Eén tool per rij, vijf kolommen; de kolomlijnen doen de uitlijning. */
 #marketplace-grid,.tools-grid{display:block!important;grid-template-columns:none!important}
@@ -395,19 +395,19 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 @media(max-width:720px){.znav .in{height:54px;padding:0 14px;gap:12px}.znav .merk{font-size:1rem}
  .znav .links a{padding:7px 8px;font-size:.8rem}.znav .links a.cta{display:none}}
 </style><div class="in"><a class="merk" href="/"><i></i>Office Software <em>Marketplace</em></a><div class="links"><a href="/deals.html">Deals</a><a href="/guides.html">Guides</a><a href="/build-business-finance-stack.html">Build a stack</a><a href="/tools/">Free tools</a><a href="/atlas.html">Atlas</a><a href="/price-watch.html">Price Watch</a><a href="/about.html">About</a><a href="/finder.html" class="cta">Tool Finder</a></div></div></nav>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Top Echelon Review (2026): From $79/mo, Checked Sep 2026", "datePublished": "2026-06-30", "dateModified": "2026-09-21", "author": {"@type": "Person", "@id": "https://aibuildermarketplace.com/about/#daan", "name": "Daniel Haket"}, "publisher": {"@type": "Organization", "name": "Office Software Marketplace"}}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Top Echelon", "applicationCategory": "HR & People", "operatingSystem": "Web", "description": "Recruiting software for agencies and staffing firms: TE Recruit is an ATS and CRM with resume parsing, pipeline management, hotlists and job-board integrations, while TE Network is a split-placement network for sharing roles and candidates with other recruiting firms.", "url": "https://officesoftwaremarketplace.com/top-echelon-review.html", "sameAs": "https://topechelon.com", "review": {"@type": "Review", "url": "https://officesoftwaremarketplace.com/top-echelon-review.html", "author": {"@type": "Person", "name": "Daniel Haket", "@id": "https://aibuildermarketplace.com/about/#daan"}, "publisher": {"@type": "Organization", "name": "Office Software Marketplace"}}, "offers": {"@type": "Offer", "price": 95, "priceCurrency": "USD", "url": "https://officesoftwaremarketplace.com/top-echelon-review.html", "description": "TE Recruit Standard, per seat, billed month to month — $79 per seat is the annual rate. Read on the vendor's own pricing page on 2026-09-10."}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Top Echelon Review (2026): From $79/mo, Checked Sep 2026", "datePublished": "2026-06-30", "dateModified": "2026-09-22", "author": {"@type": "Person", "@id": "https://aibuildermarketplace.com/about/#daan", "name": "Daniel Haket"}, "publisher": {"@type": "Organization", "name": "Office Software Marketplace"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Top Echelon", "applicationCategory": "HR & People", "operatingSystem": "Web", "description": "Recruiting software for agencies and staffing firms: TE Recruit is an ATS and CRM with resume parsing, pipeline management, hotlists and job-board integrations, while TE Network is a split-placement network for sharing roles and candidates with other recruiting firms.", "url": "https://officesoftwaremarketplace.com/top-echelon-review.html", "sameAs": "https://topechelon.com", "review": {"@type": "Review", "url": "https://officesoftwaremarketplace.com/top-echelon-review.html", "author": {"@type": "Person", "name": "Daniel Haket", "@id": "https://aibuildermarketplace.com/about/#daan"}, "publisher": {"@type": "Organization", "name": "Office Software Marketplace"}}, "offers": {"@type": "Offer", "price": 79, "priceCurrency": "USD", "url": "https://officesoftwaremarketplace.com/top-echelon-review.html", "description": "TE Recruit Standard, per seat, per seat per month billed annually; $95 month to month. TE Network is priced per agency from $135 a month. Read on the vendor's own pricing page on 2026-09-22."}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What should I weigh before buying HR & People software?", "acceptedAnswer": {"@type": "Answer", "text": "Compliance is country by country, so the honest answer is: only where the vendor says it is, and only for the entity type you actually have. Ask which countries are covered by its own entities versus a local partner, who carries the liability if something is filed wrong, and how changes in local law reach you. Get those answers in the contract rather than the sales deck."}}, {"@type": "Question", "name": "Is this a hands-on review of Top Echelon?", "acceptedAnswer": {"@type": "Answer", "text": "This is a researched assessment, not a hands-on test — where we've used a tool ourselves, we say so explicitly. We name what each tool is genuinely good and bad at, and we earn a commission only if you sign up, at no cost to you."}}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://officesoftwaremarketplace.com"}, {"@type": "ListItem", "position": 2, "name": "Reviews", "item": "https://officesoftwaremarketplace.com/"}, {"@type": "ListItem", "position": 3, "name": "Top Echelon Review", "item": "https://officesoftwaremarketplace.com/top-echelon-review.html"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "VideoObject", "name": "Top Echelon Review (2026) \u2014 honest pricing & who should skip it", "description": "Top Echelon: $95 billed annually or $115 month-to-month on Professional. Almost everything people shop for sits in Professional, not Standard.", "thumbnailUrl": "https://i.ytimg.com/vi/sgmQ22KD7As/hqdefault.jpg", "uploadDate": "2026-08-13T00:00:00+00:00", "contentUrl": "https://www.youtube.com/watch?v=sgmQ22KD7As", "embedUrl": "https://www.youtube-nocookie.com/embed/sgmQ22KD7As", "hasPart": [{"@type": "Clip", "name": "What it does", "startOffset": 0, "endOffset": 59, "url": "https://www.youtube.com/watch?v=sgmQ22KD7As&t=0"}, {"@type": "Clip", "name": "The price picture", "startOffset": 59, "endOffset": 71, "url": "https://www.youtube.com/watch?v=sgmQ22KD7As&t=59"}, {"@type": "Clip", "name": "The honest knock", "startOffset": 71, "endOffset": 96, "url": "https://www.youtube.com/watch?v=sgmQ22KD7As&t=71"}, {"@type": "Clip", "name": "Who it's best for", "startOffset": 96, "endOffset": 113, "url": "https://www.youtube.com/watch?v=sgmQ22KD7As&t=96"}, {"@type": "Clip", "name": "Who should skip it", "startOffset": 113, "endOffset": 128, "url": "https://www.youtube.com/watch?v=sgmQ22KD7As&t=113"}, {"@type": "Clip", "name": "The Verdict", "startOffset": 128, "endOffset": 138, "url": "https://www.youtube.com/watch?v=sgmQ22KD7As&t=128"}, {"@type": "Clip", "name": "The full dossier", "startOffset": 138, "endOffset": 162, "url": "https://www.youtube.com/watch?v=sgmQ22KD7As&t=138"}, {"@type": "Clip", "name": "Subscribe", "startOffset": 162, "endOffset": 192, "url": "https://www.youtube.com/watch?v=sgmQ22KD7As&t=162"}]}</script>
 <div class="wrap">
 <div class="bc"><a href="/">Office Software Marketplace</a> &rsaquo; <a href="/">Reviews</a> &rsaquo; Top Echelon</div>
 <h1><span class="lg"><img src="https://www.google.com/s2/favicons?sz=128&amp;domain=topechelon.com" alt="Top Echelon" loading="lazy" onerror="this.style.display='none'"></span>Top Echelon Review <span style="color:var(--muted);font-weight:700">(2026)</span></h1>
-<div class="meta"><span class="tag">HR &amp; People</span><span>Researched assessment · by <a href="/about.html#daan">Daniel Haket</a></span><span>Updated 2026-09-21</span></div>
+<div class="meta"><span class="tag">HR &amp; People</span><span>Researched assessment · by <a href="/about.html#daan">Daniel Haket</a></span><span>Updated 2026-09-22</span></div>
 <p class="lede">Almost everything people shop for sits in Professional, not Standard: Smart-TE AI, automations, sequences, inbound email sync and API access are all one tier up, so Standard is a competent but plain ATS.</p>
 <div class="box best"><b>Best for:</b> recruiting agencies and SMB staffing firms that want an applicant tracking system and CRM in one place, especially ones that would actually work split placements with other recruiters.</div>
 <div class="box skip"><b>Who should skip it:</b> if you are an in-house talent team hiring for your own company — this is built around agency and split-placement workflows, so you would carry a network you never use.</div>
-<div class="box price"><b>Price:</b> From $79/mo &middot; <a href="#pricing">full pricing as we read it on 10 Sep 2026 &darr;</a></div>
+<div class="box price"><b>Price:</b> From $79 per seat/mo billed annually ($95 month to month) &middot; <a href="#pricing">full pricing as we read it on 10 Sep 2026 &darr;</a></div>
 
 <p><a class="cta" href="https://get.topechelon.com/11c1fagtspqj" target="_blank" rel="sponsored noopener nofollow">Visit Top Echelon &rarr;</a> <span class="muted" style="font-size:.9em">Affiliate link &mdash; the rest of this page is the honest version, including who should skip it.</span></p>
 

@@ -169,7 +169,7 @@
 .filter-btn:hover{border-color:var(--border-hi);color:var(--text)}
 .filter-btn.active{background:var(--text);border-color:var(--text);color:var(--bg)}
 /* TOOLS GRID */
-.tools-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.tools-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
 .tool-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:26px 26px 22px;transition:border-color .25s var(--ease),transform .25s var(--ease),box-shadow .25s var(--ease);display:flex;flex-direction:column;position:relative;overflow:hidden;box-shadow:var(--shadow-card)}
 .tool-card:hover{border-color:var(--border-hi);transform:translateY(-3px);box-shadow:0 12px 32px -16px rgba(0,0,0,.6)}
 .tool-card.featured{border-color:rgba(59,130,246,.4)}
@@ -191,9 +191,9 @@
 .tool-cta-primary:hover{opacity:.88;transform:translateY(-1px)}
 .tool-cta-secondary{color:var(--accent-2);font-size:.85rem;font-weight:600;transition:gap .15s;display:inline-flex;align-items:center;gap:5px;white-space:nowrap}
 .tool-cta-secondary:hover{gap:9px}
-.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,1fr)}
-.tools-grid,.social-grid{grid-template-columns:1fr}
-@media(max-width:960px){.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,1fr)}
+.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+.tools-grid,.social-grid{grid-template-columns:minmax(0,1fr)}
+@media(max-width:960px){.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
  .how-grid{grid-template-columns:1fr}
  .footer-inner{grid-template-columns:1fr 1fr 1fr}
  .compare-card{grid-template-columns:1fr;text-align:left}}
@@ -210,7 +210,7 @@
  .stats-inner{grid-template-columns:repeat(2,1fr)}
  .stat-item:nth-child(2){border-right:none}
  .stat-item:nth-child(1),.stat-item:nth-child(2){border-bottom:1px solid var(--border)}
- .tools-grid,.social-grid{grid-template-columns:1fr}
+ .tools-grid,.social-grid{grid-template-columns:minmax(0,1fr)}
  .section{padding:70px 24px 40px}
  .how-section{padding:70px 24px;margin-top:50px}
  .footer-inner{grid-template-columns:1fr 1fr;gap:28px}
@@ -248,7 +248,7 @@
 .tc-catch b,.tc-best b{font-size:.66rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--amber);margin-right:6px}
 .tc-best b{color:var(--green)}
 .tool-tags{margin-top:auto;margin-bottom:16px}
-.tool-card{container-type:inline-size}.tool-cta-row{gap:8px;flex-direction:column;align-items:stretch}.tool-cta-review{flex:1 1 auto}.tool-cta-primary{white-space:nowrap}.tc-catch{}
+.tool-card{container-type:inline-size;min-width:0}.tool-cta-row{gap:8px;flex-direction:column;align-items:stretch}.tool-cta-review{flex:1 1 auto}.tool-cta-primary{white-space:nowrap}.tc-catch{}
 /* KAART_V3: Atlas-chips en vlagkleur op de linkerrand */
 .tool-card{border-left:3px solid var(--border-hi)}
 .tool-card[data-flag=quote_only]{border-left-color:#f59e0b}
@@ -279,7 +279,7 @@
 .tc-coupon{min-height:40px;margin:-4px 0 12px;display:flex;align-items:center;gap:8px;padding:7px 10px;border-radius:9px;border:1px dashed rgba(52,211,153,.45);background:rgba(52,211,153,.06);font-size:.78rem;color:var(--text-2)}
 .tc-coupon.leeg{display:none}
 .tc-coupon .cd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:800;color:var(--green);letter-spacing:.04em;background:rgba(52,211,153,.12);border:1px solid rgba(52,211,153,.35);border-radius:6px;padding:1px 7px;white-space:nowrap}
-.tc-coupon .lb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tc-coupon .lb{min-width:0;flex:1 1 auto;overflow-wrap:anywhere}
 
 /* KAART_V7: ledger. Eén tool per rij, vijf kolommen; de kolomlijnen doen de uitlijning. */
 #marketplace-grid,.tools-grid{display:block!important;grid-template-columns:none!important}
@@ -396,7 +396,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  .znav .links a{padding:7px 8px;font-size:.8rem}.znav .links a.cta{display:none}}
 </style><div class="in"><a class="merk" href="/"><i></i>Office Software <em>Marketplace</em></a><div class="links"><a href="/deals.html">Deals</a><a href="/guides.html">Guides</a><a href="/build-business-finance-stack.html">Build a stack</a><a href="/tools/">Free tools</a><a href="/atlas.html">Atlas</a><a href="/price-watch.html">Price Watch</a><a href="/about.html">About</a><a href="/finder.html" class="cta">Tool Finder</a></div></div></nav>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Proton Review (2026): From $3.99/mo, Checked Aug 2026", "datePublished": "2026-06-11", "dateModified": "2026-09-22", "author": {"@type": "Person", "@id": "https://aibuildermarketplace.com/about/#daan", "name": "Daniel Haket"}, "publisher": {"@type": "Organization", "name": "Office Software Marketplace"}}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Proton", "applicationCategory": "IT & Productivity", "operatingSystem": "Web", "description": "Privacy-first suite from the makers of ProtonMail — encrypted mail, calendar, drive, VPN and password manager under one account, with a free tier and paid bundles.", "url": "https://officesoftwaremarketplace.com/proton-review.html", "sameAs": "https://proton.me", "review": {"@type": "Review", "url": "https://officesoftwaremarketplace.com/proton-review.html", "author": {"@type": "Person", "name": "Daniel Haket", "@id": "https://aibuildermarketplace.com/about/#daan"}, "publisher": {"@type": "Organization", "name": "Office Software Marketplace"}}, "offers": {"@type": "Offer", "price": 7.99, "priceCurrency": "EUR", "url": "https://officesoftwaremarketplace.com/proton-review.html", "description": "Proton for Business, Mail Essentials, per user, billed monthly with no commitment — €6.99 per user on yearly billing, which is €83.88 per user per year. Read on the vendor's own pricing page on 2026-08-18."}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Proton", "applicationCategory": "IT & Productivity", "operatingSystem": "Web", "description": "Privacy-first suite from the makers of ProtonMail — encrypted mail, calendar, drive, VPN and password manager under one account, with a free tier and paid bundles.", "url": "https://officesoftwaremarketplace.com/proton-review.html", "sameAs": "https://proton.me", "review": {"@type": "Review", "url": "https://officesoftwaremarketplace.com/proton-review.html", "author": {"@type": "Person", "name": "Daniel Haket", "@id": "https://aibuildermarketplace.com/about/#daan"}, "publisher": {"@type": "Organization", "name": "Office Software Marketplace"}}, "offers": {"@type": "Offer", "price": 3.99, "priceCurrency": "USD", "url": "https://officesoftwaremarketplace.com/proton-review.html", "description": "Mail Plus, per month billed yearly ($47.88 a year; $4.99 month to month) for 15 GB and one custom domain; Proton for Business Mail Essentials was EUR 6.99 per user/mo yearly on our 18 Aug reading. Read on the vendor's own pricing page on 2026-09-22."}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What should I weigh before buying IT & Productivity software?", "acceptedAnswer": {"@type": "Answer", "text": "Judge it on evidence rather than adjectives. Look for a published security page, single sign-on and role controls on the plan you would actually buy (they are often gated to higher tiers), a status page with real incident history, and a clear answer on where your data is stored. If the tool will hold anything sensitive, those four answers matter more than any feature comparison."}}, {"@type": "Question", "name": "Is this a hands-on review of Proton?", "acceptedAnswer": {"@type": "Answer", "text": "This is a researched assessment, not a hands-on test — where we've used a tool ourselves, we say so explicitly. We name what each tool is genuinely good and bad at, and we earn a commission only if you sign up, at no cost to you."}}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://officesoftwaremarketplace.com"}, {"@type": "ListItem", "position": 2, "name": "Reviews", "item": "https://officesoftwaremarketplace.com/"}, {"@type": "ListItem", "position": 3, "name": "Proton Review", "item": "https://officesoftwaremarketplace.com/proton-review.html"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "VideoObject", "name": "Proton Review (2026) \u2014 honest pricing & who should skip it", "description": "Proton: Free is $0.00 a month for 1 GB and one address. Storage is the axis, and the jump from Drive Plus to Unlimited is not really about storage at all.", "thumbnailUrl": "https://i.ytimg.com/vi/mTjDQAqpyEw/hqdefault.jpg", "uploadDate": "2026-09-03T00:00:00+00:00", "contentUrl": "https://www.youtube.com/watch?v=mTjDQAqpyEw", "embedUrl": "https://www.youtube-nocookie.com/embed/mTjDQAqpyEw", "hasPart": [{"@type": "Clip", "name": "What it does", "startOffset": 0, "endOffset": 50, "url": "https://www.youtube.com/watch?v=mTjDQAqpyEw&t=0"}, {"@type": "Clip", "name": "The price picture", "startOffset": 50, "endOffset": 65, "url": "https://www.youtube.com/watch?v=mTjDQAqpyEw&t=50"}, {"@type": "Clip", "name": "The honest knock", "startOffset": 65, "endOffset": 98, "url": "https://www.youtube.com/watch?v=mTjDQAqpyEw&t=65"}, {"@type": "Clip", "name": "Who it's best for", "startOffset": 98, "endOffset": 118, "url": "https://www.youtube.com/watch?v=mTjDQAqpyEw&t=98"}, {"@type": "Clip", "name": "Who should skip it", "startOffset": 118, "endOffset": 136, "url": "https://www.youtube.com/watch?v=mTjDQAqpyEw&t=118"}, {"@type": "Clip", "name": "The Verdict", "startOffset": 136, "endOffset": 148, "url": "https://www.youtube.com/watch?v=mTjDQAqpyEw&t=136"}, {"@type": "Clip", "name": "The full dossier", "startOffset": 148, "endOffset": 171, "url": "https://www.youtube.com/watch?v=mTjDQAqpyEw&t=148"}, {"@type": "Clip", "name": "Subscribe", "startOffset": 171, "endOffset": 201, "url": "https://www.youtube.com/watch?v=mTjDQAqpyEw&t=171"}]}</script>
@@ -407,7 +407,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <p class="lede">Storage is the axis, and the jump from Drive Plus to Unlimited is not really about storage at all: you go from 200 GB to 500 GB, but you also start paying for Mail, Calendar, Pass and VPN whether or not you wanted them.</p>
 <div class="box best"><b>Best for:</b> teams and individuals for whom encryption is an actual requirement rather than a preference — handling client material, legal or medical files, or anything where a provider being able to read your data is itself the problem.</div>
 <div class="box skip"><b>Who should skip it:</b> if you mainly need cheap capacity or deep collaboration features, where the mainstream drives give more space and better co-editing per euro, or you would be paying for the Mail and VPN half of the bundle without using it.</div>
-<div class="box price"><b>Price:</b> From $3.99/mo &middot; <a href="#pricing">full pricing as we read it on 26 Aug 2026 &darr;</a></div>
+<div class="box price"><b>Price:</b> Free plan (1 GB); Mail Plus $3.99/mo billed yearly ($4.99 monthly); business plans from EUR 6.99 per user/mo yearly &middot; <a href="#pricing">full pricing as we read it on 26 Aug 2026 &darr;</a></div>
 
 <p><a class="cta" href="https://now.getproton.me/xtd5ynchlrma" target="_blank" rel="sponsored noopener nofollow">Visit Proton &rarr;</a> <span class="muted" style="font-size:.9em">Affiliate link &mdash; the rest of this page is the honest version, including who should skip it.</span></p>
 
