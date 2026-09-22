@@ -169,7 +169,7 @@
 .filter-btn:hover{border-color:var(--border-hi);color:var(--text)}
 .filter-btn.active{background:var(--text);border-color:var(--text);color:var(--bg)}
 /* TOOLS GRID */
-.tools-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.tools-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
 .tool-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:26px 26px 22px;transition:border-color .25s var(--ease),transform .25s var(--ease),box-shadow .25s var(--ease);display:flex;flex-direction:column;position:relative;overflow:hidden;box-shadow:var(--shadow-card)}
 .tool-card:hover{border-color:var(--border-hi);transform:translateY(-3px);box-shadow:0 12px 32px -16px rgba(0,0,0,.6)}
 .tool-card.featured{border-color:rgba(59,130,246,.4)}
@@ -191,9 +191,9 @@
 .tool-cta-primary:hover{opacity:.88;transform:translateY(-1px)}
 .tool-cta-secondary{color:var(--accent-2);font-size:.85rem;font-weight:600;transition:gap .15s;display:inline-flex;align-items:center;gap:5px;white-space:nowrap}
 .tool-cta-secondary:hover{gap:9px}
-.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,1fr)}
-.tools-grid,.social-grid{grid-template-columns:1fr}
-@media(max-width:960px){.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,1fr)}
+.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+.tools-grid,.social-grid{grid-template-columns:minmax(0,1fr)}
+@media(max-width:960px){.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
  .how-grid{grid-template-columns:1fr}
  .footer-inner{grid-template-columns:1fr 1fr 1fr}
  .compare-card{grid-template-columns:1fr;text-align:left}}
@@ -210,7 +210,7 @@
  .stats-inner{grid-template-columns:repeat(2,1fr)}
  .stat-item:nth-child(2){border-right:none}
  .stat-item:nth-child(1),.stat-item:nth-child(2){border-bottom:1px solid var(--border)}
- .tools-grid,.social-grid{grid-template-columns:1fr}
+ .tools-grid,.social-grid{grid-template-columns:minmax(0,1fr)}
  .section{padding:70px 24px 40px}
  .how-section{padding:70px 24px;margin-top:50px}
  .footer-inner{grid-template-columns:1fr 1fr;gap:28px}
@@ -248,7 +248,7 @@
 .tc-catch b,.tc-best b{font-size:.66rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--amber);margin-right:6px}
 .tc-best b{color:var(--green)}
 .tool-tags{margin-top:auto;margin-bottom:16px}
-.tool-card{container-type:inline-size}.tool-cta-row{gap:8px;flex-direction:column;align-items:stretch}.tool-cta-review{flex:1 1 auto}.tool-cta-primary{white-space:nowrap}.tc-catch{}
+.tool-card{container-type:inline-size;min-width:0}.tool-cta-row{gap:8px;flex-direction:column;align-items:stretch}.tool-cta-review{flex:1 1 auto}.tool-cta-primary{white-space:nowrap}.tc-catch{}
 /* KAART_V3: Atlas-chips en vlagkleur op de linkerrand */
 .tool-card{border-left:3px solid var(--border-hi)}
 .tool-card[data-flag=quote_only]{border-left-color:#f59e0b}
@@ -279,7 +279,7 @@
 .tc-coupon{min-height:40px;margin:-4px 0 12px;display:flex;align-items:center;gap:8px;padding:7px 10px;border-radius:9px;border:1px dashed rgba(52,211,153,.45);background:rgba(52,211,153,.06);font-size:.78rem;color:var(--text-2)}
 .tc-coupon.leeg{display:none}
 .tc-coupon .cd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:800;color:var(--green);letter-spacing:.04em;background:rgba(52,211,153,.12);border:1px solid rgba(52,211,153,.35);border-radius:6px;padding:1px 7px;white-space:nowrap}
-.tc-coupon .lb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tc-coupon .lb{min-width:0;flex:1 1 auto;overflow-wrap:anywhere}
 
 /* KAART_V7: ledger. Eén tool per rij, vijf kolommen; de kolomlijnen doen de uitlijning. */
 #marketplace-grid,.tools-grid{display:block!important;grid-template-columns:none!important}
@@ -395,15 +395,15 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 @media(max-width:720px){.znav .in{height:54px;padding:0 14px;gap:12px}.znav .merk{font-size:1rem}
  .znav .links a{padding:7px 8px;font-size:.8rem}.znav .links a.cta{display:none}}
 </style><div class="in"><a class="merk" href="/"><i></i>Office Software <em>Marketplace</em></a><div class="links"><a href="/deals.html">Deals</a><a href="/guides.html">Guides</a><a href="/build-business-finance-stack.html">Build a stack</a><a href="/tools/">Free tools</a><a href="/atlas.html">Atlas</a><a href="/price-watch.html">Price Watch</a><a href="/about.html">About</a><a href="/finder.html" class="cta">Tool Finder</a></div></div></nav>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Aplos Review (2026): Real Pricing, Real Limits", "datePublished": "2026-08-15", "dateModified": "2026-09-21", "author": {"@type": "Person", "@id": "https://aibuildermarketplace.com/about/#daan", "name": "Daniel Haket"}, "publisher": {"@type": "Organization", "name": "Office Software Marketplace"}}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Aplos", "applicationCategory": "Finance & Accounting", "operatingSystem": "Web", "description": "Fund accounting built for nonprofits and faith-based organisations, tracking restricted and unrestricted money separately. Lite is $79/month for 2 users, then $129 and $229. A 50%-off-for-three-months promotion was running again in September 2026, under a new code and to a new date, so check what mo", "url": "https://officesoftwaremarketplace.com/aplos-review.html", "sameAs": "https://aplos.com", "review": {"@type": "Review", "url": "https://officesoftwaremarketplace.com/aplos-review.html", "author": {"@type": "Person", "name": "Daniel Haket", "@id": "https://aibuildermarketplace.com/about/#daan"}, "publisher": {"@type": "Organization", "name": "Office Software Marketplace"}}, "offers": {"@type": "Offer", "price": 79, "priceCurrency": "USD", "url": "https://officesoftwaremarketplace.com/aplos-review.html", "description": "Lite, billed monthly, as published for all three tiers. Read on the vendor's own pricing page on 2026-08-15."}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Aplos Review (2026): Real Pricing, Real Limits", "datePublished": "2026-08-15", "dateModified": "2026-09-22", "author": {"@type": "Person", "@id": "https://aibuildermarketplace.com/about/#daan", "name": "Daniel Haket"}, "publisher": {"@type": "Organization", "name": "Office Software Marketplace"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Aplos", "applicationCategory": "Finance & Accounting", "operatingSystem": "Web", "description": "Fund accounting built for nonprofits and faith-based organisations, tracking restricted and unrestricted money separately. Lite is $79/month for 2 users, then $129 and $229.", "url": "https://officesoftwaremarketplace.com/aplos-review.html", "sameAs": "https://aplos.com", "review": {"@type": "Review", "url": "https://officesoftwaremarketplace.com/aplos-review.html", "author": {"@type": "Person", "name": "Daniel Haket", "@id": "https://aibuildermarketplace.com/about/#daan"}, "publisher": {"@type": "Organization", "name": "Office Software Marketplace"}}, "offers": {"@type": "Offer", "price": 79, "priceCurrency": "USD", "url": "https://officesoftwaremarketplace.com/aplos-review.html", "description": "Lite, billed monthly, as published for all three tiers. Read on the vendor's own pricing page on 2026-08-15."}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What should I weigh before buying Finance & Accounting software?", "acceptedAnswer": {"@type": "Answer", "text": "Ask your accountant before you buy; it is the cheapest step in this whole decision. What matters is whether it exports in the format they already work in, whether the ledger mapping survives that export, and whether they can access it directly. A tool your accountant has to re-key by hand costs more than it saves."}}, {"@type": "Question", "name": "Is this a hands-on review of Aplos?", "acceptedAnswer": {"@type": "Answer", "text": "This is a researched assessment, not a hands-on test — where we've used a tool ourselves, we say so explicitly. We name what each tool is genuinely good and bad at, and we earn a commission only if you sign up, at no cost to you."}}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://officesoftwaremarketplace.com"}, {"@type": "ListItem", "position": 2, "name": "Reviews", "item": "https://officesoftwaremarketplace.com/"}, {"@type": "ListItem", "position": 3, "name": "Aplos Review", "item": "https://officesoftwaremarketplace.com/aplos-review.html"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "VideoObject", "name": "Aplos Review (2026) \u2014 honest pricing & who should skip it", "description": "Aplos: 50% off for three months with code FALL26, showing Lite at $39.50 and Core at $64.50. The headline you will see first is not the price you will pay.", "thumbnailUrl": "https://i.ytimg.com/vi/jbtJb2zsMbA/hqdefault.jpg", "uploadDate": "2026-09-11T00:00:00+00:00", "contentUrl": "https://www.youtube.com/watch?v=jbtJb2zsMbA", "embedUrl": "https://www.youtube-nocookie.com/embed/jbtJb2zsMbA", "hasPart": [{"@type": "Clip", "name": "What it does", "startOffset": 0, "endOffset": 64, "url": "https://www.youtube.com/watch?v=jbtJb2zsMbA&t=0"}, {"@type": "Clip", "name": "The price picture", "startOffset": 64, "endOffset": 76, "url": "https://www.youtube.com/watch?v=jbtJb2zsMbA&t=64"}, {"@type": "Clip", "name": "The honest knock", "startOffset": 76, "endOffset": 104, "url": "https://www.youtube.com/watch?v=jbtJb2zsMbA&t=76"}, {"@type": "Clip", "name": "Who it's best for", "startOffset": 104, "endOffset": 122, "url": "https://www.youtube.com/watch?v=jbtJb2zsMbA&t=104"}, {"@type": "Clip", "name": "Who should skip it", "startOffset": 122, "endOffset": 138, "url": "https://www.youtube.com/watch?v=jbtJb2zsMbA&t=122"}, {"@type": "Clip", "name": "The Verdict", "startOffset": 138, "endOffset": 171, "url": "https://www.youtube.com/watch?v=jbtJb2zsMbA&t=138"}, {"@type": "Clip", "name": "Subscribe", "startOffset": 171, "endOffset": 201, "url": "https://www.youtube.com/watch?v=jbtJb2zsMbA&t=171"}]}</script>
 <div class="wrap">
 <div class="bc"><a href="/">Office Software Marketplace</a> &rsaquo; <a href="/">Reviews</a> &rsaquo; Aplos</div>
 <h1><span class="lg"><img src="https://www.google.com/s2/favicons?sz=128&amp;domain=aplos.com" alt="Aplos" loading="lazy" onerror="this.style.display='none'"></span>Aplos Review <span style="color:var(--muted);font-weight:700">(2026)</span></h1>
-<div class="meta"><span class="tag">Finance &amp; Accounting</span><span>Researched assessment · by <a href="/about.html#daan">Daniel Haket</a></span><span>Updated 2026-09-21</span></div>
+<div class="meta"><span class="tag">Finance &amp; Accounting</span><span>Researched assessment · by <a href="/about.html#daan">Daniel Haket</a></span><span>Updated 2026-09-22</span></div>
 <p class="lede">The headline you will see first is not the price you will pay.</p>
 <div class="box best"><b>Best for:</b> small nonprofits and faith-based organisations that need true fund accounting rather than general small-business bookkeeping — tracking restricted and unrestricted funds separately is the thing generic tools genuinely cannot do.</div>
 <div class="box skip"><b>Who should skip it:</b> if you are a normal for-profit business, because you are paying for fund accounting you will never use; also skip it if two users on the entry tier does not cover your team and the next tier up is out of budget.</div>

@@ -169,7 +169,7 @@
 .filter-btn:hover{border-color:var(--border-hi);color:var(--text)}
 .filter-btn.active{background:var(--text);border-color:var(--text);color:var(--bg)}
 /* TOOLS GRID */
-.tools-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.tools-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
 .tool-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:26px 26px 22px;transition:border-color .25s var(--ease),transform .25s var(--ease),box-shadow .25s var(--ease);display:flex;flex-direction:column;position:relative;overflow:hidden;box-shadow:var(--shadow-card)}
 .tool-card:hover{border-color:var(--border-hi);transform:translateY(-3px);box-shadow:0 12px 32px -16px rgba(0,0,0,.6)}
 .tool-card.featured{border-color:rgba(59,130,246,.4)}
@@ -191,9 +191,9 @@
 .tool-cta-primary:hover{opacity:.88;transform:translateY(-1px)}
 .tool-cta-secondary{color:var(--accent-2);font-size:.85rem;font-weight:600;transition:gap .15s;display:inline-flex;align-items:center;gap:5px;white-space:nowrap}
 .tool-cta-secondary:hover{gap:9px}
-.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,1fr)}
-.tools-grid,.social-grid{grid-template-columns:1fr}
-@media(max-width:960px){.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,1fr)}
+.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+.tools-grid,.social-grid{grid-template-columns:minmax(0,1fr)}
+@media(max-width:960px){.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
  .how-grid{grid-template-columns:1fr}
  .footer-inner{grid-template-columns:1fr 1fr 1fr}
  .compare-card{grid-template-columns:1fr;text-align:left}}
@@ -210,7 +210,7 @@
  .stats-inner{grid-template-columns:repeat(2,1fr)}
  .stat-item:nth-child(2){border-right:none}
  .stat-item:nth-child(1),.stat-item:nth-child(2){border-bottom:1px solid var(--border)}
- .tools-grid,.social-grid{grid-template-columns:1fr}
+ .tools-grid,.social-grid{grid-template-columns:minmax(0,1fr)}
  .section{padding:70px 24px 40px}
  .how-section{padding:70px 24px;margin-top:50px}
  .footer-inner{grid-template-columns:1fr 1fr;gap:28px}
@@ -248,7 +248,7 @@
 .tc-catch b,.tc-best b{font-size:.66rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--amber);margin-right:6px}
 .tc-best b{color:var(--green)}
 .tool-tags{margin-top:auto;margin-bottom:16px}
-.tool-card{container-type:inline-size}.tool-cta-row{gap:8px;flex-direction:column;align-items:stretch}.tool-cta-review{flex:1 1 auto}.tool-cta-primary{white-space:nowrap}.tc-catch{}
+.tool-card{container-type:inline-size;min-width:0}.tool-cta-row{gap:8px;flex-direction:column;align-items:stretch}.tool-cta-review{flex:1 1 auto}.tool-cta-primary{white-space:nowrap}.tc-catch{}
 /* KAART_V3: Atlas-chips en vlagkleur op de linkerrand */
 .tool-card{border-left:3px solid var(--border-hi)}
 .tool-card[data-flag=quote_only]{border-left-color:#f59e0b}
@@ -279,7 +279,7 @@
 .tc-coupon{min-height:40px;margin:-4px 0 12px;display:flex;align-items:center;gap:8px;padding:7px 10px;border-radius:9px;border:1px dashed rgba(52,211,153,.45);background:rgba(52,211,153,.06);font-size:.78rem;color:var(--text-2)}
 .tc-coupon.leeg{display:none}
 .tc-coupon .cd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:800;color:var(--green);letter-spacing:.04em;background:rgba(52,211,153,.12);border:1px solid rgba(52,211,153,.35);border-radius:6px;padding:1px 7px;white-space:nowrap}
-.tc-coupon .lb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tc-coupon .lb{min-width:0;flex:1 1 auto;overflow-wrap:anywhere}
 
 /* KAART_V7: ledger. Eén tool per rij, vijf kolommen; de kolomlijnen doen de uitlijning. */
 #marketplace-grid,.tools-grid{display:block!important;grid-template-columns:none!important}
@@ -395,15 +395,15 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 @media(max-width:720px){.znav .in{height:54px;padding:0 14px;gap:12px}.znav .merk{font-size:1rem}
  .znav .links a{padding:7px 8px;font-size:.8rem}.znav .links a.cta{display:none}}
 </style><div class="in"><a class="merk" href="/"><i></i>Office Software <em>Marketplace</em></a><div class="links"><a href="/deals.html">Deals</a><a href="/guides.html">Guides</a><a href="/build-business-finance-stack.html">Build a stack</a><a href="/tools/">Free tools</a><a href="/atlas.html">Atlas</a><a href="/price-watch.html">Price Watch</a><a href="/about.html">About</a><a href="/finder.html" class="cta">Tool Finder</a></div></div></nav>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Joiin Review (2026): $23 for One Company, $92 for Ten", "datePublished": "2026-06-30", "dateModified": "2026-09-21", "author": {"@type": "Person", "@id": "https://aibuildermarketplace.com/about/#daan", "name": "Daniel Haket"}, "publisher": {"@type": "Organization", "name": "Office Software Marketplace"}}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Joiin", "applicationCategory": "Finance & Accounting", "operatingSystem": "Web", "description": "Financial consolidation and group reporting for multi-entity, multi-currency organisations — connects Xero, QuickBooks, Sage, FreeAgent, Zoho Books, Fortnox, MYOB, Pennylane and Puzzle, with unlimited users and reports on every plan. Forecasting is now part of the product: linked P&L, balance sheet ", "url": "https://officesoftwaremarketplace.com/joiin-review.html", "sameAs": "https://joiin.co", "review": {"@type": "Review", "url": "https://officesoftwaremarketplace.com/joiin-review.html", "author": {"@type": "Person", "name": "Daniel Haket", "@id": "https://aibuildermarketplace.com/about/#daan"}, "publisher": {"@type": "Organization", "name": "Office Software Marketplace"}}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Joiin Review (2026): $23 for One Company, $92 for Ten", "datePublished": "2026-06-30", "dateModified": "2026-09-22", "author": {"@type": "Person", "@id": "https://aibuildermarketplace.com/about/#daan", "name": "Daniel Haket"}, "publisher": {"@type": "Organization", "name": "Office Software Marketplace"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Joiin", "applicationCategory": "Finance & Accounting", "operatingSystem": "Web", "description": "Financial consolidation and group reporting for multi-entity, multi-currency organisations — connects Xero, QuickBooks, Sage, FreeAgent, Zoho Books, Fortnox, MYOB, Pennylane and Puzzle, with unlimited users and reports on every plan.", "url": "https://officesoftwaremarketplace.com/joiin-review.html", "sameAs": "https://joiin.co", "review": {"@type": "Review", "url": "https://officesoftwaremarketplace.com/joiin-review.html", "author": {"@type": "Person", "name": "Daniel Haket", "@id": "https://aibuildermarketplace.com/about/#daan"}, "publisher": {"@type": "Organization", "name": "Office Software Marketplace"}}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How is Joiin priced?", "acceptedAnswer": {"@type": "Answer", "text": "By the number of companies you consolidate, not by users — every plan includes unlimited users and reports. Billed annually it is $23 a month for one company, $29 for two, $57 for five, $92 for ten and $252 for a hundred; monthly billing is about 20% more at each step. Read on 17 August 2026."}}, {"@type": "Question", "name": "What happens above a hundred companies?", "acceptedAnswer": {"@type": "Answer", "text": "It stops being a tier and becomes a formula: from $336 a month plus $2.80 for each additional company. That is worth knowing before you consolidate a large portfolio, because it is the only part of the ladder that keeps growing linearly."}}, {"@type": "Question", "name": "Is the trial genuinely free?", "acceptedAnswer": {"@type": "Answer", "text": "Fourteen days, no credit card, and their own page states all features with unlimited users and reports — which for a consolidation tool is the point, since the thing you need to test is whether your entities map cleanly. Read on 17 August 2026."}}, {"@type": "Question", "name": "What should I weigh before buying Finance & Accounting software?", "acceptedAnswer": {"@type": "Answer", "text": "Ask your accountant before you buy; it is the cheapest step in this whole decision. What matters is whether it exports in the format they already work in, whether the ledger mapping survives that export, and whether they can access it directly. A tool your accountant has to re-key by hand costs more than it saves."}}, {"@type": "Question", "name": "Is this a hands-on review of Joiin?", "acceptedAnswer": {"@type": "Answer", "text": "This is a researched assessment, not a hands-on test — where we've used a tool ourselves, we say so explicitly. We name what each tool is genuinely good and bad at, and we earn a commission only if you sign up, at no cost to you."}}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://officesoftwaremarketplace.com"}, {"@type": "ListItem", "position": 2, "name": "Reviews", "item": "https://officesoftwaremarketplace.com/"}, {"@type": "ListItem", "position": 3, "name": "Joiin Review", "item": "https://officesoftwaremarketplace.com/joiin-review.html"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "VideoObject", "name": "Joiin Review (2026) \u2014 honest pricing & who should skip it", "description": "Joiin: 14-day free trial, no credit card; unlimited users and reports on every plan. The $23 headline covers a single company on annual billing.", "thumbnailUrl": "https://i.ytimg.com/vi/ZNs-IlltpN0/hqdefault.jpg", "uploadDate": "2026-08-22T00:00:00+00:00", "contentUrl": "https://www.youtube.com/watch?v=ZNs-IlltpN0", "embedUrl": "https://www.youtube-nocookie.com/embed/ZNs-IlltpN0", "hasPart": [{"@type": "Clip", "name": "What it does", "startOffset": 0, "endOffset": 47, "url": "https://www.youtube.com/watch?v=ZNs-IlltpN0&t=0"}, {"@type": "Clip", "name": "The price picture", "startOffset": 47, "endOffset": 62, "url": "https://www.youtube.com/watch?v=ZNs-IlltpN0&t=47"}, {"@type": "Clip", "name": "The honest knock", "startOffset": 62, "endOffset": 86, "url": "https://www.youtube.com/watch?v=ZNs-IlltpN0&t=62"}, {"@type": "Clip", "name": "Who it's best for", "startOffset": 86, "endOffset": 102, "url": "https://www.youtube.com/watch?v=ZNs-IlltpN0&t=86"}, {"@type": "Clip", "name": "Who should skip it", "startOffset": 102, "endOffset": 117, "url": "https://www.youtube.com/watch?v=ZNs-IlltpN0&t=102"}, {"@type": "Clip", "name": "The Verdict", "startOffset": 117, "endOffset": 149, "url": "https://www.youtube.com/watch?v=ZNs-IlltpN0&t=117"}, {"@type": "Clip", "name": "Subscribe", "startOffset": 149, "endOffset": 179, "url": "https://www.youtube.com/watch?v=ZNs-IlltpN0&t=149"}]}</script>
 <div class="wrap">
 <div class="bc"><a href="/">Office Software Marketplace</a> &rsaquo; <a href="/">Reviews</a> &rsaquo; Joiin</div>
 <h1><span class="lg"><img src="https://www.google.com/s2/favicons?sz=128&amp;domain=joiin.co" alt="Joiin" loading="lazy" onerror="this.style.display='none'"></span>Joiin Review <span style="color:var(--muted);font-weight:700">(2026)</span><span style="display:block;font-size:.6em;color:var(--muted);font-weight:700;margin-top:6px">$23 for One Company, $92 for Ten</span></h1>
-<div class="meta"><span class="tag">Finance &amp; Accounting</span><span>Researched assessment · by <a href="/about.html#daan">Daniel Haket</a></span><span>Updated 2026-09-21</span></div>
+<div class="meta"><span class="tag">Finance &amp; Accounting</span><span>Researched assessment · by <a href="/about.html#daan">Daniel Haket</a></span><span>Updated 2026-09-22</span></div>
 <p class="lede">The $23 headline covers a single company on annual billing — but consolidation is the whole point of Joiin, and a real group of 10-20 entities lands at $92-139 a month.</p>
 <div class="box best"><b>Best for:</b> finance teams and accountants consolidating multi-entity, multi-currency group reporting from Xero, QuickBooks or Sage without hand-built spreadsheets.</div>
 <div class="box skip"><b>Who should skip it:</b> if you run a single entity (your accounting platform&#x27;s own reports cover it), or your ledgers live outside the supported integrations and you&#x27;d be importing spreadsheets anyway.</div>
