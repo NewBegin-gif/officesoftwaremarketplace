@@ -107,11 +107,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$34.99",
@@ -141,6 +136,11 @@
  },
  "AgentNest": {
   "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
    [
     "🆓",
     "Free tier",
@@ -228,8 +228,6 @@
   "best": "Enterprises that need to find the AI already running across their organisation, enforce policy on it at runtime, and build and govern their own agents."
  },
  "Airwallex": {
-  "price": "$12",
-  "price_note": "from · per month",
   "verified": "2026-09-19",
   "catch": "The honest headline here is that the FX markup is published at all — 0.5% and 1% above interbank is a real number, and most competitors will not print one.",
   "best": "Companies invoicing or paying in several currencies, where a 0.5% spread against your bank's 2–3% is the whole business case."
@@ -353,8 +351,6 @@
     "addons_extra"
    ]
   ],
-  "price": "$100",
-  "price_note": "from · per month",
   "verified": "2026-09-20",
   "catch": "Two honest boundaries.",
   "best": "FTL trucking carriers and asset-based (hybrid) brokers with roughly 5–300 trucks — especially compliance-heavy freight like hazmat, reefer and cross-border."
@@ -515,6 +511,13 @@
   "best": "Agencies and professional services firms who want one branded place for clients to message, sign, pay and share files instead of four tools and an email thread."
  },
  "Atlas AI Store Builder": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
   "price": "$39",
   "price_note": "All-in-one · per month, plus usage charges that scale with the revenue your store…",
   "verified": "2026-08-19",
@@ -553,8 +556,6 @@
     "addons_extra"
    ]
   ],
-  "price": "$5.95",
-  "price_note": "from · per month",
   "verified": "2026-09-05",
   "catch": "Simple and honest pricing — the real conversation with any field-team tracker is the human one: GPS tracking of employees needs transparency and often consent (rules differ by country), and adoption dies the day the crew feels surveilled rather than served.",
   "best": "Hourly and mobile crews (construction, cleaning, field service) that want dead-simple clock-in/out, GPS-verified timesheets and payroll-ready exports."
@@ -666,9 +667,9 @@
  "BackupMaster": {
   "flags": [
    [
-    "🆓",
-    "Free tier",
-    "free_tier"
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
    ]
   ],
   "price": "$19",
@@ -895,11 +896,6 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$9.99",
@@ -1149,8 +1145,6 @@
     "addons_extra"
    ]
   ],
-  "price": "$5.99",
-  "price_note": "from · per user per month",
   "verified": "2026-09-05",
   "catch": "That flat $19 base fee makes it pricey for very small teams — at three or four users the base fee dominates the bill, so it's better value once you're past a handful of employees.",
   "best": "Small-to-mid teams that need straightforward employee time tracking with GPS and payroll-ready exports.",
@@ -1194,8 +1188,6 @@
     "free_tier"
    ]
   ],
-  "price": "$79",
-  "price_note": "from · per user per month",
   "verified": "2026-09-05",
   "catch": "Two meters run at once: seats AND credits — the seat price includes a credit allowance (500 a month on Core, 5,000 on AI Employee, read 5 September 2026), and real outbound volume means credit packages on top, so budget past the sticker.",
   "best": "GTM teams that want AI to run outbound end-to-end — prompt-driven prospecting of intent-ready buyers.",
@@ -1396,7 +1388,7 @@
     "renewal_jump"
    ]
   ],
-  "price": "$1.95",
+  "price": "$1",
   "price_note": "from · per month",
   "verified": "2026-09-02",
   "catch": "The honest catch is the one every budget host shares: the headline price is an introductory rate, and renewals land roughly three times higher, so judge it on the renewal cost, not the sign-up teaser.",
@@ -1565,11 +1557,6 @@
  "CloudTalk": {
   "flags": [
    [
-    "🔒",
-    "Hidden pricing",
-    "quote_only"
-   ],
-   [
     "🪑",
     "Per-seat pricing",
     "per_seat"
@@ -1578,10 +1565,15 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
    ]
   ],
-  "price": "€9",
-  "price_note": "from · per user per month",
+  "price": "€19",
+  "price_note": "Lite · per user per month on annual billing",
   "verified": "2026-08-16",
   "catch": "The per-seat price is only part of it — number rental, outbound minutes and the AI add-ons stack on top, so a call-heavy team's real bill runs above the plan rate.",
   "best": "Support and sales teams that want a cloud call center with strong CRM integrations and call analytics."
@@ -1618,6 +1610,11 @@
  },
  "Cloze": {
   "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
    [
     "🆓",
     "Free tier",
@@ -1696,11 +1693,6 @@
  "Compliancely": {
   "flags": [
    [
-    "🔒",
-    "Hidden pricing",
-    "quote_only"
-   ],
-   [
     "🧮",
     "Usage-metered",
     "usage_metered"
@@ -1765,18 +1757,6 @@
   "best": "Shopify merchants selling into several jurisdictions who want one app to carry the cookie banner, the consent signals the ad platforms now demand."
  },
  "Contractor Foreman": {
-  "flags": [
-   [
-    "🪑",
-    "Per-seat pricing",
-    "per_seat"
-   ],
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ]
-  ],
   "price": "$49",
   "price_note": "Basic · per month billed annually for the whole company with 1 user",
   "verified": "2026-08-28",
@@ -2015,8 +1995,6 @@
     "usage_metered"
    ]
   ],
-  "price": "$59",
-  "price_note": "from · per month",
   "verified": "2026-08-21",
   "catch": "'Free' self-hosting isn't free — you own the servers, updates and reliability, and model usage bills separately once the included message credits run out.",
   "best": "Technical teams that want to build and ship LLM apps and agents on a source-available platform they can self-host and control."
@@ -2064,6 +2042,11 @@
  "Dondy": {
   "flags": [
    [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -2088,8 +2071,6 @@
     "addons_extra"
    ]
   ],
-  "price": "$329",
-  "price_note": "from · per month",
   "verified": "2026-09-21",
   "catch": "Formation is the cheap part; the recurring bookkeeping and tax tiers are where the real cost sits, and state fees are extra on top of doola's price.",
   "coupon": {
@@ -2100,6 +2081,11 @@
  },
  "Drip": {
   "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
    [
     "🧩",
     "Add-ons extra",
@@ -2134,11 +2120,6 @@
  "Dripshipper": {
   "flags": [
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
@@ -2171,6 +2152,11 @@
  },
  "Easy Advanced Translations": {
   "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
    [
     "🧩",
     "Add-ons extra",
@@ -2244,14 +2230,14 @@
     "per_seat"
    ],
    [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$49",
@@ -2544,6 +2530,11 @@
  },
  "Feedyio": {
   "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
    [
     "🆓",
     "Free tier",
@@ -2992,11 +2983,6 @@
  "Gorgias": {
   "flags": [
    [
-    "🪑",
-    "Per-seat pricing",
-    "per_seat"
-   ],
-   [
     "🧮",
     "Usage-metered",
     "usage_metered"
@@ -3120,6 +3106,11 @@
  },
  "HelpCenter": {
   "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
    [
     "🆓",
     "Free tier",
@@ -3312,13 +3303,6 @@
   "best": "Individuals and small businesses that want cheap multi-device cloud backup with versioning, snapshots and physical seed/restore shipping."
  },
  "Imgify": {
-  "flags": [
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
-   ]
-  ],
   "price": "$2.99",
   "price_note": "from · per month",
   "verified": "2026-09-20",
@@ -3383,6 +3367,13 @@
   "best": "Marketing teams running significant paid ad campaigns who need post-click optimisation — AdMap ad-to-page personalisation, A/B testing and heatmaps."
  },
  "Intelis": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
   "price": "$49",
   "price_note": "Basic · per month for up to 100 products or variants, or $490 a year, a 17%…",
   "verified": "2026-09-08",
@@ -3495,11 +3486,6 @@
  "Jubilee": {
   "flags": [
    [
-    "🔒",
-    "Hidden pricing",
-    "quote_only"
-   ],
-   [
     "🧮",
     "Usage-metered",
     "usage_metered"
@@ -3539,7 +3525,7 @@
     "addons_extra"
    ]
   ],
-  "price": "$299",
+  "price": "$23",
   "price_note": "from · per month",
   "verified": "2026-09-14",
   "catch": "The $299 headline is the floor.",
@@ -3582,8 +3568,6 @@
     "annual_lock"
    ]
   ],
-  "price": "$2",
-  "price_note": "from · per user per month",
   "verified": "2026-09-17",
   "catch": "The per-user price is the smallest part of the bill.",
   "best": "Teams that need shared credentials with real admin control and audit."
@@ -3684,6 +3668,13 @@
   "best": "Outbound sales teams living in their CRM that want a serious power dialer with local presence, SMS and automation."
  },
  "Koongo": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
   "price": "$39",
   "price_note": "Lite Plan · per month on the App Store listing for 1,000 items, 5 feeds, two…",
   "verified": "2026-08-23",
@@ -3740,6 +3731,11 @@
  },
  "LangShop": {
   "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
    [
     "📅",
     "Annual commit",
@@ -4129,6 +4125,11 @@
  "Modelize": {
   "flags": [
    [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -4182,8 +4183,6 @@
     "free_tier"
    ]
   ],
-  "price": "$60",
-  "price_note": "from · per month",
   "verified": "2026-09-06",
   "catch": "The 'free' plan is the most expensive one once you have real volume: a 5% commission on every sale overtakes Pro's $60 flat fee around $29k a year in processed revenue, and Pro in turn loses to the $199 Custom plan above about $67k a year.",
   "best": "Class-based businesses — studios, gyms, salons, schools — that want scheduling, memberships, payments and marketing in one system with a member app."
@@ -4288,6 +4287,13 @@
   "best": "Companies that want self-serve travel booking with built-in policy control — genuinely free — and optionally unified expense management on top."
  },
  "NeuroAds": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
   "price": "$19",
   "price_note": "Starter · per month for 800 conversations, live human takeover and discount codes…",
   "verified": "2026-08-19",
@@ -4411,6 +4417,13 @@
   "best": "Teams that want simple, reliable secure network access and a business VPN without heavy setup."
  },
  "Notify Me": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
   "price": "$9.90",
   "price_note": "from · per month",
   "verified": "2026-09-02",
@@ -4624,11 +4637,6 @@
  },
  "Papaya Global": {
   "flags": [
-   [
-    "🔒",
-    "Hidden pricing",
-    "quote_only"
-   ],
    [
     "🪑",
     "Per-seat pricing",
@@ -4869,6 +4877,11 @@
  "Post Purchase Upsell Hero": {
   "flags": [
    [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
@@ -4999,6 +5012,13 @@
   "best": "Operations-driven teams that run recurring, checklist-based processes and want them tracked and auditable."
  },
  "ProtectMyOrder": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
   "price": "$20",
   "price_note": "from · per month",
   "verified": "2026-09-18",
@@ -5028,6 +5048,11 @@
  },
  "Pumper Bundles": {
   "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
    [
     "🆓",
     "Free tier",
@@ -5077,6 +5102,13 @@
   "best": "B2B SaaS teams supporting customers in shared Slack/Teams channels who want tickets, accounts and AI in one B2B-native platform."
  },
  "Pythago": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
   "price": "$39",
   "price_note": "from · per month",
   "verified": "2026-09-22",
@@ -5181,8 +5213,8 @@
     "usage_metered"
    ]
   ],
-  "price": "$1.50",
-  "price_note": "from · per month",
+  "price": "$15",
+  "price_note": "Starter · per user per month billed annually",
   "verified": "2026-08-31",
   "catch": "Call reliability is the recurring complaint — G2 logs hundreds of connection and disconnection reports, and calls get shaky the moment you're off Wi-Fi.",
   "coupon": {
@@ -5546,13 +5578,6 @@
   "best": "Heavy-email professionals drowning in a cluttered inbox who want AI triage that works across any mail client."
  },
  "Scarcity.AI": {
-  "flags": [
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
-   ]
-  ],
   "price": "$4.99",
   "price_note": "Monthly Plan (Low Stock… · per month for the low stock counter, or $41.91 a year",
   "verified": "2026-08-22",
@@ -5647,8 +5672,7 @@
     "free_tier"
    ]
   ],
-  "price": "$99",
-  "price_note": "from · per month",
+  "price_state": "quote-only",
   "verified": "2026-09-19",
   "catch": "Two things to weigh, and neither is the price you pay — because you do not pay one.",
   "best": "Stores selling final-sale, high-consideration or hard-to-size products, where return anxiety is the thing killing the order."
@@ -5786,6 +5810,11 @@
  },
  "SEOmatic": {
   "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
    [
     "🆓",
     "Free tier",
@@ -5928,8 +5957,13 @@
   "best": "Salons, barbers, spas, wellness studios, physical therapists, craftspeople and local retailers that want bookings via Google and Instagram, no-show-reducing reminders."
  },
  "Signal House": {
-  "price": "$1.50",
-  "price_note": "from · per month",
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
   "verified": "2026-09-11",
   "catch": "Two things are missing from a page that is otherwise unusually specific.",
   "best": "Teams sending real SMS volume in the US who already know what an A2P 10DLC campaign is and want a cheaper per-segment rate than Twilio’s list without giving up published pricing. The volume ladder is genuinely steep — from $0.0065 down to $0.0030 — so the case gets stronger the more you send, and the number discounts above 500 numbers suit anyone running many local presences."
@@ -6291,6 +6325,11 @@
  "Storista": {
   "flags": [
    [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -6381,19 +6420,9 @@
  "SupaEasy": {
   "flags": [
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$49",
@@ -6592,6 +6621,13 @@
   "best": "Shopify merchants on the Basic or Grow plan who want SEO audits, bulk metadata, image alt text and speed fixes out of one app instead of hiring a specialist."
  },
  "Tapstitch": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
   "verified": "2026-09-14",
   "catch": "Printify is cheaper, higher-margin and has a far bigger catalogue — if you're optimising for profit per sale or product breadth, that's the real trade-off.",
   "best": "Creators building a real apparel or streetwear brand who care about fabric, fit and how the product feels in hand."
@@ -6653,11 +6689,6 @@
  },
  "Teikametrics": {
   "flags": [
-   [
-    "🔒",
-    "Hidden pricing",
-    "quote_only"
-   ],
    [
     "🧮",
     "Usage-metered",
@@ -6841,13 +6872,6 @@
   "best": "Shopify merchants running Meta and TikTok ads who need more than the free channel apps give them."
  },
  "TnC": {
-  "flags": [
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
-   ]
-  ],
   "price": "$7.99",
   "price_note": "Basic Plan · per month on the App Store listing, or $47.94 a year, for the checkbox…",
   "verified": "2026-09-09",
@@ -6931,8 +6955,6 @@
     "addons_extra"
    ]
   ],
-  "price": "$12",
-  "price_note": "from · per month",
   "verified": "2026-09-14",
   "catch": "Per-user pricing is honest and simple, but it means the cost scales linearly with headcount — a ten-person crew is a real monthly number, not the single-seat sticker.",
   "coupon": {
@@ -7117,6 +7139,13 @@
   "best": "Manufacturers and wholesalers who have outgrown spreadsheets and need real-time stock across multiple warehouses, with batch and serial tracking."
  },
  "Upsell.com": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
   "price": "$9.99",
   "price_note": "Growth · per month from the 51st order or $51 of upsell revenue up to 2,000 a…",
   "verified": "2026-09-19",
@@ -7124,6 +7153,13 @@
   "best": "Shopify merchants who want one funnel covering product page, cart, post-purchase and thank-you offers with AI recommendations and A/B testing."
  },
  "UpsellPlus": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
   "price": "$49",
   "price_note": "Launch · per month, or $500 a year",
   "verified": "2026-09-19",
@@ -7189,7 +7225,7 @@
    ]
   ],
   "price": "$1,500",
-  "price_note": "Pilot · per month, a one-off scoped pilot, credited toward the first month in production",
+  "price_note": "Pilot · a one-off scoped pilot, credited toward the first month in production",
   "verified": "2026-09-10",
   "catch": "This is priced for agencies and telecoms reselling AI phone agents, not for a single small business wanting one receptionist bot.",
   "best": "Agencies, MSPs and service providers that want to deploy and resell white-label AI voice agents at volume.",
@@ -7308,14 +7344,14 @@
  "Way": {
   "flags": [
    [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
     "📅",
     "Annual commit",
     "annual_lock"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$6.99",
@@ -7377,7 +7413,7 @@
     "annual_lock"
    ]
   ],
-  "price": "$29",
+  "price": "$16",
   "price_note": "from · per month",
   "verified": "2026-08-29",
   "catch": "Three separate bills, and the pricing page shows them on separate tabs.",
@@ -7450,13 +7486,6 @@
   "best": "Agencies and lead-gen businesses that want every lead — calls, forms, chats — attributed to its source and campaign without enterprise-suite prices."
  },
  "Wholesale Gorilla": {
-  "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ]
-  ],
   "price": "$34.95",
   "price_note": "Lite · a month, billed every 30 days",
   "verified": "2026-09-19",
@@ -7521,8 +7550,6 @@
     "addons_extra"
    ]
   ],
-  "price": "$1",
-  "price_note": "from · per month",
   "verified": "2026-09-18",
   "catch": "The $7-per-100-prospects unit reads cheap, but a real outbound motion stacks add-ons fast.",
   "best": "Outbound teams that want usage-priced cold email plus LinkedIn outreach, with unlimited seats and email accounts included instead of per-user fees."
@@ -7655,8 +7682,6 @@
     "addons_extra"
    ]
   ],
-  "price": "$50",
-  "price_note": "from · per month",
   "verified": "2026-09-05",
   "catch": "Three separate multipliers sit on top of the number you first see.",
   "best": "Support teams past the point where a shared inbox works, who need routing, a help centre and reporting in one place and have the volume to justify per-agent pricing."
@@ -7724,6 +7749,11 @@
  "SEOKart": {
   "flags": [
    [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
     "📅",
     "Annual commit",
     "annual_lock"
@@ -7741,11 +7771,6 @@
     "📅",
     "Annual commit",
     "annual_lock"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$9.99",
@@ -7756,6 +7781,11 @@
  },
  "Trackr": {
   "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
    [
     "📅",
     "Annual commit",
@@ -7823,13 +7853,6 @@
   "best": "Shopify merchants on a standard plan who need wholesale prices for named customer groups, with CSV price lists and a registration form that someone approves."
  },
  "MX AI": {
-  "flags": [
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
-   ]
-  ],
   "price": "$2.99",
   "price_note": "Monthly Plan · per month for the whole app, with no usage tier above it",
   "verified": "2026-09-16",
@@ -7837,13 +7860,6 @@
   "best": "Shopify merchants who want seasonal or ambient audio on the storefront, want a say in how the player looks and behaves."
  },
  "Helm": {
-  "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ]
-  ],
   "price": "$129",
   "price_note": "from · per month",
   "verified": "2026-09-16",
@@ -7870,13 +7886,6 @@
   "best": "Shopify merchants who want a free sticky buy button, or who need to hide add-to-cart and express-payment buttons on products they list online but sell in person."
  },
  "Social Bar": {
-  "flags": [
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
-   ]
-  ],
   "price": "$4.99",
   "price_note": "from · per month",
   "verified": "2026-09-18",
@@ -7901,6 +7910,13 @@
   "best": "Teams already living inside GitHub pull requests who want end-to-end tests to exist at all."
  },
  "Influencer Hero": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
   "verified": "2026-09-19",
   "catch": "The three-month minimum is the real commitment, and there is no free trial to soften it.",
   "best": "Brands running influencer marketing as a continuous programme rather than a campaign, with enough volume to use 1,000 reach-outs a month from the first month."
@@ -7913,12 +7929,17 @@
     "per_seat"
    ],
    [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
    ]
   ],
-  "price": "$20",
+  "price": "$59",
   "price_note": "from · per month",
   "verified": "2026-09-19",
   "catch": "Every tier says Book a demo.",
@@ -7926,6 +7947,11 @@
  },
  "Poptin": {
   "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
    [
     "🆓",
     "Free tier",
@@ -7952,6 +7978,11 @@
  },
  "Selleasy": {
   "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
    [
     "🆓",
     "Free tier",
