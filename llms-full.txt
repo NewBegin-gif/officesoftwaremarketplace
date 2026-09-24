@@ -253,8 +253,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Navan
 - Review: https://officesoftwaremarketplace.com/navan-review.html
-- Verdict: Navan: Business Travel is genuinely free to the customer, funded by travel-supplier commissions. 'Free' is real but has a mechanism.
-- Price: Navan publishes no price list, re-verified 2026-08-17: the pricing URL is a marketing page and neither our July nor our August 2026 capture retrieved an amount. What we can state from our dated reading is the shape.
+- Verdict: Navan Expense is free for the first 5 monthly expensing users and then $15 per user per month. 'Free' is real but has a mechanism.
+- Price: (read 24 September 2026 on navan.com/pricing) Navan Business is free for companies of up to 300 employees, with no limit on trips, and Navan Expense is free for the first 5 monthly expensing users and then $15 per user per month. Above 300 employees the plan is Navan Enterprise, priced by quote.
 
 ## Ngram
 - Review: https://officesoftwaremarketplace.com/ngram-review.html
