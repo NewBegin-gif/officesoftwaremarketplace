@@ -169,7 +169,7 @@
 .filter-btn:hover{border-color:var(--border-hi);color:var(--text)}
 .filter-btn.active{background:var(--text);border-color:var(--text);color:var(--bg)}
 /* TOOLS GRID */
-.tools-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.tools-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
 .tool-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:26px 26px 22px;transition:border-color .25s var(--ease),transform .25s var(--ease),box-shadow .25s var(--ease);display:flex;flex-direction:column;position:relative;overflow:hidden;box-shadow:var(--shadow-card)}
 .tool-card:hover{border-color:var(--border-hi);transform:translateY(-3px);box-shadow:0 12px 32px -16px rgba(0,0,0,.6)}
 .tool-card.featured{border-color:rgba(59,130,246,.4)}
@@ -191,9 +191,9 @@
 .tool-cta-primary:hover{opacity:.88;transform:translateY(-1px)}
 .tool-cta-secondary{color:var(--accent-2);font-size:.85rem;font-weight:600;transition:gap .15s;display:inline-flex;align-items:center;gap:5px;white-space:nowrap}
 .tool-cta-secondary:hover{gap:9px}
-.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,1fr)}
-.tools-grid,.social-grid{grid-template-columns:1fr}
-@media(max-width:960px){.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,1fr)}
+.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+.tools-grid,.social-grid{grid-template-columns:minmax(0,1fr)}
+@media(max-width:960px){.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
  .how-grid{grid-template-columns:1fr}
  .footer-inner{grid-template-columns:1fr 1fr 1fr}
  .compare-card{grid-template-columns:1fr;text-align:left}}
@@ -210,7 +210,7 @@
  .stats-inner{grid-template-columns:repeat(2,1fr)}
  .stat-item:nth-child(2){border-right:none}
  .stat-item:nth-child(1),.stat-item:nth-child(2){border-bottom:1px solid var(--border)}
- .tools-grid,.social-grid{grid-template-columns:1fr}
+ .tools-grid,.social-grid{grid-template-columns:minmax(0,1fr)}
  .section{padding:70px 24px 40px}
  .how-section{padding:70px 24px;margin-top:50px}
  .footer-inner{grid-template-columns:1fr 1fr;gap:28px}
@@ -248,7 +248,7 @@
 .tc-catch b,.tc-best b{font-size:.66rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--amber);margin-right:6px}
 .tc-best b{color:var(--green)}
 .tool-tags{margin-top:auto;margin-bottom:16px}
-.tool-card{container-type:inline-size}.tool-cta-row{gap:8px;flex-direction:column;align-items:stretch}.tool-cta-review{flex:1 1 auto}.tool-cta-primary{white-space:nowrap}.tc-catch{}
+.tool-card{container-type:inline-size;min-width:0}.tool-cta-row{gap:8px;flex-direction:column;align-items:stretch}.tool-cta-review{flex:1 1 auto}.tool-cta-primary{white-space:nowrap}.tc-catch{}
 /* KAART_V3: Atlas-chips en vlagkleur op de linkerrand */
 .tool-card{border-left:3px solid var(--border-hi)}
 .tool-card[data-flag=quote_only]{border-left-color:#f59e0b}
@@ -279,7 +279,7 @@
 .tc-coupon{min-height:40px;margin:-4px 0 12px;display:flex;align-items:center;gap:8px;padding:7px 10px;border-radius:9px;border:1px dashed rgba(52,211,153,.45);background:rgba(52,211,153,.06);font-size:.78rem;color:var(--text-2)}
 .tc-coupon.leeg{display:none}
 .tc-coupon .cd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:800;color:var(--green);letter-spacing:.04em;background:rgba(52,211,153,.12);border:1px solid rgba(52,211,153,.35);border-radius:6px;padding:1px 7px;white-space:nowrap}
-.tc-coupon .lb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tc-coupon .lb{min-width:0;flex:1 1 auto;overflow-wrap:anywhere}
 
 /* KAART_V7: ledger. Eén tool per rij, vijf kolommen; de kolomlijnen doen de uitlijning. */
 #marketplace-grid,.tools-grid{display:block!important;grid-template-columns:none!important}
@@ -395,7 +395,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 @media(max-width:720px){.znav .in{height:54px;padding:0 14px;gap:12px}.znav .merk{font-size:1rem}
  .znav .links a{padding:7px 8px;font-size:.8rem}.znav .links a.cta{display:none}}
 </style><div class="in"><a class="merk" href="/"><i></i>Office Software <em>Marketplace</em></a><div class="links"><a href="/deals.html">Deals</a><a href="/guides.html">Guides</a><a href="/build-business-finance-stack.html">Build a stack</a><a href="/tools/">Free tools</a><a href="/atlas.html">Atlas</a><a href="/price-watch.html">Price Watch</a><a href="/about.html">About</a><a href="/finder.html" class="cta">Tool Finder</a></div></div></nav>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Bitvavo Review (2026): MiCA-Regulated, 0.25% Taker Fee", "datePublished": "2026-06-30", "dateModified": "2026-09-21", "author": {"@type": "Person", "@id": "https://aibuildermarketplace.com/about/#daan", "name": "Daniel Haket"}, "publisher": {"@type": "Organization", "name": "Office Software Marketplace"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Bitvavo Review (2026): MiCA-Regulated, 0.25% Taker Fee", "datePublished": "2026-06-30", "dateModified": "2026-09-24", "author": {"@type": "Person", "@id": "https://aibuildermarketplace.com/about/#daan", "name": "Daniel Haket"}, "publisher": {"@type": "Organization", "name": "Office Software Marketplace"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Bitvavo", "applicationCategory": "Financial Operations", "operatingSystem": "Web", "description": "Dutch-regulated, euro-native crypto exchange with deep EUR pairs and an API for automation. No subscription — the base tier under €100k monthly volume runs about 0.15% maker and 0.25% taker, dropping through ten volume tiers. Sign up via our link for €10K fee-free.", "url": "https://officesoftwaremarketplace.com/bitvavo-review.html", "sameAs": "https://bitvavo.com", "review": {"@type": "Review", "url": "https://officesoftwaremarketplace.com/bitvavo-review.html", "author": {"@type": "Person", "name": "Daniel Haket", "@id": "https://aibuildermarketplace.com/about/#daan"}, "publisher": {"@type": "Organization", "name": "Office Software Marketplace"}}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What does trading actually cost on Bitvavo?", "acceptedAnswer": {"@type": "Answer", "text": "Read on their fees page on 18 August 2026: on EUR markets you start at 0.15% maker and 0.25% taker, and the schedule steps down through ten volume tiers — 0.10%/0.20% from €100,000 of 30-day volume, 0.05%/0.14% from €1m, 0.00%/0.08% from €10m and 0.00%/0.02% above €100m. USDC markets run on their own schedule from 0.05% maker and taker. Funding is where the other cost hides: SEPA, iDEAL/Wero and Bancontact deposits are free, but a credit card costs 1% and PayPal 2% — more than the trade itself at the entry tier."}}, {"@type": "Question", "name": "Can I run a trading bot on it, and what does the API require?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, and the friction is documented rather than hidden. Bitvavo's own docs put the default rate limit at 1,000 weight points per minute and require an operatorId field on every create, update and cancel order request, so a bot written before that requirement gets rejected. Keys are made under Settings > API with an IP whitelist and a choice of six permissions, two-factor authentication has to be on first, and the secret is shown once and cannot be retrieved later. None of that changes with volume."}}, {"@type": "Question", "name": "Do stablecoin trades help me reach a cheaper fee tier?", "acceptedAnswer": {"@type": "Answer", "text": "No. The fees page states that trades on stablecoin pairs do not contribute to the fee-schedule 30-day volume, and prices them on a separate Category C schedule starting at 0.10% maker and taker rather than on the EUR schedule. High stablecoin turnover can leave you paying entry-tier rates on everything else."}}, {"@type": "Question", "name": "What should I weigh before buying Financial Operations software?", "acceptedAnswer": {"@type": "Answer", "text": "The bar here is higher than features. Check who actually holds the money and under what licence, whether client funds are segregated, what audit trail and permission controls you get, and how support behaves when something goes wrong mid-transaction. Anything touching payments should be able to answer those in writing; if it cannot, that is your answer."}}, {"@type": "Question", "name": "Is this a hands-on review of Bitvavo?", "acceptedAnswer": {"@type": "Answer", "text": "This is a researched assessment, not a hands-on test — where we've used a tool ourselves, we say so explicitly. We name what each tool is genuinely good and bad at, and we earn a commission only if you sign up, at no cost to you."}}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://officesoftwaremarketplace.com"}, {"@type": "ListItem", "position": 2, "name": "Reviews", "item": "https://officesoftwaremarketplace.com/"}, {"@type": "ListItem", "position": 3, "name": "Bitvavo Review", "item": "https://officesoftwaremarketplace.com/bitvavo-review.html"}]}</script>
@@ -403,7 +403,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <div class="wrap">
 <div class="bc"><a href="/">Office Software Marketplace</a> &rsaquo; <a href="/">Reviews</a> &rsaquo; Bitvavo</div>
 <h1><span class="lg"><img src="https://www.google.com/s2/favicons?sz=128&amp;domain=bitvavo.com" alt="Bitvavo" loading="lazy" onerror="this.style.display='none'"></span>Bitvavo Review <span style="color:var(--muted);font-weight:700">(2026)</span><span style="display:block;font-size:.6em;color:var(--muted);font-weight:700;margin-top:6px">MiCA-Regulated, 0.25% Taker Fee</span></h1>
-<div class="meta"><span class="tag">Financial Operations</span><span>Researched assessment · by <a href="/about.html#daan">Daniel Haket</a></span><span>Updated 2026-09-21</span></div>
+<div class="meta"><span class="tag">Financial Operations</span><span>Researched assessment · by <a href="/about.html#daan">Daniel Haket</a></span><span>Updated 2026-09-24</span></div>
 <p class="lede">The honest caveats are crypto-wide, not Bitvavo-specific: fees are only part of the cost (spread matters on small orders), and no exchange removes market risk — the platform being cheap and MiCA-regulated doesn&#x27;t make the assets safe. Throughout this review we weigh it against Coinbase.</p>
 <div class="box best"><b>Best for:</b> EU-based traders and builders who want a MiCA-regulated, euro-native exchange with low tiered fees, deep EUR pairs and a solid API for automation.</div>
 <div class="box skip"><b>Who should skip it:</b> if you&#x27;re outside the EU (it&#x27;s euro-centric), you trade exotic altcoins it doesn&#x27;t list, or you need derivatives-first infrastructure.</div>

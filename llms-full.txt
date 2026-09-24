@@ -1,6 +1,6 @@
 # Office Software Marketplace — Full Review Catalog
 
-> All 64 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-09-23.
+> All 65 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-09-24.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -195,6 +195,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/flexiquiz-review.html
 - Verdict: FlexiQuiz — Free: 20 responses a month, no card required. The per-response price falls steeply as you climb ($0.034, $0.0125, $0.0024 on yearly billing).
 - Price: (re-verified 2026-09-22 on flexiquiz.com/Home/Plans, every amount unchanged; the monthly-billed rates were read from the page's own billing-toggle script, the yearly rates from the rendered cards) Free: 20 responses a month, no card required. Essentials $25/mo billed monthly or $17/mo billed yearly ($204/yr) -- 500 responses a month, 1 administrator, unlimited quizzes and questions, question bank, live quizzes,…
+
+## Foxit
+- Review: https://officesoftwaremarketplace.com/foxit-review.html
+- Verdict: Foxit: PDF Editor+ is $159.99 per user per year or $13.99 per user per month. Foxit's pitch is being the honest fraction of Acrobat's price.
+- Price: (re-verified 2026-09-22 on the Foxit PDF Editor pricing page; every figure identical to the 1 Sep 2026 reading) PDF Editor is $129.99 per user per year, or $10.99 per user per month, with a 14-day free trial that asks for no card. PDF Editor+ is $159.99 per user per year or $13.99 per user per month, and bundles what used to be a second bill: mobile apps for iOS and Android, AI Smart Redact, cloud storage and…
 
 ## FreshBooks
 - Review: https://officesoftwaremarketplace.com/freshbooks-review.html
