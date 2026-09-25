@@ -1,6 +1,6 @@
 # Office Software Marketplace
 
-> Independent, hands-researched reviews of office, finance, HR and IT software for small and mid-sized teams. 66 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-09-25.
+> Independent, hands-researched reviews of office, finance, HR and IT software for small and mid-sized teams. 67 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-09-25.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -20,7 +20,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [The Best WP Engine Alternatives (2026)](https://officesoftwaremarketplace.com/best-wp-engine-alternatives.html): WP Engine alternatives compared on the numbers we read ourselves: what each host really costs, where the meter is, and who each one is actua
 - [How to Set Up Your Business Finance Stack (2026)](https://officesoftwaremarketplace.com/build-business-finance-stack.html): A blueprint for your money operations: a business account, paying bills, bookkeeping, payroll and tax — the exact stack, what each tool does
 
-## Reviews (66) — canonical versions
+## Reviews (67) — canonical versions
 - [accessiBe Review (2026): From $59/mo, Checked Sep 2026](https://officesoftwaremarketplace.com/accessibe-review.html): accessiBe: $490 is the first figure a visitor sees. The thing you most need to know about this product is not on its pricing page, it is on the FTC’s.
 - [ADP Review (2026): No Public Price, Quote Only](https://officesoftwaremarketplace.com/adp-review.html): ADP shows no public pricing for RUN anywhere on its site. The quote-only posture is normal in payroll.
 - [Airia Review (2026): Real Deployments Land in Custom Quotes](https://officesoftwaremarketplace.com/airia-review.html): Airia used to publish a ladder: a free tier, Individual around $50 a month and Team around $250. As of 20 August 2026 that is over.
@@ -62,6 +62,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [FlexiQuiz Review (2026): From $25/mo, Checked Sep 2026](https://officesoftwaremarketplace.com/flexiquiz-review.html): FlexiQuiz — Free: 20 responses a month, no card required. The per-response price falls steeply as you climb ($0.034, $0.0125, $0.0024 on yearly billin
 - [Foxit Review (2026): Editor+ Now Bundles the E-Signing](https://officesoftwaremarketplace.com/foxit-review.html): Foxit: PDF Editor+ is $159.99 per user per year or $13.99 per user per month. Foxit's pitch is being the honest fraction of Acrobat's price.
 - [FreshBooks Review (2026): $2.30 Is a Three-Month Rate](https://officesoftwaremarketplace.com/freshbooks-review.html): FreshBooks: $62.10 on Lite, $116.10 on Plus, $189.00 on Premium. The meter is billable clients, not invoices or revenue: Lite stops at five.
+- [Freshservice Review (2026): The ITSM Features Are at Pro](https://officesoftwaremarketplace.com/freshservice-review.html): Freshservice: Starter $19/agent/mo billed annually or $29 monthly. Price the tier that contains your must-haves plus realistic AI usage, not the start
 - [Glide Review (2026): Two Products, Two Pricing Pages](https://officesoftwaremarketplace.com/glide-review.html): Glide: The classic spreadsheet-to-app builder still has a genuinely free tier. Glide meters updates, not just seats.
 - [Gusto Review (2026): Base Plus $6 to $22 an Employee](https://officesoftwaremarketplace.com/gusto-review.html): Gusto: Premium $180 plus $22 per person with a dedicated service advisor and HR experts. The base-plus-per-employee model is transparent but adds up.
 - [Heard Review (2026): From $129/mo, Checked Sep 2026](https://officesoftwaremarketplace.com/heard-review.html): Heard: Lite $129/mo or $1,548 a year, Essential $169/mo or $2,028, Premium $255/mo or $3,060. Mind the fine print between tiers.
