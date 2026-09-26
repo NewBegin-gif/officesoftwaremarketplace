@@ -12,11 +12,11 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Deals](https://officesoftwaremarketplace.com/deals.html): current deals and free trials
 
 ## Buying guides (7)
-- [The Best Business Dashboard and Reporting Tools (2026)](https://officesoftwaremarketplace.com/best-business-dashboard-tools.html): KPI dashboards run from $0 to $159 a month — but the one that looks cheapest bills per client, so a twenty-five-client agency pays about $50
-- [Best Business Finance Tools by Task 2026](https://officesoftwaremarketplace.com/best-business-finance.html): Best business finance tools, by task (2026) — honestly compared by someone who runs his business on these tools.
+- [The Best Business Dashboard and Reporting Tools (2026)](https://officesoftwaremarketplace.com/best-business-dashboard-tools.html): Dashboard tools charge for different things: data sources, clients, legal entities, social profiles or a quote.
+- [Best Business Finance Tools by Task 2026](https://officesoftwaremarketplace.com/best-business-finance.html): Best business finance tools, by task (2026) — compared from our researched pricing dossiers: what each tool is best for, its price terms, an
 - [The Best Privacy and Encryption Tools for Business (2026)](https://officesoftwaremarketplace.com/best-business-privacy-tools.html): A team password manager costs $20 per user a year — or $8.99 per user a month, five times more, for the same core job.
-- [The Best Global Payroll and EOR Platforms (2026)](https://officesoftwaremarketplace.com/best-global-payroll-eor.html): Employing someone abroad costs $199 to $699 a month depending on who you ask — and three of the biggest names publish nothing at all.
-- [Best Productivity & Work Management Tools 2026](https://officesoftwaremarketplace.com/best-productivity-work-management.html): Best productivity & work management tools (2026) — honestly compared by someone who runs his business on these tools.
+- [The Best Global Payroll and EOR Platforms (2026)](https://officesoftwaremarketplace.com/best-global-payroll-eor.html): Employing someone abroad costs $199 to $699 a month depending on who you ask — and the biggest names publish little or nothing: ADP no rate 
+- [Best Productivity & Work Management Tools 2026](https://officesoftwaremarketplace.com/best-productivity-work-management.html): Best productivity & work management tools (2026) — compared from our researched pricing dossiers: what each tool is best for, its price term
 - [The Best WP Engine Alternatives (2026)](https://officesoftwaremarketplace.com/best-wp-engine-alternatives.html): WP Engine alternatives compared on the numbers we read ourselves: what each host really costs, where the meter is, and who each one is actua
 - [How to Set Up Your Business Finance Stack (2026)](https://officesoftwaremarketplace.com/build-business-finance-stack.html): A blueprint for your money operations: a business account, paying bills, bookkeeping, payroll and tax — the exact stack, what each tool does
 
