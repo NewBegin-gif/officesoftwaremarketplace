@@ -213,8 +213,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Freshservice
 - Review: https://officesoftwaremarketplace.com/freshservice-review.html
-- Verdict: Freshservice: Starter $19/agent/mo billed annually or $29 monthly. Price the tier that contains your must-haves plus realistic AI usage, not the starter row.
-- Price: (price re-verified 2026-09-23 against the vendor's own pricing page) Per agent, read 23 Sep 2026 on freshworks.com/freshservice/pricing/: Starter $19/agent/mo billed annually or $29 monthly; Growth $49 or $59; Pro $99 or $119. Enterprise is quote-only again: the card now reads 'Custom' with a 'Contact us' button.
+- Verdict: Freshservice: The page's own plan data still carries $139 annual and $167 monthly for it. The $19 headline rarely survives contact with a real deployment.
+- Price: (price re-verified 2026-09-29 against the vendor's own pricing page) Per agent, read 29 Sep 2026 on freshworks.com/freshservice/pricing/: Starter $19/agent/mo billed annually or $29 monthly; Growth $49 or $59; Pro $99 or $119. Enterprise is quote-only again: the card now reads 'Custom' with a 'Contact us' button.
 
 ## GCheck
 - Review: https://officesoftwaremarketplace.com/gcheck-review.html
