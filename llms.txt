@@ -94,13 +94,14 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Tresorit Review (2026): From €16/user, No Server-Side Search](https://officesoftwaremarketplace.com/tresorit-review.html): Tresorit: €23.99, €16 and €20 on yearly. You pay the Swiss-E2EE premium — noticeably above mainstream clouds and above Proton Drive per GB.
 - [World Businesses for Sale Review (2026): 3%, 2% or 1%](https://officesoftwaremarketplace.com/world-businesses-for-sale-review.html): World Businesses for Sale: Browsing is free for buyers. On the broker plans you pay twice: a listing fee up front AND commission when it sells.
 
-## Free calculators (10)
+## Free calculators (11)
 - [Free Break-Even Calculator (2026)](https://officesoftwaremarketplace.com/tools/break-even-calculator/)
 - [Free Cap Table & Equity Dilution Calculator (2026)](https://officesoftwaremarketplace.com/tools/cap-table-calculator/)
 - [Free Freelance Hourly Rate Calculator (2026)](https://officesoftwaremarketplace.com/tools/freelance-rate-calculator/)
 - [Free Invoice Generator (2026)](https://officesoftwaremarketplace.com/tools/invoice-generator/)
 - [Free Business Loan & Amortization Calculator (2026)](https://officesoftwaremarketplace.com/tools/loan-calculator/)
 - [Free Profit Margin Calculator (2026)](https://officesoftwaremarketplace.com/tools/profit-margin-calculator/)
+- [Before your team software renews: free renewal check](https://officesoftwaremarketplace.com/tools/renewal-check/)
 - [Free ROI & Payback Period Calculator (2026)](https://officesoftwaremarketplace.com/tools/roi-calculator/)
 - [Free Salary to Hourly Calculator (2026)](https://officesoftwaremarketplace.com/tools/salary-to-hourly-calculator/)
 - [Test team workflow software before you buy](https://officesoftwaremarketplace.com/tools/software-test-drive/)
