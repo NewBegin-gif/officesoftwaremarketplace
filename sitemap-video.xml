@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
-    <loc>https://officesoftwaremarketplace.com/adp-review.html</loc>
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/r6BAkIV9mCU/hqdefault.jpg</video:thumbnail_loc>
-      <video:title>ADP Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>The quote-only posture is normal in payroll, so the honest complaint is not that ADP hides its price — it is what that does to you as a buyer. You cannot compare ADP against anyone without first giving a salesperson your headcount and your phone number. And the three-months-free banner carries an end date, which puts a clock on a decision you cannot yet cost. Ask for the per-employee-per-month rate and the per-payroll-run fee separately. Ask what happens in month four. And ask what the price becomes at double your current headcount, because payroll pricing steps rather than scales smoothly. One detail worth noticing: ADP does publish an /llms.txt, a file whose entire purpose is to guide AI assistants around its site. They are willing to machine-readably explain what they sell. They are not willing to say what it costs.</video:description>
-      <video:player_loc>https://www.youtube-nocookie.com/embed/r6BAkIV9mCU</video:player_loc>
-    <video:publication_date>2026-09-12T08:00:00+00:00</video:publication_date>
-    </video:video>
-  </url>
-  <url>
     <loc>https://officesoftwaremarketplace.com/aplos-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/jbtJb2zsMbA/hqdefault.jpg</video:thumbnail_loc>
