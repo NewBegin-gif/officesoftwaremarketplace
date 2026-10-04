@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
+    <loc>https://officesoftwaremarketplace.com/adp-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/zgrKmI6x_Sc/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>ADP Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The quote-only posture is normal in payroll, so the honest complaint is not that ADP hides its price — it is what that does to you as a buyer. You cannot compare ADP against anyone without first giving a salesperson your headcount and your phone number. And the three-months-free banner carries an end date, which puts a clock on a decision you cannot yet cost. Ask for the per-employee-per-month rate and the per-payroll-run fee separately. Ask what happens in month four. And ask what the price becomes at double your current headcount, because payroll pricing steps rather than scales smoothly. One detail worth noticing: ADP does publish an /llms.txt, a file whose entire purpose is to guide AI assistants around its site. They are willing to machine-readably explain what they sell. They are not willing to say what it costs.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/zgrKmI6x_Sc</video:player_loc>
+    <video:publication_date>2026-10-04T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/airia-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/jWccgnQfYvw/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Airia Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Airia used to publish part of its ladder, which was refreshingly rare for enterprise AI. As of 20 August 2026 that is over: the pricing page redirects into developer documentation on airia.ai from both airia.com and www.airia.com, and there is no amount anywhere on the site. So the honest position is now the usual one for this category — you cannot budget before a sales conversation. The underlying fit has not changed, though the pitch has. Read on 1 September 2026, the site leads with discovery and enforcement rather than building: finding the AI tools, models, agents and MCP servers already running, including the unapproved ones, stopping actions at the execution layer before the tool call fires, and mapping governance evidence to the EU AI Act, NIST AI RMF, SR 11-7, HIPAA, ISO 42001 and SOC 2. The agent builder now sits under Optimize. Either way this only pays off at organisational scale. A small team that wants one chatbot is buying far more platform than it needs. For an enterprise standardising and governing AI, that is exactly the point.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/jWccgnQfYvw</video:player_loc>
+    <video:publication_date>2026-10-03T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://officesoftwaremarketplace.com/aplos-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/jbtJb2zsMbA/hqdefault.jpg</video:thumbnail_loc>
@@ -476,6 +496,26 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
       <video:description>The seat definition is the whole story and they state it plainly, which deserves credit: you pay for every seat you have created, not every person actually being tracked. So an account that grew with your headcount and never got tidied up is billing you for people who left. Audit your seat list before renewal, not after. The second thing is that features on the lower tiers are add-ons rather than inclusions — Insights, Tasks, Silent app and extra screenshots at $2.50 a seat a month, Locations at $3.33 — so the plan you priced and the plan that does what you watched in the demo may differ by ten dollars a seat. And be clear with yourself about why you are buying it: screenshots and activity levels change how a team feels about their work, and that cost does not appear on any pricing page.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/gn_d6pb4sFM</video:player_loc>
     <video:publication_date>2026-08-11T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/idrive-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/AUUhsIxmm9s/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>IDrive Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The first-year price is a teaser and the renewal is the price — IDrive says so itself under the plan table, and on the current numbers the step from discounted to standard is about 43% (Personal 5 TB goes from $6.99 to $9.99 a month). Budget on year-two rates, not the banner, and note that the discount is for new signups only and not available through their mobile apps. Overrun your storage and there is a further $0.25/GB/month on Personal, $0.50 on Team and Business. Beyond that, the honest backup fundamentals apply: a backup you never test-restore is a hope, not a backup, and the first full backup of multi-TB data takes weeks over the wire unless you use their physical Express seed shipping.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/AUUhsIxmm9s</video:player_loc>
+    <video:publication_date>2026-07-12T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/invideo-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/RqVbBu0Z8Rc/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>InVideo Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The honest catch is the credit model — each plan is a fixed monthly credit allowance that different models consume at different rates, and unused credits do not roll over, so a heavy month can exhaust an allowance long before it renews while a slow month simply wastes what you paid for. There is also no free way in any more: on 31 August 2026 the pricing page published no free tier at all, and on 24 September 2026 the cheapest route to trying it was Starter at $20 a seat a month, with 400 credits. AI video is fast but generic by default: templated output needs real editing and brand direction to not look like everyone else&#x27;s. Treat it as a first-draft engine, not a finished-studio replacement.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/RqVbBu0Z8Rc</video:player_loc>
+    <video:publication_date>2026-07-27T08:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
