@@ -1,6 +1,6 @@
 # Office Software Marketplace
 
-> Independent, hands-researched reviews of office, finance, HR and IT software for small and mid-sized teams. 78 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-10-04.
+> Independent, hands-researched reviews of office, finance, HR and IT software for small and mid-sized teams. 80 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-10-04.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -20,7 +20,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [The Best WP Engine Alternatives (2026)](https://officesoftwaremarketplace.com/best-wp-engine-alternatives.html): WP Engine alternatives compared on the numbers we read ourselves: what each host really costs, where the meter is, and who each one is actua
 - [How to Set Up Your Business Finance Stack (2026)](https://officesoftwaremarketplace.com/build-business-finance-stack.html): A blueprint for your money operations: a business account, paying bills, bookkeeping, payroll and tax — the exact stack, what each tool does
 
-## Reviews (78) — canonical versions
+## Reviews (80) — canonical versions
 - [accessiBe Review (2026): From $59/mo, Checked Sep 2026](https://officesoftwaremarketplace.com/accessibe-review.html): accessiBe: $490 is the first figure a visitor sees. The thing you most need to know about this product is not on its pricing page, it is on the FTC’s.
 - [ADP Review (2026): No Public Price, Quote Only](https://officesoftwaremarketplace.com/adp-review.html): ADP shows no public pricing for RUN anywhere on its site. The quote-only posture is normal in payroll.
 - [Airia Review (2026): Real Deployments Land in Custom Quotes](https://officesoftwaremarketplace.com/airia-review.html): Airia used to publish a ladder: a free tier, Individual around $50 a month and Team around $250. As of 20 August 2026 that is over.
@@ -69,6 +69,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Gravity Forms Review (2026): Elite Wins From Five Sites](https://officesoftwaremarketplace.com/gravity-forms-review.html): Gravity Forms — Annual WordPress licences, unchanged since 1 Sep 2026: Basic $59/yr (1 site, standard support), Pro $159/yr (3 sites, standard support
 - [Guesty Review (2026): $9/mo Plus 1% Per Reservation](https://officesoftwaremarketplace.com/guesty-review.html): Guesty Lite is $9/mo PER LISTING plus 1% per reservation in 34 named markets, for 1-3 listings. Built for hosts with 1-3 listings starting on Guesty L
 - [Gusto Review (2026): Base Plus $6 to $22 an Employee](https://officesoftwaremarketplace.com/gusto-review.html): Gusto: Premium $180 plus $22 per person with a dedicated service advisor and HR experts. The base-plus-per-employee model is transparent but adds up.
+- [Harbor Compliance Review (2026): $99 Agent, $159 From Year Two](https://officesoftwaremarketplace.com/harbor-compliance-review.html): Harbor Compliance: Registered agent is $99 for the first year for new customers and renews at $159 a year. The $99 on every page is a first-year price
 - [Heard Review (2026): From $129/mo, Checked Sep 2026](https://officesoftwaremarketplace.com/heard-review.html): Heard: Lite $129/mo or $1,548 a year, Essential $169/mo or $2,028, Premium $255/mo or $3,060. Mind the fine print between tiers.
 - [Hive Review (2026): Three Add-Ons Make $12 Into $27](https://officesoftwaremarketplace.com/hive-review.html): Hive: Free forever for up to 10 workspace members, with 1,000 AI credits a month and 200MB of storage.
 - [Hopp Review (2026): Bolt's Business Rides, One Invoice](https://officesoftwaremarketplace.com/hopp-review.html): Hopp Business publishes no subscription price because it does not charge one. The honest note is that the platform is free and the rides are not.
@@ -76,6 +77,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Housecall Pro Review (2026): $59 Plan, 2.59% Card Fee](https://officesoftwaremarketplace.com/housecall-pro-review.html): Housecall Pro: Essentials $149/month ($189) for five users. The seats are the expensive part: users beyond the eight on MAX cost $35 a month each.
 - [Hubstaff Review (2026): You Pay for Seats, Not People](https://officesoftwaremarketplace.com/hubstaff-review.html): Hubstaff: Starter $4.99, Grow $7.50, Team $10, Enterprise $25 per seat per month. The seat definition is the whole story and they state it plainly.
 - [IDrive Review (2026): Year Two Costs 43% More](https://officesoftwaremarketplace.com/idrive-review.html): IDrive Mini is $0.25/month for 100 GB ($0.83/month for 500 GB). The first-year price is a teaser and the renewal is the price.
+- [InVideo Review (2026): From $20/mo, Checked Sep 2026](https://officesoftwaremarketplace.com/invideo-review.html): InVideo: Starter is $20 a seat a month on either billing (400 credits a seat a month, up to 5 seats). The honest catch is the credit model.
 - [Jane Review (2026): Priced Per Practitioner, With No Free Trial](https://officesoftwaremarketplace.com/jane-review.html): Jane: Extra practitioners cost $40 full-time or $20 part-time. Work out your price from your practitioner count, not from the plan headline.
 - [Joiin Review (2026): $23 for One Company, $92 for Ten](https://officesoftwaremarketplace.com/joiin-review.html): Joiin: 14-day free trial, no credit card; unlimited users and reports on every plan. The $23 headline covers a single company on annual billing.
 - [Leavo Review (2026): From $2.49/mo, Checked Aug 2026](https://officesoftwaremarketplace.com/leavo-review.html): Leavo: Premium $4.15/user/mo yearly (about $747/yr for 15). The tidy per-user numbers are annual-billed, and it's priced per seat.
