@@ -29,7 +29,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Arbor
 - Review: https://officesoftwaremarketplace.com/arbor-review.html
 - Verdict: Arbor has no pricing page at all — the URL 404s. The honest catches: it only exists in deregulated US states.
-- Price: Free for households, and re-verified as such on 2026-08-17. Arbor has no pricing page at all — the URL 404s — and neither our July nor our August 2026 capture produced a figure.
+- Price: Free for households, and re-verified as such on 2026-08-17 and again on 2026-10-06. Arbor has no pricing page at all — the URL 404s — and neither our July nor our August 2026 capture produced a figure.
 
 ## BackupMaster
 - Review: https://officesoftwaremarketplace.com/backupmaster-review.html
@@ -179,7 +179,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Employment Hero
 - Review: https://officesoftwaremarketplace.com/employment-hero-review.html
 - Verdict: Employment Hero: EVERY PRICE ON THAT PAGE IS AUD EXCLUDING GST — the page states it in its own disclaimer. Payroll no longer carries its own price at all.
-- Price: (2026-08-28, read on their own pricing page at employmenthero.com/pricing/) EVERY PRICE ON THAT PAGE IS AUD EXCLUDING GST — the page states it in its own disclaimer. It is the Australian page; separate pages exist for the UK, New Zealand, Singapore, Malaysia and Canada, and there is no US one.
+- Price: (2026-08-28, read on their own pricing page at employmenthero.com/pricing/; re-verified 2026-10-06) EVERY PRICE ON THAT PAGE IS AUD EXCLUDING GST — the page states it in its own disclaimer. It is the Australian page; separate pages exist for the UK, New Zealand, Singapore, Malaysia and Canada, and there is no US one.
 
 ## ExpertEx
 - Review: https://officesoftwaremarketplace.com/expertex-review.html
@@ -409,7 +409,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Top Echelon
 - Review: https://officesoftwaremarketplace.com/top-echelon-review.html
 - Verdict: Top Echelon: $95 billed annually or $115 month-to-month on Professional. Almost everything people shop for sits in Professional, not Standard.
-- Price: (2026-09-10, read on their own pricing page, both billing toggles) TE Recruit (the ATS and CRM) runs $79 per seat per month billed annually or $95 month-to-month on Standard, and $95 billed annually or $115 month-to-month on Professional. Those seat rates rose during 2026: the same cards read $75/$89 on Standard and $89/$110 on Professional when we read them on 25 August 2026.
+- Price: (2026-09-10, read on their own pricing page, both billing toggles; re-verified unchanged on 2026-10-06) TE Recruit (the ATS and CRM) runs $79 per seat per month billed annually or $95 month-to-month on Standard, and $95 billed annually or $115 month-to-month on Professional. Those seat rates rose during 2026: the same cards read $75/$89 on Standard and $89/$110 on Professional when we read them on 25 August 2026.
 
 ## Tresorit
 - Review: https://officesoftwaremarketplace.com/tresorit-review.html
