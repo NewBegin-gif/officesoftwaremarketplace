@@ -384,7 +384,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Remote People
 - Review: https://officesoftwaremarketplace.com/remote-people-review.html
 - Verdict: Remote People: US PEO from $99 per employee a month and US payroll from $29. The monthly rates are the cheapest we have on file for this category.
-- Price: (2026-08-07, read on their own pricing page) Priced per service rather than per plan, and every figure is a floor. Employer of Record: EOR Flex from $199 per employee a month, billed monthly with no commitment, no setup fee and no minimum headcount; EOR Plus from $399 with an annual commitment, a dedicated account manager and a minimum of 5 employees.
+- Price: (2026-08-07, read on their own pricing page; re-verified unchanged on 2026-10-06) Priced per service rather than per plan, and every figure is a floor. Employer of Record: EOR Flex from $199 per employee a month, billed monthly with no commitment, no setup fee and no minimum headcount; EOR Plus from $399 with an annual commitment, a dedicated account manager and a minimum of 5 employees.
 
 ## Rippling
 - Review: https://officesoftwaremarketplace.com/rippling-review.html
