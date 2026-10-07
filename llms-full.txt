@@ -58,8 +58,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Blinq
 - Review: https://officesoftwaremarketplace.com/blinq-review.html
-- Verdict: Blinq: Free forever for individuals (2 cards, unlimited QR sharing). The core product is honestly cheap.
-- Price: (re-verified 2026-08-17) Free forever for individuals (2 cards, unlimited QR sharing). For individuals, Premium is $9.99 a month billed monthly or $7.33 billed annually.
+- Verdict: Blinq: Free forever for individuals (2 cards, unlimited QR sharing). The core product is honestly cheap — the cost that grows hides in event lead capture.
+- Price: (re-verified 2026-08-17 and 2026-10-07) Free forever for individuals (2 cards, unlimited QR sharing). For individuals, Premium is $9.99 a month billed monthly or $7.33 billed annually.
 
 ## Bolt Business
 - Review: https://officesoftwaremarketplace.com/bolt-business-review.html
@@ -193,8 +193,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Expertise AI
 - Review: https://officesoftwaremarketplace.com/expertise-ai-review.html
-- Verdict: Expertise AI — The ladder was rebuilt since our July read: the Growth tier at $500/mo is gone. The honest catch is that there is no middle any more.
-- Price: (re-verified 2026-09-03; the ladder itself is unchanged since our 15 August read, but the Business conversation allowance is not) The ladder was rebuilt since our July read: the Growth tier at $500/mo is gone, and Business is now $2,000/mo instead of $1,250. What is left is three tiers.
+- Verdict: Expertise AI: Quote-only since our October reading. The honest catch is that you can no longer see what this costs.
+- Price: Quote-only since our October reading. Re-read 7 October 2026 on expertise.ai/pricing: the page no longer shows a single amount.
 
 ## Finale Inventory
 - Review: https://officesoftwaremarketplace.com/finale-inventory-review.html
@@ -218,8 +218,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## FreshBooks
 - Review: https://officesoftwaremarketplace.com/freshbooks-review.html
-- Verdict: FreshBooks: $62.10 on Lite, $116.10 on Plus, $189.00 on Premium. The meter is billable clients, not invoices or revenue: Lite stops at five.
-- Price: (2026-08-29, read on their own pricing page) Every amount is unchanged since 1 August 2026. The prices shown are 90% off for three months.
+- Verdict: FreshBooks: The regular rates have not moved since 1 August 2026 — Lite $23, Plus $43, Premium $70 a month. People cost extra on top at $11 each.
+- Price: (2026-10-07, read on their own pricing page) The regular rates have not moved since 1 August 2026 — Lite $23, Plus $43, Premium $70 a month — but the promotion in front of them changed. In August and September every tier showed 90% off for three months ($2.30, $4.30 and $7).
 
 ## Freshservice
 - Review: https://officesoftwaremarketplace.com/freshservice-review.html
