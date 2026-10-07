@@ -329,12 +329,12 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Leavo
 - Review: https://officesoftwaremarketplace.com/leavo-review.html
 - Verdict: Leavo: Premium $4.15/user/mo yearly (about $747/yr for 15). The tidy per-user numbers are annual-billed, and it's priced per seat.
-- Price: (price re-verified 2026-08-17 against leavo.com) (2026) 30-day free trial with unlimited members (a trial, not a permanent free plan). Professional $2.49/user/mo billed yearly (about $448/yr for 15 users) adds unlimited features and overtime banking; Premium $4.15/user/mo yearly (about $747/yr for 15).
+- Price: (price re-verified 2026-08-17 and 2026-10-07 against leavo.com) (2026) 30-day free trial with unlimited members (a trial, not a permanent free plan). Professional $2.49/user/mo billed yearly (about $448/yr for 15 users) adds unlimited features and overtime banking; Premium $4.15/user/mo yearly (about $747/yr for 15).
 
 ## Melio
 - Review: https://officesoftwaremarketplace.com/melio-review.html
 - Verdict: Melio: A free Go plan, $0 forever, with 5 free ACH payments a month and $0.50 for each one after that. The free plan is genuinely useful for low bill volume.
-- Price: (re-verified 2026-08-17 on their own pricing page) A free Go plan, $0 forever, with 5 free ACH payments a month and $0.50 for each one after that. Core is $25/mo, or $20 billed annually, with 20 free ACH a month; Boost $55/mo, or $44 annually, with 50 free ACH; Unlimited $80/mo.
+- Price: (re-verified 2026-08-17 and 2026-10-07 on their own pricing page) A free Go plan, $0 forever, with 5 free ACH payments a month and $0.50 for each one after that. Core is $25/mo, or $20 billed annually, with 20 free ACH a month; Boost $55/mo, or $44 annually, with 50 free ACH; Unlimited $80/mo, or $64 annually, with unlimited users.
 
 ## Mera Work
 - Review: https://officesoftwaremarketplace.com/mera-work-review.html
@@ -359,7 +359,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Ngram
 - Review: https://officesoftwaremarketplace.com/ngram-review.html
 - Verdict: Ngram: Credit-based, three published tiers plus a quote-only Enterprise, with annual billing 20% off. Premium AI generation runs from 10 credits a second.
-- Price: (re-verified 2026-08-17) Credit-based, three published tiers plus a quote-only Enterprise, with annual billing 20% off. Free is a one-time 600-credit allocation capped at 60 seconds of premium AI generation and 720p exports.
+- Price: (re-verified 2026-08-17 and 2026-10-07) Credit-based, three published tiers plus a quote-only Enterprise, with annual billing 20% off. Free is a one-time 600-credit allocation capped at 60 seconds of premium AI generation and 720p exports.
 
 ## Niural AI
 - Review: https://officesoftwaremarketplace.com/niural-ai-review.html
