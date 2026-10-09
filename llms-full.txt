@@ -34,7 +34,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Arbor
 - Review: https://officesoftwaremarketplace.com/arbor-review.html
 - Verdict: Arbor has no pricing page at all — the URL 404s. The honest catches: it only exists in deregulated US states.
-- Price: Free for households, and re-verified as such on 2026-08-17 and again on 2026-10-06. Arbor has no pricing page at all — the URL 404s — and neither our July nor our August 2026 capture produced a figure.
+- Price: Free for households, and re-verified as such on 2026-08-17, on 2026-10-06 and again on 2026-10-09. Arbor has no pricing page at all — the URL 404s — and neither our July nor our August 2026 capture produced a figure.
 
 ## BackupMaster
 - Review: https://officesoftwaremarketplace.com/backupmaster-review.html
@@ -54,7 +54,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Bitvavo
 - Review: https://officesoftwaremarketplace.com/bitvavo-review.html
 - Verdict: Bitvavo — Above that: 0.03%/0.12% from €2,500,000, 0.01%/0.10% from €5,000,000. The honest caveats are crypto-wide, not Bitvavo-specific.
-- Price: (re-verified 2026-08-18, read on their own fees page) No subscription — you pay per trade. EUR markets (Category A) run ten volume tiers.
+- Price: (re-verified 2026-10-08, read on their own fees page) No subscription — you pay per trade. EUR markets (Category A) run ten volume tiers.
 
 ## Blinq
 - Review: https://officesoftwaremarketplace.com/blinq-review.html
@@ -99,7 +99,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## CloudTask
 - Review: https://officesoftwaremarketplace.com/cloudtask-review.html
 - Verdict: CloudTask: Two hiring models, both published, plus one deposit. The $299 is the honest part and also the small part.
-- Price: (re-verified 2026-08-19, read on their own pricing page) Two hiring models, both published, plus one deposit. A one-time $299 deposit starts your search — asked “Do you charge a monthly platform fee?” their FAQ answers “No.
+- Price: (re-verified 2026-10-08, read on their own pricing page and FAQ) Two hiring models, both published, plus one deposit. A one-time $299 deposit starts your search — asked “Do you charge a monthly platform fee?” their FAQ answers “No.
 
 ## Cloudways
 - Review: https://officesoftwaremarketplace.com/cloudways-review.html
@@ -283,8 +283,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Hostinger
 - Review: https://officesoftwaremarketplace.com/hostinger-review.html
-- Verdict: Hostinger: Premium is $2.99/mo ($143.52 up front, 3 sites, 20 GB SSD) renewing at $10.99. The headline price only holds if you prepay years up front.
-- Price: (re-verified 2026-08-18, read on their own web-hosting and VPS pages) Shared and WordPress hosting runs four tiers on a 48-month term. Premium is $2.99/mo ($143.52 up front, 3 sites, 20 GB SSD) renewing at $10.99.
+- Verdict: Hostinger: Cloud Startup is $7.99 ($383.52, regular $1,343.52; 100 GB NVMe) renewing at $25.99. The headline price only holds if you prepay years up front.
+- Price: (re-verified 2026-10-09, read on their own web-hosting and VPS pages) Shared and WordPress hosting runs three tiers on a 48-month term. Premium is $2.99/mo ($143.52 up front, regular price $575.52; 3 websites, 20 GB SSD, weekly backups) renewing at $10.99.
 
 ## Housecall Pro
 - Review: https://officesoftwaremarketplace.com/housecall-pro-review.html
