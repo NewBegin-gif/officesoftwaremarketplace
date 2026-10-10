@@ -24,7 +24,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Airia
 - Review: https://officesoftwaremarketplace.com/airia-review.html
 - Verdict: Airia used to publish a ladder: a free tier, Individual around $50 a month and Team around $250. As of 20 August 2026 that is over.
-- Price: (re-verified 2026-09-10) Quote-only. Airia used to publish a ladder: a free tier, Individual around $50 a month and Team around $250.
+- Price: (re-verified 2026-10-10) Quote-only. Airia used to publish a ladder: a free tier, Individual around $50 a month and Team around $250.
 
 ## Aplos
 - Review: https://officesoftwaremarketplace.com/aplos-review.html
@@ -148,13 +148,13 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Dext
 - Review: https://officesoftwaremarketplace.com/dext-review.html
-- Verdict: Dext — Add-ons are billed separately: AI Assist $10.5 a month until 31 October, Commerce Lite from $7.50 and Vault free for 100MB then from $4.
-- Price: (re-verified 2026-08-21, read in a browser on dext.com/en/business/pricing because the price panel renders client-side) Dext has moved off named tiers: you choose a region and a billing period, then slide an allowance. The base of 250 documents a month and 5 users costs $25.21 per month billed annually ($302.50 a year) or $31.50 monthly in the Rest of the World, £30 monthly in the UK, €31.50 in the EU and A$42 in…
+- Verdict: Dext has moved off named tiers. Extraction accuracy varies and sometimes needs manual fixes, the UI is tricky for beginners.
+- Price: (re-verified 2026-10-10, read in a browser on dext.com/en/business/pricing because the price panel renders client-side) Dext has moved off named tiers: you choose a region and a billing period, then slide an allowance. The base of 250 documents a month and 5 users costs $25.21 per month billed annually ($302.50 a year) or $31.50 monthly in the Rest of the World, £30 monthly in the UK, €31.50 in the EU and A$42 in…
 
 ## Dify
 - Review: https://officesoftwaremarketplace.com/dify-review.html
 - Verdict: Dify: Source-available and free of a software fee to self-host. 'Free' self-hosting isn't free — you own the servers, updates and reliability.
-- Price: Source-available and free of a software fee to self-host — the Community Edition ships under the Dify Open Source License, a modified Apache 2.0 with additional conditions — while the managed Dify Cloud adds a free Sandbox, Professional at $59/mo ($590/yr) and Team at $159/mo ($1,590/yr), each priced per workspace (2026). Self-hosting still costs you infrastructure, model usage and any commercial licence those…
+- Price: Source-available and free of a software fee to self-host — the Community Edition ships under the Dify Open Source License, a modified Apache 2.0 with additional conditions — while the managed Dify Cloud adds a free Sandbox, Professional at $59/mo ($590/yr) and Team at $159/mo ($1,590/yr), each priced per workspace (re-verified 2026-10-09 against dify.ai/pricing.md; the advertised ~17% annual saving checks out:…
 
 ## Digit
 - Review: https://officesoftwaremarketplace.com/digit-review.html
@@ -178,8 +178,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Dryground AI
 - Review: https://officesoftwaremarketplace.com/dryground-ai-review.html
-- Verdict: Dryground AI: /pricing, /plans, /services, /about and /contact all return 404. The case studies underneath them name no clients.
-- Price: (2026-08-17, read in a browser because the site renders client-side and a plain fetch returns only the title) There is no public pricing anywhere, and we checked before saying so. /pricing, /plans, /services, /about and /contact all return 404.
+- Verdict: Dryground AI: Core $99, Pro $297 and Enterprise $1,497 a month, each plus usage from a prepaid token wallet. Read the headline numbers carefully too.
+- Price: (2026-08-17, read in a browser because the site renders client-side and a plain fetch returns only the title) There is no public pricing for the consulting work anywhere on dryground.ai, and we checked before saying so. /pricing, /plans, /services, /about and /contact all return 404.
 
 ## Emergent
 - Review: https://officesoftwaremarketplace.com/emergent-review.html
