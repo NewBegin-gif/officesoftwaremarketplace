@@ -35,15 +35,15 @@ const categoryInfo = {
 // Zoek × categorie: substring-match op naam (h3) + beschrijving (p) + categorie.
 let _cat = 'All', _q = '', _bundle = null;
 const BUNDLES = {
- solo:{label:'Solopreneur Toolkit',desc:'Everything a one-person business needs to run lean — CRM, tasks, email and decks.',tools:['folk','Todoist','Fastmail','Gamma']},
+ solo:{label:'Solopreneur Toolkit',desc:'Everything a one-person business needs to run lean — tasks, email, decks and invoicing.',tools:['Todoist','Fastmail','Gamma','FreshBooks']},
  finance:{label:'Finance Stack',desc:'Get paid, pay vendors, run payroll and control spend.',tools:['Payoneer','Melio','Gusto','Navan']},
- devai:{label:'Dev & AI Stack',desc:'Build, host and automate with AI as your co-pilot.',tools:['Replit','Dify','RunPod','Browse.ai']}
+ devai:{label:'Dev & AI Stack',desc:'Build, host and automate with AI as your co-pilot.',tools:['Replit','Dify','Runpod','Browse.ai']}
 };
 // 25 sep 2026 (R25-04, gemeten): innerText forceert een layout; in de lus met
 // style.display-writes gaf dat 145 ms per toetsaanslag op MSS. textContent + cache.
 function _cardName(card){if(card._naam===undefined)card._naam=((card.querySelector('h3')||{}).textContent||'').trim();return card._naam;}
 function _cardMatch(card) {
-    const base = _bundle ? (BUNDLES[_bundle].tools.indexOf(_cardName(card)) >= 0)
+    const base = _bundle ? (BUNDLES[_bundle].tools.some(t => t.toLowerCase() === _cardName(card).toLowerCase()))  /* 10 okt 2026: 'RunPod' tegen catalogusnaam 'Runpod' */
                          : (_cat === 'All' || (card.dataset.category || '').split('|').indexOf(_cat) > -1);  // 8 okt 2026: kaarten met twee categorieën vielen weg
     if (!base) return false;
     if (!_q) return true;
