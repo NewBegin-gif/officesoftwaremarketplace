@@ -1,6 +1,6 @@
 # Office Software Marketplace
 
-> Independent, hands-researched reviews of office, finance, HR and IT software for small and mid-sized teams. 95 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-10-11.
+> Independent, hands-researched reviews of office, finance, HR and IT software for small and mid-sized teams. 97 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-10-12.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -20,7 +20,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [The Best WP Engine Alternatives (2026)](https://officesoftwaremarketplace.com/best-wp-engine-alternatives.html): WP Engine alternatives compared on the numbers we read ourselves: what each host really costs, where the meter is, and who each one is actua
 - [How to Set Up Your Business Finance Stack (2026)](https://officesoftwaremarketplace.com/build-business-finance-stack.html): A blueprint for your money operations: a business account, paying bills, bookkeeping, payroll and tax — the exact stack, what each tool does
 
-## Reviews (95) — canonical versions
+## Reviews (97) — canonical versions
 - [accessiBe Review (2026): From $59/mo, Checked Sep 2026](https://officesoftwaremarketplace.com/accessibe-review.html): accessiBe: $490 is the first figure a visitor sees. The thing you most need to know about this product is not on its pricing page, it is on the FTC’s.
 - [AccuWeb Hosting Review (2026): Cheap VPS That Renews at 2-4x](https://officesoftwaremarketplace.com/accuweb-hosting-review.html): AccuWeb Hosting: VPS Edge is €4.42 a month and renews at €8.91. The money-back guarantee is 7 days, shorter than many hosts offer.
 - [ADP Review (2026): No Public Price, Quote Only](https://officesoftwaremarketplace.com/adp-review.html): ADP shows no public pricing for RUN anywhere on its site. The quote-only posture is normal in payroll.
@@ -43,7 +43,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Cloudways Review (2026): From $14/mo, Checked Sep 2026](https://officesoftwaremarketplace.com/cloudways-review.html): Cloudways: $0.0208 an hour is the $14 plan. "Fully managed" here means the server, not your site — and that distinction is where the money is.
 - [CO2 Impact Review (2026): UK Carbon Reporting From £468 a Year](https://officesoftwaremarketplace.com/co2-impact-review.html): CO2 Impact: No free trial or free plan is mentioned. The public table does not show in text which plan includes advanced or SECR reports.
 - [Compliancely Review (2026): Only TIN Matching Has a Price](https://officesoftwaremarketplace.com/compliancely-review.html): Compliancely — The published price list covers one product only: TIN-match volume. The pricing page prices one product and the marketing sells about a
-- [Contractor Foreman Review (2026): $49/mo Is the Entry Price](https://officesoftwaremarketplace.com/contractor-foreman-review.html): Contractor Foreman: Priced for the company rather than per seat, with unlimited projects on every tier. Quarterly costs 26% more than annual on the sa
+- [Contractor Foreman Review (2026): $49/mo Is the Entry Price](https://officesoftwaremarketplace.com/contractor-foreman-review.html): Contractor Foreman: $404, $391, $694 and $804. Monthly costs 20% to 32% more than annual on the same plan — $139 against $105 on Standard.
 - [Credit Repair Cloud Review (2026): $49 Solo, $179 for Client Work](https://officesoftwaremarketplace.com/credit-repair-cloud-review.html): Credit Repair Cloud: Personal is $49 for 1 user and up to 3 friends and family, and Start $179 for up to 3 users and 300 active clients.
 - [Database Mart Review (2026): Cheap Dallas Servers, Older Xeons](https://officesoftwaremarketplace.com/database-mart-review.html): Database Mart: Windows VPS, which includes the Microsoft licence, runs from $5.99 to $63.99. Database Mart is cheap partly because the hardware is old
 - [Datarails Review (2026): Excel-Native FP&A, Quote Only](https://officesoftwaremarketplace.com/datarails-review.html): Datarails publishes three plans. You cannot find out what it costs without talking to sales, and the entry plan is smaller than it looks.
@@ -77,6 +77,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Hive Review (2026): Three Add-Ons Make $12 Into $27](https://officesoftwaremarketplace.com/hive-review.html): Hive: Free forever for up to 10 workspace members, with 1,000 AI credits a month and 200MB of storage.
 - [Hopp Review (2026): Bolt's Business Rides, One Invoice](https://officesoftwaremarketplace.com/hopp-review.html): Hopp Business publishes no subscription price because it does not charge one. The honest note is that the platform is free and the rides are not.
 - [Hostinger Review (2026): From $2.99/mo, Checked Oct 2026](https://officesoftwaremarketplace.com/hostinger-review.html): Hostinger: Cloud Startup is $7.99 ($383.52, regular $1,343.52; 100 GB NVMe) renewing at $25.99. The headline price only holds if you prepay years up f
+- [HostPapa Review (2026): $2.95 Intro, Renews From $8.99](https://officesoftwaremarketplace.com/hostpapa-review.html): HostPapa: Growth renews at $17.99, $15.99, $14.99 or $13.99. The $2.95 is a first-term price on a 3-year term for new customers only.
 - [Housecall Pro Review (2026): $59 Plan, 2.59% Card Fee](https://officesoftwaremarketplace.com/housecall-pro-review.html): Housecall Pro: Essentials $149/month ($189) for five users. The seats are the expensive part: users beyond the eight on MAX cost $35 a month each.
 - [Hubstaff Review (2026): You Pay for Seats, Not People](https://officesoftwaremarketplace.com/hubstaff-review.html): Hubstaff: Starter $4.99, Grow $7.50, Team $10, Enterprise $25 per seat per month. The seat definition is the whole story and they state it plainly.
 - [IDrive Review (2026): Year Two Costs 43% More](https://officesoftwaremarketplace.com/idrive-review.html): IDrive Mini is $0.25/month for 100 GB ($0.83/month for 500 GB). The first-year price is a teaser and the renewal is the price.
@@ -107,7 +108,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Remote People Review (2026): EOR From $199 an Employee a Month](https://officesoftwaremarketplace.com/remote-people-review.html): Remote People: US PEO from $99 per employee a month and US payroll from $29. The monthly rates are the cheapest we have on file for this category.
 - [Rippling Review (2026): HR, IT and Finance, Priced by Quote](https://officesoftwaremarketplace.com/rippling-review.html): Rippling is modular and mostly quote-led. The published '$8 per user a month' is real but it's only the floor, and it's the HR-and-payroll entry.
 - [Samsara Review (2026): Seven Plans, Not One Price](https://officesoftwaremarketplace.com/samsara-review.html): Samsara: The Pricing and Plans page names seven packages. The pricing page asks how many vehicles you run and leads to a sales form.
-- [Shoeboxed Review (2026): Two Plans Yearly, Two Monthly](https://officesoftwaremarketplace.com/shoeboxed-review.html): Shoeboxed: $0.30/$0.15/$0.10 per digital scan, $2.00 or $1.50 per paper scan, $9 per extra envelope. Built for businesses drowning in PAPER receipts.
+- [Shoeboxed Review (2026): Two Plans Yearly, Two Monthly](https://officesoftwaremarketplace.com/shoeboxed-review.html): Shoeboxed: Starter $97/yr or $9/mo (50 digital scans/mo, 20 paper scans/yr, 1 Magic Envelope/yr, 3 users, 3 years of digital scan storage).
 - [Shopmonkey Review (2026): $215-$449/mo, Payment Fees Unlisted](https://officesoftwaremarketplace.com/shopmonkey-review.html): Shopmonkey — Billed annually, which the page says saves up to 10%: Basic $215 a month, Clever $359, Genius $449. Card processing is part of the produc
 - [TestGorilla Review (2026): Two Products, and Credits Set the Bill](https://officesoftwaremarketplace.com/testgorilla-review.html): TestGorilla: Free $0 (browse and preview only, no invites). Core starts from $77 a month billed annually or from $287 billed monthly.
 - [TextExpander Review (2026): macOS Already Does the Basics](https://officesoftwaremarketplace.com/textexpander-review.html): TextExpander: Free is $0 forever with no credit card, Pro $5 (billed annually at $60), Business $10 (billed annually at $120), Enterprise quoted.
@@ -115,6 +116,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Tresorit Review (2026): From €16/user, No Server-Side Search](https://officesoftwaremarketplace.com/tresorit-review.html): Tresorit: €23.99, €16 and €20 on yearly. You pay the Swiss-E2EE premium — noticeably above mainstream clouds and above Proton Drive per GB.
 - [Wondershare PDFelement Review (2026): $79.99/yr or $129.99 Once](https://officesoftwaremarketplace.com/wondershare-pdfelement-review.html): Wondershare PDFelement: The 2-Year Plan is US$109.99 (list US$149) and renews manually. A perpetual licence covers PDFelement 13, not later major vers
 - [World Businesses for Sale Review (2026): 3%, 2% or 1%](https://officesoftwaremarketplace.com/world-businesses-for-sale-review.html): World Businesses for Sale: Browsing is free for buyers. On the broker plans you pay twice: a listing fee up front AND commission when it sells.
+- [WPLP Review (2026): Priced by Site Count, Not Pageviews](https://officesoftwaremarketplace.com/wplp-review.html): WPLP: The cookie plugin's own listing says the free version already includes the cookie banner.
 - [Zenind Review (2026): $0 LLC Filing, but the Extras Add Up](https://officesoftwaremarketplace.com/zenind-review.html): Zenind: Three US company formation packages, each a one-time fee plus state filing fees. The $0 Basic package covers filing only.
 
 ## Free calculators (12)
