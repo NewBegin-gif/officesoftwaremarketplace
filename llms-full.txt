@@ -29,7 +29,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Aplos
 - Review: https://officesoftwaremarketplace.com/aplos-review.html
 - Verdict: Aplos: 50% off for three months with code FALL26, showing Lite at $39.50 and Core at $64.50. The headline you will see first is not the price you will pay.
-- Price: (2026-09-10, read on their own pricing page) Three published tiers, billed monthly: Lite at $79/month, Core at $129 and Advanced at $229, plus a fourth Custom tier with tailored pricing aimed at organisations above $1 million in annual revenue. Advanced is framed as a quote rather than a checkout: the card reads "Customized solutions start at $229/month" and the button asks for a demo.
+- Price: (2026-10-13, read on their own pricing page and in their help centre) Three published tiers, billed monthly: Lite at $79/month, Core at $129 and Advanced at $229, plus a fourth Custom tier with tailored pricing aimed at organisations above $1 million in annual revenue. Advanced is framed as a quote rather than a checkout: the card reads "Customized solutions start at $229/month" and the button asks for a demo.
 
 ## Arbor
 - Review: https://officesoftwaremarketplace.com/arbor-review.html
@@ -494,7 +494,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## World Businesses for Sale
 - Review: https://officesoftwaremarketplace.com/world-businesses-for-sale-review.html
 - Verdict: World Businesses for Sale: Browsing is free for buyers. On the broker plans you pay twice: a listing fee up front AND commission when it sells.
-- Price: (2026, re-verified 2026-09-10 on their own selling pages) Browsing is free for buyers. Sellers pick one of two tracks.
+- Price: (2026, re-verified 2026-10-13 on their own selling pages) Browsing is free for buyers. Sellers pick one of two tracks.
 
 ## WPLP
 - Review: https://officesoftwaremarketplace.com/wplp-review.html
