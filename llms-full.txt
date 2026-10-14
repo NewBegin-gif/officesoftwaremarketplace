@@ -409,7 +409,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## NordPass
 - Review: https://officesoftwaremarketplace.com/nordpass-review.html
 - Verdict: NordPass: The Free plan has autosave, autofill and secure storage. Teams is sold only as a 10-user pack and Business and Enterprise have a 5-user minimum.
-- Price: (read 2026-10-08 on nordpass.com/pricing in a browser render from a Netherlands connection, EUR, excluding VAT, on the 2-year, 1-year and 1-month tabs) Personal plans: Premium is €1.99 a month on the 1-year plan (€23.88 for the first 12 months, shown against €35.88) or €1.39 a month on the 2-year plan with 3 extra months (€37.53 for the first 27 months, against €80.73); Family, for 6 user accounts, is €3.69 a…
+- Price: (read 2026-10-08 and re-read 2026-10-14, unchanged, on nordpass.com/pricing in a browser render from a Netherlands connection, EUR, excluding VAT, on the 2-year, 1-year and 1-month tabs) Personal plans: Premium is €1.99 a month on the 1-year plan (€23.88 for the first 12 months, shown against €35.88) or €1.39 a month on the 2-year plan with 3 extra months (€37.53 for the first 27 months, against €80.73); Family,…
 
 ## Nouswise
 - Review: https://officesoftwaremarketplace.com/nouswise-review.html
