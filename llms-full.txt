@@ -218,8 +218,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Flatpay
 - Review: https://officesoftwaremarketplace.com/flatpay-review.html
-- Verdict: Flatpay charges one rate per transaction on every card type, with no monthly subscription. Miss £995 of card turnover in a month and you are charged £39.
-- Price: (re-verified 2026-09-13 on flatpay.com/en-gb/pricing and their separate /pricelist page; every amount unchanged since 2026-08-13) Flatpay charges one rate per transaction on every card type, with no monthly subscription. The card terminal is 1.49% and costs GBP 0 to start.
+- Verdict: Flatpay: The card terminal is 1.49% and costs GBP 0 to start. “Zero monthly fees” is the headline, and there genuinely is no subscription.
+- Price: (re-verified 2026-10-14 on flatpay.com/en-gb/pricing and their separate /pricelist page; the four transaction rates and up-front fees unchanged since 2026-08-13, the minimum monthly turnover changed -- see below) Flatpay charges one rate per transaction on every card type, with no monthly subscription. The card terminal is 1.49% and costs GBP 0 to start.
 
 ## FlexiQuiz
 - Review: https://officesoftwaremarketplace.com/flexiquiz-review.html
