@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for office, finance and HR software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 213,
-  "flags": 351,
+  "tools": 214,
+  "flags": 352,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on officesoftwaremarketplace.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -2847,6 +2847,30 @@
    "first_observed_at": null
   },
   {
+   "name": "Inbox Zero",
+   "category": "IT & Productivity",
+   "domain": "getinboxzero.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/inbox-zero-review/",
+   "from_price_usd_mo": 18.0,
+   "entry_price": "$18",
+   "entry_price_terms": "Starter · per user per month billed annually, $20 billed monthly",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-15 in a live browser on getinboxzero.com/pricing with its comparison table and FAQ, the home page, the terms of service dated 16 July 2023 and the privacy policy) Three plans priced per user, plus Enterprise. Starter is $18 per user a month billed annually or $20 monthly: labelling and sorting every email, drafted replies in your voice, a cold-email blocker, bulk unsubscribe and archive, email analytics, pre-meeting briefings and a limited knowledge base. Plus is $28 annually or $35 monthly: two email accounts per user, an AI meeting notetaker, Slack and app integrations such as Notion and Stripe, email digests, auto-filing of attachments and an unlimited knowledge base. Professional is $42 annually or $50 monthly: team-wide analytics, priority support and a dedicated onboarding manager. Enterprise, with SSO, SCIM and on-premise deployment, is priced by sales. Every plan has a 7-day free trial; the home page FAQ says a credit card is required and you are charged when the trial ends unless you cancel. Plan changes are prorated, cancellation keeps the plan to the end of the billing period, and the FAQ offers a refund if you email within 14 days of upgrading and feel you did not get value. Students, nonprofits and open-source projects can ask for a discount by email. It works with Gmail, Google Workspace and Microsoft Outlook.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "Starter is $18 per user a month billed annually or $20 monthly: labelling and sorting every email, drafted replies in your voice, a cold-email blocker, bulk unsubscribe and archive, email analytics, pre-meeting briefings and a limited knowledge base.",
+     "evidence_excerpt": "Starter is $18 per user a month billed annually or $20 monthly: labelling and sorting every email, drafted replies in your voice, a cold-email blocker, bulk unsubscribe and archive, email analytics, …",
+     "source_url": "https://www.getinboxzero.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-15"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-15",
+   "first_observed_at": "2026-10-15"
+  },
+  {
    "name": "Increff",
    "category": "Operations & Workflow",
    "domain": "increff.com",
@@ -5406,7 +5430,7 @@
    "entry_price": "$77",
    "entry_price_terms": "per month billed annually",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-07 in a browser render of testgorilla.com/pricing with the currency set to USD; the page defaults to euros from a European connection) TestGorilla now sells two products that you can buy on their own or together. Gorilla Sourcing, a candidate-search product priced per Sourcing seat: Free $0 (browse and preview only, no invites); Core $74 a month per seat billed annually or $99 billed monthly, with 500 invites per seat a month and 1 seat; Plus $134 a month per seat billed annually or $179 billed monthly, with 1,500 invites per seat a month and up to 5 seats. Gorilla Assessments, the skills-testing product, priced per account: Free $0 with 10 credits a month (5 essential tests with unlimited use, 180+ tests with limited use, 5 preset custom questions, 1 premium user role); Core from $77 a month billed annually or from $287 billed monthly, with the full library of 350+ tests, a shared account-wide credit pool and 2 premium user roles; Plus from $520 a month billed annually or from $694 billed monthly, adding the AI interview library, custom AI interviews, job simulations, custom tests and coding challenges, ID verification, ATS and API integrations and unlimited premium roles. Annual billing is advertised as saving 25%. Credits: resume scoring and qualifying questions cost nothing; a premium skills test, a video question or an ID check costs 1 credit per candidate; an AI interview or a job simulation costs 2. The page does not say how many credits each 'from' price includes.",
+   "price_note": "(re-verified 2026-10-07 in a browser render of testgorilla.com/pricing with the currency set to USD; the page defaults to euros from a European connection; re-verified unchanged 2026-10-15 on both billing toggles) TestGorilla now sells two products that you can buy on their own or together. Gorilla Sourcing, a candidate-search product priced per Sourcing seat: Free $0 (browse and preview only, no invites); Core $74 a month per seat billed annually or $99 billed monthly, with 500 invites per seat a month and 1 seat; Plus $134 a month per seat billed annually or $179 billed monthly, with 1,500 invites per seat a month and up to 5 seats. Gorilla Assessments, the skills-testing product, priced per account: Free $0 with 10 credits a month (5 essential tests with unlimited use, 180+ tests with limited use, 5 preset custom questions, 1 premium user role); Core from $77 a month billed annually or from $287 billed monthly, with the full library of 350+ tests, a shared account-wide credit pool and 2 premium user roles; Plus from $520 a month billed annually or from $694 billed monthly, adding the AI interview library, custom AI interviews, job simulations, custom tests and coding challenges, ID verification, ATS and API integrations and unlimited premium roles. Annual billing is advertised as saving 25%. Credits: resume scoring and qualifying questions cost nothing; a premium skills test, a video question or an ID check costs 1 credit per candidate; an AI interview or a job simulation costs 2. The page does not say how many credits each 'from' price includes.",
    "flags": [
     {
      "flag": "per_seat",
@@ -5414,7 +5438,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-10-15"
     },
     {
      "flag": "usage_metered",
@@ -5422,7 +5446,7 @@
      "evidence_excerpt": "Gorilla Assessments, the skills-testing product, priced per account: Free $0 with 10 credits a month (5 essential tests with unlimited use, 180+ tests with limited use, 5 preset custom questions, 1 p…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-10-15"
     },
     {
      "flag": "annual_lock",
@@ -5430,7 +5454,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-10-15"
     },
     {
      "flag": "free_tier",
@@ -5438,11 +5462,11 @@
      "evidence_excerpt": "Gorilla Sourcing, a candidate-search product priced per Sourcing seat: Free $0 (browse and preview only, no invites); Core $74 a month per seat billed annually or $99 billed monthly, with 500 invites…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-10-15"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-07",
+   "price_verified_at": "2026-10-15",
    "first_observed_at": "2026-10-07"
   },
   {
