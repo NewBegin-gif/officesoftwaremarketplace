@@ -1,6 +1,6 @@
 # Office Software Marketplace
 
-> Independent, hands-researched reviews of office, finance, HR and IT software for small and mid-sized teams. 103 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-10-14.
+> Independent, hands-researched reviews of office, finance, HR and IT software for small and mid-sized teams. 104 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-10-15.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -20,7 +20,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [The Best WP Engine Alternatives (2026)](https://officesoftwaremarketplace.com/best-wp-engine-alternatives.html): WP Engine alternatives compared on the numbers we read ourselves: what each host really costs, where the meter is, and who each one is actua
 - [How to Set Up Your Business Finance Stack (2026)](https://officesoftwaremarketplace.com/build-business-finance-stack.html): A blueprint for your money operations: a business account, paying bills, bookkeeping, payroll and tax — the exact stack, what each tool does
 
-## Reviews (103) — canonical versions
+## Reviews (104) — canonical versions
 - [accessiBe Review (2026): From $59/mo, Checked Sep 2026](https://officesoftwaremarketplace.com/accessibe-review.html): accessiBe: $490 is the first figure a visitor sees. The thing you most need to know about this product is not on its pricing page, it is on the FTC’s.
 - [AccuWeb Hosting Review (2026): Cheap VPS That Renews at 2-4x](https://officesoftwaremarketplace.com/accuweb-hosting-review.html): AccuWeb Hosting: VPS Edge is €4.42 a month and renews at €8.91. The money-back guarantee is 7 days, shorter than many hosts offer.
 - [ADP Review (2026): No Public Price, Quote Only](https://officesoftwaremarketplace.com/adp-review.html): ADP shows no public pricing for RUN anywhere on its site. The quote-only posture is normal in payroll.
@@ -53,7 +53,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Dext Review (2026): From $25/mo for 250 Documents](https://officesoftwaremarketplace.com/dext-review.html): Dext has moved off named tiers. Extraction accuracy varies and sometimes needs manual fixes, the UI is tricky for beginners.
 - [Dify Review (2026): From $59/mo, Checked Oct 2026](https://officesoftwaremarketplace.com/dify-review.html): Dify: Source-available and free of a software fee to self-host. 'Free' self-hosting isn't free — you own the servers, updates and reliability.
 - [DigiParser Review (2026): From $49/mo, Billed per Page](https://officesoftwaremarketplace.com/digiparser-review.html): DigiParser: Starter is $69 a month billed monthly, or $49 a month billed yearly ($588 a year). Billing is per page, not per document.
-- [Digit Review (2026): From $400/mo, Checked Sep 2026](https://officesoftwaremarketplace.com/digit-review.html): Digit: Starter $400/month including 5 users, Growth $750 including 10, Professional $1,300 including 15. The tier price is a floor, not a ceiling.
+- [Digit Review (2026): From $400/mo, Checked Oct 2026](https://officesoftwaremarketplace.com/digit-review.html): Digit: Starter $400/month including 5 users, Growth $750 including 10, Professional $1,300 including 15. The tier price is a floor, not a ceiling.
 - [Disputifier Review (2026): 20% Commission, No Subscription](https://officesoftwaremarketplace.com/disputifier-review.html): Disputifier: Free to install, with everything billed on use, and unchanged between those two readings. Free to install is doing a lot of work here.
 - [DocSend Review (2026): $10 to Share, $150 for a Data Room](https://officesoftwaremarketplace.com/docsend-review.html): DocSend: Personal is $10 per user a month billed yearly or $15 billed monthly, one user. The cheap plan is not the product people buy DocSend for.
 - [doola Review (2026): $297/yr Plus State Fees](https://officesoftwaremarketplace.com/doola-review.html): doola: State filing fees run $50 to $500 depending on the state. Convenient especially for non-US founders.
@@ -107,6 +107,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Pangram Review (2026): The API Unit Changed Tenfold](https://officesoftwaremarketplace.com/pangram-review.html): Pangram: Llms.txt says funds from $5 to $2,000. The unavoidable honest limit of every AI detector, including accurate ones: it is never infallible.
 - [Parim Review (2026): From £47/mo, Checked Oct 2026](https://officesoftwaremarketplace.com/parim-review.html): Parim: The page says pricing starts from £47 per month with unlimited users on every plan. Unlimited users sounds like the generous part, and it is.
 - [PDWare Review (2026): Quote-Only, Demo Comes First](https://officesoftwaremarketplace.com/pdware-review.html): PDWare: Quote-only, re-confirmed 25 September 2026. The honest pre-purchase question is organizational.
+- [Planday Review (2026): Priced Per Seat, Checked Oct 2026](https://officesoftwaremarketplace.com/planday-review.html): Planday: Plus is €4.99 against £3.99 against $4.49. The €25 monthly platform fee on Plus is the line most comparisons miss.
 - [Proton Review (2026): From $3.99/mo, Checked Oct 2026](https://officesoftwaremarketplace.com/proton-review.html): Proton: Free is $0.00 a month for 1 GB and one address. Storage is the axis, and the jump from Drive Plus to Unlimited is not really about storage at 
 - [Proton Drive Review (2026): From $3.99/mo, Checked Aug 2026](https://officesoftwaremarketplace.com/proton-drive-review.html): Proton Drive: Proton Duo is $14.99 for 2 TB across two users at $179.88 a year. End-to-end encryption is the point and the price.
 - [QuickBooks UK Review (2026): The 90% Offer Ends at Month Six](https://officesoftwaremarketplace.com/quickbooks-uk-review.html): QuickBooks UK: Sole Trader Plus £10, Simple Start £16, Essentials £38 for three users, Plus £56 for five and Advanced £123 for twenty-five.
