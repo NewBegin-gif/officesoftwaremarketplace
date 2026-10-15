@@ -489,7 +489,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## TestGorilla
 - Review: https://officesoftwaremarketplace.com/testgorilla-review.html
 - Verdict: TestGorilla: Free $0 (browse and preview only, no invites). Core starts from $77 a month billed annually or from $287 billed monthly.
-- Price: (re-verified 2026-10-07 in a browser render of testgorilla.com/pricing with the currency set to USD; the page defaults to euros from a European connection) TestGorilla now sells two products that you can buy on their own or together. Gorilla Sourcing, a candidate-search product priced per Sourcing seat: Free $0 (browse and preview only, no invites); Core $74 a month per seat billed annually or $99 billed monthly,…
+- Price: (re-verified 2026-10-07 in a browser render of testgorilla.com/pricing with the currency set to USD; the page defaults to euros from a European connection; re-verified unchanged 2026-10-15 on both billing toggles) TestGorilla now sells two products that you can buy on their own or together. Gorilla Sourcing, a candidate-search product priced per Sourcing seat: Free $0 (browse and preview only, no invites); Core…
 
 ## TextExpander
 - Review: https://officesoftwaremarketplace.com/textexpander-review.html
