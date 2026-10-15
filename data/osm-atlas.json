@@ -2012,15 +2012,15 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "quote_only",
-   "price_note": "Quote-only since our October reading. Re-read 7 October 2026 on expertise.ai/pricing: the page no longer shows a single amount. Three tiers, each behind a 'Book a demo' button: Premier (Sales Agent, CX Agent and Custom Agents, 'for teams ready to move from experimentation to real, repeatable AI workflows'), Enterprise (everything in Premier plus dedicated infrastructure or a VPS, open-weight model support and private deployment options) and Unlimited (everything in Enterprise plus unlimited usage, forward-deployed engineers and data residency). The FAQ says pricing is based on your workflows, integrations, infrastructure and deployment requirements. The Free Preview is gone from the page, and so are the separately priced booking system and Expertise Assistant. Our 1 September capture still carried the old ladder; our 1 October capture had no amounts at all. The last ladder Expertise AI published itself, read 3 September 2026: Free Preview at no cost (1 AI agent, 10 conversations, up to 50 training materials); Business at $2,000/mo on both monthly and yearly billing, with conversations for websites up to 50,000 monthly visitors, up to 500 training materials, visitor intelligence, proactive live chat and 2-way sync in HubSpot, 3 playbooks, a webhook, implementation by their team, and Voice AI with 300 minutes a month and $0.25 per minute after that; Enterprise on quote. Before that, in July, there was a Growth tier at $500/mo and Business was $1,250. The booking system was free or $30/mo ($24 billed yearly) and the Expertise Assistant free or $50/mo per user ($40 billed yearly). Treat those figures as the yardstick to hold a quote against, not as a current offer.",
+   "price_note": "Quote-only since our October reading. Re-read 7 October 2026 on expertise.ai/pricing: the page no longer shows a single amount. Three tiers, each behind a 'Book a demo' button: Premier (Sales Agent, CX Agent and Custom Agents, 'for teams ready to move from experimentation to real, repeatable AI workflows'), Enterprise (everything in Premier plus dedicated infrastructure or a VPS, open-weight model support and private deployment options) and Unlimited (everything in Enterprise plus unlimited usage, forward-deployed engineers and data residency). The FAQ says pricing is based on your workflows, integrations, infrastructure and deployment requirements. The Free Preview is gone from the page, and so are the separately priced booking system and Expertise Assistant. Our 1 September capture still carried the old ladder; our 1 October capture had no amounts at all. The last ladder Expertise AI published itself, read 3 September 2026: Free Preview at no cost (1 AI agent, 10 conversations, up to 50 training materials); Business at $2,000/mo on both monthly and yearly billing, with conversations for websites up to 50,000 monthly visitors, up to 500 training materials, visitor intelligence, proactive live chat and 2-way sync in HubSpot, 3 playbooks, a webhook, implementation by their team, and Voice AI with 300 minutes a month and $0.25 per minute after that; Enterprise on quote. Before that, in July, there was a Growth tier at $500/mo and Business was $1,250. The booking system was free or $30/mo ($24 billed yearly) and the Expertise Assistant free or $50/mo per user ($40 billed yearly). Treat those figures as the yardstick to hold a quote against, not as a current offer. Re-read 15 October 2026: still no amount on the page, the same three tiers behind 'Book a demo', no free preview; the FAQ now adds that Unlimited means 'there is no credit limit on your plan' and that every plan includes the Sales, CX and Custom Agents.",
    "flags": [
     {
      "flag": "quote_only",
-     "evidence": "No published price: Premier, Enterprise and Unlimited all route to Book a demo (read 7 Oct 2026); the last published Business rate was $2,000/mo (3 Sep 2026)",
+     "evidence": "No published price: Premier, Enterprise and Unlimited all route to Book a demo (read 7 and 15 Oct 2026); the last published Business rate was $2,000/mo (3 Sep 2026)",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-10-15"
     },
     {
      "flag": "per_seat",
@@ -2028,7 +2028,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-10-15"
     },
     {
      "flag": "usage_metered",
@@ -2036,11 +2036,11 @@
      "evidence_excerpt": "The last ladder Expertise AI published itself, read 3 September 2026: Free Preview at no cost (1 AI agent, 10 conversations, up to 50 training materials); Business at $2,000/mo on both monthly and ye…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-10-15"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-07",
+   "price_verified_at": "2026-10-15",
    "first_observed_at": null
   },
   {
@@ -2052,10 +2052,10 @@
    "entry_price": "$5",
    "entry_price_terms": "Individual · per month, or $60 for twelve months, with 60 GB for one person",
    "pricing_status": "public",
-   "price_note": "(read 2026-08-26 on fastmail.com/pricing over a US connection, with their country selector on United States and the 12-month term chosen; re-read 2026-09-29 from a Dutch connection, where the page serves euros with the same numerals and an unchanged 1-, 12-, 24- and 36-month ladder) Individual is $5 a month, or $60 for twelve months, with 60 GB of storage for one person. Duo is $8 a month ($96 a year) for two inboxes and 120 GB. Family is $11 a month ($132 a year) for up to six people and up to 360 GB, at 60 GB each. The page also sells 24- and 36-month terms, so the twelve-month figure is the middle of three commitments rather than the cheapest one.",
+   "price_note": "(read 2026-08-26 on fastmail.com/pricing over a US connection, with their country selector on United States and the 12-month term chosen; re-read 2026-09-29 from a Dutch connection, and again on 2026-10-15 on both fastmail.com/pricing/us/ and /pricing/nl/: the same numerals in dollars and euros on an unchanged 1-, 12-, 24- and 36-month ladder, with the US prices shown tax-exclusive and the euro prices tax-inclusive) Individual is $5 a month, or $60 for twelve months, with 60 GB of storage for one person. Duo is $8 a month ($96 a year) for two inboxes and 120 GB. Family is $11 a month ($132 a year) for up to six people and up to 360 GB, at 60 GB each. The page also sells 24- and 36-month terms, so the twelve-month figure is the middle of three commitments rather than the cheapest one.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-29",
+   "price_verified_at": "2026-10-15",
    "first_observed_at": "2026-08-26"
   },
   {
