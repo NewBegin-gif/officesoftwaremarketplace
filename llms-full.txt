@@ -1,6 +1,6 @@
 # Office Software Marketplace — Full Review Catalog
 
-> All 106 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-10-16.
+> All 108 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-10-16.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -436,6 +436,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Verdict: Parim: The page says pricing starts from £47 per month with unlimited users on every plan. Unlimited users sounds like the generous part, and it is.
 - Price: (re-read 2026-09-17 and again on 2026-10-05 on parim.co/pricing; unchanged since 20 August 2026) One number is published and the rest is not. The page says pricing starts from £47 per month with unlimited users on every plan, but each of the three tiers — Starter, Pro, Premium — carries a ‘Request Pricing’ button rather than a figure.
 
+## Pdfdodo
+- Review: https://officesoftwaremarketplace.com/pdfdodo-review.html
+- Verdict: Pdfdodo: Free $0 for 25 pages a month and 5 MB per PDF. The yearly Solo card shows $20 a month beside $200 billed yearly, which cannot both be right.
+- Price: (read 2026-10-16 in a browser on pdfdodo.com, monthly and yearly view of the pricing block; the cards show a $ sign without naming the currency) Four plans metered by pages analysed per month: Free $0 for 25 pages a month and 5 MB per PDF; Solo $25 a month for 300 pages and 15 MB per PDF; Startup $59 a month for 1000 pages and 15 MB per PDF; Business $99 a month for 3000 pages with no upload limit and priority…
+
 ## PDWare
 - Review: https://officesoftwaremarketplace.com/pdware-review.html
 - Verdict: PDWare: Quote-only, re-confirmed 25 September 2026. The honest pre-purchase question is organizational.
@@ -490,6 +495,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/shopmonkey-review.html
 - Verdict: Shopmonkey — Billed annually, which the page says saves up to 10%: Basic $215 a month, Clever $359, Genius $449. Card processing is part of the product.
 - Price: (read 2026-10-11 on shopmonkey.io/pricing, USD) Three published plans for auto repair shops and a Multi-Shop plan on quote. Billed annually, which the page says saves up to 10%: Basic $215 a month, Clever $359, Genius $449.
+
+## ShortlistIQ
+- Review: https://officesoftwaremarketplace.com/shortlistiq-review.html
+- Verdict: ShortlistIQ: Every account starts on a free plan for up to 10 applicants, with no credit card.
+- Price: (read 2026-10-16 in a browser on shortlistiq.com/pricing; the cards show a $ sign without naming the currency, and clicking Pay annually did not change the amounts) Three paid plans, each labelled per month and metered by invited applicants per month: Basic $49 for up to 20 applicants and one AI assistant; Standard $199 for up to 200 applicants and unlimited AI assistants with live chat support; Premium $599 for…
 
 ## TestGorilla
 - Review: https://officesoftwaremarketplace.com/testgorilla-review.html
