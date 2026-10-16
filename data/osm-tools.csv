@@ -29,7 +29,7 @@ Bright Data,IT & Productivity,brightdata.com,,usage_metered|free_tier,https://ai
 Browse.ai,IT & Productivity,browse.ai,19.0,usage_metered|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/browse-ai-review/,2026-07,$19,"a month billed annually (12,000 credits/yr), or $48/mo billed monthly",public,2026-09-21
 BuddyPunch,Operations & Workflow,buddypunch.com,5.99,per_seat|addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/buddypunch-review/,2026-07,$5.99,per user a month plus $19/mo base fee,public,2026-09-24
 BugHerd,Operations & Workflow,bugherd.com,42.0,per_seat|annual_lock,https://aibuildermarketplace.com/b2b/bugherd-review/,2026-07,$42,per month (5 members),public,2026-10-13
-Bybit,Financial Operations,bybit.com,,,https://aibuildermarketplace.com/b2b/bybit-review/,2026-07,,,see_details,2026-09-05
+Bybit,Financial Operations,bybit.com,,,https://aibuildermarketplace.com/b2b/bybit-review/,2026-07,,,see_details,2026-10-16
 Carbon6,Operations & Workflow,carbon6.io,,,https://aibuildermarketplace.com/b2b/carbon6-review/,2026-07,,,see_details,2026-10-10
 Checkr,Operations & Workflow,checkr.com,,addons_extra,https://aibuildermarketplace.com/b2b/checkr-review/,2026-07,$29.99,per report,public,2026-09-30
 ChemiCloud,IT & Productivity,chemicloud.com,1.95,renewal_jump,https://aibuildermarketplace.com/b2b/chemicloud-review/,2026-07,$1.95,per month on the 36-month term (September campaign),public,2026-09-02
@@ -58,14 +58,14 @@ Dify,IT & Productivity,dify.ai,59.0,usage_metered,https://aibuildermarketplace.c
 DigiParser,Operations & Workflow,digiparser.com,69.0,usage_metered,https://aibuildermarketplace.com/b2b/digiparser-review/,2026-07,$69,"Starter · per month billed monthly for 500 pages a month, 5 parsers and 3 team…",public,2026-10-13
 Digit,Operations & Workflow,heysutton.com,400.0,per_seat|addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/digit-review/,2026-07,$400,Starter · per month including 5 users,public,2026-10-14
 Disputifier,Financial Operations,disputifier.com,,usage_metered,https://aibuildermarketplace.com/b2b/disputifier-review/,2026-07,,,see_details,2026-09-17
-DocSend,IT & Productivity,docsend.com,10.0,per_seat|addons_extra,https://aibuildermarketplace.com/b2b/docsend-review/,2026-07,$10,"Personal · per user per month billed yearly ($15 billed monthly), one user, no…",public,2026-09-25
+DocSend,IT & Productivity,docsend.com,10.0,per_seat|addons_extra,https://aibuildermarketplace.com/b2b/docsend-review/,2026-07,$10,"Personal · per user per month billed yearly, one user, no data rooms",public,2026-09-25
 doola,Financial Operations,doola.com,,,https://aibuildermarketplace.com/b2b/doola-review/,2026-07,$297,per year,public,2026-10-01
 Dryground AI,IT & Productivity,dryground.ai,,addons_extra,https://aibuildermarketplace.com/b2b/dryground-ai-review/,2026-07,,,see_details,2026-10-10
 EasyDMARC,Security,easydmarc.com,35.99,addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/easydmarc-review/,2026-07,$35.99,a month billed annually ($44.99 monthly) for 2 domains,public,2026-10-04
 ElevateForward,Operations & Workflow,elevateforward.ai,250.0,,https://aibuildermarketplace.com/b2b/elevateforward-review/,2026-07,$250,a month (page markup also shows an unlabeled alternate $8 figure),public,2026-09-28
 Emergent,IT & Productivity,emergent.sh,20.0,usage_metered|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/emergent-review/,2026-07,$20,per month ($17 yearly) for 100 credits,public,2026-08-31
 Employment Hero,HR & People,employmenthero.com,,per_seat|usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/employment-hero-review/,2026-07,A$10,HR Essentials · per employee per month excluding GST on the Australian pricing page…,public,2026-10-06
-Envoy,Business Operations,envoy.com,362.0,per_seat|usage_metered,https://aibuildermarketplace.com/b2b/envoy-review/,2026-07,$362,"Visitors Premium · per location per month, billed annually…",public,2026-10-04
+Envoy,Business Operations,envoy.com,362.0,per_seat|usage_metered,https://aibuildermarketplace.com/b2b/envoy-review/,2026-07,$362,"Visitors Premium · per location per month, billed annually",public,2026-10-04
 Evolve,Operations & Workflow,evolveplatform.ai,,quote_only,https://aibuildermarketplace.com/b2b/evolve-review/,2026-07,,,quote_only,2026-09-22
 ExpertEx,IT & Productivity,expertex.ai,10.0,per_seat|usage_metered|free_tier,https://aibuildermarketplace.com/b2b/expertex-review/,2026-07,$10,"a month, or $7 billed yearly, for 1,000 credits",public,2026-10-10
 Expertise AI,IT & Productivity,expertise.ai,,quote_only|per_seat|usage_metered,https://aibuildermarketplace.com/b2b/expertise-ai-review/,2026-07,,,quote_only,2026-10-15
@@ -85,7 +85,7 @@ Glide,IT & Productivity,glideapps.com,19.0,per_seat|usage_metered|addons_extra|a
 Goflow,Operations & Workflow,goflow.com,499.0,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/goflow-review/,2026-07,$499,"entry plan (750 orders) · per month for 750 orders, month-to-month",public,2026-09-23
 Gravity Forms,IT & Productivity,gravity.com,,addons_extra,https://aibuildermarketplace.com/b2b/gravity-forms-review/,2026-07,$59,"a year (1 site, standard support)",public,2026-09-23
 Guesty,Operations & Workflow,guesty.com,,addons_extra,https://aibuildermarketplace.com/b2b/guesty-review/,2026-07,,,see_details,2026-09-22
-Gusto,Financial Operations,gusto.com,49.0,per_seat,https://aibuildermarketplace.com/b2b/gusto-review/,2026-07,$49,a month plus $6 per person (single-state payroll),public,2026-09-05
+Gusto,Financial Operations,gusto.com,49.0,per_seat,https://aibuildermarketplace.com/b2b/gusto-review/,2026-07,$49,a month plus $6 per person (single-state payroll),public,2026-10-16
 Harbor Compliance,Financial Operations,harborcompliance.com,,renewal_jump,https://aibuildermarketplace.com/b2b/harbor-compliance-review/,2026-07,,,see_details,2026-10-04
 Healthie,Operations & Workflow,gethealthie.com,19.99,addons_extra,https://aibuildermarketplace.com/b2b/healthie-review/,2026-07,$19.99,Core · billed monthly — $18 is the yearly rate,public,2026-09-28
 Heard,Financial Operations,joinheard.com,129.0,addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/heard-review/,2026-07,$129,"Lite · per month, annual billing only",public,2026-10-06
@@ -118,7 +118,7 @@ Mera Work,HR & People,mera.work,4.0,per_seat,https://aibuildermarketplace.com/b2
 MigrationPro,Operations & Workflow,migrationpro.io,,usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/migrationpro-review/,2026-07,$29,"Automated app · a one-time payment rather than a subscription, and a floor rather than…",public,2026-10-05
 MindStudio,IT & Productivity,mindstudio.ai,20.0,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/mindstudio-review/,2026-07,$20,a month plus usage ($16 billed yearly),public,2026-10-05
 Miro,Operations & Workflow,miro.com,8.0,per_seat|usage_metered|free_tier,https://aibuildermarketplace.com/b2b/miro-review/,2026-07,$8,"per member a month, billed annually ($10 billed monthly)",public,2026-09-23
-Modge,HR & People,modge.com,4.0,per_seat|addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/modge-review/,2026-07,$4,Basic · per seat a month billed annually ($5 monthly),public,2026-09-03
+Modge,HR & People,modge.com,4.0,per_seat|addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/modge-review/,2026-07,$4,Basic · per seat a month billed annually ($5 monthly),public,2026-10-16
 Momence,Operations & Workflow,momence.com,60.0,addons_extra|free_tier,https://aibuildermarketplace.com/b2b/momence-review/,2026-07,$60,per month at 2.5%),public,2026-09-25
 monday.com,Project Management,monday.com,9.0,per_seat|usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/monday-com-review/,2026-07,$9,per seat a month,public,2026-09-29
 Motive,Business Operations,gomotive.com,,quote_only,https://aibuildermarketplace.com/b2b/motive-review/,2026-07,,,quote_only,2026-10-04
@@ -171,7 +171,7 @@ ShortlistIQ,HR & People,shortlistiq.com,49.0,usage_metered|free_tier,https://aib
 Signeasy,Productivity,signeasy.com,10.0,per_seat,https://aibuildermarketplace.com/b2b/signeasy-review/,2026-07,$10,"per month billed yearly ($120/yr), single seat",public,2026-10-04
 SignNow,Operations & Workflow,signnow.com,8.0,per_seat|addons_extra,https://aibuildermarketplace.com/b2b/signnow-review/,2026-07,$8,per month billed annually,public,2026-09-26
 SimplyBook.me,Operations & Workflow,simplybook.me,,annual_lock|free_tier,https://aibuildermarketplace.com/b2b/simplybook-me-review/,2026-07,€11.90,per month billed annually (€13.90 monthly),public,2026-10-16
-SmartSuite,Operations & Workflow,smartsuite.com,15.0,per_seat,https://aibuildermarketplace.com/b2b/smartsuite-review/,2026-07,$15,"Team, per seat · per seat per month billed annually ($20 billed monthly), with a minimum…",public,2026-10-02
+SmartSuite,Operations & Workflow,smartsuite.com,15.0,per_seat,https://aibuildermarketplace.com/b2b/smartsuite-review/,2026-07,$15,"Team, per seat · per seat per month billed annually, with a minimum of 3 billable users",public,2026-10-02
 SMTP.com,IT & Productivity,smtp.com,25.0,usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/smtp-com-review/,2026-07,$25,"per month (50,000 emails, shared IP)",public,2026-09-24
 SMTP2GO,IT & Productivity,smtp2go.com,15.0,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/smtp2go-review/,2026-07,$15,"per month or $150/yr for 10,000 emails",public,2026-09-26
 Softr,IT & Productivity,softr.io,19.0,usage_metered|addons_extra|free_tier,https://aibuildermarketplace.com/b2b/softr-review/,2026-07,$19,"per month billed annually (page opens on the Yearly tab, two months off)",public,2026-10-01
@@ -196,7 +196,7 @@ Top Echelon,HR & People,topechelon.com,79.0,per_seat|addons_extra|annual_lock,ht
 Tradify,Operations & Workflow,tradifyhq.com,47.0,per_seat|addons_extra,https://aibuildermarketplace.com/b2b/tradify-review/,2026-07,$47,per user a month,public,2026-10-02
 Trainerize,Operations & Workflow,trainerize.com,9.0,addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/trainerize-review/,2026-07,$9,per month billed annually (2 clients),public,2026-09-27
 Trainual,Operations & Workflow,trainual.com,,quote_only|addons_extra,https://aibuildermarketplace.com/b2b/trainual-review/,2026-07,,,quote_only,2026-10-05
-Tresorit,IT & Productivity,tresorit.com,,per_seat,https://aibuildermarketplace.com/b2b/tresorit-review/,2026-07,€29.99,"Professional, 1 user · billed monthly",public,2026-09-05
+Tresorit,IT & Productivity,tresorit.com,,per_seat,https://aibuildermarketplace.com/b2b/tresorit-review/,2026-07,€29.99,"Professional, 1 user · billed monthly",public,2026-10-16
 Turbotic,Operations & Workflow,turbotic.com,25.0,per_seat|usage_metered,https://aibuildermarketplace.com/b2b/turbotic-review/,2026-07,$25,"AI Assistant, per seat… · per seat per month as published",public,2026-10-02
 UltaHost,IT & Productivity,ultahost.com,3.44,,https://aibuildermarketplace.com/b2b/ultahost-review/,2026-07,$3.44,"per month (list $6.89) on the 2-year term, 1 domain, ~10,000 visits/mo",public,2026-10-01
 Unleashed Software,Operations & Workflow,unleashedsoftware.com,399.0,addons_extra,https://aibuildermarketplace.com/b2b/unleashed-software-review/,2026-07,$399,"Core · per month excluding tax, and it includes only 3 users and 100 sales…",public,2026-10-04
@@ -209,7 +209,7 @@ World Businesses for Sale,Financial Operations,worldbusinessesforsale.com,,,http
 WP Rocket,IT & Productivity,wp-rocket.me,,,https://aibuildermarketplace.com/b2b/wp-rocket-review/,2026-07,$59,per year for one site,public,2026-10-02
 WPLP,Security,wplegalpages.com,,free_tier,https://aibuildermarketplace.com/b2b/wplp-review/,2026-07,$48,3 Sites · per year for up to 3 WordPress sites with every feature,public,2026-10-12
 Wrike,Operations & Workflow,wrike.com,10.0,per_seat|free_tier,https://aibuildermarketplace.com/b2b/wrike-review/,2026-07,$10,"per user a month, for 2 to 15 users",public,2026-09-25
-Xero,Financial Operations,xero.com,27.0,per_seat|addons_extra,https://aibuildermarketplace.com/b2b/xero-review/,2026-07,$27,Early · standard monthly price after the promotion…,public,2026-10-09
+Xero,Financial Operations,xero.com,27.0,per_seat|addons_extra,https://aibuildermarketplace.com/b2b/xero-review/,2026-07,$27,Early · standard monthly price after the promotion,public,2026-10-09
 xTiles,Productivity,xtiles.app,19.0,per_seat|usage_metered|free_tier,https://aibuildermarketplace.com/b2b/xtiles-review/,2026-07,$19,"Plus, per user · per user per month billed monthly",public,2026-10-13
 Zedonk,Operations & Workflow,zedonk.co.uk,,addons_extra,https://aibuildermarketplace.com/b2b/zedonk-review/,2026-07,£166,"per month, billed annually",public,2026-09-27
 Zeffy,Financial Operations,zeffy.com,,free_tier,https://aibuildermarketplace.com/b2b/zeffy-review/,2026-07,,,see_details,2026-09-27

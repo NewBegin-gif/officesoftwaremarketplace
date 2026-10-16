@@ -875,10 +875,10 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "see_details",
-   "price_note": "No subscription — per-trade fees, re-verified 2026-09-05 against Bybit's own fee schedule, which the page says was last updated on 2 September 2026. At VIP 0 (non-VIP): spot 0.1000% maker and 0.1000% taker; perpetuals and futures 0.0200% maker and 0.0550% taker; options 0.0200% maker and 0.0300% taker. The VIP ladder cuts those toward zero — at Supreme VIP spot is 0.0300% maker and 0.0450% taker, derivatives 0.0000% maker and 0.0300% taker, options 0.0050% and 0.0150%. Note that the top derivatives maker rate is zero rather than a rebate: we found no negative maker fee in the published table. That base table is not the only one, and the others start higher: fiat-crypto spot pairs cost 0.2000% taker and 0.1500% maker under $100,000 of 30-day volume, the Spot Adventure Zone and xStocks 0.2000% both ways at VIP 0, and Pre-Market Perpetuals and the Innovation Zone 0.0400% maker and 0.1000% taker — so a new account trading the newest listings pays about double the headline rate. Your VIP level is set by your asset balance, your 30-day average net borrowing or your trading volume over the past 30 days, whichever qualifies you higher, and it refreshes daily at 07:00 UTC. Bybit adds that actual rates can vary by region and points you to your own My Fee Rate page.",
+   "price_note": "No subscription — per-trade fees, re-verified 2026-10-16 against Bybit's own fee schedule, which still says it was last updated on 2 September 2026; the base VIP table below is unchanged since our 5 September reading. At VIP 0 (non-VIP): spot 0.1000% maker and 0.1000% taker; perpetuals and futures 0.0200% maker and 0.0550% taker; options 0.0200% maker and 0.0300% taker. The VIP ladder cuts those toward zero — at Supreme VIP spot is 0.0300% maker and 0.0450% taker, derivatives 0.0000% maker and 0.0300% taker, options 0.0050% and 0.0150%. Note that the top derivatives maker rate is zero rather than a rebate: we found no negative maker fee in the published table. That base table is not the only one, and the others start higher: fiat-crypto spot pairs cost 0.2000% taker and 0.1500% maker under $100,000 of 30-day volume, the Spot Adventure Zone and xStocks 0.2000% both ways at VIP 0, and Pre-Market Perpetuals and the Innovation Zone 0.0400% maker and 0.1000% taker — so a new account trading the newest listings pays about double the headline rate. Your VIP level is set by your asset balance, your 30-day average net borrowing or your trading volume over the past 30 days, whichever qualifies you higher, and it refreshes daily at 07:00 UTC. Bybit adds that actual rates can vary by region and points you to your own My Fee Rate page.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-05",
+   "price_verified_at": "2026-10-16",
    "first_observed_at": null
   },
   {
@@ -1716,7 +1716,7 @@
    "review_url": "https://aibuildermarketplace.com/b2b/docsend-review/",
    "from_price_usd_mo": 10.0,
    "entry_price": "$10",
-   "entry_price_terms": "Personal · per user per month billed yearly ($15 billed monthly), one user, no…",
+   "entry_price_terms": "Personal · per user per month billed yearly, one user, no data rooms",
    "pricing_status": "public",
    "price_note": "(read 2026-09-25 on docsend.com/pricing, both billing toggles) Personal is $10 per user a month billed yearly or $15 billed monthly, one user, basic link controls (email to view, passcode, expiry, download on or off), document-level analytics, 4 eSignatures a month, unlimited visitors and 10 GB of storage. Standard is $45 per user a month yearly or $65 monthly and adds multi-file sharing through data rooms (Spaces) of up to 200 assets each, video analytics, file requests, custom branding with a branded subdomain, unlimited eSignature and 50 GB per user. Advanced is $150 a month yearly or $250 monthly for three users, with extra users at $60 a month yearly or $90 monthly, and adds folder structure in Spaces, visitor email authentication, allow and block lists, folder and file permissions, dynamic watermarking and NDA gating, with 2,000 assets per data room. Advanced Data Rooms is $180 a month yearly or $300 monthly for three users on the same extra-user rate, and adds group visitor permissions, due diligence tracking, a data room audit log, automatic file indexing, data room analytics, priority email support and 4,000 assets per data room. Yearly billing saves 33% on Personal, 31% on Standard and 40% on the two team plans. Salesforce is a paid add-on from Standard up, SSO (Okta, OneLogin, Azure) and sub-teams are paid add-ons on the two team plans, all priced only through sales. Data rooms and visitors are unlimited on every plan that has them; uploads are capped at 2 GB per file. The free trial is 14 days of Advanced Data Rooms, and unlimited visitors are not available during it. Sales tax is added in jurisdictions where Dropbox is registered. Separately, the DocSend startups page offers new customers one year at 90% off an annual Standard or Advanced plan with up to $2 million raised, 50% off with up to $10 million, and 20% off annual Advanced with up to $20 million.",
    "flags": [
@@ -1914,7 +1914,7 @@
    "review_url": "https://aibuildermarketplace.com/b2b/envoy-review/",
    "from_price_usd_mo": 362.0,
    "entry_price": "$362",
-   "entry_price_terms": "Visitors Premium · per location per month, billed annually…",
+   "entry_price_terms": "Visitors Premium · per location per month, billed annually",
    "pricing_status": "public",
    "price_note": "(2026-08-29, read on their own pricing page and their platform page; re-read unchanged on 2026-10-04) Five products, each metered differently and all billed annually. Visitors: Basic free, Premium $362 per location per month, Enterprise quote-only. Emergency Notifications $2 per user per month. Reservations $5 per bookable resource per month. Screens $12 per device per month. Deliveries $250 per delivery location per month. All five amounts are unchanged since 1 August 2026, and the pricing page now publishes the Visitors Premium rate in JSON-LD with a billingDuration of one year. The line 'Price excludes platform fee' appears exactly four times, on Emergency Notifications, Reservations, Screens and Deliveries — not on the Visitors card. The platform page supplies the shape of that fee without its number: the platform is required to use Envoy products, it is 'priced as a flat annual fee', and it has its own Premium and Enterprise tiers that you choose before adding modules. That page also lists visitor management as one of the modules. Invoicing by ACH is offered only on Enterprise or with three or more Premium Yearly locations.",
    "flags": [
@@ -2521,7 +2521,7 @@
    "entry_price": "$49",
    "entry_price_terms": "a month plus $6 per person (single-state payroll)",
    "pricing_status": "public",
-   "price_note": "Read in a browser on gusto.com/pricing on 5 September 2026; the page blocks plain fetches. Simple is $49 a month plus $6 per person for single-state payroll, Plus $80 plus $12 per person with multi-state payroll, next-day pay and time tracking, and Premium $180 plus $22 per person with a dedicated service advisor and HR experts. Contractor Only is $35 a month plus $6 per contractor, with the base fee waived in the current promotion. No contracts, free setup, cancel any time.",
+   "price_note": "Read in a browser on gusto.com/product/pricing on 16 October 2026; the page blocks plain fetches. On the 'Pay My Team' tab, Simple is $49 a month plus $6 per person for single-state payroll, Plus $80 plus $12 per person with multi-state payroll, next-day pay and time tracking, and Premium $180 plus $22 per person with premium account support and HR guidance. The Contractor Only card ($35 a month plus $6 per contractor, base fee waived in a promotion, on our 5 September 2026 reading) is no longer on the page; the 'Pay Myself' tab now shows Solo, for solopreneurs, at $49 a month plus $6 per person. US contractors are billed at the plan's per-person rate only in months you pay them. No contracts, free setup, month-to-month.",
    "flags": [
     {
      "flag": "per_seat",
@@ -2529,11 +2529,11 @@
      "evidence_excerpt": "The base-plus-per-employee model is transparent but adds up, and Gusto is US-only — excellent for straightforward US payroll and benefits, but not the pick for international teams or complex multi-en…",
      "source_url": "https://gusto.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-05"
+     "verified_at": "2026-10-16"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-05",
+   "price_verified_at": "2026-10-16",
    "first_observed_at": null
   },
   {
@@ -3519,7 +3519,7 @@
    "entry_price": "$4",
    "entry_price_terms": "Basic · per seat a month billed annually ($5 monthly)",
    "pricing_status": "public",
-   "price_note": "(read 2026-09-03 on modge.com/pricing, both billing toggles and the comparison table) Per-seat plans with a full-feature 14-day trial and no card. Basic is $5 per seat per month billed monthly or $4 billed annually: app and URL tracking with AI productivity classification, workforce dashboards, automatic time tracking with optional screenshots, timesheets, approvals and payroll exports, invoice creation, email and chat support. Pro is $7 monthly or $5.50 annually and adds shifts, scheduling and adherence, leave, breaks and overtime, client billing through Stripe, on-demand screenshots with 12-month retention, and custom roles, teams and project budgets. Premium, marked popular, is $9 monthly or $7 annually and adds automated project and task time tracking, workflow analysis, suspicious-activity and mouse-jiggler detection, burnout-risk and profitability insights, contract signing, 24-month screenshot retention and a dedicated account manager. Enterprise is custom, on annual billing with volume pricing, custom retention, customised onboarding and an SLA. Two add-ons are priced per seat: More Screenshots at $2 a month lifts capture from 18 to 60 an hour on Basic, Pro and Premium; Extended Data Retention at $2 a month or $1.67 annually keeps records for six years on every tier. The comparison table lists screenshot retention as 3 months on Basic, 12 on Pro and 24 on Premium, and marks SSO (SAML 2.0), SOC 2 Type II and ISO 9001 as soon.",
+   "price_note": "(read 2026-09-03 and re-verified 2026-10-16 on modge.com/pricing, both billing toggles and the comparison table; every amount unchanged) Per-seat plans with a full-feature 14-day trial and no card. Basic is $5 per seat per month billed monthly or $4 billed annually: app and URL tracking with AI productivity classification, workforce dashboards, automatic time tracking with optional screenshots, timesheets, approvals and payroll exports, invoice creation, email and chat support. Pro is $7 monthly or $5.50 annually and adds shifts, scheduling and adherence, leave, breaks and overtime, client billing through Stripe, on-demand screenshots with 12-month retention, and custom roles, teams and project budgets. Premium, marked popular, is $9 monthly or $7 annually and adds automated project and task time tracking, workflow analysis, suspicious-activity and mouse-jiggler detection, burnout-risk and profitability insights, contract signing, 24-month screenshot retention and a dedicated account manager. Enterprise is custom, on annual billing with volume pricing, custom retention, customised onboarding and an SLA. Two add-ons are priced per seat: More Screenshots at $2 a month lifts capture from 18 to 60 an hour on Basic, Pro and Premium; Extended Data Retention at $2 a month or $1.67 annually keeps records for six years on every tier. The comparison table lists screenshot retention as 3 months on Basic, 12 on Pro and 24 on Premium, and marks SSO (SAML 2.0), SOC 2 Type II and ISO 9001 as soon. The FAQ's blanket 'Annual billing saves 22% over monthly' holds only for Premium ($9 to $7, 22.2%); Basic saves 20% ($5 to $4) and Pro 21.4% ($7 to $5.50), as the plan cards themselves say.",
    "flags": [
     {
      "flag": "per_seat",
@@ -3527,7 +3527,7 @@
      "evidence_excerpt": "Basic is $5 per seat per month billed monthly or $4 billed annually: app and URL tracking with AI productivity classification, workforce dashboards, automatic time tracking with optional screenshots,…",
      "source_url": "https://modge.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-03"
+     "verified_at": "2026-10-16"
     },
     {
      "flag": "addons_extra",
@@ -3535,7 +3535,7 @@
      "evidence_excerpt": "Two add-ons are priced per seat: More Screenshots at $2 a month lifts capture from 18 to 60 an hour on Basic, Pro and Premium; Extended Data Retention at $2 a month or $1.67 annually keeps records fo…",
      "source_url": "https://modge.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-03"
+     "verified_at": "2026-10-16"
     },
     {
      "flag": "annual_lock",
@@ -3543,11 +3543,11 @@
      "evidence_excerpt": null,
      "source_url": "https://modge.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-03"
+     "verified_at": "2026-10-16"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-03",
+   "price_verified_at": "2026-10-16",
    "first_observed_at": "2026-09-03"
   },
   {
@@ -5030,7 +5030,7 @@
    "review_url": "https://aibuildermarketplace.com/b2b/smartsuite-review/",
    "from_price_usd_mo": 15.0,
    "entry_price": "$15",
-   "entry_price_terms": "Team, per seat · per seat per month billed annually ($20 billed monthly), with a minimum…",
+   "entry_price_terms": "Team, per seat · per seat per month billed annually, with a minimum of 3 billable users",
    "pricing_status": "public",
    "price_note": "(re-verified 2026-10-02 on their own pricing page, USD; unchanged since our August reading) No free plan — a 14-day trial of Professional with no credit card, and the page states there is no auto-charge when it ends. Team is $15 per seat a month billed annually, or $20 billed monthly, with a minimum of 3 billable users, 5,000 records per solution, 50GB of storage and a 30-day recycle bin. Professional is $32 per seat annually, or $36 monthly, with a minimum of 5 billable users, 100,000 records, 100GB and 45 days. Enterprise is quote-only and lifts those to 400,000 records, 500GB and 60 days, adding SSO, SCIM, audit logs, IP restrictions, data-loss prevention and European data residency; a further Signature plan sits above it, also on request and, per the FAQ, priced per solution rather than per seat. The minimums matter more than the rate: a three-person team on Team pays for three seats whether or not all three log in, and Professional cannot be bought for fewer than five, so the real entry price is $45 a month on Team and $160 on Professional rather than the per-seat figures on the cards. The FAQ adds that Enterprise has no seat minimum and that read-only users, commenters and form submitters are not billed.",
    "flags": [
@@ -5821,7 +5821,7 @@
    "entry_price": "€29.99",
    "entry_price_terms": "Professional, 1 user · billed monthly",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-08-14, read on their own business and personal pricing pages) There are three business plans: Professional for 1 user, Business from 3 users and Business Pro from 5 users. Priced from our location in euros, they run €29.99, €20 and €25 per user per month on monthly billing, and €23.99, €16 and €20 on yearly — which the page badges as 20% off. Personal runs a permanent free Basic tier plus Lite, Essential and Pro (€4.99, €11.99 and €29.99 a month from here). Our dollar reading of the same plans on 4 August 2026 gave Professional $33.99, Business $24 and Business Pro $30 per user per month. Storage runs 4 TB on Professional, from 6 TB on Business and from 15 TB on Business Pro, with maximum file sizes of 10, 15 and 20 GB. Every plan carries a 14-day trial with no feature limits, but Tresorit requires payment details up front to start it. Enterprise is quote-only.",
+   "price_note": "(business plans re-verified 2026-10-16 on tresorit.com/pricing/business in a browser, both billing toggles, all amounts unchanged since 14 August 2026; personal plans last read 2026-08-14) There are three business plans: Professional for 1 user, Business from 3 users and Business Pro from 5 users. Priced from our location in euros, they run €29.99, €20 and €25 per user per month on monthly billing, and €23.99, €16 and €20 on yearly — which the page badges as 20% off. Personal runs a permanent free Basic tier plus Lite, Essential and Pro (€4.99, €11.99 and €29.99 a month from here). Our dollar reading of the same plans on 4 August 2026 gave Professional $33.99, Business $24 and Business Pro $30 per user per month. Storage runs 4 TB on Professional, from 6 TB on Business and from 15 TB on Business Pro, with maximum file sizes of 10, 15 and 20 GB. Every plan carries a 14-day trial with no feature limits, but Tresorit requires payment details up front to start it. Enterprise is quote-only.",
    "flags": [
     {
      "flag": "per_seat",
@@ -5829,12 +5829,12 @@
      "evidence_excerpt": null,
      "source_url": "https://tresorit.com/pricing/business",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-05"
+     "verified_at": "2026-10-16"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-05",
-   "first_observed_at": "2026-08-14"
+   "price_verified_at": "2026-10-16",
+   "first_observed_at": "2026-10-16"
   },
   {
    "name": "Turbotic",
@@ -6118,7 +6118,7 @@
    "review_url": "https://aibuildermarketplace.com/b2b/xero-review/",
    "from_price_usd_mo": 27.0,
    "entry_price": "$27",
-   "entry_price_terms": "Early · standard monthly price after the promotion…",
+   "entry_price_terms": "Early · standard monthly price after the promotion",
    "pricing_status": "public",
    "price_note": "(re-verified 2026-10-09 in a browser render of their own US pricing page) The 1 October price increase the page announced in September has happened. The standard monthly prices are now Early $27 (was $25), Growing $59 (was $55) and Established $97 (was $90). The headline offer has changed too: 'Get 80% off your plan for your first 3 months', so Early is $5.40 a month for three months and then $27, Growing $11.80 and then $59, Established $19.40 and then $97; a second button offers one month free instead. Early still lists 20 invoices and 5 bills a month, with a footnote marker on the invoice limit; on our 19 September reading that footnote said the limit counts both approving and sending and that transactions initiated by app partners may count toward it. New on Early: auto-reconcile is an optional add-on at $5.00 a month (included on Growing and Established). Growing allows 3 budgets. Multi-currency, project tracking, expense and mileage claims and international bill payments remain on Established only. Optional add-ons: Inventory Plus (no price shown, not on Early) and Xero Payroll powered by Gusto at $36 a month plus $6 per employee or contractor. Standard ACH bill payments are free; fees apply for other methods and for cross-border payments. Subscriptions auto-renew monthly until cancelled. The offer terms were not re-read on this date; on 19 September they limited the then-current 90% offer to new US customers buying their first organisation and to the base subscription only, prices excluded tax and a downgrade was only allowed one month after an upgrade. Xero prices differently by country.",
    "flags": [
