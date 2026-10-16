@@ -79,7 +79,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Bybit
 - Review: https://officesoftwaremarketplace.com/bybit-review.html
 - Verdict: Bybit — At VIP 0 (non-VIP): spot 0.1000% maker and 0.1000% taker. Derivatives are the draw and the danger: leverage cuts both ways.
-- Price: No subscription — per-trade fees, re-verified 2026-09-05 against Bybit's own fee schedule, which the page says was last updated on 2 September 2026. At VIP 0 (non-VIP): spot 0.1000% maker and 0.1000% taker; perpetuals and futures 0.0200% maker and 0.0550% taker; options 0.0200% maker and 0.0300% taker.
+- Price: No subscription — per-trade fees, re-verified 2026-10-16 against Bybit's own fee schedule, which still says it was last updated on 2 September 2026; the base VIP table below is unchanged since our 5 September reading. At VIP 0 (non-VIP): spot 0.1000% maker and 0.1000% taker; perpetuals and futures 0.0200% maker and 0.0550% taker; options 0.0200% maker and 0.0300% taker.
 
 ## Carbon6
 - Review: https://officesoftwaremarketplace.com/carbon6-review.html
@@ -268,8 +268,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Gusto
 - Review: https://officesoftwaremarketplace.com/gusto-review.html
-- Verdict: Gusto: Premium $180 plus $22 per person with a dedicated service advisor and HR experts. The base-plus-per-employee model is transparent but adds up.
-- Price: Read in a browser on gusto.com/pricing on 5 September 2026; the page blocks plain fetches. Simple is $49 a month plus $6 per person for single-state payroll, Plus $80 plus $12 per person with multi-state payroll, next-day pay and time tracking, and Premium $180 plus $22 per person with a dedicated service advisor and HR experts.
+- Verdict: Gusto: Premium $180 plus $22 per person with premium account support and HR guidance. The base-plus-per-employee model is transparent but adds up.
+- Price: Read in a browser on gusto.com/product/pricing on 16 October 2026; the page blocks plain fetches. On the 'Pay My Team' tab, Simple is $49 a month plus $6 per person for single-state payroll, Plus $80 plus $12 per person with multi-state payroll, next-day pay and time tracking, and Premium $180 plus $22 per person with premium account support and HR guidance.
 
 ## Harbor Compliance
 - Review: https://officesoftwaremarketplace.com/harbor-compliance-review.html
@@ -384,7 +384,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Modge
 - Review: https://officesoftwaremarketplace.com/modge-review.html
 - Verdict: Modge: Basic is $5 per seat per month billed monthly or $4 billed annually. The numbers on Modge's own pages do not agree with each other.
-- Price: (read 2026-09-03 on modge.com/pricing, both billing toggles and the comparison table) Per-seat plans with a full-feature 14-day trial and no card. Basic is $5 per seat per month billed monthly or $4 billed annually: app and URL tracking with AI productivity classification, workforce dashboards, automatic time tracking with optional screenshots, timesheets, approvals and payroll exports, invoice creation, email…
+- Price: (read 2026-09-03 and re-verified 2026-10-16 on modge.com/pricing, both billing toggles and the comparison table; every amount unchanged) Per-seat plans with a full-feature 14-day trial and no card. Basic is $5 per seat per month billed monthly or $4 billed annually: app and URL tracking with AI productivity classification, workforce dashboards, automatic time tracking with optional screenshots, timesheets,…
 
 ## Momence
 - Review: https://officesoftwaremarketplace.com/momence-review.html
@@ -519,7 +519,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Tresorit
 - Review: https://officesoftwaremarketplace.com/tresorit-review.html
 - Verdict: Tresorit: €23.99, €16 and €20 on yearly. You pay the Swiss-E2EE premium — noticeably above mainstream clouds and above Proton Drive per GB.
-- Price: (re-verified 2026-08-14, read on their own business and personal pricing pages) There are three business plans: Professional for 1 user, Business from 3 users and Business Pro from 5 users. Priced from our location in euros, they run €29.99, €20 and €25 per user per month on monthly billing, and €23.99, €16 and €20 on yearly — which the page badges as 20% off.
+- Price: (business plans re-verified 2026-10-16 on tresorit.com/pricing/business in a browser, both billing toggles, all amounts unchanged since 14 August 2026; personal plans last read 2026-08-14) There are three business plans: Professional for 1 user, Business from 3 users and Business Pro from 5 users. Priced from our location in euros, they run €29.99, €20 and €25 per user per month on monthly billing, and €23.99,…
 
 ## Wondershare PDFelement
 - Review: https://officesoftwaremarketplace.com/wondershare-pdfelement-review.html
