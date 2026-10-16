@@ -243,8 +243,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## GCheck
 - Review: https://officesoftwaremarketplace.com/gcheck-review.html
-- Verdict: GCheck: Basic is $19.95 per check and covers an SSN trace and address history. The pricing page reads like self-serve and is not.
-- Price: (read 2026-09-29 on gcheck.com/pricing-packages, including its FAQ) Three packages, each priced per background check, with no setup fees, no minimums and no long-term contracts. Basic is $19.95 per check and covers an SSN trace and address history, a national criminal database search, the nationwide sex offender registry, the OIG excluded parties list, OFAC sanctions lists, global watchlists and a county criminal…
+- Verdict: GCheck: Basic is $18.95 per check (it was $19.95 when we first read the page on 29 September) and covers an SSN trace and address history.
+- Price: (re-verified 2026-10-16 on gcheck.com/pricing-packages after GCheck's partner mail announced a lower Basic price; first read 2026-09-29, including its FAQ) Three packages, each priced per background check, with no setup fees, no minimums and no long-term contracts. Basic is $18.95 per check (it was $19.95 when we first read the page on 29 September) and covers an SSN trace and address history, a national criminal…
 
 ## Glide
 - Review: https://officesoftwaremarketplace.com/glide-review.html
