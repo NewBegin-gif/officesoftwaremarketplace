@@ -478,8 +478,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Rippling
 - Review: https://officesoftwaremarketplace.com/rippling-review.html
-- Verdict: Rippling is modular and mostly quote-led. The published '$8 per user a month' is real but it's only the floor, and it's the HR-and-payroll entry.
-- Price: (verified 2026-08-27) Rippling is modular and mostly quote-led. The pricing page is a 'request a custom quote' form with no public numbers — you tell it which of HR, IT and Finance you need and your headcount, and a price comes back through sales.
+- Verdict: Rippling is modular and mostly quote-led. You're buying a system of record; the value only shows up once you consolidate several systems onto it.
+- Price: (re-verified 2026-10-16) Rippling is modular and mostly quote-led. The pricing page is a custom-quote form: you tell it which of HR, IT and Finance you need and your headcount, and a price comes back through sales.
 
 ## Samsara
 - Review: https://officesoftwaremarketplace.com/samsara-review.html
