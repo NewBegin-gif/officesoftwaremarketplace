@@ -1,6 +1,6 @@
 # Office Software Marketplace — Full Review Catalog
 
-> All 105 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-10-15.
+> All 106 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-10-16.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -446,6 +446,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Verdict: Planday: Plus is €4.99 against £3.99 against $4.49. The €25 monthly platform fee on Plus is the line most comparisons miss.
 - Price: (re-read 2026-09-17 and again on 2026-10-05; the euro list is unchanged since 20 August 2026, but which list you see depends on the page you open) Three tiers, two of them priced. On the euro page, planday.com/de/preise, Starter is €2.99 per user per month with a 5-user minimum, Plus is €4.99 per user with a 10-user minimum plus a €25.00 monthly subscription fee on top of the per-user cost, and Pro is…
 
+## Plansom
+- Review: https://officesoftwaremarketplace.com/plansom-review.html
+- Verdict: Plansom: The old /pricing URL returns 404, and still did when re-checked on 24 September 2026. The thing you cannot check is the price.
+- Price: No public price. plansom.com (read in a browser on 5 September 2026) has no pricing page, no pricing link in the navigation and no amount anywhere on the site; the only routes off the homepage are 'Create plan' and the app login.
+
 ## Proton
 - Review: https://officesoftwaremarketplace.com/proton-review.html
 - Verdict: Proton: Free is $0.00 a month for 1 GB and one address. Storage is the axis, and the jump from Drive Plus to Unlimited is not really about storage at all.
@@ -514,7 +519,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## World Businesses for Sale
 - Review: https://officesoftwaremarketplace.com/world-businesses-for-sale-review.html
 - Verdict: World Businesses for Sale: Browsing is free for buyers. On the broker plans you pay twice: a listing fee up front AND commission when it sells.
-- Price: (2026, re-verified 2026-10-13 on their own selling pages) Browsing is free for buyers. Sellers pick one of two tracks.
+- Price: (2026, re-verified 2026-10-15 on their own store and selling pages) Browsing is free for buyers. Sellers pick one of two tracks.
 
 ## WPLP
 - Review: https://officesoftwaremarketplace.com/wplp-review.html
