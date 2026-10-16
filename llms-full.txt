@@ -464,7 +464,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Proton Drive
 - Review: https://officesoftwaremarketplace.com/proton-drive-review.html
 - Verdict: Proton Drive: Proton Duo is $14.99 for 2 TB across two users at $179.88 a year. End-to-end encryption is the point and the price.
-- Price: (read 2026-08-26 on proton.me/drive/pricing over a US connection, on the Individuals view with yearly billing) Proton Free gives 5 GB. Drive Plus is $3.99 a month for 200 GB, marked 20% off $4.99 and billed at $47.88 every twelve months.
+- Price: (read 2026-08-26 over a US connection and re-read 2026-10-16 with USD selected, on proton.me/drive/pricing, Individuals view with yearly billing) Proton Free gives 5 GB. Drive Plus is $3.99 a month for 200 GB, marked 20% off $4.99 and billed at $47.88 every twelve months.
 
 ## QuickBooks UK
 - Review: https://officesoftwaremarketplace.com/quickbooks-uk-review.html
