@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for office, finance and HR software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 216,
-  "flags": 356,
+  "tools": 218,
+  "flags": 358,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on officesoftwaremarketplace.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -1836,15 +1836,15 @@
    "entry_price": "$20",
    "entry_price_terms": "per month ($17 yearly) for 100 credits",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-08-31 on emergent.sh/pricing) Free $0 (10 credits/mo); Standard $20/mo, or $17/mo billed annually, for 100 credits (the page states a $36 annual saving, 15%); Pro $200/mo, or $167/mo billed annually, for 750 credits (a $396 saving, 16.5%). Above Pro the ladder is quote-only: Business and Enterprise both show 'Custom' and route to Book a demo, adding RBAC, SSO, shared workspaces and co-editing (Business) and user-level credit limits, audit logs, self-hosted database support, VPC deployment and priority SLAs (Enterprise). The $300/mo Team tier with 1,250 shared credits is no longer offered. Credits meter the work -- simple changes 1-2, medium features 5-10, complex refactors 10-20+ -- which comes from earlier research and was not re-confirmed on the 31 Aug read of the pricing page.",
+   "price_note": "(re-verified 2026-10-17 on emergent.sh/pricing in the monthly view, with the annual rates from the same page read on 16 October 2026, and on Emergent's help pages on managing credit usage and on cancellation and refunds) Free $0 (10 credits/mo); Standard $20/mo, or $17/mo billed annually, for 100 credits (the page states a $36 annual saving, 15%); Pro $200/mo, or $167/mo billed annually, for 750 credits (a $396 saving, 16.5%). Above Pro the ladder is quote-only: Business and Enterprise both show 'Custom' and route to Book a demo, adding RBAC, SSO, shared workspaces and co-editing (Business) and user-level credit limits, audit logs, self-hosted database support, VPC deployment and priority SLAs (Enterprise). The $300/mo Team tier with 1,250 shared credits is no longer offered. Monthly subscription credits do not roll over: the balance refills to the plan amount at each renewal. Extra credits come as top-up packs, from 250 credits for $50 up to 10,000+ credits for $2,000; they never expire and are non-refundable. Credits pay for more than building: code generation, tests, integrations and scheduled tasks, model calls your app makes through Emergent's Universal LLM Key, and publishing, where each published app carries a fixed monthly fee in credits by tier (Starter, Launch, Grow, Scale, Elite). The guide says a single prompt costs anything from a handful of credits for a small UI tweak to hundreds for a full feature with tests, and that at zero balance work pauses with no overage billing. On cancellation you keep access to the end of the cycle and can get a prorated refund of unused subscription credits, minus published-app usage; a published app stays live only while credits cover its tier fee.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(re-verified 2026-08-31 on emergent.sh/pricing) Free $0 (10 credits/mo); Standard $20/mo, or $17/mo billed annually, for 100 credits (the page states a $36 annual saving, 15%); Pro $200/mo, or $167/mo billed annually, for 750 credits (a $396 saving, 16.5%).",
-     "evidence_excerpt": "(re-verified 2026-08-31 on emergent.sh/pricing) Free $0 (10 credits/mo); Standard $20/mo, or $17/mo billed annually, for 100 credits (the page states a $36 annual saving, 15%); Pro $200/mo, or $167/m…",
+     "evidence": "(re-verified 2026-10-17 on emergent.sh/pricing in the monthly view, with the annual rates from the same page read on 16 October 2026, and on Emergent's help pages on managing credit usage and on cancellation and refunds) Free $0 (10 credits/mo); Standard $20/mo, or $17/mo billed annually, for 100 credits (the page states a $36 annual saving, 15%); Pro $200/mo, or $167/mo billed annually, for 750 credits (a $396 saving, 16.5%).",
+     "evidence_excerpt": "(re-verified 2026-10-17 on emergent.sh/pricing in the monthly view, with the annual rates from the same page read on 16 October 2026, and on Emergent's help pages on managing credit usage and on canc…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-08-31"
+     "verified_at": "2026-10-17"
     },
     {
      "flag": "annual_lock",
@@ -1852,20 +1852,20 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-08-31"
+     "verified_at": "2026-10-17"
     },
     {
      "flag": "free_tier",
-     "evidence": "(re-verified 2026-08-31 on emergent.sh/pricing) Free $0 (10 credits/mo); Standard $20/mo, or $17/mo billed annually, for 100 credits (the page states a $36 annual saving, 15%); Pro $200/mo, or $167/mo billed annually, for 750 credits (a $396 saving, 16.5%).",
-     "evidence_excerpt": "(re-verified 2026-08-31 on emergent.sh/pricing) Free $0 (10 credits/mo); Standard $20/mo, or $17/mo billed annually, for 100 credits (the page states a $36 annual saving, 15%); Pro $200/mo, or $167/m…",
+     "evidence": "(re-verified 2026-10-17 on emergent.sh/pricing in the monthly view, with the annual rates from the same page read on 16 October 2026, and on Emergent's help pages on managing credit usage and on cancellation and refunds) Free $0 (10 credits/mo); Standard $20/mo, or $17/mo billed annually, for 100 credits (the page states a $36 annual saving, 15%); Pro $200/mo, or $167/mo billed annually, for 750 credits (a $396 saving, 16.5%).",
+     "evidence_excerpt": "(re-verified 2026-10-17 on emergent.sh/pricing in the monthly view, with the annual rates from the same page read on 16 October 2026, and on Emergent's help pages on managing credit usage and on canc…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-08-31"
+     "verified_at": "2026-10-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-08-31",
-   "first_observed_at": "2026-08-31"
+   "price_verified_at": "2026-10-17",
+   "first_observed_at": "2026-10-17"
   },
   {
    "name": "Employment Hero",
@@ -2845,6 +2845,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-09-24",
    "first_observed_at": null
+  },
+  {
+   "name": "Imagify",
+   "category": "IT & Productivity",
+   "domain": "imagify.io",
+   "review_url": "https://aibuildermarketplace.com/b2b/imagify-review/",
+   "from_price_usd_mo": 4.99,
+   "entry_price": "$4.99",
+   "entry_price_terms": "Growth · per month, billed yearly, excluding tax",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-17 in a browser on imagify.io/pricing in the yearly view, with the monthly rates read on the same page on 15 October 2026; the terms name US dollars, excluding tax) Starter is $0 a month: 20MB a month, about 200 images, unlimited websites, 2MB maximum per image, no credit card. Growth is $4.99 a month billed yearly, or $5.99 billed monthly: 500MB a month, about 5,000 images, unlimited websites and upload size, and $5 for each additional GB. Infinite is $9.99 a month billed yearly, or $11.99 monthly: unlimited images, websites and upload size at no extra cost, subject to the fair-use clause in the terms. The page advertises two months free on yearly billing but does not show the yearly invoice total. The terms rule out a refund on a prepaid twelve-month subscription. You cancel from the Billing page, and images already optimised stay optimised.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "(read 2026-10-17 in a browser on imagify.io/pricing in the yearly view, with the monthly rates read on the same page on 15 October 2026; the terms name US dollars, excluding tax) Starter is $0 a month: 20MB a month, about 200 images, unlimited websites, 2MB maximum per image, no credit card.",
+     "evidence_excerpt": "(read 2026-10-17 in a browser on imagify.io/pricing in the yearly view, with the monthly rates read on the same page on 15 October 2026; the terms name US dollars, excluding tax) Starter is $0 a mont…",
+     "source_url": "https://imagify.io/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-17"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-17",
+   "first_observed_at": "2026-10-17"
   },
   {
    "name": "Inbox Zero",
@@ -5906,6 +5930,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-04",
    "first_observed_at": "2026-08-17"
+  },
+  {
+   "name": "UserHelp.co",
+   "category": "Operations & Workflow",
+   "domain": "userhelp.co",
+   "review_url": "https://aibuildermarketplace.com/b2b/userhelp-co-review/",
+   "from_price_usd_mo": null,
+   "entry_price": "$59",
+   "entry_price_terms": "Pro · one-time payment, use on as many sites as you need, no watermark",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-17 in a browser on userhelp.co/pricing; the card shows a $ sign without naming the currency) Two plans. Basic is free forever: unlimited responses, one project, categories, annotated screenshots and translation into several languages, with a UserHelp.co watermark. Pro is $59 one-time: use on as many sites as you need, no watermark, team collaboration, error-log inspection, the browser's technical details, email chat with users, public discussion forums and recording and replaying user sessions. The pricing page does not say how many team members Pro includes, how long session recordings are kept, or how long one-time access lasts, and neither it nor the terms of service (dated 4 April 2024) state a refund rule.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "Basic is free forever: unlimited responses, one project, categories, annotated screenshots and translation into several languages, with a UserHelp.co watermark.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.userhelp.co/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-17"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-17",
+   "first_observed_at": "2026-10-17"
   },
   {
    "name": "VEA",
