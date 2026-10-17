@@ -1,6 +1,6 @@
 # Office Software Marketplace — Full Review Catalog
 
-> All 108 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-10-16.
+> All 112 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-10-17.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -85,6 +85,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/carbon6-review.html
 - Verdict: Carbon6: Entry tools from about $49/mo, PixelMe from about $500/mo with a 6-month minimum. The honest headline here is not pricing but ownership.
 - Price: What we can verify on the vendor’s own pages today (re-checked 10 Oct 2026; unchanged since 26 Aug 2026): carbon6.io/pricing now redirects to the tool list, so there is no suite-level price at all. SoStocked has dropped its two-tier ladder — where on 21 Jul it listed ProfitFlow at $97/mo and ProfitFlow + Inventory at "starting at" $250/mo, it now shows a single Inventory + Profit plan at "starting at" $175/mo…
+
+## Checkr
+- Review: https://officesoftwaremarketplace.com/checkr-review.html
+- Verdict: Checkr: Tenant screening is priced separately at $24.99, $34.99 and $44.99 per report. The headline per-check price is rarely what you actually pay.
+- Price: (re-verified 2026-08-17 and again 2026-09-30) Pay-as-you-go per report, no subscription: Basic $29.99, Essential $59.99 and Complete $94.99 per report, with Enterprise quote-only. Tenant screening is priced separately at $24.99, $34.99 and $44.99 per report, and personal checks start from $49.99.
 
 ## ChemiCloud
 - Review: https://officesoftwaremarketplace.com/chemicloud-review.html
@@ -316,6 +321,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Verdict: IDrive Mini is $0.25/month for 100 GB ($0.83/month for 500 GB). The first-year price is a teaser and the renewal is the price.
 - Price: (2026, re-verified 24 Sep 2026) Free 10 GB Basic tier. IDrive Mini is $0.25/month for 100 GB ($0.83/month for 500 GB).
 
+## Imagify
+- Review: https://officesoftwaremarketplace.com/imagify-review.html
+- Verdict: Imagify: Growth is $4.99 a month billed yearly, or $5.99 billed monthly. A prepaid yearly plan is not refunded.
+- Price: (read 2026-10-17 in a browser on imagify.io/pricing in the yearly view, with the monthly rates read on the same page on 15 October 2026; the terms name US dollars, excluding tax) Starter is $0 a month: 20MB a month, about 200 images, unlimited websites, 2MB maximum per image, no credit card. Growth is $4.99 a month billed yearly, or $5.99 billed monthly: 500MB a month, about 5,000 images, unlimited websites and…
+
 ## Inbox Zero
 - Review: https://officesoftwaremarketplace.com/inbox-zero-review.html
 - Verdict: Inbox Zero: Starter is $18 per user a month billed annually or $20 monthly. Pricing is per user, and a second mailbox needs Plus.
@@ -456,6 +466,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Verdict: Plansom: The old /pricing URL returns 404, and still did when re-checked on 24 September 2026. The thing you cannot check is the price.
 - Price: No public price. plansom.com (read in a browser on 5 September 2026) has no pricing page, no pricing link in the navigation and no amount anywhere on the site; the only routes off the homepage are 'Create plan' and the app login.
 
+## Plesk
+- Review: https://officesoftwaremarketplace.com/plesk-review.html
+- Verdict: Plesk: A 12-month term takes 8% off, to $15.57, $27.49 and $57.74. Plesk has been raising prices steadily (the 2026 round averaged ~26%).
+- Price: (read 2026-08-30 on plesk.com/pricing from a US exit; re-verified 2026-09-20 from the Netherlands against the page's own PleskPricing rate card, which carries every currency) Per-server licences, priced per edition by domain count. On a VPS: Web Admin $16.99/month (10 domains), Web Pro $29.99 (30 domains), Web Host $62.99 (unlimited domains).
+
 ## Proton
 - Review: https://officesoftwaremarketplace.com/proton-review.html
 - Verdict: Proton: Free is $0.00 a month for 1 GB and one address. Storage is the axis, and the jump from Drive Plus to Unlimited is not really about storage at all.
@@ -520,6 +535,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/tresorit-review.html
 - Verdict: Tresorit: €23.99, €16 and €20 on yearly. You pay the Swiss-E2EE premium — noticeably above mainstream clouds and above Proton Drive per GB.
 - Price: (business plans re-verified 2026-10-16 on tresorit.com/pricing/business in a browser, both billing toggles, all amounts unchanged since 14 August 2026; personal plans last read 2026-08-14) There are three business plans: Professional for 1 user, Business from 3 users and Business Pro from 5 users. Priced from our location in euros, they run €29.99, €20 and €25 per user per month on monthly billing, and €23.99,…
+
+## UserHelp.co
+- Review: https://officesoftwaremarketplace.com/userhelp-co-review.html
+- Verdict: UserHelp.co — Basic is free forever: unlimited responses, one project, categories. Basic is limited to one project and shows a watermark.
+- Price: (read 2026-10-17 in a browser on userhelp.co/pricing; the card shows a $ sign without naming the currency) Two plans. Basic is free forever: unlimited responses, one project, categories, annotated screenshots and translation into several languages, with a UserHelp.co watermark.
 
 ## Wondershare PDFelement
 - Review: https://officesoftwaremarketplace.com/wondershare-pdfelement-review.html
