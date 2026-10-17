@@ -93,8 +93,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## ChemiCloud
 - Review: https://officesoftwaremarketplace.com/chemicloud-review.html
-- Verdict: ChemiCloud: Shared hosting starts at $1.95/mo on the September campaign. The honest catch is the one every budget host shares.
-- Price: (re-verified 2026-09-02) Shared hosting starts at $1.95/mo on the September campaign: ChemiCloud's Back to Build sale runs from 2 September 4:00 AM EST to 30 September 11:59 PM EST and prices Starter, Pro and Turbo at $1.95, $2.95 and $3.49 a month on the 36-month term, or $3.49, $4.49 and $4.95 on 12 months. We read it on changeover day, with the outgoing 10th-birthday sale still on the hosting page behind a…
+- Verdict: ChemiCloud: Shared hosting starts at $1.95/mo on ChemiCloud's Back to Build sale. The honest catch is the one every budget host shares.
+- Price: (re-verified 2026-10-17) Shared hosting starts at $1.95/mo on ChemiCloud's Back to Build sale, which was still running when we read the hosting page on 17 October 2026: Starter, Pro and Turbo cost $1.95, $2.95 and $3.95 a month on the 36-month term, or $3.49, $4.49 and $5.49 on 12 months. The sale banner carries a countdown clock but no end date on the pages we read.
 
 ## Claude
 - Review: https://officesoftwaremarketplace.com/claude-review.html
