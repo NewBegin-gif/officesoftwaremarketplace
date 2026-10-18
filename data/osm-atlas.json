@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for office, finance and HR software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 218,
-  "flags": 358,
+  "tools": 220,
+  "flags": 360,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on officesoftwaremarketplace.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -6012,6 +6012,30 @@
    "first_observed_at": null
   },
   {
+   "name": "VideoScribe",
+   "category": "Operations & Workflow",
+   "domain": "videoscribe.co",
+   "review_url": "https://aibuildermarketplace.com/b2b/videoscribe-review/",
+   "from_price_usd_mo": null,
+   "entry_price": "€13.75",
+   "entry_price_terms": "Lite · per month, per licence, billed annually at €165",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-18 in a browser on videoscribe.co/pricing in the monthly and annual view, from a Netherlands connection, prices shown in euros; the cards do not say whether tax is included) Three paid plans, priced per licence. Lite is €34.00 a month billed monthly, or €13.75 a month billed annually at €165.00: 5 video downloads a month, videos up to 5 minutes, watermarks only on premium images. Core is €55.00 monthly, or €22.92 a month at €275.00 a year: 30 downloads a month, videos up to 10 minutes, 5M premium images and icons, no watermark on videos, preview links and training bundles. Max is €70.00 monthly, or €29.17 a month at €350.00 a year: unlimited downloads, videos up to 20 minutes, reseller rights, custom fonts and a brand kit. All plans include unlimited projects, the music library and Full HD MP4 downloads. The AI tools are metered per month: image generation 5, 20, 50 and 100 on Free, Lite, Core and Max; script generation 2, 30, 75 and 150 minutes; AI voiceover none on Free and Lite, 75 minutes on Core and 150 on Max. The free trial lasts 7 days with no credit card: 3 downloads, videos up to 5 minutes, watermarked. VideoScribe's help centre says payments already made are non-refundable, with refund requests about unresolved technical problems considered individually.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "The AI tools are metered per month: image generation 5, 20, 50 and 100 on Free, Lite, Core and Max; script generation 2, 30, 75 and 150 minutes; AI voiceover none on Free and Lite, 75 minutes on Core and 150 on Max.",
+     "evidence_excerpt": "The AI tools are metered per month: image generation 5, 20, 50 and 100 on Free, Lite, Core and Max; script generation 2, 30, 75 and 150 minutes; AI voiceover none on Free and Lite, 75 minutes on Core…",
+     "source_url": "https://www.videoscribe.co/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-18"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-18",
+   "first_observed_at": "2026-10-18"
+  },
+  {
    "name": "WebCatalog",
    "category": "IT & Productivity",
    "domain": "webcatalog.io",
@@ -6230,6 +6254,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-13",
    "first_observed_at": "2026-10-13"
+  },
+  {
+   "name": "Your Company Formations",
+   "category": "Financial Operations",
+   "domain": "yourcompanyformations.co.uk",
+   "review_url": "https://aibuildermarketplace.com/b2b/your-company-formations-review/",
+   "from_price_usd_mo": null,
+   "entry_price": "£2.48",
+   "entry_price_terms": "Digital · one-off, per formation, excluding 20% VAT",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-18 in a browser on yourcompanyformations.co.uk/packages/compare-packages/, prices in pounds) One-off packages for forming a UK limited company, each plus the £100 Companies House incorporation fee, which is added separately. VAT at 20% applies to the package price and paid extras but not to the Companies House fee. Digital is £2.48: formation and official digital documents by email. Digital & Print is £6.98 and adds printed copies by post. Privacy is £17.48 and adds a London EC1 registered office address and a director's service address. Fully Inclusive is £44.48 and adds business mail forwarding, VAT registration and a Premium 12 Month Company Filing Service. Non-Resident is £98.48, with London address services, VAT registration, filing support and international document postage. Entrepreneurs is £315.00, with London address services, VAT and PAYE registration, filing support and 12 months of call answering. Identity verification for Companies House (ACSP service) is included for up to four officers. Every basket starts with a £5.99 pre-submission review that you can remove at checkout. The yearly services renew at a price: the registered office address £29 a year plus VAT, the director's service address £28, business mail forwarding £98, and the Premium filing service £128 a year excluding VAT, with the £50 Companies House confirmation statement fee paid separately. Other company types, such as limited by guarantee, charity, property management, right to manage, LLP and PLC, have their own packages.",
+   "flags": [
+    {
+     "flag": "renewal_jump",
+     "evidence": "The yearly services renew at a price: the registered office address £29 a year plus VAT, the director's service address £28, business mail forwarding £98, and the Premium filing service £128 a year excluding VAT, with the £50 Companies House confirmation statement fee paid separately.",
+     "evidence_excerpt": "The yearly services renew at a price: the registered office address £29 a year plus VAT, the director's service address £28, business mail forwarding £98, and the Premium filing service £128 a year e…",
+     "source_url": "https://www.yourcompanyformations.co.uk/packages/compare-packages/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-18"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-18",
+   "first_observed_at": "2026-10-18"
   },
   {
    "name": "Zedonk",
