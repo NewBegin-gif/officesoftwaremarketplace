@@ -178,8 +178,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Disputifier
 - Review: https://officesoftwaremarketplace.com/disputifier-review.html
-- Verdict: Disputifier: Free to install, with everything billed on use, and unchanged between those two readings. Free to install is doing a lot of work here.
-- Price: (read 2026-08-19 and re-verified 2026-09-17 on apps.shopify.com/disputifier and disputifier.com/pricing) Free to install, with everything billed on use, and unchanged between those two readings. The listing shows a single plan — Basic, free to install, with a 7-day risk-free trial — and names two charges: chargeback fighting at 20% of won-back revenue, and chargeback alerts from $17 to $27.50 per alert.
+- Verdict: Disputifier: The 20% recovery fee, the $250 cap and the $17-$27.50 alert band are unchanged. Free to install is doing a lot of work here.
+- Price: (read 2026-08-19, re-verified 2026-09-17, and re-verified 2026-10-19 on apps.shopify.com/disputifier and disputifier.com/pricing: the 20% recovery fee, the $250 cap and the $17-$27.50 alert band are unchanged; the per-order prevention rates sit on pricing tabs the served page does not carry, and were not re-read that day) Free to install, with everything billed on use, and unchanged between those two readings.…
 
 ## DocSend
 - Review: https://officesoftwaremarketplace.com/docsend-review.html
