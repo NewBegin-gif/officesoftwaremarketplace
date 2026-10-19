@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 220,
-  "flags": 360,
+  "flags": 358,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on officesoftwaremarketplace.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -3275,39 +3275,23 @@
    "category": "HR & People",
    "domain": "leavo.com",
    "review_url": "https://aibuildermarketplace.com/b2b/leavo-review/",
-   "from_price_usd_mo": 2.49,
-   "entry_price": "$2.49",
-   "entry_price_terms": "per user a month billed yearly (~$448/yr for 15 users)",
+   "from_price_usd_mo": 2.5,
+   "entry_price": "$2.50",
+   "entry_price_terms": "per user a month billed yearly",
    "pricing_status": "public",
-   "price_note": "(price re-verified 2026-08-17 and 2026-10-07 against leavo.com) (2026) 30-day free trial with unlimited members (a trial, not a permanent free plan). Professional $2.49/user/mo billed yearly (about $448/yr for 15 users) adds unlimited features and overtime banking; Premium $4.15/user/mo yearly (about $747/yr for 15). Priced per user, annual billing. Plan changes take effect immediately and are prorated, and adding a member raises the subscription quantity automatically at a prorated charge. Professional and Premium can also be paid by bank transfer against a monthly invoice; volume pricing for large teams goes through sales. Leavo's own llms.txt still describes a free plan for up to 9 members at $2.50 and $4.17 per user; the pricing page, which we follow, shows only the 30-day trial and $2.49 and $4.15 (both read 7 October 2026).",
+   "price_note": "(price re-verified 2026-08-17, 2026-10-07 and 2026-10-19 against leavo.com/en/pricing) (2026) 30-day free trial with unlimited members and no credit card (a trial, not a permanent free plan). Professional $2.50/user/mo billed yearly ($450 a year for 15 members) or $3/user/mo billed monthly, and adds unlimited features and overtime banking; Premium $4.17/user/mo billed yearly ($750 a year for 15 members) or $5/user/mo billed monthly. Priced per user; the page describes yearly billing as 2 months free. Plan changes take effect immediately and are prorated, and adding a member raises the subscription quantity automatically at a prorated charge. Professional and Premium can also be paid by bank transfer against a monthly invoice; volume pricing for large teams goes through sales.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "Professional $2.49/user/mo billed yearly (about $448/yr for 15 users) adds unlimited features and overtime banking; Premium $4.15/user/mo yearly (about $747/yr for 15).",
-     "evidence_excerpt": null,
+     "evidence": "Professional $2.50/user/mo billed yearly ($450 a year for 15 members) or $3/user/mo billed monthly, and adds unlimited features and overtime banking; Premium $4.17/user/mo billed yearly ($750 a year for 15 members) or $5/user/mo billed monthly.",
+     "evidence_excerpt": "Professional $2.50/user/mo billed yearly ($450 a year for 15 members) or $3/user/mo billed monthly, and adds unlimited features and overtime banking; Premium $4.17/user/mo billed yearly ($750 a year …",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
-    },
-    {
-     "flag": "annual_lock",
-     "evidence": "Priced per user, annual billing.",
-     "evidence_excerpt": null,
-     "source_url": null,
-     "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
-    },
-    {
-     "flag": "free_tier",
-     "evidence": "Leavo's own llms.txt still describes a free plan for up to 9 members at $2.50 and $4.17 per user; the pricing page, which we follow, shows only the 30-day trial and $2.49 and $4.15 (both read 7 October 2026).",
-     "evidence_excerpt": "Leavo's own llms.txt still describes a free plan for up to 9 members at $2.50 and $4.17 per user; the pricing page, which we follow, shows only the 30-day trial and $2.49 and $4.15 (both read 7 Octob…",
-     "source_url": null,
-     "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-10-19"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-07",
+   "price_verified_at": "2026-10-19",
    "first_observed_at": "2026-08-17"
   },
   {
