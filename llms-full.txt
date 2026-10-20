@@ -364,7 +364,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Krystal
 - Review: https://officesoftwaremarketplace.com/krystal-review.html
 - Verdict: Krystal — All prices below are in pounds and exclude VAT: the site's Include VAT switch is off by default. Krystal does not win on sticker price.
-- Price: (read 2026-10-05 on krystal.io/hosting, /hosting/business, /hosting/wordpress/managed and /cloud-vps) All prices below are in pounds and exclude VAT: the site's Include VAT switch is off by default, so UK buyers add 20%. Shared cPanel hosting comes in six plans: Amethyst £7 a month (1 site, 10GB NVMe storage, 2GB RAM, 1 CPU, daily backups), Ruby £11 (5 sites, 25GB, free domain), Emerald £19 (unlimited sites and…
+- Price: (read 2026-10-05 on krystal.io/hosting, /hosting/business, /hosting/wordpress/managed and /cloud-vps; shared plans and backup frequencies re-read 2026-10-20 on /hosting and /hosting/business) All prices below are in pounds and exclude VAT: the site's Include VAT switch is off by default, so UK buyers add 20%. Shared cPanel hosting comes in six plans: Amethyst £7 a month (1 site, 10GB NVMe storage, 2GB RAM, 1 CPU,…
 
 ## Leavo
 - Review: https://officesoftwaremarketplace.com/leavo-review.html
