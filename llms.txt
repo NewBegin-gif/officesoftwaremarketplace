@@ -1,6 +1,6 @@
 # Office Software Marketplace
 
-> Independent, hands-researched reviews of office, finance, HR and IT software for small and mid-sized teams. 117 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-10-20.
+> Independent, hands-researched reviews of office, finance, HR and IT software for small and mid-sized teams. 119 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-10-20.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -20,7 +20,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [The Best WP Engine Alternatives (2026)](https://officesoftwaremarketplace.com/best-wp-engine-alternatives.html): WP Engine alternatives compared on the numbers we read ourselves: what each host really costs, where the meter is, and who each one is actua
 - [How to Set Up Your Business Finance Stack (2026)](https://officesoftwaremarketplace.com/build-business-finance-stack.html): A blueprint for your money operations: a business account, paying bills, bookkeeping, payroll and tax — the exact stack, what each tool does
 
-## Reviews (117) — canonical versions
+## Reviews (119) — canonical versions
 - [accessiBe Review (2026): From $59/mo, Checked Sep 2026](https://officesoftwaremarketplace.com/accessibe-review.html): accessiBe: $490 is the first figure a visitor sees. The thing you most need to know about this product is not on its pricing page, it is on the FTC’s.
 - [AccuWeb Hosting Review (2026): Cheap VPS That Renews at 2-4x](https://officesoftwaremarketplace.com/accuweb-hosting-review.html): AccuWeb Hosting: VPS Edge is €4.42 a month and renews at €8.91. The money-back guarantee is 7 days, shorter than many hosts offer.
 - [ADP Review (2026): No Public Price, Quote Only](https://officesoftwaremarketplace.com/adp-review.html): ADP shows no public pricing for RUN anywhere on its site. The quote-only posture is normal in payroll.
@@ -31,6 +31,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Bill.com Review (2026): From $49/user Plus Per-Payment Fees](https://officesoftwaremarketplace.com/bill-com-review.html): Bill.com: Essentials $49, Team $65 and Corporate $89 per user per month, plus a quote-only Enterprise - the same four cards as on 15 August 2026.
 - [BillingNow Review (2026): $9.99/mo Flat, Three-Day Trial](https://officesoftwaremarketplace.com/billingnow-review.html): BillingNow: $9.99 a month, or $99.90 a year which the page itself works out to $8.33 a month and labels 'Save 17%'. The pricing is genuinely refreshin
 - [Bitvavo Review (2026): MiCA-Regulated, 0.25% Taker Fee](https://officesoftwaremarketplace.com/bitvavo-review.html): Bitvavo — Above that: 0.03%/0.12% from €2,500,000, 0.01%/0.10% from €5,000,000. The honest caveats are crypto-wide, not Bitvavo-specific.
+- [Bizee Review (2026): $0 LLC Formation, Plus the State Fee](https://officesoftwaremarketplace.com/bizee-review.html): Bizee: Basic $0, Standard $199 and Premium $299. The $0 headline leaves out the state filing fee, which is usually the larger part of the bill.
 - [Blinq Review (2026): Free Tier, Pricing Checked Oct 2026](https://officesoftwaremarketplace.com/blinq-review.html): Blinq: Free forever for individuals (2 cards, unlimited QR sharing). The core product is honestly cheap — the cost that grows hides in event lead capt
 - [Bolt Business Review (2026): Pricing Not Public, Quote Only](https://officesoftwaremarketplace.com/bolt-business-review.html): Bolt Business: One line the marketing does not carry. The honest boundary is geography: Bolt's network is Europe/Africa-centric across 600+ cities.
 - [BookX Review (2026): From $9.99/mo, Checked Oct 2026](https://officesoftwaremarketplace.com/bookx-review.html): BookX: Growth is $19.99 or $203.99 a year (15%) for ten locations and team members. The free plan is a demonstration rather than a plan.
@@ -126,6 +127,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Shoeboxed Review (2026): Two Plans Yearly, Two Monthly](https://officesoftwaremarketplace.com/shoeboxed-review.html): Shoeboxed: Starter $97/yr or $9/mo (50 digital scans/mo, 20 paper scans/yr, 1 Magic Envelope/yr, 3 users, 3 years of digital scan storage).
 - [Shopmonkey Review (2026): $215-$449/mo, Payment Fees Unlisted](https://officesoftwaremarketplace.com/shopmonkey-review.html): Shopmonkey — Billed annually, which the page says saves up to 10%: Basic $215 a month, Clever $359, Genius $449. Card processing is part of the produc
 - [ShortlistIQ Review (2026): AI Interviewer From $49 a Month](https://officesoftwaremarketplace.com/shortlistiq-review.html): ShortlistIQ: Every account starts on a free plan for up to 10 applicants, with no credit card.
+- [Signable Review (2026): UK E-Signatures, Priced per Envelope](https://officesoftwaremarketplace.com/signable-review.html): Signable prices by the envelope, not by the user. Business and Enterprise prices are only 'from' figures and go through sales.
 - [TestGorilla Review (2026): Two Products, and Credits Set the Bill](https://officesoftwaremarketplace.com/testgorilla-review.html): TestGorilla: Free $0 (browse and preview only, no invites). Core starts from $77 a month billed annually or from $287 billed monthly.
 - [TextExpander Review (2026): macOS Already Does the Basics](https://officesoftwaremarketplace.com/textexpander-review.html): TextExpander: Free is $0 forever with no credit card, Pro $5 (billed annually at $60), Business $10 (billed annually at $120), Enterprise quoted.
 - [Top Echelon Review (2026): From $79/mo, Checked Oct 2026](https://officesoftwaremarketplace.com/top-echelon-review.html): Top Echelon: $95 billed annually or $115 month-to-month on Professional. Almost everything people shop for sits in Professional, not Standard.
