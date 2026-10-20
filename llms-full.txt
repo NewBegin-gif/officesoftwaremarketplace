@@ -1,6 +1,6 @@
 # Office Software Marketplace — Full Review Catalog
 
-> All 117 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-10-20.
+> All 119 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-10-20.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -55,6 +55,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/bitvavo-review.html
 - Verdict: Bitvavo — Above that: 0.03%/0.12% from €2,500,000, 0.01%/0.10% from €5,000,000. The honest caveats are crypto-wide, not Bitvavo-specific.
 - Price: (re-verified 2026-10-08, read on their own fees page) No subscription — you pay per trade. EUR markets (Category A) run ten volume tiers.
+
+## Bizee
+- Review: https://officesoftwaremarketplace.com/bizee-review.html
+- Verdict: Bizee: Basic $0, Standard $199 and Premium $299. The $0 headline leaves out the state filing fee, which is usually the larger part of the bill.
+- Price: (read 2026-10-15 on bizee.com and its registered agent and cancellation pages; the cards show $ without naming a currency) Three formation packages, each a one-time payment plus your state's filing fee: Basic $0, Standard $199 and Premium $299. The state fee is set by the state, not by Bizee, and the detailed package comparison only appears after you choose an entity type and a state, so we could not confirm what…
 
 ## Blinq
 - Review: https://officesoftwaremarketplace.com/blinq-review.html
@@ -530,6 +535,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/shortlistiq-review.html
 - Verdict: ShortlistIQ: Every account starts on a free plan for up to 10 applicants, with no credit card.
 - Price: (read 2026-10-16 in a browser on shortlistiq.com/pricing; the cards show a $ sign without naming the currency, and clicking Pay annually did not change the amounts) Three paid plans, each labelled per month and metered by invited applicants per month: Basic $49 for up to 20 applicants and one AI assistant; Standard $199 for up to 200 applicants and unlimited AI assistants with live chat support; Premium $599 for…
+
+## Signable
+- Review: https://officesoftwaremarketplace.com/signable-review.html
+- Verdict: Signable prices by the envelope, not by the user. Business and Enterprise prices are only 'from' figures and go through sales.
+- Price: (read 2026-10-20 on signable.com/plans, prices in pounds plus VAT; the EU page signable.com/plans-eu was read on 2026-10-15) Signable prices by the envelope, not by the user: every plan has unlimited users and unlimited templates. An envelope is one package of one or more documents sent together for signing.
 
 ## TestGorilla
 - Review: https://officesoftwaremarketplace.com/testgorilla-review.html
