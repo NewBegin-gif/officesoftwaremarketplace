@@ -161,7 +161,7 @@ var DEKKING=(function(){
  return {KAN:KAN,rijen:rijen,stand:stand,somkop:somkop,eenwachtrij:eenwachtrij,som:som,tabel:tabel,chip:chip};
 })();
 
-var API="https://api.aibuildermarketplace.com",IDS=["deel", "remote-people", "oyster", "papaya-global", "niural-ai"],NAMEN={"deel": "Deel", "remote-people": "Remote People", "oyster": "Oyster", "papaya-global": "Papaya Global", "niural-ai": "Niural AI"},REV={"deel": "/deel-review.html", "remote-people": "/remote-people-review.html", "oyster": "/oyster-review.html", "papaya-global": "https://aibuildermarketplace.com/b2b/papaya-global-review/", "niural-ai": "/niural-ai-review.html", "rippling": "/rippling-review.html", "adp": "/adp-review.html"},KOP='<h2>Your setup</h2>';
+var API="https://api.aibuildermarketplace.com",IDS=["deel", "remote-people", "oyster", "papaya-global", "niural-ai"],NAMEN={"deel": "Deel", "remote-people": "Remote People", "oyster": "Oyster", "papaya-global": "Papaya Global", "niural-ai": "Niural AI"},REV={"deel": "/deel-review.html", "remote-people": "/remote-people-review.html", "oyster": "/oyster-review.html", "papaya-global": "https://aibuildermarketplace.com/b2b/papaya-global-review/", "niural-ai": "/niural-ai-review.html", "rippling": "/rippling-review.html", "adp": "/adp-review.html"},KOP='<h'+'2>Your setup</h'+'2>';
 var f=document.getElementById('ihp'),uit=document.getElementById('ihpuit'),res=document.getElementById('ihpres');
 function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
 // een link naar een ander eigen domein is nofollow (netwerk-nofollowbesluit)
