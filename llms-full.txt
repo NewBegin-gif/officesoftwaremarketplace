@@ -298,8 +298,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Hive
 - Review: https://officesoftwaremarketplace.com/hive-review.html
-- Verdict: Hive: Free forever for up to 10 workspace members, with 1,000 AI credits a month and 200MB of storage.
-- Price: (re-verified 2026-10-18) Free forever for up to 10 workspace members, with 1,000 AI credits a month and 200MB of storage; Starter $5 per user a month and Teams $12 per user a month on yearly billing, which the page states saves 33% against monthly; Enterprise is custom. Read the Starter row before you pay for it: it lifts storage to unlimited and AI credits to 3,000 a month, but it keeps the same 10-member cap as…
+- Verdict: Hive: Free forever for up to 10 workspace members. The seat price is honest bait, the add-on grid is the business model.
+- Price: (re-verified 2026-10-18) Free forever for up to 10 workspace members, with 1,000 AI credits a month by the pricing page and 200MB of storage (a new account we tested on 21 October 2026, with no subscription, showed 5,000 of 5,000 AI credits included, resetting a month later, and a default AI spending limit of $500 a day; whether the extra credits are a one-off starting allowance is not established); Starter $5…
 
 ## Hopp
 - Review: https://officesoftwaremarketplace.com/hopp-review.html
