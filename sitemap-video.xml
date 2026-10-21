@@ -5,9 +5,19 @@
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/zgrKmI6x_Sc/hqdefault.jpg</video:thumbnail_loc>
       <video:title>ADP Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>The quote-only posture is normal in payroll, so the honest complaint is not that ADP hides its price — it is what that does to you as a buyer. You cannot compare ADP against anyone without first giving a salesperson your headcount and your phone number. And the three-months-free banner carries an end date, which puts a clock on a decision you cannot yet cost. Ask for the per-employee-per-month rate and the per-payroll-run fee separately. Ask what happens in month four. And ask what the price becomes at double your current headcount, because payroll pricing steps rather than scales smoothly. One detail worth noticing: ADP does publish an /llms.txt, a file whose entire purpose is to guide AI assistants around its site. They are willing to machine-readably explain what they sell. They are not willing to say what it costs.</video:description>
+      <video:description>The quote-only posture is normal in payroll, so the honest complaint is not that ADP hides its price — it is what that does to you as a buyer. You cannot compare ADP against anyone without first giving a salesperson your headcount and your phone number. And the three-months-free banner carries an end date, which puts a clock on a decision you cannot yet cost. Ask for the per-employee-per-month rate and the per-payroll-run fee separately. Ask what you pay from month seven, since the offer terms credit the free months to months 4 to 6. And ask what the price becomes at double your current headcount, because payroll pricing steps rather than scales smoothly. One detail worth noticing: ADP does publish an /llms.txt, a file whose entire purpose is to guide AI assistants around its site. They are willing to machine-readably explain what they sell. They are not willing to say what it costs.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/zgrKmI6x_Sc</video:player_loc>
-    <video:publication_date>2026-10-04T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-10-04T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/accuweb-hosting-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/ZYsose0IFGk/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>AccuWeb Hosting Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The plan prices are introductory rates on a 24-month term and renew at about two to four times as much: VPS Edge goes from €4.42 to €8.91 a month, VPS Power from €8.88 to €35.68. The money-back guarantee is 7 days, shorter than many hosts offer, and the prices shown change with your location and currency. The support response figures and customer numbers on the site are AccuWeb&#x27;s own claims. We have not used AccuWeb Hosting ourselves.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/ZYsose0IFGk</video:player_loc>
+    <video:publication_date>2026-10-14T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -17,7 +27,7 @@
       <video:title>Airia Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>Airia used to publish part of its ladder, which was refreshingly rare for enterprise AI. As of 20 August 2026 that is over: the pricing page redirects into developer documentation on airia.ai from both airia.com and www.airia.com, and there is no amount anywhere on the site. So the honest position is now the usual one for this category — you cannot budget before a sales conversation. The underlying fit has not changed, though the pitch has. Read on 1 September 2026, the site leads with discovery and enforcement rather than building: finding the AI tools, models, agents and MCP servers already running, including the unapproved ones, stopping actions at the execution layer before the tool call fires, and mapping governance evidence to the EU AI Act, NIST AI RMF, SR 11-7, HIPAA, ISO 42001 and SOC 2. The agent builder now sits under Optimize. Either way this only pays off at organisational scale. A small team that wants one chatbot is buying far more platform than it needs. For an enterprise standardising and governing AI, that is exactly the point.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/jWccgnQfYvw</video:player_loc>
-    <video:publication_date>2026-10-03T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-10-03T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -25,9 +35,9 @@
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/jbtJb2zsMbA/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Aplos Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>The headline you will see first is not the price you will pay. The 50%-off banner sits at the top of the page and rewrites every figure on it. So the $39.50 that catches your eye is a three-month rate against a $79 list price. That is a 100% increase waiting in month four, on software that holds your books and is therefore painful to leave. The second thing to pin down is users: Lite includes two, and for a nonprofit with a bookkeeper, a treasurer and a director that is already tight, so establish the per-user cost before you commit.</video:description>
+      <video:description>The headline you will see first is not the price you will pay. The 50%-off banner sits at the top of the page and rewrites every figure on it, so the $39.50 that catches your eye is a three-month rate against a $79 list price — a 100% increase waiting in month four, on software that holds your books and is therefore painful to leave. The second thing to pin down is what grows with you: each user beyond the two included adds $20 a month, every 1,000 contacts beyond 500 adds another $20, and on Lite every user is a full Administrator, because role permissions start at Core.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/jbtJb2zsMbA</video:player_loc>
-    <video:publication_date>2026-09-11T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-09-11T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -37,7 +47,7 @@
       <video:title>Arbor Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The honest catches: it only exists in deregulated US states, and it only touches the supply rate, since delivery charges stay with your utility. The headline savings — Arbor itself reports an average of up to $593/year — depend entirely on how bad your current default rate is. If you already shopped your rate recently, the gain may be small.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/4u6e-Onw3r8</video:player_loc>
-    <video:publication_date>2026-07-11T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-11T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -47,11 +57,11 @@
       <video:title>BackupMaster Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The listing header says free to install, and there is a free tier, but it is not for you unless you are an agency: Agency is limited to Shopify Partner development stores before they are handed over to a client. For a live store the entry price is $19 a month and it buys 300 orders a month.
 
-Restore is described throughout as restoring supported items, and nowhere does the listing say which items are not supported. That phrase is carrying a lot of weight in a product whose entire promise is that you can undo a mistake. Ask for the exclusion list before you rely on it, and run one real restore into a development store rather than discovering the boundary during an incident.
+Restore is described on the listing as restoring supported items, and the list of what that excludes lives in the documentation rather than on the listing. It matters. Read on 10 October 2026, the coverage page says orders are backed up but cannot be restored or cloned, because Shopify limits updates to existing orders. Locations, saved searches, policies and shipping zones are backup-only, and inventory comes back only through a manual download and Shopify&#x27;s own inventory import. Store settings, third-party app data, reviews, redirects, coupons, companies, catalogs and analytics are not covered at all. Read that page before you rely on the product, and run one real restore into a development store rather than discovering the boundary during an incident.
 
-The most useful review on the page is the critical one. In April 2026 a merchant asked for exports over SFTP to storage the vendor does not control, on-demand backups before risky changes, configurable retention and languages beyond English and German. The same merchant noted that a second store costs extra here where some rivals include one. None of that is damning; it is a fair map of where this app currently stops. Worth adding to the same note: your store data sits with a vendor in Australia, which belongs in your processing register whatever you decide.</video:description>
+The most useful review on the page is the critical one. In April 2026 a merchant asked for exports over SFTP to storage the vendor does not control, on-demand backups before risky changes, configurable retention and languages beyond English and German. The same merchant noted that a second store costs extra here where some rivals include one. None of that is damning; it is a fair map of where this app currently stops. One of those requests has since been met in part: the documentation now describes a Backup Now button for a manual backup at any time (read 10 October 2026). Worth adding to the same note: your store data sits with a vendor in Australia, which belongs in your processing register whatever you decide.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/Q3_33oUj4pk</video:player_loc>
-    <video:publication_date>2026-09-19T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-09-19T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -61,7 +71,7 @@ The most useful review on the page is the critical one. In April 2026 a merchant
       <video:title>Bill.com Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>Per-user pricing plus per-transaction fees means the real cost depends on team size and payment volume — it&#x27;s built for finance teams with genuine AP workflows and is overkill if you pay a handful of bills a month.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/jegH11-_KjY</video:player_loc>
-    <video:publication_date>2026-07-12T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-12T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -71,7 +81,7 @@ The most useful review on the page is the critical one. In April 2026 a merchant
       <video:title>BillingNow Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The pricing is genuinely refreshing — two plans, same features on both, unlimited users, no per-seat maths. The honest watch-out is the trial length rather than its terms: three days is short for migrating billing into a new tool, and the practical constraint is that there is no import path. The help centre documents CSV and Excel export but no import, so an existing client list has to be retyped — which is more than three days of work for anyone with a real book. It is also a young product from a small Geneva maker, so weigh ecosystem depth and longevity before you move your billing history in.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/-YHxlsIPRr0</video:player_loc>
-    <video:publication_date>2026-07-15T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-15T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -81,7 +91,7 @@ The most useful review on the page is the critical one. In April 2026 a merchant
       <video:title>Bitvavo Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The honest caveats are crypto-wide, not Bitvavo-specific: fees are only part of the cost (spread matters on small orders), and no exchange removes market risk — the platform being cheap and MiCA-regulated doesn&#x27;t make the assets safe. Note the disclosure: this is one of the few tools here we genuinely run — our own trading system executes on Bitvavo — which is experience, but also means we&#x27;re an actual customer, not a neutral bystander.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/Hr1yNQIseSc</video:player_loc>
-    <video:publication_date>2026-07-22T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-22T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -89,9 +99,9 @@ The most useful review on the page is the critical one. In April 2026 a merchant
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/E-DwDgISN-0/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Blinq Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>The core product is honestly cheap — the price jump hides in the event lead-capture add-on (~$199/mo), which is where teams that live on trade shows actually get value. And a truth about all digital cards: the wow factor works precisely because adoption is still low; the durable value is the CRM sync (contacts flowing automatically into your pipeline), so judge Business tier by that integration, not by the tap-to-share trick.</video:description>
+      <video:description>The core product is honestly cheap — the cost that grows hides in event lead capture, now billed per lead at $9.99 a credit on top of the Business seats (read 7 October 2026), which is where teams that live on trade shows actually get value. And a truth about all digital cards: the wow factor works precisely because adoption is still low; the durable value is the CRM sync (contacts flowing automatically into your pipeline), so judge Business tier by that integration, not by the tap-to-share trick.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/E-DwDgISN-0</video:player_loc>
-    <video:publication_date>2026-07-16T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-16T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -101,7 +111,7 @@ The most useful review on the page is the critical one. In April 2026 a merchant
       <video:title>Bolt Business Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The honest boundary is geography: Bolt&#x27;s network is Europe/Africa-centric across 600+ cities, so US-only operations should look elsewhere, and ride availability varies by city — pilot it on your team&#x27;s actual routes. Pricing is dynamic like all ride-hailing; the business layer adds control and receipts, not fixed corporate fares, so budget-predictability comes from your spend limits, not from locked prices.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/MOFz3YZisyY</video:player_loc>
-    <video:publication_date>2026-07-23T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-23T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -111,7 +121,7 @@ The most useful review on the page is the critical one. In April 2026 a merchant
       <video:title>BookX Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The free plan is a demonstration rather than a plan. One service and one team member means a salon with two stylists, or a studio running two class types, is already on Starter — so treat $9.99 a month as the real entry price, not zero. From there the ladder is gated on locations and team members rather than on how much you actually book: five, ten and twenty at $9.99, $19.99 and $39.99. A busy single-location business therefore pays the same as a quiet one, which is generous, while a small chain climbs the ladder for reasons that have nothing to do with volume. Above twenty locations or team members the published table stops and you have to ask. And the whole thing only exists inside Shopify — the calendar rides on your storefront, checkout and POS — so there is nothing here for a business that takes bookings anywhere else.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/Fj3cGQQ89Eg</video:player_loc>
-    <video:publication_date>2026-09-28T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-09-28T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -121,7 +131,17 @@ The most useful review on the page is the critical one. In April 2026 a merchant
       <video:title>Bybit Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>Derivatives are the draw and the danger: leverage cuts both ways, and funding rates on perpetuals are a real recurring cost the fee table doesn&#x27;t show. Regulation-wise, check what Bybit may offer in YOUR jurisdiction before funding an account — availability and product range differ per country, and that&#x27;s the part most fee comparisons skip.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/-whmuMCjxwM</video:player_loc>
-    <video:publication_date>2026-07-23T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-23T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/co2-impact-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/7THO38SQtmA/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>CO2 Impact Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Every licence is a 12-month commitment, and automated electricity and gas data is billed extra per meter per year. The public table does not show in text which plan includes advanced or SECR reports. A separate /pricing page on the site still shows placeholder dollar plans and lorem-ipsum text, so use the table on the homepage. No free trial is mentioned. We have not used CO2 Impact ourselves.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/7THO38SQtmA</video:player_loc>
+    <video:publication_date>2026-10-16T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -131,7 +151,17 @@ The most useful review on the page is the critical one. In April 2026 a merchant
       <video:title>Carbon6 Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The honest headline here is not pricing but ownership — and it has moved again, this time in the reader&#x27;s favour. SPS Commerce bought Carbon6 for roughly $210M on 7 Feb 2025 and retired the brand into spscommerce.com. On 30 Jun 2026 it sold the entire 3P (Amazon marketplace seller) revenue-recovery business for $9.5M cash, booking an estimated $20M loss, and named no buyer at the time. There is a name now. The partner-programme notice we received on 17 Aug 2026, from Carbon6&#x27;s own partnerships contact, states that SPS transferred ownership of the 3P business to Carbon6 and that commission terms and payouts are unchanged. It also states that existing links were redirected to the Carbon6 tool sites on 14 Aug 2026, and that the programme itself rebrands from SPS to Carbon6 on 24 Aug 2026. Reading carbon6.io on 17 Aug 2026 matches that: the whole suite is on sale there again as &quot;by Carbon6&quot;. Read the two purchase numbers carefully, because they are not the same thing. The $210M bought the whole Carbon6 stack; the $9.5M was the 3P arm alone, and offloading it at a book loss seventeen months in still tells you how it performed. What remains undisclosed is who stands behind the Carbon6 entity itself, so the question is answered one level down and no further. Two more things to hold. Reuters reported on 23 Jun 2026 that SPS hired Morgan Stanley to explore a sale of itself under activist pressure, with talks early and no deal assured. And the 1P side is no longer a clean split, because SPS kept the deduction-recovery business it bought while Carbon6&#x27;s own site now lists ChargeGuard for Amazon 1P vendor recovery. Ask which entity your 1P work would sit with before you sign. For 3P reimbursements the July advice has expired — you can name the counterparty on your contract again.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/yQb9fUH6FoQ</video:player_loc>
-    <video:publication_date>2026-08-01T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-08-01T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/checkr-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/RYXgrJV9VAc/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Checkr Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The headline per-check price is rarely what you actually pay — passthrough fees vary wildly by county and search type, so budget for the effective cost, not the advertised one. It&#x27;s overkill unless you hire at real volume.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/RYXgrJV9VAc</video:player_loc>
+    <video:publication_date>2026-08-08T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -141,7 +171,7 @@ The most useful review on the page is the critical one. In April 2026 a merchant
       <video:title>ChemiCloud Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The honest catch is the one every budget host shares: the headline price is an introductory rate, and renewals land roughly three times higher, so judge it on the renewal cost, not the sign-up teaser. Support and performance reviews are genuinely strong for the price band, but this is shared/managed hosting — if you need serious dedicated resources or enterprise SLAs, you&#x27;ll outgrow the cheap tiers. Great value to start, just enter with eyes open on renewal.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/qAev6uFi3-g</video:player_loc>
-    <video:publication_date>2026-07-23T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-23T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -151,7 +181,7 @@ The most useful review on the page is the critical one. In April 2026 a merchant
       <video:title>Claude Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The honest catch is usage limits: even on Pro you can hit a ceiling mid-session on a heavy day, and the step up to Max is a real $100 to $200 a month — you&#x27;re buying headroom, not extra features. It also doesn&#x27;t generate images, so if that&#x27;s your main need it&#x27;s the wrong tool, and its third-party plugin ecosystem is smaller than ChatGPT&#x27;s.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/86DVrHi6_to</video:player_loc>
-    <video:publication_date>2026-07-23T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-23T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -159,9 +189,9 @@ The most useful review on the page is the critical one. In April 2026 a merchant
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/C1nRF1wlwkI/hqdefault.jpg</video:thumbnail_loc>
       <video:title>CloudTask Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>The $299 is the honest part and also the small part: their FAQ calls it a one-time deposit to start a search, denies any monthly platform fee, and says it goes toward your first placement. What you will actually spend is the all-in monthly rate per hire, and that figure appears nowhere on the pricing page — you get it after you talk to them, once you are already invested in the process. Work out before you start what a comparable LATAM salary is on your own, so you can see what the managed layer costs on top. The exit is worth reading twice too. After six months you can graduate a managed hire onto your own payroll, but the placement fee for doing so is quoted at the time and no amount is published. So the price of keeping the person is a number you cannot check in advance.</video:description>
+      <video:description>The $299 is the honest part and also the small part: their FAQ calls it a one-time deposit to start a search, denies any monthly platform fee, and says it goes toward your first placement. What you will actually spend is the all-in monthly rate per hire, and that figure appears nowhere on the pricing page — you get it after you talk to them, once you are already invested in the process. Work out before you start what a comparable LATAM salary is on your own, so you can see what the managed layer costs on top. The exit is worth reading twice too. You can convert a managed hire onto your own payroll, but CloudTask&#x27;s FAQ attaches a conversion fee and a notice period to that and publishes neither. So the price of keeping the person is a number you cannot check in advance.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/C1nRF1wlwkI</video:player_loc>
-    <video:publication_date>2026-09-12T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-09-12T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -171,7 +201,7 @@ The most useful review on the page is the critical one. In April 2026 a merchant
       <video:title>Cloudways Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>&quot;Fully managed&quot; here means the server, not your site — and that distinction is where the money is. Cloudways&#x27; own support page puts infrastructure and platform work in the included tier but treats application help as guidance only. Plugin and theme troubleshooting, database work and performance tuning sit behind Advanced Support at $100/month or 10% of your invoice, whichever is higher, on a six-month minimum. On a small server that add-on costs more than the server it supports. Content changes, custom code debugging and code audits stay out of scope on every tier, paid ones included. The deeper catch is ownership: Cloudways documents that you get no root access and cannot use your own cloud credentials, so the machine sits in Cloudways&#x27; account — you cannot fire the management layer and keep the server, you migrate. And read the billing terms before you rely on it: their help centre states that an unpaid invoice restricts server access and can lead to the server and its backups being deleted, with backups kept for only 14 days after deletion.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/54Adst9McCg</video:player_loc>
-    <video:publication_date>2026-07-22T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-22T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -179,9 +209,9 @@ The most useful review on the page is the critical one. In April 2026 a merchant
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/2cgsmmoY9Cw/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Compliancely Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>The pricing page prices one product and the marketing sells about a dozen. Every tier you can actually buy online is an allowance of TIN verifications. The moment you want the things the homepage leads with — KYB business verification, credit-risk assessment, address verification, Form I-9 and E-Verify, IRS tax transcripts, OFAC and watchlist monitoring — the button changes from Get Started to Contact Sales. So the compliance stack this tool is pitched as has no advertised cost, and the number you can see is the smallest part of it. The second thing to read carefully is that the tiers are allowances rather than rates. You commit to a monthly verification count up front, and the per-match price moves against the smallest buyers. It is $0.79 a check on the cheapest month-to-month plan versus $0.54 on the largest annual one — a 46% spread that falls the wrong way for anyone testing the product at low volume. If your usage is lumpy — a filing-season spike and eleven quiet months — an allowance you buy every month is the wrong shape, and the prepaid option the page offers as a third toggle is worth asking about before you subscribe.</video:description>
+      <video:description>The pricing page prices one product and the marketing sells about a dozen. Every tier you can actually buy online is an allowance of TIN verifications. The moment you want the things the homepage leads with — KYB business verification, credit-risk assessment, address verification, Form I-9 and E-Verify, IRS tax transcripts, OFAC and watchlist monitoring — the button changes from Get Started to Contact Sales. So the compliance stack this tool is pitched as has no advertised cost, and the number you can see is the smallest part of it. The second thing to read carefully is that the tiers are allowances rather than rates. You commit to a monthly verification count up front, and the per-match price moves against the smallest buyers. It is $0.79 a check on the cheapest month-to-month plan versus $0.54 on the largest annual one — a 46% spread that falls the wrong way for anyone testing the product at low volume. If your usage is lumpy — a filing-season spike and eleven quiet months — an allowance you buy every month is the wrong shape, and the Prepaid toggle is the shape to check first: it sells yearly packs from 50 verifications for $43.95 to 3,000 for $1,799.95 (read 12 October 2026), although on the small packs the price per match is higher than on the monthly subscriptions.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/2cgsmmoY9Cw</video:player_loc>
-    <video:publication_date>2026-09-01T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-09-01T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -189,9 +219,9 @@ The most useful review on the page is the critical one. In April 2026 a merchant
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/_hHaaEqw4q8/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Contractor Foreman Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>Credit where it is due first: this is company pricing with unlimited projects and no per-user overage inside your tier, which is rare in construction software and genuinely cheaper than per-seat rivals for a crew. The catch is the billing term. Quarterly costs 26% more than annual on the same plan — $132 against $105 on Standard — and Basic is not sold quarterly at all, so the cheapest way in requires a year paid up front. The user counts are the real ladder: 1, 3, 8, 15, unlimited. A five-person crew is not on Standard at $105, it is on Plus at $166, so count your licence holders before you compare against anything else.</video:description>
+      <video:description>Credit where it is due first: this is company pricing with unlimited projects and no per-user overage inside your tier, which is rare in construction software and genuinely cheaper than per-seat rivals for a crew. The catch is the billing term. Monthly costs 20% to 32% more than annual on the same plan — $139 against $105 on Standard — and Basic is sold on annual billing only, so the cheapest way in requires a year paid up front. The user counts are the real ladder: 1, 3, 8, 15, unlimited. A five-person crew is not on Standard at $105, it is on Plus at $166, so count your licence holders before you compare against anything else.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/_hHaaEqw4q8</video:player_loc>
-    <video:publication_date>2026-07-26T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-26T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -201,7 +231,17 @@ The most useful review on the page is the critical one. In April 2026 a merchant
       <video:title>Credit Repair Cloud Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>This is business-in-a-box software for starting a credit-repair company, not a tool that repairs your own credit — the price only makes sense if you&#x27;re actually building a client business on it. The middle tiers jump fast as you add clients and seats, and success depends far more on your sales and compliance discipline (credit repair is a regulated space) than on the software. Buy it as an operator, not a consumer.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/fosd0yIUyZE</video:player_loc>
-    <video:publication_date>2026-07-23T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-23T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/database-mart-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/r5Y2l-iF6HU/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Database Mart Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Database Mart is cheap partly because the hardware is older. Most GPU and dedicated rows pair the card with Xeon E3 and E5 processors, and even the $2,099-a-month H100 server lists two E5-2697v4 CPUs from 2016 and a 100Mbps port, which is slow for moving model weights or datasets. Every server is in Dallas, Texas, so there is no second region for European or Asian users. Many rows carry 26% to 54% discounts, which makes the table hard to compare: some smaller plans cost more than larger ones. The trust signals on the home page, 500K+ customers and 21 years in business, are the company&#x27;s own and we could not check them, and we found no independent benchmark. Some dedicated and GPU builds may add a one-time provisioning fee that the table does not show.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/r5Y2l-iF6HU</video:player_loc>
+    <video:publication_date>2026-10-13T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -211,7 +251,7 @@ The most useful review on the page is the critical one. In April 2026 a merchant
       <video:title>Datarails Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>You cannot find out what it costs without talking to sales, and the entry plan is smaller than it looks: Professional covers 2 users and 1 integration, so a finance team of three, or one that needs both the ERP and the CRM connected, is priced into the next tier before the conversation starts. There is no free plan, no free trial and no self-serve signup anywhere on the site — every path ends at Request Demo — so there is no way to try it quietly before procurement is involved.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/IBg2utxfFgE</video:player_loc>
-    <video:publication_date>2026-09-22T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-09-22T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -221,7 +261,7 @@ The most useful review on the page is the critical one. In April 2026 a merchant
       <video:title>Deel Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>Every price is a ‘starting at’ and every button says ‘book a demo’ — the real bill depends on countries, benefits and add-ons, and only firms up in a sales conversation. And know what EOR money buys: at $599+/month per employee you’re paying for compliance risk transfer, not software — worth it in unfamiliar jurisdictions, expensive where you could open your own entity.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/JoSVD8DHzZk</video:player_loc>
-    <video:publication_date>2026-07-16T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-16T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -231,7 +271,7 @@ The most useful review on the page is the critical one. In April 2026 a merchant
       <video:title>Devs.ai Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The seat price is the smaller half of the bill. Personal includes $10 of usage a month and Business $21, with model usage metered on top of the seat. The plan cards state the included amount without stating the rate you pay once it runs out — which is exactly the number you need to forecast a real workload. The free plan is a demo rather than a working tier: both builders are limited to &quot;Core&quot;, and workflows, APIs and integrations are absent entirely, which is much of what would make the platform useful past a first agent. And for a product sold on IT governance, the governance controls are the ones you cannot buy with a card — SSO, access control lists and white-labelling sit on the Enterprise tier, behind a custom annual contract.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/A19uXxFEH1Q</video:player_loc>
-    <video:publication_date>2026-07-24T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-24T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -241,7 +281,7 @@ The most useful review on the page is the critical one. In April 2026 a merchant
       <video:title>Dext Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>It&#x27;s a data-capture layer, not accounting software — it feeds Xero, QuickBooks or Sage, so you still need one of those. Extraction accuracy varies and sometimes needs manual fixes, the UI is tricky for beginners, the mobile app is more limited than desktop, and sole traders find it pricey.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/mQupgWNl-4Q</video:player_loc>
-    <video:publication_date>2026-08-21T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-08-21T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -251,7 +291,7 @@ The most useful review on the page is the critical one. In April 2026 a merchant
       <video:title>Dify Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>&#x27;Free&#x27; self-hosting isn&#x27;t free — you own the servers, updates and reliability, and model usage bills separately once the included message credits run out. Dify Cloud takes that infrastructure work off your hands, but every cloud plan is a single workspace, and multiple workspaces, SSO and a commercial licence sit in quote-only Enterprise. It&#x27;s powerful, but self-hosting it well needs technical comfort.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/9d0pye9rdYU</video:player_loc>
-    <video:publication_date>2026-07-25T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-25T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -261,7 +301,7 @@ The most useful review on the page is the critical one. In April 2026 a merchant
       <video:title>Digit Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The tier price is a floor, not a ceiling, and the add-ons are where an inventory system quietly doubles. Two integrations are included — but a working setup usually means an accounting package and a webshop, which is your two, and then Amazon or a second sales channel is another $125 a month by the FAQ (the integrations block on the same page still says $100; we have asked which one bills). Want the API, or your data inside an AI assistant? $125 a month each. A Starter customer on QuickBooks, Shopify and Amazon with API access is at $650 a month on the FAQ&#x27;s numbers, $625 on the block&#x27;s, before adding a sixth user. Price the whole configuration you actually need, not the tier.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/UF4xSQ_jbpA</video:player_loc>
-    <video:publication_date>2026-09-12T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-09-12T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -275,7 +315,21 @@ The reviews deserve a straight look too. The 4.6 average across 125 reviews, rea
 
 And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank and card: smaller issuers do not participate, Amex and Discover frequently cannot be set up, Klarna alerts do not exist yet and PayPal alerts are recent. The prevention rate the vendor quotes is a ceiling for a well-covered card mix, not a promise for yours.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/PXOd0ZDG8JI</video:player_loc>
-    <video:publication_date>2026-09-16T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-09-16T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/docsend-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/fRLnoTt_uNY/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>DocSend Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The cheap plan is not the product people buy DocSend for. Personal at $10 a month tracks who opened a single document and for how long, but it has no data rooms at all. Sharing several files behind one link starts on Standard at $45 per user a month, and the controls that make a data room safe for a fundraise or a sale (visitor email authentication, watermarking, NDA gating, folder permissions) start on Advanced at $150 a month. Price the plan for the job you actually have, not the entry price on the page.
+
+Monthly billing is expensive. The same Advanced plan costs $250 a month without a yearly commitment, two-thirds more than the $150 yearly rate, and Advanced Data Rooms goes from $180 to $300. A company that needs a data room for one four-month deal pays $1,000 on monthly billing, against $1,800 for a year it may not use. Work out that sum before you pick a toggle.
+
+Several things a larger team will want are priced only through sales: the Salesforce integration, single sign-on and sub-teams. The trial is 14 days of the top plan, but visitors are capped during it, so a trial is not the place to run the real fundraise. We have not used DocSend ourselves; the figures here come from its pricing page and plan tooltips.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/fRLnoTt_uNY</video:player_loc>
+    <video:publication_date>2026-10-07T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -285,7 +339,7 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
       <video:title>Dryground AI Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>This is consulting, not a tool you log into: best when you want AI designed and built for you, not when you&#x27;d rather DIY with software. Read the headline numbers carefully too. The 20-50% efficiency and 10-20% revenue figures on their homepage carry the caption “2025 industry benchmarks”, so they describe the market rather than this firm&#x27;s own results. And the case studies underneath them name no clients.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/SFi1MrFKuGs</video:player_loc>
-    <video:publication_date>2026-08-30T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-08-30T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -293,9 +347,9 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/nylkFyOtNNQ/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Emergent Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>The real cost is credit consumption, not the flat sticker -- a genuinely complex app burns 10-20+ credits per big change, so serious builders move up tiers faster than the price list implies. Now do the division, because Emergent&#x27;s own pricing page doesn&#x27;t. Standard is $20 for 100 credits, so 20 cents a credit. Pro is $200 for 750, which is 26.7 cents. Moving up a tier makes every unit of work more expensive, not less: Pro costs 33% more per credit than Standard, and annual billing keeps the gap (17 cents against 22.3). That is the opposite of the volume discount the ladder looks like -- you are buying a 1M-token context window, custom agents and priority support, not cheaper work. And there is nowhere cheap to go above it: Business and Enterprise are both quote-only, so passing 750 credits a month means a sales call rather than a bigger plan. Check what your month actually needs before you upgrade; one Standard month plus purchased extra credits may beat one Pro month. AI-generated code still needs a human eye: review it for security, correctness and maintainability before anything touches real users.</video:description>
+      <video:description>The real cost is credit consumption, not the flat sticker -- Emergent&#x27;s own guide says one prompt can cost from a handful of credits for a small UI tweak to hundreds for a full feature with tests, and a published app keeps drawing credits every month for its hosting tier, so serious builders run through a plan faster than the price list implies. Now do the division, because Emergent&#x27;s own pricing page doesn&#x27;t. Standard is $20 for 100 credits, so 20 cents a credit. Pro is $200 for 750, which is 26.7 cents. Moving up a tier makes every unit of work more expensive, not less: Pro costs 33% more per credit than Standard, and annual billing keeps the gap (17 cents against 22.3). That is the opposite of the volume discount the ladder looks like -- you are buying a 1M-token context window, custom agents and priority support, not cheaper work. Above Pro there is no bigger self-serve plan: Business and Enterprise are both quote-only. Top-up packs fill the gap at the Standard rate, 250 credits for $50 or 20 cents a credit, but they are non-refundable. Check what your month actually needs before you upgrade; one Standard month plus purchased extra credits may beat one Pro month. AI-generated code still needs a human eye: review it for security, correctness and maintainability before anything touches real users.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/nylkFyOtNNQ</video:player_loc>
-    <video:publication_date>2026-07-17T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-17T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -305,7 +359,7 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
       <video:title>Employment Hero Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>There is no such thing as the Employment Hero price, and the first thing to fix is the currency: the pricing page is the Australian one, its disclaimer says every figure is AUD excluding GST, and there is no US page. Then the structure. HR, recruitment, chat and payroll are separate subscriptions, most of them per employee, with a stated minimum of ten users underneath — so a six-person company is billed for ten. Payroll no longer carries its own price at all: it is inside the quote-only Employment Unlimited tier, or an A$20-a-head add-on with a A$400 floor. And the recruitment tiers meter AI video interviews rather than people, with credits that reset monthly, do not roll over, and overage billed automatically with no hard cap.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/LxGwLtUkHqk</video:player_loc>
-    <video:publication_date>2026-09-09T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-09-09T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -315,7 +369,7 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
       <video:title>ExpertEx Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The plan cards and the calculator on the same page do not agree, and the gap is large enough to pick the wrong tier. Starter is sold as 65 product photos and 10 short video ads a month on 1,000 credits; at the calculator&#x27;s own rates that work costs 4,125 credits, four times the allowance. The card numbers only reconcile if each is taken alone, and at roughly 15 credits a photo and 100 a video. The same 4.2x mismatch repeats on every tier, so it is a systematic difference rather than a typo. Ask which rate governs before you buy, because the calculator will steer you to a plan two rungs above what the card implies. The second thing to price is that this is a credit product with no free tier. Prompt Builder is free; generating is not. And the cheap trials ($1, $2, $5) are three days rather than a month -- enough to test output quality, not enough to test a monthly workflow. And the fundamental one: AI product photography is judged on whether the output is publishable without a retoucher. Run your own worst product through the trial -- a reflective bottle, a garment with fine texture -- rather than the kind of thing that looks good in every demo.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/ZutCRVBmAaI</video:player_loc>
-    <video:publication_date>2026-08-27T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-08-27T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -323,9 +377,9 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/nFDWy3VipHM/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Expertise AI Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>The honest catch is that there is no middle any more. When we re-read the pricing page on 15 August 2026, the $500/mo Growth tier had been withdrawn. So the ladder runs straight from a Free Preview capped at 10 conversations to Business at $2,000/mo. And everything that makes the product genuinely powerful — visitor intelligence that de-anonymizes traffic, the 2-way HubSpot sync, Voice AI — sits on that paid tier. There is no way to grow into it gradually. It&#x27;s also a RAG agent, so it&#x27;s only as good as the docs you feed it: give it thin content and it can answer buyers confidently but wrong. Strong for HubSpot-centric B2B teams; less compelling if you&#x27;re not in that ecosystem.</video:description>
+      <video:description>The honest catch is that you can no longer see what this costs. On 3 September 2026 the page still had a ladder: a Free Preview capped at 10 conversations, then Business at $2,000/mo, the $500 Growth tier having been withdrawn in August. By 1 October every amount was gone, the free preview with it, and all three tiers now end in &#x27;Book a demo&#x27;. So the price is whatever the call produces, and the only public yardstick is the old $2,000 a month. It&#x27;s also a RAG agent, so it&#x27;s only as good as the docs you feed it: give it thin content and it can answer buyers confidently but wrong. Strong for HubSpot-centric B2B teams that are ready to buy through sales; hard to evaluate on your own.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/nFDWy3VipHM</video:player_loc>
-    <video:publication_date>2026-07-25T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-25T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -335,7 +389,7 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
       <video:title>Finale Inventory Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>It&#x27;s built for real warehouse volume and priced that way: Essentials starts at $499 a month and Growth at $799, with Enterprise quoted. There is no self-serve tier and no published order or user cap -- every plan goes through Request a Demo, most customers sign 12- to 36-month terms, and API and EDI access are Enterprise-only. If you do a few dozen orders a month, this is far more inventory engine, and far more cost, than the job needs.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/P0_FNGw8sW8</video:player_loc>
-    <video:publication_date>2026-08-19T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-08-19T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -343,9 +397,9 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/2VTDXHqzujI/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Flatpay Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>“Zero monthly fees” is the headline, and there genuinely is no subscription — but there is a floor. Miss £995 of card turnover in a month and you are charged £39, which for a quiet month is the same thing as a monthly fee wearing a different hat. Do the sum before you sign: a shop turning over £500 on cards pays £7.45 in transaction fees and then £39 on top, so the cost of taking cards is six times what the rate suggests. The rate itself is straightforward and the terminal really is free to start, so this is a good fit for a busy till and a poor one for a market stall, a seasonal business or anyone whose card volume swings. And the four-figure POS installation charges are real money that the “no hidden fees” promise sits directly above — they are disclosed, but they are not what most people picture when they read that line.</video:description>
+      <video:description>“Zero monthly fees” is the headline, and there genuinely is no subscription — but there is a floor. Miss £1,100 of card turnover in a month (the price list&#x27;s figure on 14 October 2026, incl. VAT; it was £995 in September) and you are charged £39, which for a quiet month is the same thing as a monthly fee wearing a different hat. Do the sum before you sign: a shop turning over £500 on cards pays £7.45 in transaction fees and then £39 on top, so the cost of taking cards is six times what the rate suggests. The rate itself is straightforward and the terminal really is free to start, so this is a good fit for a busy till and a poor one for a market stall, a seasonal business or anyone whose card volume swings. And the four-figure POS installation charges are real money that the “no hidden fees” promise sits directly above — they are disclosed, but they are not what most people picture when they read that line.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/2VTDXHqzujI</video:player_loc>
-    <video:publication_date>2026-09-11T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-09-11T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -353,9 +407,9 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/MV1h9_0j9qQ/hqdefault.jpg</video:thumbnail_loc>
       <video:title>FlexiQuiz Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>The monthly response caps are the business model: 20 on free, 500 on Essentials, 2,000 on Premium and 25,000 on Enterprise -- one viral quiz or one big exam cohort and you&#x27;re shopping a tier up. The per-response price falls steeply as you climb ($0.034, $0.0125, $0.0024 on yearly billing), so the ceiling is the thing to price, not the sticker. Administrator seats are capped separately at 1, 2 and 15, and sharing a login is against the terms.</video:description>
+      <video:description>The monthly response caps are the business model: 20 on free, 500 on Essentials, 2,000 on Premium and 25,000 on Enterprise -- one viral quiz or one big exam cohort and you&#x27;re shopping a tier up. The cap hits the participant, not you: in our test on 20 October 2026 the 21st respondent of the month saw only &#x27;This account has reached the maximum monthly response limit&#x27; instead of the quiz. The free plan also stops at 10 questions, a limit that only shows up when you save the eleventh. The per-response price falls steeply as you climb ($0.034, $0.0125, $0.0024 on yearly billing), so the ceiling is the thing to price, not the sticker. Administrator seats are capped separately at 1, 2 and 15, and sharing a login is against the terms.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/MV1h9_0j9qQ</video:player_loc>
-    <video:publication_date>2026-07-26T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-26T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -365,7 +419,7 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
       <video:title>Foxit Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>Foxit&#x27;s pitch is being the honest fraction of Acrobat&#x27;s price, and on the headline numbers it delivers. The catch used to be that e-signing was always a second subscription. As of our 28 August 2026 reading that is only true below Editor+, which now includes Foxit eSign with 150 envelopes a year. The trap has moved rather than gone: buy the $129.99 Editor, then find you need signatures, and Editor plus standalone eSign Essentials is $249.99 a year against $159.99 for the Editor+ that bundles it. AI is still an add-on at $49.99 a year beyond the 300 monthly credits, and it is not sold for perpetual licences at all. Price the basket, not the first line.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/3wvQ3kkgCiQ</video:player_loc>
-    <video:publication_date>2026-07-05T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-05T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -373,9 +427,9 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/Fr_XVqVIZaM/hqdefault.jpg</video:thumbnail_loc>
       <video:title>FreshBooks Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>Two things multiply the number you first see. The promotional rate is 90% off for three months, so Lite is $23 rather than $2.30 from month four. And the meter is billable clients, not invoices or revenue: Lite stops at five, which a freelancer with a handful of retainers passes in their first good quarter, and the step to fifty clients is $43. Then people cost extra on top at $11 each, so a two-person studio on Plus is $54 a month rather than $43. Payroll is a separate $40 plus $6 a head, which is the line most people miss when they compare this against a bookkeeping tool that includes it.</video:description>
+      <video:description>Two things multiply the number you first see. The promotional rates end: Lite is $1 a month for the first year and $23 after that, and Plus and Premium are 80% off for three months only. And the meter is billable clients, not invoices or revenue: Lite stops at five, which a freelancer with a handful of retainers passes in their first good quarter, and the step to fifty clients is $43. Then people cost extra on top at $11 each, so a two-person studio on Plus is $54 a month rather than $43. Payroll is a separate $40 plus $6 a head, which is the line most people miss when they compare this against a bookkeeping tool that includes it.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/Fr_XVqVIZaM</video:player_loc>
-    <video:publication_date>2026-09-10T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-09-10T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -385,7 +439,23 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
       <video:title>Freshservice Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The $19 headline rarely survives contact with a real deployment: the ITSM features most IT teams buy for (change/problem management, deeper analytics) live at Pro, and so does Freddy AI Copilot, a $29-an-agent add-on offered only on Pro and Enterprise. Orchestration runs and, from Growth up, 100 asset units come included; you pay extra only past those allowances. Price the tier that contains your must-haves plus the add-ons you would switch on, not the starter row. Within that honesty, it&#x27;s one of the fastest ITSM tools to actually stand up.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/eSl-EH6D1ME</video:player_loc>
-    <video:publication_date>2026-07-16T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-16T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/gcheck-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/fmRwr20CrpY/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>GCheck Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The pricing page reads like self-serve and is not. “Pay per screen” sits above three published prices, but every Get Started with Basic, Standard or Advanced button on that page opens the same contact form as Book a Demo, asking for your company name. There is no checkout: an employer who wants to run one check this afternoon starts with a sales conversation, and the price you are quoted after it is the one to hold them to.
+
+The $18.95 check is narrower than the headline suggests. Basic searches county court records only in the candidate&#x27;s current county of residence, and GCheck&#x27;s own FAQ calls the county search the gold standard for criminal record accuracy while describing the national database search as covering participating jurisdictions. A candidate who moved last year has their previous counties searched only from Standard at $39.95, which is the package GCheck itself marks Most Popular. Then there is the asterisk under every price: third-party fees may apply to some products and are passed through with no markup, and nothing on the site says which products or how much. County court access fees are the usual example in this industry, so budget for the package price plus fees you will see for the first time on an invoice.
+
+The rest of the catalogue is unpriced. Drug tests, driving records, employment and education verification, credit and civil searches, fingerprinting and international searches are all listed and none carries a figure, so a role that needs an MVR or an employment verification on top of the criminal search is a quote, not a sum. The same goes for integrations: GCheck&#x27;s integrations page names 18 ATS and HRIS systems, including Greenhouse, Lever, Workday, BambooHR and Rippling, but the pricing page places integrations under the custom quote for employers running more than 50 checks a year, and its FAQ sends you to sales for the list.
+
+On track record we can tell you less than we would like. The 12–24 hour average turnaround and same-day results</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/fmRwr20CrpY</video:player_loc>
+    <video:publication_date>2026-10-09T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -395,7 +465,7 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
       <video:title>Glide Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>Glide meters updates, not just seats. Your bill tracks how busy the app is rather than how many people own a licence. A write-heavy workflow can pass the included 5,000 updates and add 2 cents each without anyone changing plan. The jump from Maker to Business is also steep: $49 to $199 per month on annual billing, and the row ceiling only moves from 25k to 100k. Per Glide&#x27;s partner team on 18 August 2026, those ceilings track the data source rather than the plan. 25k applies to synced spreadsheet sources whatever you pay, and the 100k+ figures belong to their Big Table source. So an upgrade alone does not lift a spreadsheet-backed app past 25k rows. The pricing page is hard to read for a reason Glide does not dispute. Asked about the Individual and Business tabs, the same team called them audience segmentation. They agreed on 18 August 2026 that the comparison tables confuse, because they never put all plans side by side. And there is a trap before any of that arithmetic applies: everything above describes the classic builder, but the free signup button on glideapps.com does not lead there. We pressed it on 7 September 2026 and landed in GlideOS, the newer AI product, which meters credits instead of updates, starts at $25 a month instead of $199, and describes its free tier only as “limited credits” with no number anywhere in the pricing page or the app. Read the classic prices, click sign up, and you are evaluating something else.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/w1HUxyQPjJc</video:player_loc>
-    <video:publication_date>2026-09-02T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-09-02T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -405,7 +475,7 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
       <video:title>Goflow Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>Core is free forever but no longer the whole platform: it connects only Amazon, eBay, Shopify, TikTok and Walmart, has no API or App Store, syncs with QuickBooks Online only, and stops importing at 500 orders until the 1st of the next month. The next step up is $499/mo for 750 orders, and Goflow states you cannot move back down to Core once you go paid. Budget the EDI setup separately: $500-1,300 one-time per connection, multiplied by the number of retail partners.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/hnw_ilfUOjo</video:player_loc>
-    <video:publication_date>2026-08-13T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-08-13T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -415,7 +485,7 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
       <video:title>Gravity Forms Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>Two honest notes. It&#x27;s a WordPress-only plugin — no WordPress, no Gravity Forms — and its real power often lives in paid add-ons and third-party extensions, so a genuinely advanced setup can cost more than the base license suggests. It&#x27;s developer-friendly rather than beginner-slick; non-technical users may find hosted builders more polished. For a WordPress site, though, it&#x27;s the reliable gold standard.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/orvCqUEKzkA</video:player_loc>
-    <video:publication_date>2026-08-06T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-08-06T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -425,7 +495,7 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
       <video:title>Guesty Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>Pricing runs higher than leaner rivals, onboarding has a learning curve, and some users flag support — it earns its keep at scale, but it&#x27;s heavy for a single listing.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/PEecp5psmlE</video:player_loc>
-    <video:publication_date>2026-08-28T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-08-28T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -435,7 +505,23 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
       <video:title>Gusto Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The base-plus-per-employee model is transparent but adds up, and Gusto is US-only — excellent for straightforward US payroll and benefits, but not the pick for international teams or complex multi-entity HR.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/VlukvzALh0c</video:player_loc>
-    <video:publication_date>2026-07-12T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-12T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/harbor-compliance-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/hPAB_GErA7I/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Harbor Compliance Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The $99 on every page is a first-year price. Registered agent renews at $159 a year, about 60% more, and the only way to keep $99 is to prepay two or three years. The same page sets its own price against an unnamed &#x27;competition&#x27; at $250 to $350 &#x27;with large annual increases&#x27;, which is a comparison you cannot check, and its own renewal is an increase too. Budget on $159.
+
+The recurring filing is where the bill grows. Annual report service is $199 per state per year, plus the state&#x27;s own fee, which Harbor invoices before the due date. For a company registered in three states that is $597 a year in service fees before any state charges, on top of a registered agent in each of those states. Volume discounts of up to 40% exist, but only online and without a published table.
+
+The formation price is a starting point rather than a package. LLC formation and incorporation both read &#x27;starting at $99 plus state fees&#x27;, and the public pages do not list what the $99 covers or what the higher options add; the answer is in the order flow. The software that the agent service leans on, Entity Manager, is included with the agent, but the wider software suite has no published price and starts with a demo.
+
+The ratings on the pages are Google reviews that Harbor Compliance quotes itself. We found no independent reviews we could read for this dossier, and we have not used the service.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/hPAB_GErA7I</video:player_loc>
+    <video:publication_date>2026-10-12T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -445,7 +531,7 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
       <video:title>Heard Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>Mind the fine print between tiers: the entry plan does not include your annual tax filing (a ~$750 one-off on Lite), it is annual billing only, and messy back-months cost extra as catch-up fees. Price the tier that actually includes filing.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/A-C5kR_ky_A</video:player_loc>
-    <video:publication_date>2026-07-09T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-09T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -455,7 +541,7 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
       <video:title>Hive Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The seat price is honest bait, the add-on grid is the business model: switch on three add-ons and your $12 seat becomes $27 — a la carte flexibility that punishes teams who need the full toolkit. List your must-have modules first and compare the DRESSED price against all-inclusive rivals; for teams needing only core PM, though, Hive is genuinely cheap and pleasant.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/2zlnycHDfxQ</video:player_loc>
-    <video:publication_date>2026-08-04T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-08-04T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -465,7 +551,17 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
       <video:title>Hopp Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The honest note is that the platform is free and the rides are not. Hopp Business charges no activation fee and no minimum commitment, so the whole cost is ride pricing, which moves with city, vehicle class and demand — and coverage thins out wherever Bolt does not already run. Check both on your own routes before you move a travel budget across.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/630taBEiBzg</video:player_loc>
-    <video:publication_date>2026-08-01T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-08-01T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/hostpapa-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Cewg08Z4WoM/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>HostPapa Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The $2.95 is a first-term price on a 3-year term for new customers only, and the regular rate is three to four times higher: Essentials renews at $8.99 a month on a 3-year term and $12.99 month to month. Essentials hosts one site. Automated backups and the domain are free for the first year only, and cancelling inside the first term costs a non-refundable domain fee whose amount the page does not state. The home page puts VPS hosting at $2.95 a month while the web-hosting page says VPS starts at $19.99, so read the VPS page itself before you plan on it. Prices exclude taxes. The support and customer figures on the site are HostPapa&#x27;s own claims, and we have not used HostPapa ourselves.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/Cewg08Z4WoM</video:player_loc>
+    <video:publication_date>2026-10-19T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -475,7 +571,7 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
       <video:title>Hostinger Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The headline price only holds if you prepay years up front — renewals run several times the intro rate, the number-one complaint. Budget for the renewal, and be realistic that budget shared hosting isn&#x27;t managed-grade performance.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/CTPrrxXdfZc</video:player_loc>
-    <video:publication_date>2026-07-03T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-03T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -485,7 +581,7 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
       <video:title>Housecall Pro Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The Basic tier is a trap for real field teams — it omits GPS tracking and QuickBooks sync, so most businesses need Essentials or up. And the seats are the expensive part: users beyond the eight on MAX cost $35 a month each, and the page no longer states the extra-seat price on Essentials, on top of card processing quoted as &#x27;as low as&#x27; 2.59% and a 1% fee on bank payments. Price the tier and the headcount you&#x27;ll actually need.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/dfXrQxddDuU</video:player_loc>
-    <video:publication_date>2026-07-27T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-27T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -495,7 +591,7 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
       <video:title>Hubstaff Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The seat definition is the whole story and they state it plainly, which deserves credit: you pay for every seat you have created, not every person actually being tracked. So an account that grew with your headcount and never got tidied up is billing you for people who left. Audit your seat list before renewal, not after. The second thing is that features on the lower tiers are add-ons rather than inclusions — Insights, Tasks, Silent app and extra screenshots at $2.50 a seat a month, Locations at $3.33 — so the plan you priced and the plan that does what you watched in the demo may differ by ten dollars a seat. And be clear with yourself about why you are buying it: screenshots and activity levels change how a team feels about their work, and that cost does not appear on any pricing page.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/gn_d6pb4sFM</video:player_loc>
-    <video:publication_date>2026-08-11T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-08-11T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -505,7 +601,7 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
       <video:title>IDrive Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The first-year price is a teaser and the renewal is the price — IDrive says so itself under the plan table, and on the current numbers the step from discounted to standard is about 43% (Personal 5 TB goes from $6.99 to $9.99 a month). Budget on year-two rates, not the banner, and note that the discount is for new signups only and not available through their mobile apps. Overrun your storage and there is a further $0.25/GB/month on Personal, $0.50 on Team and Business. Beyond that, the honest backup fundamentals apply: a backup you never test-restore is a hope, not a backup, and the first full backup of multi-TB data takes weeks over the wire unless you use their physical Express seed shipping.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/AUUhsIxmm9s</video:player_loc>
-    <video:publication_date>2026-07-12T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-12T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -515,7 +611,45 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
       <video:title>InVideo Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The honest catch is the credit model — each plan is a fixed monthly credit allowance that different models consume at different rates, and unused credits do not roll over, so a heavy month can exhaust an allowance long before it renews while a slow month simply wastes what you paid for. There is also no free way in any more: on 31 August 2026 the pricing page published no free tier at all, and on 24 September 2026 the cheapest route to trying it was Starter at $20 a seat a month, with 400 credits. AI video is fast but generic by default: templated output needs real editing and brand direction to not look like everyone else&#x27;s. Treat it as a first-draft engine, not a finished-studio replacement.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/RqVbBu0Z8Rc</video:player_loc>
-    <video:publication_date>2026-07-27T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-27T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/inbox-zero-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/94zunKAxWMg/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Inbox Zero Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>There is no free plan: the trial needs a card and converts unless you cancel, though the site leads with &#x27;Get started free&#x27;. Pricing is per user, and a second mailbox needs Plus. The terms of service date from July 2023, are short, name no company and say nothing about refunds; the refund promise lives only in the pricing FAQ, within 14 days of upgrading and at the vendor&#x27;s judgement of value. The service reads your whole mailbox and passes email content to third-party AI providers. Security and popularity claims (SOC 2 Type 2, GitHub stars) are the vendor&#x27;s own. We have not used Inbox Zero ourselves.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/94zunKAxWMg</video:player_loc>
+    <video:publication_date>2026-10-20T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/jane-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/B80dPrPCl0s/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Jane Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Work out your price from your practitioner count, not from the plan headline. Practice at $79 covers one full-time practitioner; every other person who takes bookings adds $35 a month, or $17.50 if they book fewer than 24 hours a week. A clinic with three full-time practitioners pays $79 + 2 x $35 = $149 a month on Practice, and $99 + 2 x $40 = $179 on Thrive. Front-desk staff without bookable hours are free, which is generous, but a part-timer who creeps past 24 booked hours a week moves to the full-time rate.
+
+The $59 Balance plan is for one practitioner seeing fewer than 20 clients a month. The limit counts invoices, so it is reached quickly, and it is also the plan Jane suggests you drop to if you leave and still need access to your records.
+
+Insurance billing is an account-wide add-on, not a per-person one: $20 a month plus $5 for every extra full-time practitioner, whether or not they bill insurance, and in the US you still need your own Claim.MD clearinghouse account. There is no free trial: you get a demo call, or a shared demo account whose login the vendor hands out weekly through its community or support team.
+
+Check the region. Jane is a Canadian company and several things on its Canadian page, such as Jane Payroll and direct insurance billing with Canadian insurers, are not on the US page, while UK prices are much lower than US ones. We have not used Jane; this review is based on the vendor&#x27;s pricing page and FAQ in three regions.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/B80dPrPCl0s</video:player_loc>
+    <video:publication_date>2026-10-10T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/jibble-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/sCBOOHU7YLc/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Jibble Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Free forever with unlimited users holds up: the plan a new account lands on is Free, €0, with no card. What free leaves out is now readable too, because Jibble&#x27;s own plan comparison sits inside the app even though the public pricing page is gone. The biggest gaps for a payroll process are timesheet approvals, automatic break deductions and more than one admin; our hands-on test below lists everything Free leaves out and keeps.
+
+Two things to know before you build a process on it. A new organisation starts with a 14-day trial of the paid features, so for the first two weeks nothing looks locked; the limits above only show from day 15. Set up your workflow on what Free keeps, not on what week one showed you. And the paid tiers are cheap per head but add up: timesheet approvals and groups start at €1.79 per user a month on annual billing, €2.99 if you pay monthly, so a team of 25 pays €537 a year for the step most payroll processes need first.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/sCBOOHU7YLc</video:player_loc>
+    <video:publication_date>2026-08-11T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -523,9 +657,29 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/ZNs-IlltpN0/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Joiin Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>The $23 headline covers a single company on annual billing — but consolidation is the whole point of Joiin, and a real group of 10-20 entities lands at $92-139 a month. Month-to-month billing adds roughly two months per year. And it consolidates only what its integrations reach — nine ledgers, from Xero, QuickBooks and Sage to Pennylane, Puzzle, FreeAgent, Zoho Books, Fortnox and MYOB — so anything outside that list arrives as a spreadsheet import you repeat every month.</video:description>
+      <video:description>The headline now hides a three-way split. One company starts at $28 a month on annual billing for Core, but Core reports in a single currency; multi-currency and forecasting start on Pro ($34), and Max, the all-features plan the trial runs on, is $45. A group of 10-20 entities lands at $97-168 a month depending on plan. And it consolidates only what its integrations reach (Xero, QuickBooks, Intuit Enterprise Suite, Sage, MYOB, FreeAgent, Puzzle, Pennylane, Zoho Books and Fortnox), so anything outside that list arrives as a spreadsheet import you repeat every month.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/ZNs-IlltpN0</video:player_loc>
-    <video:publication_date>2026-08-22T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-08-22T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/jubilee-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/a75Tnj0tW6U/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Jubilee Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>It&#x27;s a focused vertical tool — bankruptcy petition preparation and case management — so its whole value is bounded by that practice area; a general legal practice won&#x27;t get much from it. The case-count tiers are the thing to size correctly: pick 36 vs 300 by your real annual filing volume, and check whether the pay-per-case option is cheaper if you file sporadically. For a bankruptcy practice, the automation and court-form handling are exactly the point.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/a75Tnj0tW6U</video:player_loc>
+    <video:publication_date>2026-07-26T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/krystal-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/92KOfHOe1aM/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Krystal Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Krystal does not win on sticker price. Shown before VAT, Amethyst is £8.40 a month for a UK buyer and holds one site on 10GB, while budget hosts lead with multi-year introductory rates far below that (which then renew higher). &#x27;Unlimited&#x27; from Emerald up is bounded by a 2,500,000-inode limit and 75 to 150 processes, round-the-clock phone support starts only at Sapphire (£37), changing your billing cycle takes a support ticket, and VPS is billed monthly only. Cancelling immediately schedules your sites and email for deletion within hours. We have not run Krystal ourselves; this dossier is read from Krystal&#x27;s own pages and help centre, and we found no independent test we could weigh.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/92KOfHOe1aM</video:player_loc>
+    <video:publication_date>2026-10-13T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -533,9 +687,9 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/dxwwY9QHYEs/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Leavo Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>The tidy per-user numbers are annual-billed, and it&#x27;s priced per seat — every employee you track adds to the bill, with no volume break shown. And the “free” is a 30-day trial, not a permanent free tier: budget for the paid plan from day 31.</video:description>
+      <video:description>The tidy per-user numbers are annual-billed, and it&#x27;s priced per seat — every employee you track adds to the bill, with no volume break published (large teams are told to ask sales). And the “free” is a 30-day trial, not a permanent free tier: budget for the paid plan from day 31.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/dxwwY9QHYEs</video:player_loc>
-    <video:publication_date>2026-07-14T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-14T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -545,7 +699,59 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
       <video:title>Melio Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The free plan is genuinely useful for low bill volume, but the value case narrows as you scale into paid tiers — and the 2.9% card fee only makes sense when you&#x27;re deliberately floating cash on a card for rewards or timing.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/e_sr64-NxDM</video:player_loc>
-    <video:publication_date>2026-08-07T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-08-07T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/mera-work-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/KL7_2Y-cvQE/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Mera Work Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The price is low and the feature list is long; the catch sits in the data rather than the bill. Mera Work keeps your records for 90 days. The pricing table says data retention up to three months, and the privacy policy spells it out: unless your order form says otherwise, customer data is held on a rolling 90-day basis and anything older may be deleted automatically from production. That rules it out as the place you look back from over a year: an annual review, a client disputing hours billed last spring, a payroll audit. Export the timesheets and attendance you need every month, or get a longer retention period written into the order form before you roll it out.
+
+This is monitoring software, not only a timer. The feature table lists screenshots, live screen streaming, keyboard and mouse activity tracking and a stealth mode. Mera Work&#x27;s own pages are more careful than the word keystroke suggests: its keystroke feature records how much typing happened and when, not the keys or words themselves, and screenshots can be blurred and limited by role. But whether you may run screenshots, live view or a hidden agent on your staff&#x27;s computers is a question for your employment adviser, not the vendor, and data-protection rules in Europe generally expect employees to be told what is recorded. Decide the policy first and tell people what the agent captures.
+
+Two practical points. The company behind it, Aapna Infotheek Private Limited, is based in New Delhi, and its privacy policy says data may be hosted or processed in India; if you need it kept elsewhere, ask about the private cloud configuration the feature table lists and put it in the contract. And the review sites we normally read, Capterra and G2, blocked our reader on 30 September 2026. The one we could read, SoftwareSuggest, shows six reviews from 2025 under the old name Mera Monitor, and one of the three visible there also runs as a testimonial on Mera Work&#x27;s own pricing page, so we found no clearly independent accoun</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/KL7_2Y-cvQE</video:player_loc>
+    <video:publication_date>2026-10-09T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/migrationpro-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/IKVAQkFkILI/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>MigrationPro Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Start with what is no longer there. Read on 5 October 2026, the Shopify App Store listing says the app is not currently available and sends support questions to the vendor: no install button, no review page. The vendor&#x27;s site is still live and still selling, and every install button on its homepage and pricing page still points at that listing, so ask them how you install before you plan a migration date around it.
+
+When the listing was up it told you nothing about what this costs: “Free to install. Additional charges may apply”, and a single plan block saying pricing is tailored to the entities you migrate. The number lives on the vendor&#x27;s calculator, and the first number you find there — $29 — is the floor for the smallest store on the self-service route, not the price for yours. Their own homepage says a typical store lands between $49 and $299. Run the calculator before you form an opinion about value.
+
+The add-on structure used to be the unknowable part, and as of 18 September 2026 it is not: the pricing page lists every add-on with a price, from $19 to $39, and marks all of them included on the managed plan. That is a real improvement in what a buyer can read before committing. It also makes the self-service route look less like $29 — the 301 redirects add-on, which is the one thing a migrating store can least afford to get wrong, is a $29 extra on a $29 migration.
+
+The marketing still runs ahead of the evidence. The pricing page says “Trusted by 250,000+ stores”, the homepage uses the same figure for migrations, and the FAQ says 250,000+ migrations over 13 years — one number doing three different jobs. The same page, and an FAQ answer saying the app is available on the Shopify App Store, still claim 5.0 from 170+ verified reviews, which nobody can check while the listing is down. On 18 September it showed 186, of which 181 were five-star, 4 four-star and one a single star. Those reviews were genuinely good; weigh them rather than the banner.
+
+One practical li</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/IKVAQkFkILI</video:player_loc>
+    <video:publication_date>2026-09-20T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/mindstudio-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/FJVjkF77V7M/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>MindStudio Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The no-markup model pass-through is genuinely fair — but it also means your real cost is subscription PLUS model spend, and an agent that loops or processes big documents burns provider credits invisibly until you set limits. The honest build discipline: start every agent with usage caps, and treat &#x27;no-code&#x27; as no-code for the plumbing — the logic design and prompt quality are still entirely on you.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/FJVjkF77V7M</video:player_loc>
+    <video:publication_date>2026-07-28T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/miro-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/rEz0lPUH0IU/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Miro Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Per-member pricing charges for every member added to the workspace, so an org-wide rollout multiplies at full headcount — and the free plan&#x27;s cap of 3 editable boards is workspace-wide, not per person. In our test on 20 October 2026 Miro did not block a fourth board: it warned that the oldest board would become view-only, and a new free team already starts with one board made for you. Model who truly needs to edit before you buy seats.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/rEz0lPUH0IU</video:player_loc>
+    <video:publication_date>2026-07-10T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -555,7 +761,17 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
       <video:title>Modge Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The numbers on Modge&#x27;s own pages do not agree with each other. The homepage says trusted by 1,000+ teams, the affiliate page says 1,800+ teams, the pricing page says over 2,000 users; the pricing page also shows three star ratings, 4.6 from 1,500 reviews, 4.8 from 2,000 and 4.2 from 800, without naming a single platform they come from. None of that touches the product, but it is the kind of copy a buyer should not repeat in a business case. What does touch the product is the comparison table: SSO through SAML 2.0, SOC 2 Type II and ISO 9001 are all marked soon, and HIPAA compliant appears with no report behind it. If your security review needs a document today, there is none to hand over. The desktop agent is macOS and Windows only, and the pricing page mentions no mobile app or GPS, so field teams are out of scope.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/ro_fJ5F2Ssc</video:player_loc>
-    <video:publication_date>2026-09-26T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-09-26T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/momence-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/2CXYCesRlBA/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Momence Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Momence stopped publishing prices in September 2026: on the 25th its pricing page was a &#x27;Let&#x27;s talk pricing&#x27; form with no figure on it. The last public ladder (6 September) made the &#x27;free&#x27; plan the most expensive one at real volume — 5% of every sale overtook Pro&#x27;s $60 flat fee around $29k a year, and Pro lost to the $199 Custom plan above about $67k — while Pro added no features over Basic. Ask whether your quote is a flat fee or a percentage before you ask anything else.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/2CXYCesRlBA</video:player_loc>
+    <video:publication_date>2026-07-09T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -565,7 +781,7 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
       <video:title>Mycroft Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The pricing page is a feature list with the prices taken out, and that is a choice rather than an oversight — Mycroft publishes what is in each package down to the individual capability, then stops short of the one line you came for. It matters more here than it would elsewhere, because what Mycroft sells is not a seat of software: it is a platform bundled with a managed service, secure enclaves, infrastructure and identity management, an audit coordinated on your behalf and, at the top, a dedicated CISO. That is a services contract, and services contracts scope on your environment, so the number genuinely will differ per company. It also means you cannot sanity-check the cost against doing it yourself until you have sat through a demo. The second thing to weigh is how much of the evidence is the vendor talking. What you can verify from outside is a handful of named case studies — SmashSend, Weave, Wisedocs, Unified — and the quotes inside them; there is no published customer count and no independent review base to read. The team is not thin: the CEO holds a CISA, the engineering co-founder a CISSP, and the product co-founder co-founded PartnerStack. But a young company promising CMMC and FedRAMP outcomes is asking for trust on a timeline where being wrong is expensive. Ask what happens if the assessment does not pass, and ask it before the second call.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/POdTbtQMXRk</video:player_loc>
-    <video:publication_date>2026-09-27T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-09-27T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -575,7 +791,7 @@ And know what alerts cannot reach. Coverage depends on the shopper&#x27;s bank a
       <video:title>Navan Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>&#x27;Free&#x27; is real but has a mechanism: Navan earns commission on bookings made through its inventory, so the platform&#x27;s incentive is that your travel flows through Navan, and pricing on specific routes/hotels deserves an occasional spot-check against direct booking. The free Business plan stops at 300 employees and lists corporate negotiated rates as an Enterprise feature; expense management is free for 5 users and $15 per user per month after that.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/zxMUxLyra3Q</video:player_loc>
-    <video:publication_date>2026-07-23T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-23T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -589,7 +805,33 @@ The top-up economics run the wrong way for small buyers. Extra credits cost 1,00
 
 Two smaller things before you pick. Export quality is tiered — 720p on Basic, 1080p on Premium, 4K on Ultimate — so the resolution you need may set your plan before the credits do. And image and audio generation still consume credits on Basic, going unlimited only from Premium up.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/aO0L44EpWRc</video:player_loc>
-    <video:publication_date>2026-07-18T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-18T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/niural-ai-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Yi6BUhlL_UI/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Niural AI Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Every tier says Book a demo. The prices are published — which in payroll is genuinely rare and worth crediting — but there is no self-serve sign-up anywhere on the page, so the published figure is the opening of a conversation rather than something you can act on. Expect the real number to arrive by quote, and expect it to depend on the company-size step you selected before you ever saw a price.
+
+The page changes under you, and that is easy to miss. It asks your headcount band first and adjusts the ladder to match, so two people comparing Niural can honestly quote each other different numbers. Note which band you read when you write the figure down.
+
+The platform fee is the part that decides whether this is cheap. US Payroll is $100 a month before anyone is paid, plus $20 a head. At five employees that is $200 a month, or $40 an employee — double the headline rate. At twenty-five it is $600, or $24 each. At a hundred it is $2,100, or $21 each. The per-employee price you are quoted only becomes the price you pay somewhere north of fifty people, and small teams are the ones most likely to read $20 and budget $20.
+
+The naming needs care too. Contractor of Record and Employer of Record are both $299 per employee a month and they are not the same product: the first keeps the worker a contractor while Niural carries the misclassification risk, the second makes Niural the legal employer in 150-plus countries. Buying the wrong one is an expensive mistake that the identical price does nothing to prevent.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/Yi6BUhlL_UI</video:player_loc>
+    <video:publication_date>2026-10-05T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/nordpass-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/VEU0FzwJ1Vo/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>NordPass Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Teams is sold only as a 10-user pack and Business and Enterprise have a 5-user minimum, so very small teams pay for empty seats. SSO with Entra ID, ADFS or Okta is only on Enterprise. The Free plan does not sync across devices, and personal prices are introductory for the first term, with a higher regular price shown next to them. Prices exclude VAT. We have not used NordPass ourselves.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/VEU0FzwJ1Vo</video:player_loc>
+    <video:publication_date>2026-10-16T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -603,7 +845,7 @@ The headline claim needs the same care. The homepage says “100% Verifiable AI 
 
 Three smaller things worth knowing. The source ceilings are low for organisational use — 50 documents on Starter, 300 on Essential — and unlimited sources only start at Pro. The per-day limits on reports, flashcards and quizzes carry an asterisk explained only as “Limits are a</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/oDjjABwNCSY</video:player_loc>
-    <video:publication_date>2026-08-12T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-08-12T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -613,7 +855,87 @@ Three smaller things worth knowing. The source ceilings are low for organisation
       <video:title>Oyster Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The two numbers that decide your bill are not on the price card. Oyster holds a refundable deposit per EOR employee: working capital out of your account before anyone is paid. It also takes an FX fee whenever the payment currency differs from the contract currency, which for a genuinely global team is most of the time. Neither has a figure attached anywhere we could find. So the honest position is that $699 is the floor, and the real per-employee cost depends on a deposit and a spread you have to ask for. The contractor product is a different shape and much cheaper at $29, so decide which one you actually need. Misclassifying a contractor as an employee is expensive; misclassifying the other way is what the $699 exists to prevent.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/BPVErFZAWQI</video:player_loc>
-    <video:publication_date>2026-09-05T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-09-05T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/pdware-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/qdQBvLgPICM/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>PDWare Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>This is genuine enterprise software with enterprise buying: opaque pricing, demo-first sales and implementation effort — appropriate for portfolio offices planning hundreds of resources, overkill below that. The honest pre-purchase question is organizational: resource-first planning only works if your PMO will actually maintain forecasts; the tool formalizes discipline, it can&#x27;t create it.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/qdQBvLgPICM</video:player_loc>
+    <video:publication_date>2026-07-24T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/pangram-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/6S372PuWlDM/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Pangram Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The unavoidable honest limit of every AI detector, including accurate ones: it is never infallible. It will occasionally flag genuinely human writing as AI (false positives) and miss some AI text, so it must be used as a signal, never as sole proof for high-stakes calls like academic penalties or hiring. Pangram&#x27;s pitch is fewer false positives than rivals, which is real progress — but &#x27;fewer&#x27; is not &#x27;none&#x27;. Pair it with human judgment and the credit meter with your actual volume: the free tier&#x27;s 2,000 words a day are 20 credits rounded up per check, which in our test meant ten checks of 150 words rather than twenty.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/6S372PuWlDM</video:player_loc>
+    <video:publication_date>2026-07-30T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/parim-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/I-S7uBbEQ2Y/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Parim Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Unlimited users sounds like the generous part, and it is — until you notice what replaces per-seat pricing: a bill that scales with shifts scheduled. For a staffing agency or an events business, shift volume is the one number that swings hardest month to month, which makes this the least predictable pricing model in the category. Before you commit, ask for the price at your busiest month rather than your average, and ask what happens when you cross a threshold.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/I-S7uBbEQ2Y</video:player_loc>
+    <video:publication_date>2026-09-12T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/pdfdodo-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/nedSdvDx6gs/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Pdfdodo Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The refund rules contradict each other: the FAQ says no refunds of any kind, the terms promise refunds within 30 days of purchase. The yearly Solo card shows $20 a month beside $200 billed yearly, which cannot both be right, and no plan names its currency. Cancelling means sending an email rather than a button in the app.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/nedSdvDx6gs</video:player_loc>
+    <video:publication_date>2026-10-20T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/planday-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/MnhG28WGX5M/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Planday Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The €25 monthly platform fee on Plus is the line most comparisons miss. At the 10-user minimum, Plus is €49.90 in seats plus €25 flat, so €74.90 against €14.95 for five users on Starter — the jump is not from €2.99 to €4.99, it is roughly five times the bill. That fee also does not scale down, so the smaller your team, the larger a share of it you carry. Work out your real per-head cost at your actual headcount before choosing, and check which side of the line leave management and payroll integrations fall on, because those are the two features that usually force the upgrade.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/MnhG28WGX5M</video:player_loc>
+    <video:publication_date>2026-09-12T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/plansom-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/P8eoj7xi9iA/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Plansom Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The thing you cannot check is the price. plansom.com publishes no figure, /pricing returns 404, and there is no pricing link in the navigation — the only routes to a number are the signup or a sales conversation. The integration list is no longer the weak spot it once was: Claude, ChatGPT, Slack, Gmail, Outlook, Notion, HubSpot, Microsoft 365, Google Workspace, Zoom and Fireflies are all named on the homepage, and there is a published Microsoft collaboration behind the Teams work. But it is still the smaller player next to Asana, ClickUp and Motion, and it has repositioned around AI agents that run tasks for you. Agent work is usually metered, so ask what a unit of it costs before you compare anything.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/P8eoj7xi9iA</video:player_loc>
+    <video:publication_date>2026-10-04T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/plesk-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/9Z-Fl34CjwA/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Plesk Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Two honest notes. Plesk has been raising prices steadily (the 2026 round averaged ~26%), so budget for the renewal trajectory, not today&#x27;s invoice — it&#x27;s a recurring theme in the ecosystem since the acquisition era. And the domain caps are the real tier-driver: growing past 10 or 30 domains bumps you up a license, so count your domains including the parked ones before choosing.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/9Z-Fl34CjwA</video:player_loc>
+    <video:publication_date>2026-07-23T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/prezi-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/E389LnPaeII/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Prezi Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The pricing table puts PDF export and portable presentations at Plus, not Standard, and our free account&#x27;s AI editor locked PDF, PowerPoint and SCORM downloads to Plus. The zooming format is polarising: some audiences find it engaging, others find it disorienting.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/E389LnPaeII</video:player_loc>
+    <video:publication_date>2026-07-15T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -623,7 +945,7 @@ Three smaller things worth knowing. The source ceilings are low for organisation
       <video:title>Proton Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>Storage is the axis, and the jump from Drive Plus to Unlimited is not really about storage at all: you go from 200 GB to 500 GB, but you also start paying for Mail, Calendar, Pass and VPN whether or not you wanted them. If all you need is encrypted file storage, the bundle is where the money leaks. The other thing to price honestly is the encryption itself — end-to-end encryption is the reason to be here, and it is also why per-gigabyte this costs more than the mainstream drives. That is a fair trade if privacy is the requirement, and a poor one if you just want cheap space.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/mTjDQAqpyEw</video:player_loc>
-    <video:publication_date>2026-09-03T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-09-03T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -633,7 +955,17 @@ Three smaller things worth knowing. The source ceilings are low for organisation
       <video:title>Proton Drive Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>End-to-end encryption is the point and the price. Because Proton can&#x27;t read your files, there&#x27;s no server-side search inside documents. Previews and third-party integrations are more limited than Google Drive or Dropbox, and losing your credentials without recovery set up means losing data — by design. You trade convenience for the mathematical guarantee that nobody, including Proton, can look inside.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/jDuZQrkOrVc</video:player_loc>
-    <video:publication_date>2026-07-12T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-12T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/qoyod-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/uTc88cpX-UU/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Qoyod Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The entry tier does not do the thing the product is sold on. Qoyod&#x27;s pitch is surviving Saudi e-invoicing, but Basic covers ZATCA Phase 1 only — Phase 2 is the integration phase, where invoices are cleared with the tax authority in real time, and that starts at Pro. If Phase 2 applies to you, your actual floor is 1,800 SAR and not 1,200. The second thing to price before you sign: Basic is genuinely one user and one location, and every extra seat is 240 SAR a year, which is a fifth of the whole Basic plan per person. A four-person shop on Basic pays 1,200 + 3×240 = 1,920 SAR, more than Pro costs while still sitting on Phase 1. Add a single POS user at 600 SAR and the arithmetic tips further. Work out your seat and location count first, then pick the tier — doing it the other way round is how the add-on line becomes the biggest number on the invoice.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/uTc88cpX-UU</video:player_loc>
+    <video:publication_date>2026-09-14T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -643,7 +975,17 @@ Three smaller things worth knowing. The source ceilings are low for organisation
       <video:title>QuickBooks UK Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The 90% offer is the number to be careful with, because it is the one you will see everywhere and it is not what you will pay. The page says six months, not a year: Sole Trader Plus shows £1 and renews at £10 a month, Plus shows £5.60 and renews at £56. That tenfold step arrives in month seven, on a tool you will by then have your entire bookkeeping inside — which is precisely when switching is hardest. Add 20% VAT on top of every figure, and add payroll separately if you need it. Budget from the list price and treat the discount as a half-year rebate, not as the price.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/JBSwizK7k98</video:player_loc>
-    <video:publication_date>2026-09-03T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-09-03T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/quillbot-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/uGvwAF4C6YA/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>QuillBot Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The free tier is deliberately narrow: 125 words per paraphrase and two of the modes. The honest framing is that this is a box of writing utilities -- paraphraser, grammar, plagiarism, AI detection -- rather than somewhere you actually write. General AI chat tools now overlap much of it. And treat the free AI detector as weak: in our test of 1 October 2026 it rated four plainly written machine texts 100% human and only caught a paragraph full of stock chatbot phrases. Note the sticker too: the advertised €8.33 a month assumes you pay for the year, and month-to-month is €19.95, about 2.4 times as much.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/uGvwAF4C6YA</video:player_loc>
+    <video:publication_date>2026-07-31T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -659,7 +1001,17 @@ Second, and larger: the recruitment services are priced as a share of salary, an
 
 One structural note: EOR Plus needs a minimum of five employees and an annual commitment, so a small team comparing tiers is really only choosing Flex.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/pWE83nmKKPI</video:player_loc>
-    <video:publication_date>2026-09-10T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-09-10T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/replit-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/GbZpRbaU4-0/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Replit Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The subscription price is fixed; the paid Agent work is not. Everyday building can run in Free Mode at no extra cost, within an allowance that resets every five hours on Core and Pro and a daily cap on Starter, but anything past it is billed by effort, and only Pro&#x27;s unused credits roll over. Replit asks before each paid request starts and lets you set a budget, so set one before long sessions. Great for learning and prototyping; watch the meter for production work.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/GbZpRbaU4-0</video:player_loc>
+    <video:publication_date>2026-07-27T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -667,9 +1019,19 @@ One structural note: EOR Plus needs a minimum of five employees and an annual co
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/omCu9ywPDrc/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Rippling Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>The published &#x27;$8 per user a month&#x27; is real but it&#x27;s only the floor, and it&#x27;s the HR-and-payroll entry — not the price of the platform. Rippling sells HR, IT and Finance as separate, separately-quoted modules, so you can&#x27;t comparison-shop without a sales call, and a single-module deployment pays platform prices for a point tool. You&#x27;re buying a system of record; the value only shows up once you consolidate several systems onto it.</video:description>
+      <video:description>The published &#x27;$8 per employee a month&#x27; is real but it&#x27;s only the floor, it comes with a monthly base fee ($40 on the small-business page), and it&#x27;s the HR-and-payroll entry — not the price of the platform. Rippling sells HR, IT and Finance as separate, separately-quoted modules, so you can&#x27;t comparison-shop without a sales call, and a single-module deployment pays platform prices for a point tool. You&#x27;re buying a system of record; the value only shows up once you consolidate several systems onto it.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/omCu9ywPDrc</video:player_loc>
-    <video:publication_date>2026-09-23T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-09-23T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/samsara-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/DXWe_dTRxbw/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Samsara Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Seven named packages and not one price. The pricing page asks how many vehicles you run and leads to a sales form; the plans page ends every package in Get pricing. The contract side is public and worth reading before the call: under section 13.1 of the Platform Terms, if you do not cancel auto-renewal in writing at least 30 days before the licence ends, Samsara may renew for up to a year or the length of your previous term, whichever is greater. Put that date in your calendar on day one. Licensed hardware is covered for as long as the licence runs; accessories and cables get one year.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/DXWe_dTRxbw</video:player_loc>
+    <video:publication_date>2026-10-18T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -679,7 +1041,27 @@ One structural note: EOR Plus needs a minimum of five employees and an annual co
       <video:title>Shoeboxed Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>Its unique trick is the Magic Envelope, where you literally mail a stuffed envelope of paper receipts and humans digitize them. That trick is also the meter to watch: envelope frequency defines the tiers, and heavy paper businesses land in the $179/mo bracket quickly. If your receipts are already digital, cheaper scan-only apps exist; Shoeboxed earns its price precisely when physical paper is the problem.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/z9xA_O0AU3I</video:player_loc>
-    <video:publication_date>2026-07-27T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-27T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/shopmonkey-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/lpir5tqjLno/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Shopmonkey Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Card processing is part of the product, but the online and in-person payment rates are &#x27;Call for Pricing&#x27; on every plan, so you cannot work out the full monthly cost from the page. Inventory, purchase orders and unlimited inspections are not in the $215 Basic plan, a $500 migration fee and $299 card readers come on top, and there is no free trial or self-serve signup, only a demo. We have not used Shopmonkey ourselves.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/lpir5tqjLno</video:player_loc>
+    <video:publication_date>2026-10-18T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/shortlistiq-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/SR2OLvBz5m0/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>ShortlistIQ Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>No yearly prices are shown although the FAQ mentions yearly plans, and the cards do not name their currency. Basic covers only 20 applicants a month with a single AI assistant. Unused or partly used service is not refunded on early cancellation, and the homepage selling point, that candidates cannot tell the AI from a person, puts the duty to disclose on you.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/SR2OLvBz5m0</video:player_loc>
+    <video:publication_date>2026-10-20T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -687,9 +1069,9 @@ One structural note: EOR Plus needs a minimum of five employees and an annual co
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/ekasctDpv7g/hqdefault.jpg</video:thumbnail_loc>
       <video:title>TestGorilla Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>Both paid tiers are annual-commitment only. Core is not $142 a month in any meaningful sense — it is $1,704 up front, and there is no monthly option to test it with real candidates first. That matters more here than in most categories, because hiring is lumpy: a company that hires in two bursts a year is paying for ten quiet months. Plus is worse to budget for, because it &#x27;starts from&#x27; $400 and the page will not say what moves it. The free tier is credit-metered rather than feature-limited, which makes it a genuine trial — use it on a real vacancy before you sign a year.</video:description>
+      <video:description>The Assessments bill is set by credits, and the page does not say how many credits its &#x27;from&#x27; prices include. Core starts from $77 a month billed annually or from $287 billed monthly; that gap is far wider than the 25% annual saving the page advertises, so the two floors are different allowances. An AI interview costs 2 credits a candidate and a skills test 1, so the real price depends on how you build each assessment and how many people you invite. Get the credit allowance in writing before you compare it with a per-seat tool.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/ekasctDpv7g</video:player_loc>
-    <video:publication_date>2026-08-08T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-08-08T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -697,9 +1079,9 @@ One structural note: EOR Plus needs a minimum of five employees and an annual co
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/3PGKXWkuc_Q/hqdefault.jpg</video:thumbnail_loc>
       <video:title>TextExpander Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>On a Mac the operating system already does the basic job free: Apple&#x27;s built-in Text Replacement syncs static snippets across your Apple devices, though Apple&#x27;s own documentation notes it is not available in every app. And Espanso covers the power-user case free and open source on Mac, Windows and Linux. On Windows there is no built-in equivalent (contrary to a widely repeated claim, PowerToys has no text-expansion utility), so the case for paying is genuinely stronger there. Do not buy it for mobile. The vendor&#x27;s own mobile page is an early-access signup form for Android and iOS betas, not a shipping product — even though the surrounding copy is written in the present tense. Then add the snippet activity history: nothing at all on the free plan, only 24 hours on the $5 Pro tier, 7 days on Business, and unlimited only on Enterprise. Add the vendor&#x27;s own note that buyers in VAT/GST countries including the EU, UK and Australia may see an estimated 20% uplift on the listed USD price (read 21 July 2026). For one person with a few dozen fixed snippets, the honest answer is usually don&#x27;t.</video:description>
+      <video:description>On a Mac the operating system already does the basic job free: Apple&#x27;s built-in Text Replacement syncs static snippets across your Apple devices, though Apple&#x27;s own documentation notes it is not available in every app. And Espanso covers the power-user case free and open source on Mac, Windows and Linux. On Windows there is no built-in equivalent (contrary to a widely repeated claim, PowerToys has no text-expansion utility), so the case for paying is genuinely stronger there. On mobile, only iPhone and iPad are covered: the vendor&#x27;s mobile page, read 9 October 2026, offers a keyboard app for those, while Android is still a beta signup. Then add the snippet activity history: nothing at all on the free plan, only 24 hours on the $5 Pro tier, 7 days on Business, and unlimited only on Enterprise. Add the vendor&#x27;s own note that buyers in VAT/GST countries including the EU, UK and Australia may see an estimated 20% uplift on the listed USD price (read 21 July 2026). For one person with a few dozen fixed snippets, the honest answer is usually don&#x27;t.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/3PGKXWkuc_Q</video:player_loc>
-    <video:publication_date>2026-07-22T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-22T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -709,7 +1091,7 @@ One structural note: EOR Plus needs a minimum of five employees and an annual co
       <video:title>Top Echelon Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>Almost everything people shop for sits in Professional, not Standard: Smart-TE AI, automations, sequences, inbound email sync and API access are all one tier up, so Standard is a competent but plain ATS. The bigger thing to price honestly is that TE Recruit and TE Network are two separate subscriptions. The network is billed per agency on top of your seats, so &quot;Top Echelon&quot; can mean two bills. And taking the network month-to-month adds a $350 one-time startup fee that annual billing waives.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/sgmQ22KD7As</video:player_loc>
-    <video:publication_date>2026-08-13T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-08-13T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -719,7 +1101,27 @@ One structural note: EOR Plus needs a minimum of five employees and an annual co
       <video:title>Tresorit Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>You pay the Swiss-E2EE premium — noticeably above mainstream clouds and above Proton Drive per GB — and the encryption trade-offs are inherent: no server-side content search, more deliberate sharing flows, and credential/recovery discipline is on you. For regulated teams that&#x27;s exactly the deal; for casual storage it&#x27;s over-engineering.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/90LIYtc9A-M</video:player_loc>
-    <video:publication_date>2026-07-23T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-23T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/wplp-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/A7Pb3iYpjOU/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>WPLP Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The paid platform sells breadth, not a different product: the free WPLP Cookie Consent plugin already includes the cookie banner, the scanner, script blocking, a consent log and Google Consent Mode v2 according to its own listing, so a single site may never need to pay. Three headline features on the pricing page, automatic policy updates, automated data-request processing and the compliance blueprint, are marked coming soon. The legal pages come from a questionnaire and templates, not from a lawyer. It is WordPress only. And the vendor&#x27;s own numbers do not line up: the pricing page says 20,000+ sites, the cookie plugin&#x27;s listing 30,000+, and the Legal Pages listing on wordpress.org still has unfilled template placeholders around its install count and around whether premium is a one-time or an annual licence, while the pricing page sells yearly plans. We have not run WPLP ourselves.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/A7Pb3iYpjOU</video:player_loc>
+    <video:publication_date>2026-10-19T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/wondershare-pdfelement-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/bFS5h2gW5h0/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Wondershare PDFelement Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The prices on the store are a launch discount next to higher list prices, and the yearly plan renews automatically. Every paid plan shows only 50 PDF AI uses and 3 eSign requests in the comparison table. A perpetual licence covers PDFelement 13, not later major versions, and the prices we read are for one platform. We have not used PDFelement ourselves.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/bFS5h2gW5h0</video:player_loc>
+    <video:publication_date>2026-10-16T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -727,9 +1129,19 @@ One structural note: EOR Plus needs a minimum of five employees and an annual co
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/WLHSqv_2Bd4/hqdefault.jpg</video:thumbnail_loc>
       <video:title>World Businesses for Sale Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>On the broker plans you pay twice: a listing fee up front AND commission when it sells — 3% on Basic, 2% on Standard, 1% on Premium — on contracts of 6, 9 and 12 months. Only Premium stays live until sold with free renewals, so on the lower tiers a business that has not sold needs a paid renewal, and for a slow sale £1,500 once can beat £749 twice. Every tier says commission is payable only when they introduce the buyer, which is exactly the clause to read in the contract before you sign. If you want no commission at all, the pay-as-you-go plans start at £49 for 30 days — far cheaper up front, but those are listings, not broker introductions. As with any marketplace, the fee buys exposure, not a guaranteed sale.</video:description>
+      <video:description>On the broker plans you pay twice: a listing fee up front AND commission when it sells — 3% on Basic, 2% on Standard, 1% on Premium — on contracts of 6, 9 and 12 months. Only Premium stays live until sold with free renewals, so on the lower tiers a business that has not sold needs a paid renewal, and for a slow sale £1,500 once can beat £749 twice. Every tier says commission is payable only when they introduce the buyer, which is exactly the clause to read in the contract before you sign. If you want no commission at all, the pay-as-you-go plans start at £49 a month, or £147 for six months — far cheaper up front, but those are listings, not broker introductions. As with any marketplace, the fee buys exposure, not a guaranteed sale.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/WLHSqv_2Bd4</video:player_loc>
-    <video:publication_date>2026-07-16T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-16T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/zenind-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/2Xkk1n3cfE8/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Zenind Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The $0 Basic package covers filing only. A registered agent costs $99 a year on every package, the operating agreement is $99 extra on Basic, and state filing fees always come on top, so the real first-year cost is well above $0. Basic also takes up to 7 days to file. Annual report filing is included only on Premium and only for the first year, then $100 a year plus state fees. Zenind is not a law firm and does not give legal advice. We have not used Zenind ourselves.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/2Xkk1n3cfE8</video:player_loc>
+    <video:publication_date>2026-10-15T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -739,7 +1151,7 @@ One structural note: EOR Plus needs a minimum of five employees and an annual co
       <video:title>doola Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>Formation is the cheap part; the recurring bookkeeping and tax tiers are where the real cost sits, and state fees are extra on top of doola&#x27;s price. Convenient especially for non-US founders, but a local accountant may be cheaper once you&#x27;re established.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/mvyDGLbySZw</video:player_loc>
-    <video:publication_date>2026-07-22T08:00:00+00:00</video:publication_date>
+    <video:publication_date>2026-07-22T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
 </urlset>
