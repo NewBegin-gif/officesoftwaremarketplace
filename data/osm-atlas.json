@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 223,
-  "flags": 363,
+  "flags": 364,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on officesoftwaremarketplace.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -1199,12 +1199,12 @@
    "entry_price": "$12",
    "entry_price_terms": "a month, billed annually ($20 billed monthly)",
    "pricing_status": "public",
-   "price_note": "(re-verified 28 September 2026 in a rendered browser, monthly and annual tabs) Free: $0, 10 Pro messages and up to 3 Deep reviews a month. Pro: $20 a month billed monthly, or $12 a month billed annually ($144 a year), with unlimited Pro messages, 15 Deep reviews a month and 500 API and MCP uses included, then $0.05 a use up to 1,000. Deep: $65 monthly, or $45 a month billed annually ($540 a year), with 200 Deep reviews and 2,000 API and MCP uses, then $0.05 a use up to 10,000. Students and faculty with a school email and US healthcare professionals with an NPI number can get up to 40% off. Team and Enterprise carry no amount on the page; the vendor's machine-readable pricing file puts Team at up to 200 seats with 50 Deep searches per seat and Enterprise on contract, and it still gives Free 15 Pro messages where the rendered page says 10. The unit that matters is Deep reviews rather than seats. Correction: our earlier reading, which we could not confirm at the time, put Pro at about $15 a month or roughly $10 annually.",
+   "price_note": "(re-verified 28 September 2026 in a rendered browser, monthly and annual tabs) Free: $0, 10 Pro messages and up to 3 Deep reviews a month. Pro: $20 a month billed monthly, or $12 a month billed annually ($144 a year), with unlimited Pro messages, 15 Deep reviews a month and 500 API and MCP uses included, then $0.05 a use up to 1,000. Deep: $65 monthly, or $45 a month billed annually ($540 a year), with 200 Deep reviews and 2,000 API and MCP uses, then $0.05 a use up to 10,000. Students and faculty with a school email and US healthcare professionals with an NPI number can get up to 40% off. Team and Enterprise carry no amount on the page; the vendor's machine-readable pricing file puts Team at up to 200 seats with 50 Deep searches per seat and Enterprise on contract, and on 28 September it still gave Free 15 Pro messages where the rendered page said 10; re-read on 21 October 2026, that file has been aligned at 10 Pro messages and 3 Deep Searches a month, and it describes the student discount as 40% off for 12 months with a verified .edu or student email. The unit that matters is Deep reviews rather than seats. Correction: our earlier reading, which we could not confirm at the time, put Pro at about $15 a month or roughly $10 annually. The paid amounts are rendered in the browser from Stripe and could not be re-read on 21 October 2026 without one, so the dollar figures above still date from 28 September.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "Team and Enterprise carry no amount on the page; the vendor's machine-readable pricing file puts Team at up to 200 seats with 50 Deep searches per seat and Enterprise on contract, and it still gives Free 15 Pro messages where the rendered page says 10.",
-     "evidence_excerpt": "Team and Enterprise carry no amount on the page; the vendor's machine-readable pricing file puts Team at up to 200 seats with 50 Deep searches per seat and Enterprise on contract, and it still gives …",
+     "evidence": "Team and Enterprise carry no amount on the page; the vendor's machine-readable pricing file puts Team at up to 200 seats with 50 Deep searches per seat and Enterprise on contract, and on 28 September it still gave Free 15 Pro messages where the rendered page said 10; re-read on 21 October 2026, that file has been aligned at 10 Pro messages and 3 Deep Searches a month, and it describes the student discount as 40% off for 12 months with a verified .edu or student email.",
+     "evidence_excerpt": "Team and Enterprise carry no amount on the page; the vendor's machine-readable pricing file puts Team at up to 200 seats with 50 Deep searches per seat and Enterprise on contract, and on 28 September…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
      "verified_at": "2026-09-28"
@@ -1877,10 +1877,19 @@
    "entry_price": "$250",
    "entry_price_terms": "a month (page markup also shows an unlabeled alternate $8 figure)",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-08-21 and again unchanged on 2026-09-28, read on their own pricing page) The prices are published, despite the consultative first impression, and the report figures have not moved since our 12 August reading. An Elevate Insight Report is $500, a bundle of three is $1,350 at a 10% discount, and the Elevate Studio tiers render at $250, $500 and $750 a month. Those three are Elevate Strategy, Elevate Execution and Business Enablement, the last still marked coming soon. A report is scoped to one focus area you choose, delivered within five business days of submission, with up to two rounds of feedback-based adjustments and a review consultation included. Treat the monthly figures as provisional: each price sits in a pair of spans whose second value reads $1,500 per report. For the three monthly tiers those second values are $8, $16 and $149. The page carries no visible label for either state, so which figure a given buyer is shown cannot be settled from the markup.",
-   "flags": [],
+   "price_note": "(re-verified 2026-08-21 and again unchanged on 2026-09-28, read on their own pricing page) The prices are published, despite the consultative first impression, and the report figures have not moved since our 12 August reading. An Elevate Insight Report is $500, a bundle of three is $1,350 at a 10% discount, and the Elevate Studio tiers render at $250, $500 and $750 a month. Those three are Elevate Strategy, Elevate Execution and Business Enablement, the last still marked coming soon. A report is scoped to one focus area you choose, delivered within five business days of submission, with up to two rounds of feedback-based adjustments and a review consultation included. Treat the monthly figures as provisional: each price sits in a pair of spans whose second value reads $1,500 per report. For the three monthly tiers those second values are $8, $16 and $149. The page carries no visible label for either state, so which figure a given buyer is shown cannot be settled from the markup. Re-read on 21 October 2026: the same $500, $1,350 and $250, $500 and $750 figures, with Business Enablement still coming soon. One detail moved in the markup: the Single Insight and Bundled Package cards lower down now pair their $500 and $1,350 with a second value of $149 a month instead of $1,500, while the report card at the top still pairs $500 with $1,500.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "Its privacy section says report-related data is retained for internal reference and refinement unless you ask for deletion, the terms provide the application 'as-is' with no uptime guarantee, liability is capped at what you paid (for the service over the prior twelve months, or for the specific credits or reports behind a claim), and disputes go to the courts of Travis County, Texas.",
+     "evidence_excerpt": "Its privacy section says report-related data is retained for internal reference and refinement unless you ask for deletion, the terms provide the application 'as-is' with no uptime guarantee, liabili…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-21"
+    }
+   ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-28",
+   "price_verified_at": "2026-10-21",
    "first_observed_at": "2026-08-21"
   },
   {
@@ -5885,15 +5894,15 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "quote_only",
-   "price_note": "(re-read 2026-09-18 and again on 2026-10-05 on trainual.com/pricing) No prices at all. The page lists four plans — Core, Pro, Premium and Enterprise, grouped under a Training, an Operations and a Performance suite — and every one of them carries a “Get a demo” button where a rate would be. The only figure the page publishes is a one-time implementation fee of $1,000, stated in its own FAQ alongside a 4–6 week engagement with an implementation specialist. The FAQ also answers the sizing question directly: “Trainual is best suited for companies with 25 - 1000 employees”, and says pricing varies with team size and the features you need. Pricing is quote-only. An earlier version of this entry carried monthly figures attributed to unnamed third-party sources; those are not on the vendor's page and could not be traced to a named source, so they have been removed rather than repeated.\n\nThere is also no self-serve way to try it. The FAQ question “Can I try Trainual before committing to a subscription?” is answered with an invitation to book a demo, not with a trial, so a sales conversation is the only route in. Two things are quantified beyond the fee: the implementation team aims to have interviews completed and content in the account within 10 business days, and 500+ templates are included, with 400+ expert-built courses sold separately as a premium courses add-on whose price the page does not give. Read on 5 October 2026, the Premium card lists an MCP server for custom AI agents, and Enterprise adds API access with custom integration support, access to SOC 2 security documentation and extended implementation and migration.",
+   "price_note": "(re-read 2026-09-18 and again on 2026-10-05 on trainual.com/pricing) No prices at all. The page lists four plans — Core, Pro, Premium and Enterprise, grouped under a Training, an Operations and a Performance suite — and every one of them carries a “Get a demo” button where a rate would be. The only figure the page publishes is a one-time implementation fee of $1,000, stated in its own FAQ alongside a 4–6 week engagement with an implementation specialist. The FAQ also answers the sizing question directly: “Trainual is best suited for companies with 25 - 1000 employees”, and says pricing varies with team size and the features you need. Pricing is quote-only. An earlier version of this entry carried monthly figures attributed to unnamed third-party sources; those are not on the vendor's page and could not be traced to a named source, so they have been removed rather than repeated.\n\nThere is also no self-serve way to try it. The FAQ question “Can I try Trainual before committing to a subscription?” is answered with an invitation to book a demo, not with a trial, so a sales conversation is the only route in. Two things are quantified beyond the fee: the implementation team aims to have interviews completed and content in the account within 10 business days, and 500+ templates are included, with 400+ expert-built courses sold separately as a premium courses add-on whose price the page does not give. Read on 5 October 2026, the Premium card lists an MCP server for custom AI agents, and Enterprise adds API access with custom integration support, access to SOC 2 security documentation and extended implementation and migration.\n\nRead a third time on 21 October 2026 (served HTML): still no rate on any plan, the same $1,000 implementation fee and the same 25 - 1000 employee fit. The page is now organised around three suites, Training, Operations and Performance, each with its own Get a demo button, above a plan grid that still names Core, Pro, Premium and Enterprise. The per-plan video-storage and version-history figures we quoted from the 5 October reading did not appear in the served page this time, so they rest on that earlier reading. The FAQ now also answers the cancellation question: a cancelled plan runs to the end of the billing cycle with full access, and an account can instead be put on hold for up to three months.",
    "flags": [
     {
      "flag": "quote_only",
-     "evidence": "No published price: Core/Pro/Premium/Enterprise all route to Get a demo; only a $1,000 one-time implementation fee is disclosed (read 18 Sep and 5 Oct 2026)",
+     "evidence": "No published price: Core/Pro/Premium/Enterprise and the Training, Operations and Performance suites all route to Get a demo; only a $1,000 one-time implementation fee is disclosed (read 18 Sep, 5 Oct and 21 Oct 2026)",
      "evidence_excerpt": null,
      "source_url": "https://trainual.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-05"
+     "verified_at": "2026-10-21"
     },
     {
      "flag": "addons_extra",
@@ -5901,11 +5910,11 @@
      "evidence_excerpt": "Two things are quantified beyond the fee: the implementation team aims to have interviews completed and content in the account within 10 business days, and 500+ templates are included, with 400+ expe…",
      "source_url": "https://trainual.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-05"
+     "verified_at": "2026-10-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-05",
+   "price_verified_at": "2026-10-21",
    "first_observed_at": "2026-09-18"
   },
   {
@@ -6116,7 +6125,7 @@
    "entry_price": "$5",
    "entry_price_terms": "per user a month billed annually, or $6 monthly",
    "pricing_status": "public",
-   "price_note": "(re-read 25 September 2026 on webcatalog.io/en/pricing in a browser, both billing toggles, USD) Basic is free and no card is required: 2 desktop apps, 2 profiles and 1 space, with cloud sync, to-dos, focus mode and curated wallpapers. Pro is $5 per user per month billed annually or $6 billed monthly, plus local taxes, and lifts the caps to unlimited apps, profiles and spaces, with an ad-free experience, pages, theme colours, an ads and tracker blocker, an app lock, location services and priority support. Business is $8 per user per month billed annually or $10 monthly and adds shared spaces, shared pages, team management, centralised billing, an activity log and SAML single sign-on. Both paid plans carry a 7-day trial. The page advertises a 20% saving on yearly billing and prices in USD, EUR or JPY. A legacy lifetime licence is not mentioned on the pricing page (checked 2026-09-25).",
+   "price_note": "(re-read 25 September 2026 on webcatalog.io/en/pricing in a browser, both billing toggles, USD) Basic is free and no card is required: 2 desktop apps, 2 profiles and 1 space, with cloud sync, to-dos, focus mode and curated wallpapers. Pro is $5 per user per month billed annually or $6 billed monthly, plus local taxes, and lifts the caps to unlimited apps, profiles and spaces, with an ad-free experience, pages, theme colours, an ads and tracker blocker, an app lock, location services and priority support. Business is $8 per user per month billed annually or $10 monthly and adds shared spaces, shared pages, team management, centralised billing, an activity log and SAML single sign-on. Both paid plans carry a 7-day trial. The page advertises a 20% saving on yearly billing and prices in USD, EUR or JPY. A legacy lifetime licence is not mentioned on the pricing page (checked 2026-09-25). Re-read on 21 October 2026 by plain fetch: the annual figures, $5 for Pro and $8 per user for Business plus local taxes, and the free Basic caps are unchanged; the monthly toggle does not render without a browser, so the $6 and $10 monthly rates rest on the September reading. The table now marks desktop apps, profiles, spaces and shared spaces as 'Only available on WebCatalog for macOS, Windows, and Linux', so those limits and features belong to the desktop app rather than the browser extension. Payment is by card, PayPal, Apple Pay or Google Pay, with Alipay, KakaoPay, Naver Pay and UPI offered in some regions.",
    "flags": [
     {
      "flag": "per_seat",
@@ -6124,7 +6133,7 @@
      "evidence_excerpt": "Pro is $5 per user per month billed annually or $6 billed monthly, plus local taxes, and lifts the caps to unlimited apps, profiles and spaces, with an ad-free experience, pages, theme colours, an ad…",
      "source_url": "https://webcatalog.io/en/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-25"
+     "verified_at": "2026-10-21"
     },
     {
      "flag": "free_tier",
@@ -6132,11 +6141,11 @@
      "evidence_excerpt": null,
      "source_url": "https://webcatalog.io/en/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-25"
+     "verified_at": "2026-10-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-25",
+   "price_verified_at": "2026-10-21",
    "first_observed_at": null
   },
   {
