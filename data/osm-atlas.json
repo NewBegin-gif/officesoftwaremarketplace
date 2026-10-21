@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for office, finance and HR software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 222,
-  "flags": 361,
+  "tools": 223,
+  "flags": 363,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on officesoftwaremarketplace.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -1835,6 +1835,38 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-04",
    "first_observed_at": "2026-10-04"
+  },
+  {
+   "name": "eBillity",
+   "category": "Finance & Accounting",
+   "domain": "ebillity.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/ebillity-review/",
+   "from_price_usd_mo": 8.0,
+   "entry_price": "$8",
+   "entry_price_terms": "Time Tracker Billing · per user a month, billed annually and paid in full at activation, no…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-15 on ebillity.com/pricing with USD selected, plus the FAQ and the terms of service updated 18 March 2026) eBillity sells four plans per user, and the pricing page says annual billing saves 20%. Billed annually, Time Tracker Billing is $8 per user a month with no base fee, for simple time tracking and client billing. Time Tracker Workforce, for time, attendance and scheduling with GPS and PTO tracking, is $11.20 per user a month plus a $17.60 base fee. Time Tracker Premium, which adds project and expense tracking, billing and advanced reporting, is $16.80 per user a month plus a $24 base fee. LawBillity, Premium plus legal billing such as trust accounting and LEDES, is $33.60 per user a month with no base fee. We did not confirm the month-to-month prices. The FAQ says an annual account is paid in full at activation; if you remove users, the seats stay open on your account until renewal, and users you add are charged a prorated amount for the remaining months. The terms say fees are billed in advance and are non-refundable, with no refunds for upgrades, downgrades or unused months, and taxes are your responsibility. The page also offers CAD, EUR, GBP, PHP and AUD, which we did not read. There is a 14-day free trial with no credit card, and no free plan.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "Billed annually, Time Tracker Billing is $8 per user a month with no base fee, for simple time tracking and client billing.",
+     "evidence_excerpt": null,
+     "source_url": "https://ebillity.com/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-15"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "(read 2026-10-15 on ebillity.com/pricing with USD selected, plus the FAQ and the terms of service updated 18 March 2026) eBillity sells four plans per user, and the pricing page says annual billing saves 20%.",
+     "evidence_excerpt": "(read 2026-10-15 on ebillity.com/pricing with USD selected, plus the FAQ and the terms of service updated 18 March 2026) eBillity sells four plans per user, and the pricing page says annual billing s…",
+     "source_url": "https://ebillity.com/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-15"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-15",
+   "first_observed_at": "2026-10-15"
   },
   {
    "name": "ElevateForward",
