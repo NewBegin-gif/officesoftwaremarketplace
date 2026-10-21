@@ -598,8 +598,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## xTiles
 - Review: https://officesoftwaremarketplace.com/xtiles-review.html
-- Verdict: xTiles: Plus is $19 a month, or $12.42 a month billed yearly. The free plan keeps only two weeks of planner history and caps uploads at 5MB.
-- Price: (read 2026-10-13 in a live browser on xtiles.app/en/pricing, prices in US dollars, with the comparison table and FAQ) Four plans, priced per user. Free costs nothing and gives unlimited pages and projects, free templates, 3 personal spaces, Google and Outlook calendar, an AI assistant with 1,000 credits and limited AI integrations; the table adds file uploads of up to 5MB, two weeks of planner history and one…
+- Verdict: xTiles: Plus is $19 a month, or $12.42 a month billed yearly, which the page says saves $79 a year. Pro's headline is AI control of your workspace.
+- Price: (read 2026-10-13 in a live browser on xtiles.app/en/pricing, prices in US dollars, with the comparison table and FAQ) Four plans, priced per user. Free costs nothing and gives unlimited pages and projects, free templates, 3 personal spaces, Google and Outlook calendar, an AI assistant with 1,000 credits and limited AI integrations; the table adds file uploads of up to 5MB, two weeks of planner history (in our…
 
 ## Your Company Formations
 - Review: https://officesoftwaremarketplace.com/your-company-formations-review.html
