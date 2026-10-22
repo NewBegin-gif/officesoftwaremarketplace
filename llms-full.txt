@@ -118,8 +118,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## CO2 Impact
 - Review: https://officesoftwaremarketplace.com/co2-impact-review.html
-- Verdict: CO2 Impact: No free trial or free plan is mentioned. The public table does not show in text which plan includes advanced or SECR reports.
-- Price: (read 2026-10-09 in a browser render of the pricing table on co2impact.co.uk's homepage, GBP, all prices exclude VAT) Every licence has a 12-month commitment, with an option to pay monthly. Basic is £468 a year (£39.00 a month) for 1 user and 1 operational site.
+- Verdict: CO2 Impact: Basic is £468 a year (£39.00 a month) for 1 user and 1 operational site. Every licence is a 12-month commitment.
+- Price: (read 2026-10-09 in a browser render of the pricing table on co2impact.co.uk's homepage; re-verified 2026-10-22 on the redesigned table, GBP, all prices exclude VAT) Every licence runs for 12 months: annual payment is charged upfront, monthly payment is spread over the 12-month licence. Basic is £468 a year (£39.00 a month) for 1 user and 1 operational site.
 
 ## Compliancely
 - Review: https://officesoftwaremarketplace.com/compliancely-review.html
