@@ -1,6 +1,6 @@
 # Office Software Marketplace
 
-> Independent, hands-researched reviews of office, finance, HR and IT software for small and mid-sized teams. 122 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-10-22.
+> Independent, hands-researched reviews of office, finance, HR and IT software for small and mid-sized teams. 124 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-10-22.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -18,7 +18,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [The Best WP Engine Alternatives (2026)](https://officesoftwaremarketplace.com/best-wp-engine-alternatives.html): WP Engine alternatives compared on the numbers we read ourselves: what each host really costs, where the meter is, and who each one is actua
 - [How to Set Up Your Business Finance Stack (2026)](https://officesoftwaremarketplace.com/build-business-finance-stack.html): A blueprint for your money operations: a business account, paying bills, bookkeeping, payroll and tax — the exact stack, what each tool does
 
-## Reviews (122) — canonical versions
+## Reviews (124) — canonical versions
 - [accessiBe Review (2026): From $59/mo, Checked Sep 2026](https://officesoftwaremarketplace.com/accessibe-review.html): accessiBe: $490 is the first figure a visitor sees. The thing you most need to know about this product is not on its pricing page, it is on the FTC’s.
 - [AccuWeb Hosting Review (2026): Cheap VPS That Renews at 2-4x](https://officesoftwaremarketplace.com/accuweb-hosting-review.html): AccuWeb Hosting: VPS Edge is €4.42 a month and renews at €8.91. The money-back guarantee is 7 days, shorter than many hosts offer.
 - [ADP Review (2026): No Public Price, Quote Only](https://officesoftwaremarketplace.com/adp-review.html): ADP shows no public pricing for RUN anywhere on its site. The quote-only posture is normal in payroll.
@@ -58,6 +58,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [DocSend Review (2026): $10 to Share, $150 for a Data Room](https://officesoftwaremarketplace.com/docsend-review.html): DocSend: Personal is $10 per user a month billed yearly or $15 billed monthly, one user. The cheap plan is not the product people buy DocSend for.
 - [doola Review (2026): $297/yr Plus State Fees](https://officesoftwaremarketplace.com/doola-review.html): doola: State filing fees run $50 to $500 depending on the state. Convenient especially for non-US founders.
 - [Dryground AI Review (2026): Quoted Consulting, $99 CompanyClaw](https://officesoftwaremarketplace.com/dryground-ai-review.html): Dryground AI: Core $99, Pro $297 and Enterprise $1,497 a month, each plus usage from a prepaid token wallet. Read the headline numbers carefully too.
+- [EasyBrise Review (2026): $295 US Company Setup, State Fee Extra](https://officesoftwaremarketplace.com/easybrise-review.html): EasyBrise: Global Launch is $295 one-time plus the state fee, listed as $104 for Wyoming and $143 for Delaware. Refunds stop once documents go to the 
 - [eBillity Review (2026): Time Tracking From $8 per User](https://officesoftwaremarketplace.com/ebillity-review.html): EBillity sells four plans per user, and the pricing page says annual billing saves 20%. Workforce and Premium add a base fee on top of the per-user pr
 - [Emergent Review (2026): Pro Costs More Per Credit](https://officesoftwaremarketplace.com/emergent-review.html): Emergent: Pro $200/mo, or $167/mo billed annually, for 750 credits (a $396 saving, 16.5%). Now do the division, because Emergent's own pricing page do
 - [Employment Hero Review (2026): Those Dollars Are Australian](https://officesoftwaremarketplace.com/employment-hero-review.html): Employment Hero: EVERY PRICE ON THAT PAGE IS AUD EXCLUDING GST — the page states it in its own disclaimer. Payroll no longer carries its own price at 
@@ -136,6 +137,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [UserHelp.co Review (2026): Website Feedback Widget, $59 One-Time](https://officesoftwaremarketplace.com/userhelp-co-review.html): UserHelp.co — Basic is free forever: unlimited responses, one project, categories. Basic is limited to one project and shows a watermark.
 - [VideoScribe Review (2026): Whiteboard Animation From €13.75](https://officesoftwaremarketplace.com/videoscribe-review.html): VideoScribe: Lite is €34.00 a month billed monthly, or €13.75 a month billed annually at €165.00. Payments are non-refundable according to the help ce
 - [Wondershare PDFelement Review (2026): $79.99/yr or $129.99 Once](https://officesoftwaremarketplace.com/wondershare-pdfelement-review.html): Wondershare PDFelement: The 2-Year Plan is US$109.99 (list US$149) and renews manually. A perpetual licence covers PDFelement 13, not later major vers
+- [WordPerfect Office Review (2026): One-Time Licence, Windows Only](https://officesoftwaremarketplace.com/wordperfect-office-review.html): WordPerfect Office: On 22 October 2026 the full version download was $99.99 for Home & Student, $249.99 for Standard and $399.99 for Professional.
 - [World Businesses for Sale Review (2026): 3%, 2% or 1%](https://officesoftwaremarketplace.com/world-businesses-for-sale-review.html): World Businesses for Sale: Browsing is free for buyers. On the broker plans you pay twice: a listing fee up front AND commission when it sells.
 - [WPLP Review (2026): Priced by Site Count, Not Pageviews](https://officesoftwaremarketplace.com/wplp-review.html): WPLP: The cookie plugin's own listing says the free version already includes the cookie banner.
 - [xTiles Review (2026): Free Plan, Plus From $12.42/mo Yearly](https://officesoftwaremarketplace.com/xtiles-review.html): xTiles: Plus is $19 a month, or $12.42 a month billed yearly, which the page says saves $79 a year. Pro's headline is AI control of your workspace.
