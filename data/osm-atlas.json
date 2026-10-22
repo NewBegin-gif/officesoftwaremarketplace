@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for office, finance and HR software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 223,
-  "flags": 364,
+  "tools": 225,
+  "flags": 365,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on officesoftwaremarketplace.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -699,7 +699,7 @@
    "entry_price": "$143",
    "entry_price_terms": "per location per month on annual billing",
    "pricing_status": "public",
-   "price_note": "(2026-09-17, read on their own pricing page; re-read 2026-10-04, annual amounts unchanged) Priced per location per month, and the page opens on its Annually tab, so the headline figures are annual-billing rates: Essentials $143, Premier $234 and Prestige $328 per location. The toggle's own label says Save 10% on annual; switched to Monthly on 4 October 2026 the cards read $159, $260 (normally $325) and $364 (normally $455), about 11% above the annual figures. Premier and Prestige still carry the sticker, relabelled from summer to fall pricing by 4 October 2026, — $234 against a 'normally' $293 and $328 against $410, footnoted limited-time and new customers only — but Essentials no longer does: it lost the struck-through $176, rose from $140 to $143 since we read the page on 18 August 2026, and had its allowances raised to 250 texts, 1,000 email blasts and 50 GB of storage. Prestige lists 100 GB. Enterprise is a bespoke quote and a separate Medspa tab carries its own bundles. Paid add-ons sit on top, also per location: Forms from $65 per month per location, QuickBooks $45, ePrescribe $45 per prescriber, and email beyond the included allowance at $0.01 each. Every tier's button is 'Get a demo': there is no self-serve checkout at any price.",
+   "price_note": "(2026-09-17, read on their own pricing page; re-read 2026-10-04 and 2026-10-21, annual amounts unchanged; the monthly figures below are from 4 October) Priced per location per month, and the page opens on its Annually tab, so the headline figures are annual-billing rates: Essentials $143, Premier $234 and Prestige $328 per location. The toggle's own label says Save 10% on annual; switched to Monthly on 4 October 2026 the cards read $159, $260 (normally $325) and $364 (normally $455), about 11% above the annual figures. Premier and Prestige still carry the sticker, relabelled from summer to fall pricing by 4 October 2026, — $234 against a 'normally' $293 and $328 against $410, footnoted limited-time and new customers only — but Essentials no longer does: it lost the struck-through $176, rose from $140 to $143 since we read the page on 18 August 2026, and had its allowances raised to 250 texts, 1,000 email blasts and 50 GB of storage. Prestige lists 100 GB. Enterprise is a bespoke quote and a separate Medspa tab carries its own bundles. Paid add-ons sit on top, also per location: Forms from $65 per month per location, QuickBooks $45, ePrescribe $45 per prescriber, and email beyond the included allowance at $0.01 each. Every tier's button is 'Get a demo': there is no self-serve checkout at any price.",
    "flags": [
     {
      "flag": "addons_extra",
@@ -707,11 +707,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-04"
+     "verified_at": "2026-10-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-04",
+   "price_verified_at": "2026-10-21",
    "first_observed_at": "2026-09-17"
   },
   {
@@ -1805,6 +1805,21 @@
    "first_observed_at": "2026-08-17"
   },
   {
+   "name": "EasyBrise",
+   "category": "Financial Operations",
+   "domain": "easybrise.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/easybrise-review/",
+   "from_price_usd_mo": null,
+   "entry_price": "$295",
+   "entry_price_terms": "Global Launch · one-time setup fee, plus the state filing fee",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-15 on easybrise.com/pricing, its terms of service and refund policy; the terms say all fees are in US dollars) EasyBrise sells US company formation to founders abroad. Global Launch is $295 one-time plus the state fee, listed as $104 for Wyoming and $143 for Delaware, and includes formation, an EIN, the first year of registered agent and virtual business address, and lifetime access to a document vault. Tax & Compliance Pro is $1,499 a year and adds annual tax and state filing support with an annual CPA consultation; Elite is $2,499 a year and adds multi-member and C-Corp filing support with a quarterly CPA review. The pricing page warns that complex multi-state tax matters, audits, amended returns, payroll and sales-tax compliance may incur additional fees. Standalone services include a registered agent at $149 a year, a virtual address at $35 a month or $315 a year, annual report filing at $149 per filing plus the state fee, an ITIN application at $499, a 30-minute CPA consultation at $129 and bookkeeping from $99 to $399 a month. Registered agent and virtual address renew annually after the included period, and recurring services renew automatically unless cancelled.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-15",
+   "first_observed_at": "2026-10-15"
+  },
+  {
    "name": "EasyDMARC",
    "category": "Security",
    "domain": "easydmarc.com",
@@ -1813,7 +1828,7 @@
    "entry_price": "$35.99",
    "entry_price_terms": "a month billed annually ($44.99 monthly) for 2 domains",
    "pricing_status": "public",
-   "price_note": "(re-read 2026-10-04 on easydmarc.com/pricing, which now redirects to /pricing/businesses; the four amounts are unchanged since 26 August 2026, the plan structure around them is not) Plus is 44.99 a month, or 35.99 billed annually, for 2 domains, three months of report history and a monthly volume selector of 100,000, 500,000 or 1,000,000 messages. Premium is 89.99, or 71.99 annually, for 4 domains, a year of history and up to 5,000,000 messages, adding AI agents that read the reports, proactive DMARC alerts, EasySPF, email support and a dedicated CS manager on the yearly plan only. Both open with a free trial and no credit card. Users are now unlimited on every tier, where on 17 September Plus allowed one invited user. The former Enterprise tier is split into two quoted plans: Deliverability (up to unlimited domains, custom volume, up to three years of history, DNS Manager and Sender Insights, delivery analytics, reputation monitoring and inbox placement tests, a dedicated DMARC engineer as a paid add-on) and Enterprise: Email Trust (adding Threat Intelligence, an included DMARC engineer, SSO, API access and audit logs). The page no longer lists a Free plan. Subdomains are detected automatically and do not count toward the domain limit. Past the monthly quota, the page's own tooltip says additional reports are not processed until the next billing cycle. Annual billing is marked Save 20% plus bonus features, and MSPs get a separate tab. On the currency: read from the Netherlands the page prints these as euro amounts and read over a US connection as the identical dollar figures, so €44.99 there is $44.99 here: the symbol changes and the number does not.",
+   "price_note": "(re-read 2026-10-04 and again 2026-10-21 on easydmarc.com/pricing, which now redirects to /pricing/businesses; the four amounts are unchanged since 26 August 2026, the plan structure around them changed by 4 October and was the same on 21 October) Plus is 44.99 a month, or 35.99 billed annually, for 2 domains, three months of report history and a monthly volume selector of 100,000, 500,000 or 1,000,000 messages. Premium is 89.99, or 71.99 annually, for 4 domains, a year of history and up to 5,000,000 messages, adding AI agents that read the reports, proactive DMARC alerts, EasySPF, email support and a dedicated CS manager on the yearly plan only. Both open with a free trial and no credit card. Users are now unlimited on every tier, where on 17 September Plus allowed one invited user. The former Enterprise tier is split into two quoted plans: Deliverability (up to unlimited domains, custom volume, up to three years of history, DNS Manager and Sender Insights, delivery analytics, reputation monitoring and inbox placement tests, a dedicated DMARC engineer as a paid add-on) and Enterprise: Email Trust (adding Threat Intelligence, an included DMARC engineer, SSO, API access and audit logs). The page no longer lists a Free plan. Subdomains are detected automatically and do not count toward the domain limit. Past the monthly quota, the page's own tooltip says additional reports are not processed until the next billing cycle. Annual billing is marked Save 20% plus bonus features, and MSPs get a separate tab. On the currency: read from the Netherlands the page prints these as euro amounts and read over a US connection as the identical dollar figures, so €44.99 there is $44.99 here: the symbol changes and the number does not.",
    "flags": [
     {
      "flag": "addons_extra",
@@ -1821,7 +1836,7 @@
      "evidence_excerpt": "The former Enterprise tier is split into two quoted plans: Deliverability (up to unlimited domains, custom volume, up to three years of history, DNS Manager and Sender Insights, delivery analytics, r…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-04"
+     "verified_at": "2026-10-21"
     },
     {
      "flag": "annual_lock",
@@ -1829,11 +1844,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-04"
+     "verified_at": "2026-10-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-04",
+   "price_verified_at": "2026-10-21",
    "first_observed_at": "2026-10-04"
   },
   {
@@ -6177,6 +6192,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-09",
    "first_observed_at": "2026-10-09"
+  },
+  {
+   "name": "WordPerfect Office",
+   "category": "IT & Productivity",
+   "domain": "wordperfect.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/wordperfect-office-review/",
+   "from_price_usd_mo": null,
+   "entry_price": "$99.99",
+   "entry_price_terms": "Home & Student · one-time purchase of the download as shown on the US English product…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-22 on the WordPerfect product pages at wordperfect.com, US English; dollar prices) WordPerfect Office is sold as a one-time purchase, not a subscription. On 22 October 2026 the full version download was $99.99 for Home & Student, $249.99 for Standard and $399.99 for Professional. The same pages showed lower prices a week earlier, on 15 October: $74.99, $184.99 and $299.99, with upgrades at $119.99 for Standard and $194.99 for Professional. Prices clearly move with promotions, so check the page on the day you buy. An upgrade requires a previous licensed version of WordPerfect Office, and Academic, Home & Student, OEM and Not for Resale versions do not qualify. The Perfect Authority add-on is a separate purchase. Corel offers a 30-day trial of WordPerfect Office Standard without a credit card, and a 30-day money-back guarantee that applies only to products bought directly from Corel and excludes maintenance products.",
+   "flags": [
+    {
+     "flag": "addons_extra",
+     "evidence": "The Perfect Authority add-on is a separate purchase.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.wordperfect.com/en/product/office-suite/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-22"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-22",
+   "first_observed_at": "2026-10-22"
   },
   {
    "name": "World Businesses for Sale",
