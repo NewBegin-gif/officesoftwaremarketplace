@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 225,
-  "flags": 365,
+  "flags": 366,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on officesoftwaremarketplace.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -827,23 +827,23 @@
    "entry_price": "$5.99",
    "entry_price_terms": "per user a month plus $19/mo base fee",
    "pricing_status": "public",
-   "price_note": "Per user plus a base fee, re-verified on buddypunch.com/pricing on 24 September 2026 (amounts unchanged since 5 September): Starter $5.99 per user a month, Pro $7.99 and Advanced $13.99, each with a $19 base fee a month. Scheduling is $1 per user on Starter (included from Pro), real-time GPS $2 per user, onboarding and task checklists $4 per user, extended data retention $2 per user; the payroll add-on is $8 per user plus a $49 base fee a month. 14-day free trial, no card. On annual billing the per-user rates are $4.99, $6.99 and $12.99 and the base fee stays $19 a month. Administrators are free users; employees and managers count, and only active employees are billed. Advanced includes real-time GPS, advanced reporting and the onboarding/tasks add-on (listed as coming soon); data retention is $2 per user on every plan.",
+   "price_note": "Per user plus a base fee, re-verified on buddypunch.com/pricing on 24 September 2026 (amounts unchanged since 5 September) and again on 22 October 2026: Starter $5.99 per user a month, Pro $7.99 and Advanced $13.99, each with a $19 base fee a month. Scheduling is $1 per user on Starter (included from Pro), real-time GPS $2 per user, onboarding and task checklists $4 per user, data retention for six years $24 per user a year (listed until September as $2 per user a month), advanced reporting $2 per user; the payroll add-on is $8 per user plus a $49 base fee a month. 14-day free trial, no card. On annual billing the per-user rates are $4.99, $6.99 and $12.99 and the base fee stays $19 a month. Administrators are free users; employees and managers count, and only active employees are billed. Advanced includes real-time GPS, advanced reporting and the onboarding/tasks add-on (listed as coming soon); the six-year data retention add-on can be bought on every plan, Advanced included.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "Per user plus a base fee, re-verified on buddypunch.com/pricing on 24 September 2026 (amounts unchanged since 5 September): Starter $5.99 per user a month, Pro $7.99 and Advanced $13.99, each with a $19 base fee a month.",
-     "evidence_excerpt": "Per user plus a base fee, re-verified on buddypunch.com/pricing on 24 September 2026 (amounts unchanged since 5 September): Starter $5.99 per user a month, Pro $7.99 and Advanced $13.99, each with a …",
+     "evidence": "Per user plus a base fee, re-verified on buddypunch.com/pricing on 24 September 2026 (amounts unchanged since 5 September) and again on 22 October 2026: Starter $5.99 per user a month, Pro $7.99 and Advanced $13.99, each with a $19 base fee a month.",
+     "evidence_excerpt": "Per user plus a base fee, re-verified on buddypunch.com/pricing on 24 September 2026 (amounts unchanged since 5 September) and again on 22 October 2026: Starter $5.99 per user a month, Pro $7.99 and …",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-24"
+     "verified_at": "2026-10-22"
     },
     {
      "flag": "addons_extra",
-     "evidence": "Scheduling is $1 per user on Starter (included from Pro), real-time GPS $2 per user, onboarding and task checklists $4 per user, extended data retention $2 per user; the payroll add-on is $8 per user plus a $49 base fee a month.",
-     "evidence_excerpt": "Scheduling is $1 per user on Starter (included from Pro), real-time GPS $2 per user, onboarding and task checklists $4 per user, extended data retention $2 per user; the payroll add-on is $8 per user…",
+     "evidence": "Scheduling is $1 per user on Starter (included from Pro), real-time GPS $2 per user, onboarding and task checklists $4 per user, data retention for six years $24 per user a year (listed until September as $2 per user a month), advanced reporting $2 per user; the payroll add-on is $8 per user plus a $49 base fee a month.",
+     "evidence_excerpt": "Scheduling is $1 per user on Starter (included from Pro), real-time GPS $2 per user, onboarding and task checklists $4 per user, data retention for six years $24 per user a year (listed until Septemb…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-24"
+     "verified_at": "2026-10-22"
     },
     {
      "flag": "annual_lock",
@@ -851,11 +851,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-24"
+     "verified_at": "2026-10-22"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-24",
+   "price_verified_at": "2026-10-22",
    "first_observed_at": null
   },
   {
@@ -1167,7 +1167,7 @@
    "entry_price": "$29",
    "entry_price_terms": "per month billed yearly ($35 monthly), covers first 30 users",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-03 on their own pricing page, USD) The free tier is real and not a trial: the Small Business Plan is $0 for life, covers up to 10 users and includes all hubs and features. Above that you buy per hub — Operations, Communications or HR & Skills — and each hub carries a flat base price covering the first 30 users, plus a per-user surcharge only from user 31 onward. Billed yearly that base is $29/mo at Basic, $49 at Advanced and $99 at Expert; billed monthly it is $35, $59 and $119. The surcharge is where the hubs diverge: on the yearly plans Operations adds $0.80, $2.50 and $4.20 per extra user a month, while Communications and HR & Skills add $0.50, $1.50 and $3.00. Quoting only the per-user rate understates a small team's bill, because a shop of 30 or fewer pays the flat base either way. Price it per hub you will actually switch on, not per user. Re-read on 3 October 2026 with every figure unchanged; the yearly toggle is now labelled \"save 18%\", and the 14-day trial still needs no credit card.",
+   "price_note": "(re-verified 2026-10-03 on their own pricing page, USD) The free tier is real and not a trial: the Small Business Plan is $0 for life, covers up to 10 users and includes all hubs and features. Above that you buy per hub — Operations, Communications or HR & Skills — and each hub carries a flat base price covering the first 30 users, plus a per-user surcharge only from user 31 onward. Billed yearly that base is $29/mo at Basic, $49 at Advanced and $99 at Expert; billed monthly it is $35, $59 and $119. The surcharge is where the hubs diverge: on the yearly plans Operations adds $0.80, $2.50 and $4.20 per extra user a month, while Communications and HR & Skills add $0.50, $1.50 and $3.00. Quoting only the per-user rate understates a small team's bill, because a shop of 30 or fewer pays the flat base either way. Price it per hub you will actually switch on, not per user. Re-read on 3 October 2026 with every figure unchanged; the yearly toggle is now labelled \"save 18%\", and the 14-day trial still needs no credit card. Re-read on 22 October 2026 by plain fetch with every base price and surcharge unchanged. The page's FAQ adds two terms that change the free-tier picture: a team of 11 to 30 users does not have to pay after the trial, because it can move to the Limited plan, free for life on each hub but keeping only the essentials; and the time-clock comparison table marks payroll integration as not included in the Small Business Plan. Prices are in US dollars only.",
    "flags": [
     {
      "flag": "per_seat",
@@ -1175,7 +1175,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-03"
+     "verified_at": "2026-10-22"
     },
     {
      "flag": "free_tier",
@@ -1183,11 +1183,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-03"
+     "verified_at": "2026-10-22"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-03",
+   "price_verified_at": "2026-10-22",
    "first_observed_at": "2026-10-03"
   },
   {
@@ -5773,7 +5773,7 @@
    "entry_price": "$9",
    "entry_price_terms": "per user a month billed annually, or $12 monthly",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-09 and again 2026-10-01 on toggl.com/track/pricing, which now redirects to toggl.com/pricing) Free is $0 for a limited number of users and the page calls it free forever. Starter is $9 per user a month billed annually and $12 monthly; Premium is $16 annually and $24 monthly; Enterprise is quoted. The introductory $14 Premium rate renewing at $18 that we recorded in August is gone — Premium now carries one annual price. The billing toggle advertises 'Annual (Save 33.3%)' and '4 months free', which holds exactly for Premium but not for Starter, where $12 to $9 is 25%. Trial is 30 days; Enterprise adds volume discounts on annual and multiple workspaces under one organisation.",
+   "price_note": "(re-verified 2026-09-09 and again 2026-10-01 on toggl.com/track/pricing, which now redirects to toggl.com/pricing) Free is $0 and the page calls it free forever; the pricing FAQ read 22 October 2026 sets its limit at up to 3 users. Starter is $9 per user a month billed annually and $12 monthly; Premium is $16 annually and $24 monthly; Enterprise is quoted. The introductory $14 Premium rate renewing at $18 that we recorded in August is gone — Premium now carries one annual price. The billing toggle advertises 'Annual (Save 33.3%)' and '4 months free', which holds exactly for Premium but not for Starter, where $12 to $9 is 25%. Trial is 30 days; Enterprise adds volume discounts on annual and multiple workspaces under one organisation. Re-read on 22 October 2026 with the same four plans and figures. What is new is the product around them: the pricing page now sells one Toggl that combines time tracking with project planning and capacity management, and notes that Toggl Track and Toggl Plan remain available and supported for existing users. Two paid add-ons sit on top of the paid plans: Time Off Pro at $2 per user a month (approval workflows, accrual balances, custom leave policies) and Capacity Management at $5 per user a month billed annually or $6 monthly (capacity beyond the current month, team roll-ups, draft projects, forecasting).",
    "flags": [
     {
      "flag": "per_seat",
@@ -5781,19 +5781,27 @@
      "evidence_excerpt": null,
      "source_url": "https://toggl.com/track/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-01"
+     "verified_at": "2026-10-22"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "Two newer cost lines are easy to miss: leave approvals and accruals sit in the $2 Time Off Pro add-on rather than in any plan, and capacity planning beyond the current month is the Capacity Management add-on at $5 to $6 per user, so a team buying Premium for planning should price both.",
+     "evidence_excerpt": "Two newer cost lines are easy to miss: leave approvals and accruals sit in the $2 Time Off Pro add-on rather than in any plan, and capacity planning beyond the current month is the Capacity Managemen…",
+     "source_url": "https://toggl.com/track/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-22"
     },
     {
      "flag": "free_tier",
-     "evidence": "(re-verified 2026-09-09 and again 2026-10-01 on toggl.com/track/pricing, which now redirects to toggl.com/pricing) Free is $0 for a limited number of users and the page calls it free forever.",
-     "evidence_excerpt": null,
+     "evidence": "(re-verified 2026-09-09 and again 2026-10-01 on toggl.com/track/pricing, which now redirects to toggl.com/pricing) Free is $0 and the page calls it free forever; the pricing FAQ read 22 October 2026 sets its limit at up to 3 users.",
+     "evidence_excerpt": "(re-verified 2026-09-09 and again 2026-10-01 on toggl.com/track/pricing, which now redirects to toggl.com/pricing) Free is $0 and the page calls it free forever; the pricing FAQ read 22 October 2026 …",
      "source_url": "https://toggl.com/track/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-01"
+     "verified_at": "2026-10-22"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-01",
+   "price_verified_at": "2026-10-22",
    "first_observed_at": "2026-09-09"
   },
   {
