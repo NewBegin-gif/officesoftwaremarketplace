@@ -1119,19 +1119,19 @@
    "entry_price": "£468",
    "entry_price_terms": "per year (£39/mo) for 1 user and 1 site",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-09 in a browser render of the pricing table on co2impact.co.uk's homepage, GBP, all prices exclude VAT) Every licence has a 12-month commitment, with an option to pay monthly. Basic is £468 a year (£39.00 a month) for 1 user and 1 operational site. Professional is £599 a year (£49.92 a month) for 3 users and 3 sites. Premium is £729 a year (£60.75 a month) for 5 users and 5 sites. Platinum is £1,199 a year (£99.92 a month) for 10 users and 10 sites. On every plan an additional user costs £60 a year and an additional site £80 a year, and consultancy support is £75 an hour. Automated meter data is an add-on priced per meter per year and gets cheaper on bigger plans: electricity £36, £33, £30 and £24, gas £15.60, £14.40, £13.20 and £12 (Basic to Platinum). The table lists Scope 1 and 2, all 15 Scope 3 categories, a mobile data-collection app, a carbon reduction plan, standard and advanced reports, SECR reporting, an AI data check, bill uploads and Excel/CSV bulk uploads, but the plain-text render does not show which of these each plan includes. The toggle says paying annually saves up to 20%, yet the page shows no higher monthly price. No free trial or free plan is mentioned. A separate /pricing page on the same site shows placeholder dollar plans ($9, $19, $49 with 'API access') and lorem-ipsum text; it is a template leftover, not the real price list.",
+   "price_note": "(read 2026-10-09 in a browser render of the pricing table on co2impact.co.uk's homepage; re-verified 2026-10-22 on the redesigned table, GBP, all prices exclude VAT) Every licence runs for 12 months: annual payment is charged upfront, monthly payment is spread over the 12-month licence. Basic is £468 a year (£39.00 a month) for 1 user and 1 operational site. Professional is £599 a year (£49.92 a month) for 3 users and 3 sites. Premium is £729 a year (£60.75 a month) for 5 users and 5 sites. Platinum is £1,199 a year (£99.92 a month) for 10 users and 10 sites. Every plan lists Scope 1, 2 and 3 (15 categories), AI support and all reporting functions; Premium and Platinum add a manufactured-goods carbon calculator and enhanced reporting. Basic can be tried free for 7 days without a card, with 1 user and 1 site, up to 10 entries per activity category and no reports during the trial. On 9 October the table also priced add-ons: an additional user at £60 a year, an additional site at £80 a year, consultancy at £75 an hour, and automated meter data per meter per year (electricity £36, £33, £30 and £24, gas £15.60, £14.40, £13.20 and £12, Basic to Platinum); the redesigned table of 22 October no longer shows those add-on prices, so ask for them before you buy. The old /pricing page with placeholder dollar plans now redirects to the homepage table.",
    "flags": [
     {
      "flag": "addons_extra",
-     "evidence": "Automated meter data is an add-on priced per meter per year and gets cheaper on bigger plans: electricity £36, £33, £30 and £24, gas £15.60, £14.40, £13.20 and £12 (Basic to Platinum).",
-     "evidence_excerpt": null,
+     "evidence": "On 9 October the table also priced add-ons: an additional user at £60 a year, an additional site at £80 a year, consultancy at £75 an hour, and automated meter data per meter per year (electricity £36, £33, £30 and £24, gas £15.60, £14.40, £13.20 and £12, Basic to Platinum); the redesigned table of 22 October no longer shows those add-on prices, so ask for them before you buy.",
+     "evidence_excerpt": "On 9 October the table also priced add-ons: an additional user at £60 a year, an additional site at £80 a year, consultancy at £75 an hour, and automated meter data per meter per year (electricity £3…",
      "source_url": "https://www.co2impact.co.uk/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-09"
+     "verified_at": "2026-10-22"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-09",
+   "price_verified_at": "2026-10-22",
    "first_observed_at": "2026-10-09"
   },
   {
@@ -5885,7 +5885,7 @@
      "evidence_excerpt": null,
      "source_url": "https://www.trainerize.com/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-27"
+     "verified_at": "2026-10-22"
     },
     {
      "flag": "annual_lock",
@@ -5893,11 +5893,11 @@
      "evidence_excerpt": null,
      "source_url": "https://www.trainerize.com/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-27"
+     "verified_at": "2026-10-22"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-27",
+   "price_verified_at": "2026-10-22",
    "first_observed_at": "2026-09-27"
   },
   {
