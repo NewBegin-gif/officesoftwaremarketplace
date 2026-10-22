@@ -1,6 +1,6 @@
 # Office Software Marketplace
 
-> Independent, hands-researched reviews of office, finance, HR and IT software for small and mid-sized teams. 121 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-10-21.
+> Independent, hands-researched reviews of office, finance, HR and IT software for small and mid-sized teams. 122 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-10-22.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -18,7 +18,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [The Best WP Engine Alternatives (2026)](https://officesoftwaremarketplace.com/best-wp-engine-alternatives.html): WP Engine alternatives compared on the numbers we read ourselves: what each host really costs, where the meter is, and who each one is actua
 - [How to Set Up Your Business Finance Stack (2026)](https://officesoftwaremarketplace.com/build-business-finance-stack.html): A blueprint for your money operations: a business account, paying bills, bookkeeping, payroll and tax — the exact stack, what each tool does
 
-## Reviews (121) — canonical versions
+## Reviews (122) — canonical versions
 - [accessiBe Review (2026): From $59/mo, Checked Sep 2026](https://officesoftwaremarketplace.com/accessibe-review.html): accessiBe: $490 is the first figure a visitor sees. The thing you most need to know about this product is not on its pricing page, it is on the FTC’s.
 - [AccuWeb Hosting Review (2026): Cheap VPS That Renews at 2-4x](https://officesoftwaremarketplace.com/accuweb-hosting-review.html): AccuWeb Hosting: VPS Edge is €4.42 a month and renews at €8.91. The money-back guarantee is 7 days, shorter than many hosts offer.
 - [ADP Review (2026): No Public Price, Quote Only](https://officesoftwaremarketplace.com/adp-review.html): ADP shows no public pricing for RUN anywhere on its site. The quote-only posture is normal in payroll.
@@ -123,6 +123,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Remote People Review (2026): EOR From $199 an Employee a Month](https://officesoftwaremarketplace.com/remote-people-review.html): Remote People: US PEO from $99 per employee a month and US payroll from $29. The monthly rates are the cheapest we have on file for this category.
 - [Replit Review (2026): Part Published, Part on Quote](https://officesoftwaremarketplace.com/replit-review.html): Replit: Core is $20/month, or $18/month billed annually. The subscription price is fixed; the paid Agent work is not.
 - [Rippling Review (2026): HR, IT and Finance, Priced by Quote](https://officesoftwaremarketplace.com/rippling-review.html): Rippling is modular and mostly quote-led. You're buying a system of record; the value only shows up once you consolidate several systems onto it.
+- [Runpod Review (2026): Serverless Wins Below 58% Busy](https://officesoftwaremarketplace.com/runpod-review.html): Runpod: $1.79/hr per A100 SXM and $4.31/hr per H200 SXM. On the same card serverless runs roughly 1.7x the pod rate per compute-hour.
 - [Samsara Review (2026): Seven Plans, Not One Price](https://officesoftwaremarketplace.com/samsara-review.html): Samsara: The Pricing and Plans page names seven packages. The pricing page asks how many vehicles you run and leads to a sales form.
 - [Shoeboxed Review (2026): Two Plans Yearly, Two Monthly](https://officesoftwaremarketplace.com/shoeboxed-review.html): Shoeboxed: Starter $97/yr or $9/mo (50 digital scans/mo, 20 paper scans/yr, 1 Magic Envelope/yr, 3 users, 3 years of digital scan storage).
 - [Shopmonkey Review (2026): $215-$449/mo, Payment Fees Unlisted](https://officesoftwaremarketplace.com/shopmonkey-review.html): Shopmonkey — Billed annually, which the page says saves up to 10%: Basic $215 a month, Clever $359, Genius $449. Card processing is part of the produc

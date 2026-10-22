@@ -1025,6 +1025,16 @@ One structural note: EOR Plus needs a minimum of five employees and an annual co
     </video:video>
   </url>
   <url>
+    <loc>https://officesoftwaremarketplace.com/runpod-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/qmvX0drFc4I/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Runpod Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The honest math is utilization. On the same card serverless runs roughly 1.7x the pod rate per compute-hour: $4.79 against $2.89 for an H100, $2.72 against $1.59 for an A100 PCIe. That is brilliant for spiky inference and wasteful for steady training, so pick the mode per workload, not per habit. And like all GPU clouds, the meter never sleeps: an idle pod you forgot is the cloud version of the subscription graveyard. Set spend alerts before the first experiment, not after the first invoice.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/qmvX0drFc4I</video:player_loc>
+    <video:publication_date>2026-07-08T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://officesoftwaremarketplace.com/samsara-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/DXWe_dTRxbw/hqdefault.jpg</video:thumbnail_loc>
@@ -1132,6 +1142,16 @@ One structural note: EOR Plus needs a minimum of five employees and an annual co
       <video:description>On the broker plans you pay twice: a listing fee up front AND commission when it sells — 3% on Basic, 2% on Standard, 1% on Premium — on contracts of 6, 9 and 12 months. Only Premium stays live until sold with free renewals, so on the lower tiers a business that has not sold needs a paid renewal, and for a slow sale £1,500 once can beat £749 twice. Every tier says commission is payable only when they introduce the buyer, which is exactly the clause to read in the contract before you sign. If you want no commission at all, the pay-as-you-go plans start at £49 a month, or £147 for six months — far cheaper up front, but those are listings, not broker introductions. As with any marketplace, the fee buys exposure, not a guaranteed sale.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/WLHSqv_2Bd4</video:player_loc>
     <video:publication_date>2026-07-16T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/your-company-formations-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/_ojSk4rGyRQ/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Your Company Formations Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The £2.48 headline leaves out the £100 Companies House fee and 20% VAT on the package, and every basket starts with a £5.99 review you have to remove yourself. The address and filing services in the bigger packages renew every year, at £28 to £128 each. And the terms tie refunds to the services ordered and say cancellation may be subject to a minimum contract duration.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/_ojSk4rGyRQ</video:player_loc>
+    <video:publication_date>2026-10-21T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
