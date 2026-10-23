@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for office, finance and HR software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 225,
-  "flags": 366,
+  "tools": 227,
+  "flags": 367,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on officesoftwaremarketplace.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -144,19 +144,19 @@
    "entry_price": "$12",
    "entry_price_terms": "a month per active Spend user plus a team-size platform fee",
    "pricing_status": "public",
-   "price_note": "(2026-08-28, read off their own pricing page and fee table; re-read 2026-10-11 on airwallex.com/en-us/pricing: plans, FX, transfer, card and billing rates unchanged) FX conversion 0.5% above the interbank rate for major currencies and 1% for all others. Local transfers to 120+ countries free; SWIFT transfers $15–$25 each. Payment acceptance 2.8% + $0.30 on domestic cards and 4.30% + $0.30 on international cards; local payment methods $0.30 plus method-specific fees. Corporate cards carry no international fees and up to 2% cash rebate on local USD spend. Account plans: Explore free, Grow $12 per active Spend user/month plus a platform fee that varies with team size, Accelerate custom. Their table adds limits the earlier reading did not record: the first 10 Spend users are free and the $12 rate runs to 250 Spend users; the monthly fee is charged per business legal entity, with up to 3 entities included; for each additional entity the footnote now says only that additional fees may apply (our 28 August reading recorded $1,000); subscription and usage-based billing cost 0.50% per successful transaction while invoicing is free; and USD balances earn a Yield rate that Airwallex restamps daily rather than fixing per plan — on 11 October 2026 the US page showed 3.42% on Explore, 3.57% on Grow and 3.69% on Accelerate, and its own footnote reads that the indicative rate is the 7-day annualized historical rate of the underlying funds as of October 10, 2026, net of fees. Read those three figures as a moving number carrying the date the page gave it, not as a plan feature: they were 3.21%, 3.36% and 3.48% when we first recorded them on 28 August and 3.22%, 3.37% and 3.49% on 5 and 19 September.",
+   "price_note": "(2026-08-28, read off their own pricing page and fee table; re-read 2026-10-11 on airwallex.com/en-us/pricing: plans, FX, transfer, card and billing rates unchanged; re-read 2026-10-23 on the same page: plans and rates again unchanged, with a 0.4% per-transaction fee for automatic tax calculation in the billing table that our earlier readings did not record, and restamped Yield figures) FX conversion 0.5% above the interbank rate for major currencies and 1% for all others. Local transfers to 120+ countries free; SWIFT transfers $15–$25 each. Payment acceptance 2.8% + $0.30 on domestic cards and 4.30% + $0.30 on international cards; local payment methods $0.30 plus method-specific fees. Corporate cards carry no international fees and up to 2% cash rebate on local USD spend. Account plans: Explore free, Grow $12 per active Spend user/month plus a platform fee that varies with team size, Accelerate custom. Their table adds limits the earlier reading did not record: the first 10 Spend users are free and the $12 rate runs to 250 Spend users; the monthly fee is charged per business legal entity, with up to 3 entities included; for each additional entity the footnote now says only that additional fees may apply (our 28 August reading recorded $1,000); subscription and usage-based billing cost 0.50% per successful transaction while invoicing is free; and USD balances earn a Yield rate that Airwallex restamps daily rather than fixing per plan — on 23 October 2026 the US page showed 3.44% on Explore, 3.59% on Grow and 3.71% on Accelerate (3.42%, 3.57% and 3.69% on 11 October), and its own footnote reads that the indicative rate is the 7-day annualized historical rate of the underlying funds as of October 22, 2026, net of fees. Read those three figures as a moving number carrying the date the page gave it, not as a plan feature: they were 3.21%, 3.36% and 3.48% when we first recorded them on 28 August and 3.22%, 3.37% and 3.49% on 5 and 19 September.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "Their table adds limits the earlier reading did not record: the first 10 Spend users are free and the $12 rate runs to 250 Spend users; the monthly fee is charged per business legal entity, with up to 3 entities included; for each additional entity the footnote now says only that additional fees may apply (our 28 August reading recorded $1,000); subscription and usage-based billing cost 0.50% per successful transaction while invoicing is free; and USD balances earn a Yield rate that Airwallex restamps daily rather than fixing per plan — on 11 October 2026 the US page showed 3.42% on Explore, 3.57% on Grow and 3.69% on Accelerate, and its own footnote reads that the indicative rate is the 7-day annualized historical rate of the underlying funds as of October 10, 2026, net of fees.",
+     "evidence": "Their table adds limits the earlier reading did not record: the first 10 Spend users are free and the $12 rate runs to 250 Spend users; the monthly fee is charged per business legal entity, with up to 3 entities included; for each additional entity the footnote now says only that additional fees may apply (our 28 August reading recorded $1,000); subscription and usage-based billing cost 0.50% per successful transaction while invoicing is free; and USD balances earn a Yield rate that Airwallex restamps daily rather than fixing per plan — on 23 October 2026 the US page showed 3.44% on Explore, 3.59% on Grow and 3.71% on Accelerate (3.42%, 3.57% and 3.69% on 11 October), and its own footnote reads that the indicative rate is the 7-day annualized historical rate of the underlying funds as of October 22, 2026, net of fees.",
      "evidence_excerpt": "Their table adds limits the earlier reading did not record: the first 10 Spend users are free and the $12 rate runs to 250 Spend users; the monthly fee is charged per business legal entity, with up t…",
-     "source_url": null,
+     "source_url": "https://www.airwallex.com/en-us/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-11"
+     "verified_at": "2026-10-23"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-11",
+   "price_verified_at": "2026-10-23",
    "first_observed_at": "2026-08-28"
   },
   {
@@ -673,7 +673,7 @@
    "review_url": "https://aibuildermarketplace.com/b2b/bookx-review/",
    "from_price_usd_mo": null,
    "entry_price": "$9.99",
-   "entry_price_terms": "Starter · a month, or $107.99 a year, for five locations and team members with…",
+   "entry_price_terms": "Starter · a month, or $107.99 a year, for five locations and team members…",
    "pricing_status": "public",
    "price_note": "(read 2026-09-08 on apps.shopify.com/appointment-booking-bookeasy and checked against the vendor's own pricing section on logbase.io, which lists the same tiers) Four tiers billed in USD every 30 days, and the meter is locations and team members rather than bookings — every tier, the free one included, carries unlimited bookings. Free costs nothing and covers one service and one team member, minute or hour scheduling, lead and buffer time, email notifications, timezone and multi-language support, blockout dates and slots, and live support by chat, email and Zoom. Starter is $9.99 a month or $107.99 a year (10% off) and lifts that to five locations and team members with unlimited services, full-day, multi-day and bundle bookings, Google Calendar and Zoom, book-now-pay-later and partial payments, customer reschedule and cancel, and a universal booking button. Growth is $19.99 or $203.99 a year (15%) for ten locations and team members, deposits and multi-payment options, workflows and a custom email sender, Shopify Flow and POS, seasonal pricing and advanced bundle and multi-day conditions. Business is $39.99 or $407.99 a year (15%) for twenty locations and team members, the all-in-one booking widget, two-way Google Calendar sync per team member, advanced seasonal pricing, Klaviyo and webhook integrations and priority support. Every paid tier has a 14-day free trial. What the table does not publish is what happens above twenty locations or team members: the ladder simply ends there.",
    "flags": [
@@ -3375,6 +3375,21 @@
    "first_observed_at": "2026-08-17"
   },
   {
+   "name": "Liltio",
+   "category": "IT & Productivity",
+   "domain": "liltio.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/liltio-review/",
+   "from_price_usd_mo": null,
+   "entry_price": "$49",
+   "entry_price_terms": "Liltio Local · one-off, lifetime Local licence for 2 Macs at the standard price, before tax",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-23 on liltio.com/#pricing; US dollars, before applicable taxes) Liltio sells one product, Liltio Local, as a one-time lifetime licence: $49 standard price, with no recurring subscription. A founding offer takes it to $29 for the first 100 paid licences, applied automatically while available; on 23 October 2026 the page counted 100 of 100 left and said availability is final at checkout. The licence covers 2 Macs and future Liltio updates; separately branded products are not included. Before buying there is a 14-day full local trial in the app, with no card and no automatic charge when it ends. It is a trial, not a free plan. The page showed the same amounts on 12 October 2026.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-23",
+   "first_observed_at": "2026-10-23"
+  },
+  {
    "name": "Lindy.ai",
    "category": "Operations & Workflow",
    "domain": "lindy.ai",
@@ -3501,7 +3516,7 @@
    "review_url": "https://aibuildermarketplace.com/b2b/migrationpro-review/",
    "from_price_usd_mo": null,
    "entry_price": "$29",
-   "entry_price_terms": "Automated app · a one-time payment rather than a subscription, and a floor rather than…",
+   "entry_price_terms": "Automated app · a one-time payment rather than a subscription, and a floor…",
    "pricing_status": "public",
    "price_note": "(re-read 2026-10-05 on apps.shopify.com/migrationpro-shopify-migration-app and migrationpro.io/pricing/) The App Store listing has gone. Read on 5 October 2026 it says “This app is not currently available on the Shopify App Store. If you have support questions, contact Migrationpro, LLC directly.” — no plan block, no install button, no review record — and its reviews page answers 404. On 18 September it still showed one plan, free to install, with the line that pricing is tailored to the entities you migrate and no subscription fees, billed in USD. The vendor's own homepage and pricing page are unchanged and still send every install button to that listing. The numbers live on the vendor's own pricing page, which quotes on your product, customer and order counts. Two routes are sold there, both one-time payments rather than subscriptions. The Automated app plan, where you run the migration yourself, starts at $29 based on store size. The Done-for-you plan, where their team handles mapping, testing and go-live with a dedicated specialist, starts at $300 with every add-on included. Both carry a 30-day guarantee, need no credit card, and begin with a free demo of up to 10 products, customers and orders. What has changed since 23 August is the add-on table: each one now carries a price. 301 redirects, order ID preservation, categories mapped to automated collections and content images are $29 each; customer groups to tags and default stock quantity are $19 each; spam customer detection, active products only and tax-inclusive pricing are $39 each; merging short and long descriptions, generating variants from options and resetting the target store are free. The homepage puts a typical store at $49 to $299 on actual record counts, and the FAQ says most stores finish in one to three hours, with 10,000+ products taking longer but still completing the same day. The app is English-only, migrates from WooCommerce, Wix, Squarespace, BigCommerce, Magento, PrestaShop, OpenCart, Shopware, Etsy, Amazon, CSV and Excel among others, and covers products, customers, orders, collections, images, URLs and 301 redirects, with Smart Sync to re-import data changed during the run. Developer Migrationpro, LLC, Dover, Delaware; the app launched 10 May 2022, and on 18 September 2026, the last time the listing was readable, it carried 186 reviews averaging 5.0 — 181 five-star, 4 four-star and one at a single star. Note that migrationpro.io/pricing without the trailing slash now answers 308.",
    "flags": [
@@ -3679,35 +3694,35 @@
    "entry_price": "$9",
    "entry_price_terms": "per seat a month",
    "pricing_status": "public",
-   "price_note": "(read 2026-08-26 on monday.com/pricing over a US connection, at their default of 10 seats on yearly billing; re-read 2026-09-29 in a rendered browser from a Dutch connection, where the page serves euros with the same numerals on all three paid tiers and the AI-credit line with its equal 'special monthly discount' is unchanged; re-read 2026-10-21 from a Dutch connection, same euro numerals, the same 18% yearly saving and the same AI-credit lines) Free covers two seats. Basic is $9 per seat a month, a total of $90; Standard $12, down from $14, for $120 instead of $140; Pro $19, down from $22, for $190 instead of $220. Enterprise is quoted. The seat count is the thing to watch: the per-seat figure moves with team size, so a price read at ten seats is not what three or fifty will cost. Yearly billing is marked as 18% off, and each paid tier carries its own monthly AI-credit allowance rather than selling AI separately.",
+   "price_note": "(read 2026-08-26 on monday.com/pricing over a US connection, at their default of 10 seats on yearly billing; re-read 2026-09-29 in a rendered browser from a Dutch connection, where the page serves euros with the same numerals on all three paid tiers and the AI-credit line with its equal 'special monthly discount' is unchanged; re-read 2026-10-21 from a Dutch connection, same euro numerals, the same 18% yearly saving and the same AI-credit lines; re-read 2026-10-23 with a plain fetch, again unchanged) Free covers two seats. Basic is $9 per seat a month, a total of $90; Standard $12, down from $14, for $120 instead of $140; Pro $19, down from $22, for $190 instead of $220. Enterprise is quoted. The seat count is the thing to watch: the per-seat figure moves with team size, so a price read at ten seats is not what three or fifty will cost. Yearly billing is marked as 18% off, and each paid tier carries its own monthly AI-credit allowance rather than selling AI separately.",
    "flags": [
     {
      "flag": "per_seat",
      "evidence": "Basic is $9 per seat a month, a total of $90; Standard $12, down from $14, for $120 instead of $140; Pro $19, down from $22, for $190 instead of $220.",
      "evidence_excerpt": null,
-     "source_url": null,
+     "source_url": "https://monday.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-21"
+     "verified_at": "2026-10-23"
     },
     {
      "flag": "usage_metered",
-     "evidence": "(read 2026-08-26 on monday.com/pricing over a US connection, at their default of 10 seats on yearly billing; re-read 2026-09-29 in a rendered browser from a Dutch connection, where the page serves euros with the same numerals on all three paid tiers and the AI-credit line with its equal 'special monthly discount' is unchanged; re-read 2026-10-21 from a Dutch connection, same euro numerals, the same 18% yearly saving and the same AI-credit lines) Free covers two seats.",
+     "evidence": "(read 2026-08-26 on monday.com/pricing over a US connection, at their default of 10 seats on yearly billing; re-read 2026-09-29 in a rendered browser from a Dutch connection, where the page serves euros with the same numerals on all three paid tiers and the AI-credit line with its equal 'special monthly discount' is unchanged; re-read 2026-10-21 from a Dutch connection, same euro numerals, the same 18% yearly saving and the same AI-credit lines; re-read 2026-10-23 with a plain fetch, again unchanged) Free covers two seats.",
      "evidence_excerpt": "(read 2026-08-26 on monday.com/pricing over a US connection, at their default of 10 seats on yearly billing; re-read 2026-09-29 in a rendered browser from a Dutch connection, where the page serves eu…",
-     "source_url": null,
+     "source_url": "https://monday.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-21"
+     "verified_at": "2026-10-23"
     },
     {
      "flag": "addons_extra",
      "evidence": "A sales team that wants the CRM is buying a second subscription on top of whatever Work Management costs, with a three-seat minimum of its own.",
      "evidence_excerpt": null,
-     "source_url": null,
+     "source_url": "https://monday.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-21"
+     "verified_at": "2026-10-23"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-21",
+   "price_verified_at": "2026-10-23",
    "first_observed_at": "2026-08-26"
   },
   {
@@ -4165,7 +4180,7 @@
    "review_url": "https://aibuildermarketplace.com/b2b/papaya-global-review/",
    "from_price_usd_mo": 499.0,
    "entry_price": "$499",
-   "entry_price_terms": "Employer of Record · per employee per month, and a published 'starting from' floor under a…",
+   "entry_price_terms": "Employer of Record · per employee per month, and a published 'starting from' floor under…",
    "pricing_status": "public",
    "price_note": "(price re-verified 2026-10-01) Papaya publishes floors on its own pricing page, read in a browser because the page returns HTTP 403 to plain fetches. EOR from $499 per employee/month, Contractor of Record from $199 per contractor/month, the lighter Contractor solution from $5 per contractor/month, Payroll Plus from $29 per employee/month, OnePay at $0 platform fees. Workforce OS and Contingent OS carry no figure — quote only. Every one of those numbers stood unchanged across our readings on 4 September, 10 September and 1 October 2026. These are 'starting from' floors under a 'Get a Quote' button, not a rate card, and they sit BELOW the third-party trackers this dossier used to rely on: Business.com (Feb 2026) had EOR 'starts at $599/employee/mo', eorHQ (Jun 2026) roughly $650 standard / $770 premium. Per Business.com the contract is typically a two-year agreement with a rolling 90-day termination-for-convenience clause, and individual reviewers report bills running 30-50% over quote plus setup, FX and filing fees.",
    "flags": [
@@ -4244,6 +4259,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-02",
    "first_observed_at": "2026-10-02"
+  },
+  {
+   "name": "PDF Agile",
+   "category": "IT & Productivity",
+   "domain": "pdfagile.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/pdf-agile-review/",
+   "from_price_usd_mo": 39.0,
+   "entry_price": "$39",
+   "entry_price_terms": "Semi-Annual · one-time payment with 6 months of upgrades and priority support",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-23 on pdfagile.com/pricing; dollar amounts, the page does not name the currency) PDF Agile sells three paid plans and calls each of them a one-time payment rather than a subscription. Semi-Annual is $39 (shown as $6.5 a month) with 6 months of upgrades and priority support; Annual is $59 (shown as $4.9 a month) with 1 year of upgrades and priority support; Lifetime is $119, marked as a 60%-off limited-time offer against $295, with free lifetime upgrades. All three list the same features: editing text and images in PDFs, PDF-to-Word conversion, merging and reordering pages, signing and protecting, annotating, batch conversion, OCR and compression. The free version limits conversion to 2 pages and 5 tasks. The page does not say whether the paid features keep working after the upgrade period of the Semi-Annual and Annual plans ends, and gives no end date for the Lifetime offer.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "The free version limits conversion to 2 pages and 5 tasks.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.pdfagile.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-23"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-23",
+   "first_observed_at": "2026-10-23"
   },
   {
    "name": "Pdfdodo",
@@ -4356,7 +4395,7 @@
    "review_url": "https://aibuildermarketplace.com/b2b/plesk-review/",
    "from_price_usd_mo": 16.99,
    "entry_price": "$16.99",
-   "entry_price_terms": "Web Admin Edition (VPS) · per server per month billed monthly for 10 domains, or 15.57 a month on…",
+   "entry_price_terms": "Web Admin Edition (VPS) · per server per month billed monthly for 10 domains, or 15.57 a month…",
    "pricing_status": "public",
    "price_note": "(read 2026-08-30 on plesk.com/pricing from a US exit; re-verified 2026-09-20 from the Netherlands against the page's own PleskPricing rate card, which carries every currency) Per-server licences, priced per edition by domain count. On a VPS: Web Admin $16.99/month (10 domains), Web Pro $29.99 (30 domains), Web Host $62.99 (unlimited domains). A 12-month term takes 8% off, to $15.57, $27.49 and $57.74. Only Web Host costs more on dedicated hardware — $69.99/month, or $64.16 on the yearly term; Web Admin and Web Pro carry no separate dedicated rate at all, so they cost the same on either. Sitejet Builder is included on every edition. Two weeks free trial, no card. Refunds run 14 days and only on purchases made direct through the Plesk Online Store; resellers, cloud marketplaces and hosting providers apply their own policy. The partner programme discounts 15-45%, but the page states its minimum twice and differently: the Partners card reads \"Monthly Minimum of only €250 / $250\" while the FAQ lower down says the minimum commitment starts at $500/month. The page bills in local currency by region: read from the Netherlands the same table shows EUR 14.29, 25.49 and 52.99 monthly, EUR 13.10, 23.37 and 48.57 on the yearly term, and EUR 59.99 (54.99 yearly) for Web Host on dedicated hardware. VAT may apply depending on your country. The ~26% average increase that took effect January 2026 is visible in the page's own data: it still carries the pre-increase set — Web Admin $15.49, Web Pro $26.99, Web Host $49.99 on a VPS and $66.99 dedicated — behind a baseIncreased flag that is set, and a notice on the page says renewals after 1 January 2026 move to the revised structure.",
    "flags": [],
