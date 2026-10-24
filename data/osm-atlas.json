@@ -1470,7 +1470,7 @@
    "entry_price": "$5",
    "entry_price_terms": "Lite · per user per month on annual billing, excluding tax",
    "pricing_status": "public",
-   "price_note": "(re-read 2026-09-19 on deputy.com/pricing; amounts unchanged since the browser reading of 2026-07-31, which used both billing toggles) Three plans, per user per month and excluding tax. On annual billing Lite is $5, Core $6.50 and Pro $9; switch the toggle to monthly and the same three read $5.50, $7.25 and $10. Add-ons are billed monthly on top. HR is $2 per user, Messaging+ $1.95 per user and Analytics+ $1.50 per user, and the last two are included in Pro. Deputy Payroll enabled by Paycor is $8 per user plus a $49 monthly base fee, available only on annual Core and Pro plans in the US. The page also states a minimum monthly spend of USD $30 / AUD $30 / GBP £20 per invoice on the monthly Lite, Core and Pro plans. Lite and Core start with a free trial; Pro is Contact us rather than self-serve. Two things the page added since: every plan card now carries Deputy AI marked INTRODUCTORY FREE with the line that price and availability may change, so the AI is not a paid-for feature you can hold them to. And a banner across the top offers three months free to businesses that add workforce management and Payroll before 30 November — Payroll being the $8-per-user add-on with the $49 monthly base fee, US-only and annual Core or Pro, so the free months arrive attached to the most expensive thing on the page.",
+   "price_note": "(re-read 2026-09-19 on deputy.com/pricing; amounts unchanged since the browser reading of 2026-07-31, which used both billing toggles) Three plans, per user per month and excluding tax. On annual billing Lite is $5, Core $6.50 and Pro $9; switch the toggle to monthly and the same three read $5.50, $7.25 and $10. Add-ons are billed monthly on top. HR is $2 per user, Messaging+ $1.95 per user and Analytics+ $1.50 per user, and the last two are included in Pro. Deputy Payroll enabled by Paycor is $8 per user plus a $49 monthly base fee, available only on annual Core and Pro plans in the US. The page also states a minimum monthly spend of USD $30 / AUD $30 / GBP £20 per invoice on the monthly Lite, Core and Pro plans. Lite and Core start with a free trial; Pro is Contact us rather than self-serve. Two things the page added since: every plan card now carries Deputy AI marked INTRODUCTORY FREE with the line that price and availability may change, so the AI is not a paid-for feature you can hold them to. And a banner across the top, read again on 24 October 2026, now says 'Switch & Get 6 Months Free | Add WFM and Payroll before Nov 30 and get 6 months on us' (earlier it offered three months) — Payroll being the $8-per-user add-on with the $49 monthly base fee, US-only and annual Core or Pro, so the free months arrive attached to the most expensive thing on the page.",
    "flags": [
     {
      "flag": "per_seat",
@@ -1482,8 +1482,8 @@
     },
     {
      "flag": "addons_extra",
-     "evidence": "And a banner across the top offers three months free to businesses that add workforce management and Payroll before 30 November — Payroll being the $8-per-user add-on with the $49 monthly base fee, US-only and annual Core or Pro, so the free months arrive attached to the most expensive thing on the page.",
-     "evidence_excerpt": "And a banner across the top offers three months free to businesses that add workforce management and Payroll before 30 November — Payroll being the $8-per-user add-on with the $49 monthly base fee, U…",
+     "evidence": "And a banner across the top, read again on 24 October 2026, now says 'Switch & Get 6 Months Free | Add WFM and Payroll before Nov 30 and get 6 months on us' (earlier it offered three months) — Payroll being the $8-per-user add-on with the $49 monthly base fee, US-only and annual Core or Pro, so the free months arrive attached to the most expensive thing on the page.",
+     "evidence_excerpt": "And a banner across the top, read again on 24 October 2026, now says 'Switch & Get 6 Months Free | Add WFM and Payroll before Nov 30 and get 6 months on us' (earlier it offered three months) — Payrol…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
      "verified_at": "2026-09-19"
@@ -3071,7 +3071,7 @@
    "entry_price": "€4.99",
    "entry_price_terms": "Essentials · per site per month billed yearly, excl",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-09 on iubenda.com/en/pricing, browser render plus the page source for the monthly and USD figures; prices exclude VAT) All plans are priced per site per month; yearly billing saves 16%. Essentials is €4.99 billed yearly or €5.99 monthly ($5.99 / $6.99) for up to 25K pageviews, a standard privacy and cookie policy with up to 20 clauses, one language, partial branding removal and monthly site scans. Advanced, marked most popular, is €19.99 yearly or €21.99 monthly ($24.99 / $27.99) for up to 50K pageviews, complete legal documents with up to 30 clauses, all languages and geo-targeting. Ultimate is €79.99 yearly or €89.99 monthly ($99.99 / $119.99) for up to 150K pageviews, unlimited clauses, full branding removal, hourly scans, a mobile SDK, detailed analytics and consent recovery. Above the quota every plan pays €0.05 per 1,000 extra pageviews. Forms proof of consent and the newsletter opt-in booster are €5 a month per 1,000 consents. A free plan exists (its limits are not on the pricing page), every paid plan can be tried for 14 days, and agency and enterprise plans are quoted separately. Accessibility plans are a separate product, from €6 per site a month for up to 10K pageviews.",
+   "price_note": "(read 2026-10-09 on iubenda.com/en/pricing, browser render plus the page source for the monthly and USD figures; prices exclude VAT) All plans are priced per site per month; yearly billing saves 16%. Essentials is €4.99 billed yearly or €5.99 monthly ($5.99 / $6.99) for up to 25K pageviews, a standard privacy and cookie policy with up to 20 clauses, one language, partial branding removal and monthly site scans. Advanced, marked most popular, is €19.99 yearly or €21.99 monthly ($24.99 / $27.99) for up to 50K pageviews, complete legal documents with up to 30 clauses, all languages and geo-targeting. Ultimate is €79.99 yearly or €89.99 monthly ($99.99 / $119.99) for up to 150K pageviews, unlimited clauses, full branding removal, hourly scans, a mobile SDK, detailed analytics and consent recovery. Above the quota every plan pays €0.05 per 1,000 extra pageviews. Forms proof of consent and the newsletter opt-in booster are €5 a month per 1,000 consents. A free plan exists (its limits are not on the pricing page but in the help centre, see below), every paid plan can be tried for 14 days, and agency and enterprise plans are quoted separately. Accessibility plans are a separate product, from €6 per site a month for up to 10K pageviews. Re-read on 24 October 2026 with a plain fetch of the same page: all three plans, quotas, overage and consent-storage prices unchanged. The accessibility plans on that page are Lite at €6 a site a month on either billing ($7) for 10K pageviews, with extra pageviews at €6 per 10K up to a hard ceiling of 80K, and Standard at €50 yearly or €55 monthly ($60 / $65) for 150K pageviews and a ceiling of 1 million; a Custom tier is delivered by AccessiWay. Yearly billing saves 10% on accessibility against 16% on the compliance plans. The free plan's limits, missing from the pricing page, are in iubenda's help article on the free plan (updated 25 August 2026): up to 5,000 pageviews a month, up to 3 third parties or clauses in the policy, one language, no terms and conditions and full iubenda branding.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -3079,19 +3079,19 @@
      "evidence_excerpt": "Essentials is €4.99 billed yearly or €5.99 monthly ($5.99 / $6.99) for up to 25K pageviews, a standard privacy and cookie policy with up to 20 clauses, one language, partial branding removal and mont…",
      "source_url": "https://www.iubenda.com/en/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-09"
+     "verified_at": "2026-10-24"
     },
     {
      "flag": "free_tier",
-     "evidence": "A free plan exists (its limits are not on the pricing page), every paid plan can be tried for 14 days, and agency and enterprise plans are quoted separately.",
+     "evidence": "A free plan exists (its limits are not on the pricing page but in the help centre, see below), every paid plan can be tried for 14 days, and agency and enterprise plans are quoted separately.",
      "evidence_excerpt": null,
      "source_url": "https://www.iubenda.com/en/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-09"
+     "verified_at": "2026-10-24"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-09",
+   "price_verified_at": "2026-10-24",
    "first_observed_at": "2026-10-09"
   },
   {
@@ -4062,7 +4062,7 @@
    "entry_price": "$3.25",
    "entry_price_terms": "Core · per month billed yearly ($39 a year)",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-10 on optery.com/pricing, US view, USD, monthly and yearly figures) Optery sells personal data-broker removal in four tiers. Free Basic costs nothing and needs no card: a personalised exposure report with screenshots, a scan of your Google and Bing results, and self-service removal tools, but no automated removals. Core is $3.99 a month, or $3.25 a month billed yearly ($39 a year): automated monthly removals from 380+ sites (150+ without enabling Expanded Reach), for at most one name and one city and state per user, fully automated with no human Privacy Agent. Extended is $14.99 a month, or $12.42 billed yearly ($149): 555+ sites (325+ without Expanded Reach), unlimited name variations and past cities, an assigned human Privacy Agent, removal reports with before-and-after screenshots about every 90 days, and blurring your home on Google Maps and Apple Maps. Ultimate, marked most popular, is $24.99 a month, or $20.70 billed yearly ($249): 630+ sites (405+ without Expanded Reach), unlimited custom removal requests across 945+ sites once you have been a customer for 30 days, outdated-content removal submissions to Google, Bing, DuckDuckGo and Yahoo, and priority email support. Yearly billing saves 17%. Individual accounts have a 'No Questions Asked' 30-day money-back guarantee. On that reading a site banner offered promo code FALL2026 for 20% off at checkout, with no end date shown. Family and business plans are priced on separate pages that we did not read for this review.",
+   "price_note": "(read 2026-10-10 on optery.com/pricing, US view, USD, monthly and yearly figures; re-read 2026-10-24 with a plain fetch: prices, the 17% yearly saving and the FALL2026 banner unchanged, site counts on Extended and Ultimate slightly lower, as noted below) Optery sells personal data-broker removal in four tiers. Free Basic costs nothing and needs no card: a personalised exposure report with screenshots, a scan of your Google and Bing results, and self-service removal tools, but no automated removals. Core is $3.99 a month, or $3.25 a month billed yearly ($39 a year): automated monthly removals from 380+ sites (150+ without enabling Expanded Reach), for at most one name and one city and state per user, fully automated with no human Privacy Agent. Extended is $14.99 a month, or $12.42 billed yearly ($149): 555+ sites (330+ without Expanded Reach; 325+ on 10 October), unlimited name variations and past cities, an assigned human Privacy Agent, removal reports with before-and-after screenshots about every 90 days, and blurring your home on Google Maps and Apple Maps. Ultimate, marked most popular, is $24.99 a month, or $20.70 billed yearly ($249): 625+ sites (400+ without Expanded Reach; 630+ and 405+ on 10 October), unlimited custom removal requests across 940+ sites (945+ on 10 October) once you have been a customer for 30 days, outdated-content removal submissions to Google, Bing, DuckDuckGo and Yahoo, and priority email support. Yearly billing saves 17%. Individual accounts have a 'No Questions Asked' 30-day money-back guarantee. On that reading a site banner offered promo code FALL2026 for 20% off at checkout, with no end date shown. Family plans are not priced on the pricing page: Optery's help desk (updated 19 October 2026) says one family plan can cover as many people as you like, each with their own Optery account, with a discount that grows with the number of people up to 30% off paid plans, and that promo codes cannot be applied to family plans. Business plans are priced on a separate page that we did not read for this review.",
    "flags": [
     {
      "flag": "per_seat",
@@ -4070,11 +4070,11 @@
      "evidence_excerpt": "Core is $3.99 a month, or $3.25 a month billed yearly ($39 a year): automated monthly removals from 380+ sites (150+ without enabling Expanded Reach), for at most one name and one city and state per …",
      "source_url": "https://www.optery.com/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-10"
+     "verified_at": "2026-10-24"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-10",
+   "price_verified_at": "2026-10-24",
    "first_observed_at": "2026-10-10"
   },
   {
