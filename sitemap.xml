@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://officesoftwaremarketplace.com/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/about.html</loc><lastmod>2026-10-10</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/accessibe-review.html</loc><lastmod>2026-10-23</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/accuweb-hosting-review.html</loc><lastmod>2026-10-07</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/adp-review.html</loc><lastmod>2026-10-23</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/airia-review.html</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://officesoftwaremarketplace.com/aplos-review.html</loc><lastmod>2026-10-24</lastmod></url>
+  <url><loc>https://officesoftwaremarketplace.com/aplos-review.html</loc><lastmod>2026-10-24</lastmod><image:image><image:loc>https://officesoftwaremarketplace.com/shots/aplos-review/handson-01.webp</image:loc></image:image><image:image><image:loc>https://officesoftwaremarketplace.com/shots/aplos-review/handson-02.webp</image:loc></image:image></url>
   <url><loc>https://officesoftwaremarketplace.com/arbor-review.html</loc><lastmod>2026-10-09</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/atlas.html</loc><lastmod>2026-10-23</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/backupmaster-review.html</loc><lastmod>2026-10-10</lastmod></url>
@@ -20,16 +20,16 @@
   <url><loc>https://officesoftwaremarketplace.com/billingnow-review.html</loc><lastmod>2026-10-09</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/bitvavo-review.html</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/bizee-review.html</loc><lastmod>2026-10-24</lastmod></url>
-  <url><loc>https://officesoftwaremarketplace.com/blinq-review.html</loc><lastmod>2026-10-23</lastmod></url>
+  <url><loc>https://officesoftwaremarketplace.com/blinq-review.html</loc><lastmod>2026-10-23</lastmod><image:image><image:loc>https://officesoftwaremarketplace.com/shots/blinq-review/handson-01.webp</image:loc></image:image><image:image><image:loc>https://officesoftwaremarketplace.com/shots/blinq-review/handson-02.webp</image:loc></image:image></url>
   <url><loc>https://officesoftwaremarketplace.com/bolt-business-review.html</loc><lastmod>2026-10-09</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/bookx-review.html</loc><lastmod>2026-10-13</lastmod></url>
-  <url><loc>https://officesoftwaremarketplace.com/bugherd-review.html</loc><lastmod>2026-10-24</lastmod></url>
+  <url><loc>https://officesoftwaremarketplace.com/bugherd-review.html</loc><lastmod>2026-10-24</lastmod><image:image><image:loc>https://officesoftwaremarketplace.com/shots/bugherd-review/handson-01.webp</image:loc></image:image><image:image><image:loc>https://officesoftwaremarketplace.com/shots/bugherd-review/handson-02.webp</image:loc></image:image><image:image><image:loc>https://officesoftwaremarketplace.com/shots/bugherd-review/handson-03.webp</image:loc></image:image></url>
   <url><loc>https://officesoftwaremarketplace.com/build-business-finance-stack.html</loc><lastmod>2026-06-21</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/bybit-review.html</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/carbon6-review.html</loc><lastmod>2026-10-11</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/checkr-review.html</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/chemicloud-review.html</loc><lastmod>2026-10-19</lastmod></url>
-  <url><loc>https://officesoftwaremarketplace.com/claude-review.html</loc><lastmod>2026-10-23</lastmod></url>
+  <url><loc>https://officesoftwaremarketplace.com/claude-review.html</loc><lastmod>2026-10-23</lastmod><image:image><image:loc>https://officesoftwaremarketplace.com/shots/claude-review/handson-01.webp</image:loc></image:image></url>
   <url><loc>https://officesoftwaremarketplace.com/cloudtask-review.html</loc><lastmod>2026-10-09</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/cloudways-review.html</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/co2-impact-review.html</loc><lastmod>2026-10-22</lastmod></url>
@@ -42,7 +42,7 @@
   <url><loc>https://officesoftwaremarketplace.com/deel-review.html</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/deftform-review.html</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/devs-ai-review.html</loc><lastmod>2026-10-11</lastmod></url>
-  <url><loc>https://officesoftwaremarketplace.com/dext-review.html</loc><lastmod>2026-10-21</lastmod></url>
+  <url><loc>https://officesoftwaremarketplace.com/dext-review.html</loc><lastmod>2026-10-21</lastmod><image:image><image:loc>https://officesoftwaremarketplace.com/shots/dext-review/handson-01.webp</image:loc></image:image><image:image><image:loc>https://officesoftwaremarketplace.com/shots/dext-review/handson-02.webp</image:loc></image:image></url>
   <url><loc>https://officesoftwaremarketplace.com/dify-review.html</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/digiparser-review.html</loc><lastmod>2026-10-13</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/digit-review.html</loc><lastmod>2026-10-14</lastmod></url>
@@ -72,7 +72,7 @@
   <url><loc>https://officesoftwaremarketplace.com/gusto-review.html</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/harbor-compliance-review.html</loc><lastmod>2026-10-23</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/heard-review.html</loc><lastmod>2026-10-21</lastmod></url>
-  <url><loc>https://officesoftwaremarketplace.com/hive-review.html</loc><lastmod>2026-10-21</lastmod></url>
+  <url><loc>https://officesoftwaremarketplace.com/hive-review.html</loc><lastmod>2026-10-21</lastmod><image:image><image:loc>https://officesoftwaremarketplace.com/shots/hive-review/handson-01.webp</image:loc></image:image><image:image><image:loc>https://officesoftwaremarketplace.com/shots/hive-review/handson-02.webp</image:loc></image:image><image:image><image:loc>https://officesoftwaremarketplace.com/shots/hive-review/handson-03.webp</image:loc></image:image></url>
   <url><loc>https://officesoftwaremarketplace.com/hopp-review.html</loc><lastmod>2026-09-30</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/hostinger-review.html</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/hostpapa-review.html</loc><lastmod>2026-10-12</lastmod></url>
@@ -94,7 +94,7 @@
   <url><loc>https://officesoftwaremarketplace.com/melio-review.html</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/mera-work-review.html</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/migrationpro-review.html</loc><lastmod>2026-10-08</lastmod></url>
-  <url><loc>https://officesoftwaremarketplace.com/mindstudio-review.html</loc><lastmod>2026-10-23</lastmod></url>
+  <url><loc>https://officesoftwaremarketplace.com/mindstudio-review.html</loc><lastmod>2026-10-23</lastmod><image:image><image:loc>https://officesoftwaremarketplace.com/shots/mindstudio-review/handson-01.webp</image:loc></image:image><image:image><image:loc>https://officesoftwaremarketplace.com/shots/mindstudio-review/handson-02.webp</image:loc></image:image><image:image><image:loc>https://officesoftwaremarketplace.com/shots/mindstudio-review/handson-03.webp</image:loc></image:image></url>
   <url><loc>https://officesoftwaremarketplace.com/miro-review.html</loc><lastmod>2026-10-23</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/modge-review.html</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/momence-review.html</loc><lastmod>2026-10-12</lastmod></url>
@@ -117,7 +117,7 @@
   <url><loc>https://officesoftwaremarketplace.com/plesk-review.html</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/prezi-review.html</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/price-watch.html</loc><lastmod>2026-10-22</lastmod></url>
-  <url><loc>https://officesoftwaremarketplace.com/proton-drive-review.html</loc><lastmod>2026-10-23</lastmod></url>
+  <url><loc>https://officesoftwaremarketplace.com/proton-drive-review.html</loc><lastmod>2026-10-23</lastmod><image:image><image:loc>https://officesoftwaremarketplace.com/shots/proton-drive-review/handson-01.webp</image:loc></image:image></url>
   <url><loc>https://officesoftwaremarketplace.com/proton-review.html</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/qoyod-review.html</loc><lastmod>2026-10-23</lastmod></url>
   <url><loc>https://officesoftwaremarketplace.com/quickbooks-uk-review.html</loc><lastmod>2026-10-11</lastmod></url>
