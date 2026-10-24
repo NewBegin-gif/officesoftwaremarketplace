@@ -364,7 +364,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Joiin
 - Review: https://officesoftwaremarketplace.com/joiin-review.html
 - Verdict: Joiin: $35 / $42 / $49 for one company, $122 / $130 / $144 for ten and $350 / $371 / $406 for a hundred. The headline now hides a three-way split.
-- Price: (re-verified 2026-10-06 in a browser render of joiin.co/pricing and the price table in its own pricing script, in US dollars) Joiin now sells three plans, Core, Pro and Max, each priced by the number of companies you consolidate. Billed annually, per month: 1 company $28 / $34 / $45, 2 companies $32 / $36 / $47, 5 companies $62 / $66 / $77, 10 companies $97 / $104 / $115, 20 companies $147 / $155 / $168, 50…
+- Price: (re-verified 2026-10-24 in a browser render of joiin.co/pricing in US dollars at 1, 2, 10 and 100 companies on both billing periods, unchanged; the 5, 20 and 50 company steps and the above-100 fees were last read on 2026-10-06 in the calculator and the price table in its own pricing script) Joiin now sells three plans, Core, Pro and Max, each priced by the number of companies you consolidate. Billed annually, per…
 
 ## Jubilee
 - Review: https://officesoftwaremarketplace.com/jubilee-review.html
