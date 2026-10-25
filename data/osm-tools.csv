@@ -108,7 +108,7 @@ InVideo,Operations & Workflow,invideo.io,20.0,per_seat|usage_metered,https://aib
 iubenda,Security,iubenda.com,,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/iubenda-review/,2026-07,€4.99,"Essentials · per site per month billed yearly, excl",public,2026-10-24
 Jane,Operations & Workflow,jane.app,59.0,addons_extra,https://aibuildermarketplace.com/b2b/jane-review/,2026-07,$59,per month,public,2026-10-01
 Jibble,HR & People,jibble.io,,per_seat|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/jibble-review/,2026-07,€1.79,Essentieel · per user a month billed annually,public,2026-09-25
-Joiin,Finance & Accounting,joiin.co,28.0,annual_lock,https://aibuildermarketplace.com/b2b/joiin-review/,2026-07,$28,"a month for one company on Core, billed annually ($35 monthly)",public,2026-10-06
+Joiin,Finance & Accounting,joiin.co,28.0,annual_lock,https://aibuildermarketplace.com/b2b/joiin-review/,2026-07,$28,"a month for one company on Core, billed annually ($35 monthly)",public,2026-10-24
 Jubilee,Financial Operations,jubileepro.com,,usage_metered|annual_lock,https://aibuildermarketplace.com/b2b/jubilee-review/,2026-07,$995,Jubilee 36 · per YEAR for up to 36 filings,public,2026-09-22
 Katana MRP,Operations & Workflow,katanamrp.com,299.0,usage_metered|addons_extra|free_tier,https://aibuildermarketplace.com/b2b/katana-mrp-review/,2026-07,$299,per month,public,2026-09-23
 Keeper Security,Security,keepersecurity.com,2.0,per_seat|addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/keeper-security-review/,2026-07,$2,"per user per month billed yearly ($4 and $6 above it), add-ons extra",public,2026-10-04
@@ -131,6 +131,7 @@ MRPeasy,Operations & Workflow,mrpeasy.com,49.0,per_seat,https://aibuildermarketp
 Murf,Operations & Workflow,murf.ai,19.0,usage_metered|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/murf-review/,2026-07,$19,"per month billed annually ($228/yr), 100 projects",public,2026-10-03
 Mycroft,Security,mycroft.io,,quote_only,https://aibuildermarketplace.com/b2b/mycroft-review/,2026-07,,,quote_only,2026-10-11
 Navan,Financial Operations,navan.com,15.0,per_seat|usage_metered,https://aibuildermarketplace.com/b2b/navan-review/,2026-07,$15,per user a month from user 6,public,2026-09-24
+Netart,IT & Productivity,netart.com,18.75,addons_extra|free_tier,https://aibuildermarketplace.com/b2b/netart-review/,2026-07,$18.75,"CloudHosting Start · standard monthly price, net (VAT added where it applies)",public,2026-10-25
 Ngram,IT & Productivity,ngram.com,29.0,usage_metered|annual_lock,https://aibuildermarketplace.com/b2b/ngram-review/,2026-07,$29,"per month, or $23.20/mo billed annually ($278.40/yr)",public,2026-10-07
 Niural AI,HR & People,niural.com,100.0,per_seat|usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/niural-ai-review/,2026-07,$100,per month platform fee plus $20 per employee a month,public,2026-09-19
 NordPass,IT & Productivity,nordpass.com,,per_seat|renewal_jump|free_tier,https://aibuildermarketplace.com/b2b/nordpass-review/,2026-07,€1.99,per month for the first year,public,2026-10-14
@@ -159,6 +160,7 @@ QuickBooks UK,Finance & Accounting,quickbooks.intuit.com,,addons_extra,https://a
 QuickSigner,IT & Productivity,quicksigner.com,5.0,per_seat|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/quicksigner-review/,2026-07,$5,"per user a month ($48/yr), unlimited documents",public,2026-10-20
 QuillBot,Operations & Workflow,quillbot.com,19.95,free_tier,https://aibuildermarketplace.com/b2b/quillbot-review/,2026-07,$19.95,"a month, or $8.33 a month billed annually ($99.95 a year)",public,2026-09-26
 Reclaim.ai,Operations & Workflow,reclaim.ai,10.0,per_seat|addons_extra|free_tier,https://aibuildermarketplace.com/b2b/reclaim-ai-review/,2026-07,$10,per seat a month billed yearly ($12 monthly),public,2026-10-03
+Recruit CRM,HR & People,recruitcrm.io,,per_seat|usage_metered|annual_lock,https://aibuildermarketplace.com/b2b/recruit-crm-review/,2026-07,€79,Pro · per user a month billed annually (€95 billed monthly),public,2026-10-25
 Remote People,HR & People,remotepeople.com,199.0,per_seat|annual_lock,https://aibuildermarketplace.com/b2b/remote-people-review/,2026-07,$199,"EOR Flex, per employee · billed monthly with no commitment, no setup fee and no minimum headcount",public,2026-10-09
 Replit,IT & Productivity,replit.com,18.0,usage_metered,https://aibuildermarketplace.com/b2b/replit-review/,2026-07,$18,"a month, billed annually ($20 billed monthly)",public,2026-09-26
 Rippling,HR & People,rippling.com,8.0,per_seat,https://aibuildermarketplace.com/b2b/rippling-review/,2026-07,$8,per employee a month plus a $40 monthly base fee (published floor),public,2026-10-16
