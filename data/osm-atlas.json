@@ -5447,11 +5447,11 @@
    "entry_price": "$19",
    "entry_price_terms": "Premium · per month, 3-day free trial",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-01 on apps.shopify.com/storelock and in the vendor's FAQ at storelock.app/faqs) Two plans. Premium is $19 a month with a 3-day free trial and covers copy protection for text and images, IP and country blocking, fraudulent store (clone) detection, nightly lookalike-domain scans, real-time alerts and the in-app DMCA and abuse-report tools. Image Monitoring is billed on top at $0.20 per image scan; the FAQ says the first 25 scans are free and that usage charges have a $20 monthly spending cap by default, which you can change in the app. Enterprise is $399 a month and adds unlimited image monitoring, priority support, dedicated account management and custom integrations; the FAQ and the vendor's homepage say the StoreLock team then monitors the alerts and files abuse reports on your behalf. All charges are in USD, billed through Shopify every 30 days. Developer Williams Web Services LLC of Columbus, Ohio (founder Adam Weis); the listing gives a launch date of 30 June 2023 and shows a 4.6 rating from 10 reviews.",
+   "price_note": "(re-read 2026-10-27 on apps.shopify.com/storelock, storelock.app/pricing and the StoreLock FAQ) Two plans are on sale today. Premium is $19 a month with a 3-day free trial and covers storefront protection, country blocking, copy protection for text and images, domain squatter detection, real-time threat alerts and abuse-report filing in the app; image monitoring is billed on top, at $0.20 per monitored image according to the Shopify listing. Enterprise is $399 a month, also with a 3-day trial, and is fully managed: StoreLock's team reviews, files and escalates every case, with unlimited takedowns and image monitoring, a dedicated account manager and a weekly case summary. All charges are in USD, billed through Shopify every 30 days. The pricing page also previews a 'StoreLock 2' line-up marked coming soon, with no launch date: Free at $0 (copy protection, clone alerts, a monthly lookalike scan, 10 monitored images), Premium at $19 (100 image scans a month, then $0.05 per scan, and 5 automated reports), Plus at $149 (up to 5 domains or brand terms, 50 reports, 1,000 scans, then $0.02) and Enterprise at $499 (up to 10 domains or terms, 100 reports, 10,000 scans, then $0.01, plus Assisted Enforcement Support). Existing Premium and Enterprise subscribers keep their price and features for 6 months after that launch. Developer Williams Web Services LLC of Columbus, Ohio (founder Adam Weis); listed on Shopify since 30 June 2023, rated 4.6 from 10 reviews.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-01",
-   "first_observed_at": "2026-10-01"
+   "price_verified_at": "2026-10-27",
+   "first_observed_at": "2026-10-27"
   },
   {
    "name": "Sucuri",
