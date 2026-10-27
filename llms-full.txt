@@ -313,8 +313,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Heard
 - Review: https://officesoftwaremarketplace.com/heard-review.html
-- Verdict: Heard: Lite $129/mo or $1,548 a year, Essential $169/mo or $2,028, Premium $255/mo or $3,060. Mind the fine print between tiers.
-- Price: (re-verified 2026-09-05 and 2026-10-06 on their own pricing page) Three plans, billed upfront per year with the monthly equivalent shown: Lite $129/mo or $1,548 a year, Essential $169/mo or $2,028, Premium $255/mo or $3,060. Lite covers done-for-you bookkeeping, financial reports and quarterly and annual tax support for solo sole proprietors; Essential adds personal tax preparation and filing; Premium is for…
+- Verdict: Heard — For solo sole proprietors: Lite is $139 a month billed annually ($1,668 a year) or $159 billed monthly. Mind the fine print between tiers.
+- Price: (re-verified 2026-10-27 in a browser on joinheard.com/pricing and in joinheard.com/llms.txt, which says its prices are for new members starting October 26, 2026; earlier readings on 5 September and 6 October 2026 showed Lite at $129, Essential at $169 and Premium at $255 a month) Heard now prices by practice type, with annual and monthly billing. For solo sole proprietors: Lite is $139 a month billed annually…
 
 ## Hive
 - Review: https://officesoftwaremarketplace.com/hive-review.html
