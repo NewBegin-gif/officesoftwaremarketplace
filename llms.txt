@@ -1,6 +1,6 @@
 # Office Software Marketplace
 
-> Independent, hands-researched reviews of office, finance, HR and IT software for small and mid-sized teams. 133 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-10-26.
+> Independent, hands-researched reviews of office, finance, HR and IT software for small and mid-sized teams. 134 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-10-27.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -18,7 +18,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [The Best WP Engine Alternatives (2026)](https://officesoftwaremarketplace.com/best-wp-engine-alternatives.html): WP Engine alternatives compared on the numbers we read ourselves: what each host really costs, where the meter is, and who each one is actua
 - [How to Set Up Your Business Finance Stack (2026)](https://officesoftwaremarketplace.com/build-business-finance-stack.html): A blueprint for your money operations: a business account, paying bills, bookkeeping, payroll and tax — the exact stack, what each tool does
 
-## Reviews (133) — canonical versions
+## Reviews (134) — canonical versions
 - [accessiBe Review (2026): From $59/mo, Checked Oct 2026](https://officesoftwaremarketplace.com/accessibe-review.html): accessiBe: $490 is the first figure a visitor sees. The thing you most need to know about this product is not on its pricing page, it is on the FTC’s.
 - [AccuWeb Hosting Review (2026): Cheap VPS That Renews at 2-4x](https://officesoftwaremarketplace.com/accuweb-hosting-review.html): AccuWeb Hosting: VPS Edge is €4.42 a month and renews at €8.91. The money-back guarantee is 7 days, shorter than many hosts offer.
 - [ADP Review (2026): No Public Price, Quote Only](https://officesoftwaremarketplace.com/adp-review.html): ADP shows no public pricing for RUN anywhere on its site. The quote-only posture is normal in payroll.
@@ -28,6 +28,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Assembly Review (2026): Priced Per Seat, Checked Sep 2026](https://officesoftwaremarketplace.com/assembly-review.html): Assembly: $29 a month billed yearly or $49 monthly, 50 active contacts, 1 internal user. Active contacts bite first: Starter stops at 50.
 - [Atto Review (2026): Priced Per Seat, Checked Sep 2026](https://officesoftwaremarketplace.com/atto-review.html): Atto: Billed monthly the same tiers are $6.95, $9.95, $12.95 and $19.95. Roll it out as 'accurate paychecks and fewer timesheet fights', involve the t
 - [BackupMaster Review (2026): From $19/mo, Checked Oct 2026](https://officesoftwaremarketplace.com/backupmaster-review.html): BackupMaster: Essentials $19 a month or $205.20 a year, a 10% saving, covers stores up to 300 orders a month. The listing header says free to install.
+- [Beautiful.ai Review (2026): From $14.50/mo, Checked Sep 2026](https://officesoftwaremarketplace.com/beautiful-ai-review.html): Beautiful.ai: Team about $40/user/mo annual ($50 monthly) with brand controls and shared libraries. The smart-template engine is the feature and the f
 - [Bill.com Review (2026): From $49/user Plus Per-Payment Fees](https://officesoftwaremarketplace.com/bill-com-review.html): Bill.com: Essentials $49, Team $65 and Corporate $89 per user per month, plus a quote-only Enterprise - the same four cards as on 15 August 2026.
 - [BillingNow Review (2026): $9.99/mo Flat, Three-Day Trial](https://officesoftwaremarketplace.com/billingnow-review.html): BillingNow: $9.99 a month, or $99.90 a year which the page itself works out to $8.33 a month and labels 'Save 17%'. The pricing is genuinely refreshin
 - [Bitvavo Review (2026): MiCA-Regulated, 0.25% Taker Fee](https://officesoftwaremarketplace.com/bitvavo-review.html): Bitvavo — Above that: 0.03%/0.12% from €2,500,000, 0.01%/0.10% from €5,000,000. The honest caveats are crypto-wide, not Bitvavo-specific.
