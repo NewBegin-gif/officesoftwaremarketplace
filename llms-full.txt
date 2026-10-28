@@ -624,7 +624,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Sucuri
 - Review: https://officesoftwaremarketplace.com/sucuri-review.html
 - Verdict: Sucuri sells per website. Pricing is per site, so costs climb quickly for agencies, and plans for 10 or more sites have no published price.
-- Price: (read 2026-10-27 on sucuri.net/website-security-platform/signup/, both tabs; the help-centre and terms pages were read on 2026-10-15; dollar amounts, the page does not name the currency) Sucuri sells per website. The Security Platform plans each cover one site with unlimited malware and hack removals by Sucuri's team: Basic $229 a year (malware removal SLA 30 hours, scans every 12 hours), Pro $339 a year (12…
+- Price: (read 2026-10-27 on sucuri.net/website-security-platform/signup/, both tabs; the help-centre and terms pages were read on 2026-10-15; dollar amounts, the page does not name the currency) Sucuri sells per website. The Security Platform plans each cover one site with unlimited malware and hack removals by Sucuri's team: Basic $229 a year (first ticket response 30 hours, scans every 12 hours), Pro $339 a year (12…
 
 ## TestGorilla
 - Review: https://officesoftwaremarketplace.com/testgorilla-review.html
