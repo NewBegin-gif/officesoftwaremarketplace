@@ -31,16 +31,6 @@
     </video:video>
   </url>
   <url>
-    <loc>https://officesoftwaremarketplace.com/aplos-review.html</loc>
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/jbtJb2zsMbA/hqdefault.jpg</video:thumbnail_loc>
-      <video:title>Aplos Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>The headline you will see first is not the price you will pay. The 50%-off banner sits at the top of the page and rewrites every figure on it, so the $39.50 that catches your eye is a three-month rate against a $79 list price — a 100% increase waiting in month four, on software that holds your books and is therefore painful to leave. The second thing to pin down is what grows with you: each user beyond the two included adds $20 a month, every 1,000 contacts beyond 500 adds another $20, and on Lite every user is a full Administrator, because role permissions start at Core.</video:description>
-      <video:player_loc>https://www.youtube-nocookie.com/embed/jbtJb2zsMbA</video:player_loc>
-    <video:publication_date>2026-09-11T00:00:00+00:00</video:publication_date>
-    </video:video>
-  </url>
-  <url>
     <loc>https://officesoftwaremarketplace.com/arbor-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/4u6e-Onw3r8/hqdefault.jpg</video:thumbnail_loc>
@@ -145,16 +135,6 @@ The most useful review on the page is the critical one. In April 2026 a merchant
     </video:video>
   </url>
   <url>
-    <loc>https://officesoftwaremarketplace.com/bokun-review.html</loc>
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/3zMelibDWVg/hqdefault.jpg</video:thumbnail_loc>
-      <video:title>Bokun Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>Bokun is a Tripadvisor/Viator company, and that&#x27;s both the draw and the lock-in. Distribution to Viator and 2,600+ resellers is excellent, but you&#x27;re building your booking backbone inside one OTA&#x27;s ecosystem, and the per-booking service fee on direct sales is a real cut on top of the subscription — although any paid plan lets you pass that fee to the guest instead of absorbing it. The zero-fee promise on Viator bookings has one exception the tier table does not show: Channel Manager customers pay 0.5-1.5% on Viator reservations. If most of your business is direct, weigh that fee; if you live on OTA distribution, the Viator advantage is hard to beat.</video:description>
-      <video:player_loc>https://www.youtube-nocookie.com/embed/3zMelibDWVg</video:player_loc>
-    <video:publication_date>2026-07-20T00:00:00+00:00</video:publication_date>
-    </video:video>
-  </url>
-  <url>
     <loc>https://officesoftwaremarketplace.com/bolt-business-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/MOFz3YZisyY/hqdefault.jpg</video:thumbnail_loc>
@@ -232,6 +212,16 @@ The most useful review on the page is the critical one. In April 2026 a merchant
       <video:description>The honest catch is usage limits: even on Pro you can hit a ceiling mid-session on a heavy day, and the step up to Max is a real $100 to $200 a month — you&#x27;re buying headroom, not extra features. It also doesn&#x27;t generate images, so if that&#x27;s your main need it&#x27;s the wrong tool, and its third-party plugin ecosystem is smaller than ChatGPT&#x27;s.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/86DVrHi6_to</video:player_loc>
     <video:publication_date>2026-07-23T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/clickup-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/M721SkyxsxA/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>ClickUp Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The everything-app breadth is also the downside — it&#x27;s feature-dense with a real learning curve, and teams can drown in options. Powerful and cheap per seat, but only if you&#x27;ll actually configure and adopt it.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/M721SkyxsxA</video:player_loc>
+    <video:publication_date>2026-07-10T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
