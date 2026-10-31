@@ -3,7 +3,7 @@
   "title": "The cost-trap atlas for office, finance and HR software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 232,
+  "tools": 233,
   "flags": 374,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on officesoftwaremarketplace.com. Every flag carries the dossier sentence it rests on."
  },
@@ -5301,6 +5301,21 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-20",
    "first_observed_at": "2026-10-16"
+  },
+  {
+   "name": "Slasify",
+   "category": "HR & People",
+   "domain": "slasify.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/slasify-review/",
+   "from_price_usd_mo": 250.0,
+   "entry_price": "$250",
+   "entry_price_terms": "Employer of Record · per month, starting-at price on the pricing page",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-31 on slasify.com/pricing in a browser render, USD) Three services, each with a starting price and a custom quote. Employer of Record, marked most popular, starts at $250 a month. Global Contractor, for hiring, managing and paying contractors abroad, starts at $50 a month. Global Payroll is 'Available upon request'. The page does not say whether the starting prices are per worker, and its own FAQ says the price depends on the service, the number of workers and the countries involved, with all fees, including any compliance or benefits-administration costs, outlined in the initial contract. No free plan, trial, deposit, FX fee or minimum term is listed. A separate software-engineer outsourcing service is priced per quote.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-31",
+   "first_observed_at": "2026-10-31"
   },
   {
    "name": "SmartSuite",
