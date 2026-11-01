@@ -315,6 +315,16 @@ The most useful review on the page is the critical one. In April 2026 a merchant
     </video:video>
   </url>
   <url>
+    <loc>https://officesoftwaremarketplace.com/descript-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/83ka0Ff3q8I/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Descript Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>It&#x27;s per-editor pricing with two meters running underneath: media hours AND monthly AI credits. Heavy podcast or video volume burns through the caps fast, and the free tier watermarks 720p exports — model your real production hours before picking a tier. The API changes the arithmetic rather than escaping it. Their own API page states access is included for paying users at no additional cost, but the work it does draws from the same AI credits and media minutes — so automating a pipeline burns the caps faster, not slower. It also stops just short of the finish — the same page says direct media file exports are not supported yet, so the export step stays a manual one in the app. (read on their own API page, 2026-08-14)</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/83ka0Ff3q8I</video:player_loc>
+    <video:publication_date>2026-07-10T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://officesoftwaremarketplace.com/devs-ai-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/A19uXxFEH1Q/hqdefault.jpg</video:thumbnail_loc>
