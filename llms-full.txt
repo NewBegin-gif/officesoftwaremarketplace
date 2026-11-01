@@ -584,7 +584,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Recruit CRM
 - Review: https://officesoftwaremarketplace.com/recruit-crm-review.html
 - Verdict: Recruit CRM: Pro is €79 per user a month billed annually or €95 monthly, with 100 credits per user a month. The headline seat price is not the whole bill.
-- Price: (read 2026-10-25 on recruitcrm.io/pricing/ with both the Annually and the Monthly toggle clicked, from the Netherlands, where the page shows euros; and in the Recruit CRM help centre) Pro is €79 per user a month billed annually or €95 monthly, with 100 credits per user a month. Business is €109 annually or €135 monthly with 200 credits, and adds the resume formatting agent, the Recruit CRM MCP for Claude and…
+- Price: (read 2026-10-25 on recruitcrm.io/pricing/ with both the Annually and the Monthly toggle clicked, from the Netherlands, where the page shows euros; and in the Recruit CRM help centre) Pro is €79 per user a month billed annually or €95 monthly, with 100 credits per user a month. Business is €109 annually or €135 monthly with 200 credits, and adds the resume formatting agent, multichannel sequences across email,…
 
 ## Remote People
 - Review: https://officesoftwaremarketplace.com/remote-people-review.html
