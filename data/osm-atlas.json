@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for office, finance and HR software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 233,
-  "flags": 374,
+  "tools": 235,
+  "flags": 376,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on officesoftwaremarketplace.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -78,6 +78,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-07",
    "first_observed_at": "2026-10-07"
+  },
+  {
+   "name": "Acronis",
+   "category": "IT & Productivity",
+   "domain": "acronis.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/acronis-review/",
+   "from_price_usd_mo": null,
+   "entry_price": "€49.99",
+   "entry_price_terms": "Essentials · per year, one-year subscription for 1 computer, local backup only",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-02 on the True Image purchasing page, shown in euros to a visitor in Europe; we did not see a US-dollar price list) This review covers Acronis True Image, the home and home-office backup product. Acronis' business and MSP products (Cyber Protect) are priced separately and are not covered here. True Image is sold as a one-year subscription per number of computers. Essentials is €49.99 a year for 1 computer (€79.99 for 3, €99.99 for 5) and has no cloud storage: it does local backup and disk cloning. Advanced adds cloud backup, Microsoft 365 backup and antivirus; for 1 computer it is €57.99 a year with 50 GB of cloud storage, €72.99 with 250 GB (the option the page pre-selects) or €89.99 with 500 GB. Premium adds blockchain certification and e-signatures; for 1 computer it is €124.99 a year with 1 TB of cloud storage and goes up to €559.99 a year with 10 TB. The page does not state what the subscription costs at renewal, and it does not say whether VAT is included. The comparison table lists a 30-day free trial.",
+   "flags": [
+    {
+     "flag": "addons_extra",
+     "evidence": "Acronis' business and MSP products (Cyber Protect) are priced separately and are not covered here.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.acronis.com/en/products/true-image/purchasing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-02"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-02",
+   "first_observed_at": "2026-11-02"
   },
   {
    "name": "ADP",
@@ -4411,6 +4435,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-09-25",
    "first_observed_at": null
+  },
+  {
+   "name": "Petty Cash Manager",
+   "category": "Financial Operations",
+   "domain": "pettycash.getdailytools.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/petty-cash-manager-review/",
+   "from_price_usd_mo": 7.0,
+   "entry_price": "$7",
+   "entry_price_terms": "Monthly · billed monthly, 2 devices",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-02 on pettycash.getdailytools.com, pricing section and FAQ; the page says prices are in US dollars, with VAT or GST added at checkout where your country requires it) Petty Cash Manager has one app and four ways to pay, and every plan includes every feature. The difference is the billing term and the number of devices: Monthly is $7 a month on 2 devices; 3 months is $16.99 ($5.66 a month) on 3 devices; 6 months is $26.99 ($4.50 a month) on 5 devices; Yearly is $41.99 ($3.50 a month) on 6 devices. Cloud sync, which keeps a shared copy on the vendor's EU cloud server so a team sees the same entries, is an add-on of +$3 a month on any plan. Plans renew automatically and can be cancelled any time; there is a 14-day free trial without a card and a full refund if you email within 14 days of any payment. The page also shows a launch offer: 50% off your first payment for the first 20 customers, until 18 November 2026.",
+   "flags": [
+    {
+     "flag": "addons_extra",
+     "evidence": "Cloud sync, which keeps a shared copy on the vendor's EU cloud server so a team sees the same entries, is an add-on of +$3 a month on any plan.",
+     "evidence_excerpt": null,
+     "source_url": "https://pettycash.getdailytools.com/#pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-02"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-02",
+   "first_observed_at": "2026-11-02"
   },
   {
    "name": "Planday",

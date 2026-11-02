@@ -2,6 +2,7 @@ name,category,domain,from_price_usd_mo,flags,review_url,researched,entry_price,e
 1Password,IT & Productivity,1password.com,3.99,per_seat|annual_lock,https://aibuildermarketplace.com/b2b/1password-review/,2026-07,$3.99,"Individual · per month, regular rate billed annually",public,2026-10-01
 accessiBe,IT & Productivity,accessibe.com,59.0,,https://aibuildermarketplace.com/b2b/accessibe-review/,2026-07,$59,"Micro · per month for up to 5,000 monthly visits",public,2026-10-25
 AccuWeb Hosting,IT & Productivity,accuwebhosting.com,,renewal_jump,https://aibuildermarketplace.com/b2b/accuweb-hosting-review/,2026-07,€4.42,"VPS Edge · per month on a 24-month term, New York location",public,2026-10-07
+Acronis,IT & Productivity,acronis.com,,addons_extra,https://aibuildermarketplace.com/b2b/acronis-review/,2026-07,€49.99,"Essentials · per year, one-year subscription for 1 computer, local backup only",public,2026-11-02
 ADP,HR & People,adp.com,,quote_only|per_seat,https://aibuildermarketplace.com/b2b/adp-review/,2026-07,,,quote_only,2026-10-11
 Airia,IT & Productivity,airia.com,,quote_only,https://aibuildermarketplace.com/b2b/airia-review/,2026-07,,,quote_only,2026-10-10
 Airwallex,Finance,airwallex.com,12.0,usage_metered,https://aibuildermarketplace.com/b2b/airwallex-review/,2026-07,$12,a month per active Spend user plus a team-size platform fee,public,2026-10-23
@@ -150,6 +151,7 @@ pCloud,IT & Productivity,pcloud.com,,per_seat|addons_extra,https://aibuildermark
 PDF Agile,IT & Productivity,pdfagile.com,39.0,free_tier,https://aibuildermarketplace.com/b2b/pdf-agile-review/,2026-07,$39,Semi-Annual · one-time payment with 6 months of upgrades and priority support,public,2026-10-23
 Pdfdodo,Financial Operations,pdfdodo.com,25.0,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/pdfdodo-review/,2026-07,$25,"Solo · billed monthly, 300 pages a month, 15 MB per PDF",public,2026-10-16
 PDWare,Operations & Workflow,pdware.com,,quote_only,https://aibuildermarketplace.com/b2b/pdware-review/,2026-07,,,quote_only,2026-09-25
+Petty Cash Manager,Financial Operations,pettycash.getdailytools.com,7.0,addons_extra,https://aibuildermarketplace.com/b2b/petty-cash-manager-review/,2026-07,$7,"Monthly · billed monthly, 2 devices",public,2026-11-02
 Planday,HR & People,planday.com,,per_seat,https://aibuildermarketplace.com/b2b/planday-review/,2026-07,€2.99,"Starter · per user per month with a 5-user minimum, so the real floor is EUR 14.95",public,2026-10-05
 Plansom,Operations & Workflow,plansom.com,,usage_metered,https://aibuildermarketplace.com/b2b/plansom-review/,2026-07,,,see_details,2026-09-24
 Plesk,IT & Productivity,plesk.com,16.99,,https://aibuildermarketplace.com/b2b/plesk-review/,2026-07,$16.99,"Web Admin Edition (VPS) · per server per month billed monthly for 10 domains, or 15.57 a month…",public,2026-09-20
