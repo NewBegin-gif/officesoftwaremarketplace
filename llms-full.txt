@@ -93,8 +93,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## BookX
 - Review: https://officesoftwaremarketplace.com/bookx-review.html
-- Verdict: BookX: Growth is $19.99 or $203.99 a year (15%) for ten locations and team members. The free plan is a demonstration rather than a plan.
-- Price: (read 2026-09-08 on apps.shopify.com/appointment-booking-bookeasy and checked against the vendor's own pricing section on logbase.io, which lists the same tiers) Four tiers billed in USD every 30 days, and the meter is locations and team members rather than bookings — every tier, the free one included, carries unlimited bookings. Free costs nothing and covers one service and one team member, minute or hour…
+- Verdict: BookX: Business is $19.99 or $199.99 a year (17%) for twenty locations and team members. The free plan is a demonstration rather than a plan.
+- Price: (re-verified 2026-11-02 on apps.shopify.com/appointment-booking-bookeasy; first read 2026-09-08) Every paid tier was halved since our earlier readings, which had Starter at $9.99, Growth at $19.99 and Business at $39.99. Four tiers billed in USD every 30 days, and the meter is locations and team members rather than bookings — every tier, the free one included, carries unlimited bookings.
 
 ## BugHerd
 - Review: https://officesoftwaremarketplace.com/bugherd-review.html

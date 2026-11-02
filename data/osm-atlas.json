@@ -672,10 +672,10 @@
    "domain": "logbase.io",
    "review_url": "https://aibuildermarketplace.com/b2b/bookx-review/",
    "from_price_usd_mo": null,
-   "entry_price": "$9.99",
-   "entry_price_terms": "Starter · a month, or $107.99 a year, for five locations and team members…",
+   "entry_price": "$4.99",
+   "entry_price_terms": "Starter · a month, or $49.99 a year, for five locations and team members…",
    "pricing_status": "public",
-   "price_note": "(read 2026-09-08 on apps.shopify.com/appointment-booking-bookeasy and checked against the vendor's own pricing section on logbase.io, which lists the same tiers) Four tiers billed in USD every 30 days, and the meter is locations and team members rather than bookings — every tier, the free one included, carries unlimited bookings. Free costs nothing and covers one service and one team member, minute or hour scheduling, lead and buffer time, email notifications, timezone and multi-language support, blockout dates and slots, and live support by chat, email and Zoom. Starter is $9.99 a month or $107.99 a year (10% off) and lifts that to five locations and team members with unlimited services, full-day, multi-day and bundle bookings, Google Calendar and Zoom, book-now-pay-later and partial payments, customer reschedule and cancel, and a universal booking button. Growth is $19.99 or $203.99 a year (15%) for ten locations and team members, deposits and multi-payment options, workflows and a custom email sender, Shopify Flow and POS, seasonal pricing and advanced bundle and multi-day conditions. Business is $39.99 or $407.99 a year (15%) for twenty locations and team members, the all-in-one booking widget, two-way Google Calendar sync per team member, advanced seasonal pricing, Klaviyo and webhook integrations and priority support. Every paid tier has a 14-day free trial. What the table does not publish is what happens above twenty locations or team members: the ladder simply ends there.",
+   "price_note": "(re-verified 2026-11-02 on apps.shopify.com/appointment-booking-bookeasy; first read 2026-09-08) Every paid tier was halved since our earlier readings, which had Starter at $9.99, Growth at $19.99 and Business at $39.99. Four tiers billed in USD every 30 days, and the meter is locations and team members rather than bookings — every tier, the free one included, carries unlimited bookings. Free costs nothing and covers one service and one team member, minute or hour scheduling, lead and buffer time, email notifications, timezone and multi-language support, blockout dates and slots, and live support by chat, email and Zoom. Starter is $4.99 a month or $49.99 a year (the listing says save 17%) and lifts that to five locations and team members with unlimited services, full-day, multi-day and bundle bookings, Google Calendar and Zoom, book-now-pay-later and partial payments, customer reschedule and cancel, and a universal booking button. Growth is $9.99 or $99.99 a year (17%) for ten locations and team members, deposits and multi-payment options, workflows and a custom email sender, Shopify Flow and POS, seasonal pricing and advanced bundle and multi-day conditions. Business is $19.99 or $199.99 a year (17%) for twenty locations and team members, the all-in-one booking widget, two-way Google Calendar sync per team member, advanced seasonal pricing, Klaviyo and webhook integrations and priority support. Every paid tier has a 14-day free trial. What the table does not publish is what happens above twenty locations or team members: the ladder simply ends there. Reviews: 621 at an overall 5.0 on 2 November 2026, 598 of them five-star and 6 one-star.",
    "flags": [
     {
      "flag": "free_tier",
@@ -683,12 +683,12 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/appointment-booking-bookeasy",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-13"
+     "verified_at": "2026-11-02"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-13",
-   "first_observed_at": "2026-09-08"
+   "price_verified_at": "2026-11-02",
+   "first_observed_at": "2026-11-02"
   },
   {
    "name": "Boulevard",
@@ -2633,11 +2633,11 @@
      "evidence_excerpt": null,
      "source_url": "https://www.harborcompliance.com/registered-agent-service",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-04"
+     "verified_at": "2026-11-02"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-04",
+   "price_verified_at": "2026-11-02",
    "first_observed_at": "2026-10-04"
   },
   {
@@ -4780,7 +4780,7 @@
      "evidence_excerpt": "(read 2026-10-25 on recruitcrm.io/pricing/ with both the Annually and the Monthly toggle clicked, from the Netherlands, where the page shows euros; and in the Recruit CRM help centre) Pro is €79 per …",
      "source_url": "https://recruitcrm.io/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-25"
+     "verified_at": "2026-11-02"
     },
     {
      "flag": "usage_metered",
@@ -4788,7 +4788,7 @@
      "evidence_excerpt": "(read 2026-10-25 on recruitcrm.io/pricing/ with both the Annually and the Monthly toggle clicked, from the Netherlands, where the page shows euros; and in the Recruit CRM help centre) Pro is €79 per …",
      "source_url": "https://recruitcrm.io/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-25"
+     "verified_at": "2026-11-02"
     },
     {
      "flag": "annual_lock",
@@ -4796,11 +4796,11 @@
      "evidence_excerpt": null,
      "source_url": "https://recruitcrm.io/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-25"
+     "verified_at": "2026-11-02"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-25",
+   "price_verified_at": "2026-11-02",
    "first_observed_at": "2026-10-25"
   },
   {
