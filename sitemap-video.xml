@@ -825,6 +825,16 @@ One practical li</video:description>
     </video:video>
   </url>
   <url>
+    <loc>https://officesoftwaremarketplace.com/murf-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/ZCsZRrAEKuA/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Murf Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The meter is generation hours per YEAR, not per month — 24 hours sounds generous until you count retakes, because every text edit regenerates the whole sub-block and bills again. Replaying is free, and in our test on 20 October 2026 the on-screen meter only caught up after a page reload. Voice quality is genuinely strong, but the honest test for any TTS is your specific language, names and jargon: generate your hardest paragraph in the trial before subscribing, because demo voices always sound better than your edge cases.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/ZCsZRrAEKuA</video:player_loc>
+    <video:publication_date>2026-07-29T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://officesoftwaremarketplace.com/mycroft-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/POdTbtQMXRk/hqdefault.jpg</video:thumbnail_loc>
@@ -996,16 +1006,6 @@ Three smaller things worth knowing. The source ceilings are low for organisation
       <video:description>Storage is the axis, and the jump from Drive Plus to Unlimited is not really about storage at all: you go from 200 GB to 500 GB, but you also start paying for Mail, Calendar, Pass and VPN whether or not you wanted them. If all you need is encrypted file storage, the bundle is where the money leaks. The other thing to price honestly is the encryption itself — end-to-end encryption is the reason to be here, and it is also why per-gigabyte this costs more than the mainstream drives. That is a fair trade if privacy is the requirement, and a poor one if you just want cheap space.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/mTjDQAqpyEw</video:player_loc>
     <video:publication_date>2026-09-03T00:00:00+00:00</video:publication_date>
-    </video:video>
-  </url>
-  <url>
-    <loc>https://officesoftwaremarketplace.com/proton-drive-review.html</loc>
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/jDuZQrkOrVc/hqdefault.jpg</video:thumbnail_loc>
-      <video:title>Proton Drive Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>End-to-end encryption is the point and the price. Because Proton can&#x27;t read your files, there&#x27;s no server-side search inside documents. Previews and third-party integrations are more limited than Google Drive or Dropbox, and losing your credentials without recovery set up means losing data — by design. You trade convenience for the mathematical guarantee that nobody, including Proton, can look inside.</video:description>
-      <video:player_loc>https://www.youtube-nocookie.com/embed/jDuZQrkOrVc</video:player_loc>
-    <video:publication_date>2026-07-12T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -1282,6 +1282,16 @@ One structural note: EOR Plus needs a minimum of five employees and an annual co
       <video:description>Client-side encryption is not included in personal plans; it is a separate €150 purchase. The 14-day money-back guarantee comes with a clause that lets pCloud decline refunds on promotional or discounted purchases, and the lifetime prices are presented as discounts. Free accounts inactive for 12 months are deleted with their files, and shared folders only work between accounts in the same data region.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/mnG2ka6xJEc</video:player_loc>
     <video:publication_date>2026-10-28T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/xtiles-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/ox_tmgIwFt8/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>xTiles Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The free plan keeps only the current and the previous week of planner history open (the pricing page says two weeks; in our test on 21 October 2026 everything older was greyed out behind Plus) and caps uploads at 5MB, so anyone using it as a daily planner will need Plus. Pro&#x27;s headline is AI control of your workspace, but several of its AI permissions, including editing structure and access rights, are still marked soon. Refund windows are short on monthly plans, 72 hours, and discounted plans are not refundable at all. Only annual Plus can be upgraded to Pro with a credit for what you paid. Prices are per user and VAT may apply. The user count on the site is xTiles&#x27; own claim. Our team tested the free plan on 21 October 2026; the findings are further down this page.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/ox_tmgIwFt8</video:player_loc>
+    <video:publication_date>2026-11-03T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
 </urlset>
