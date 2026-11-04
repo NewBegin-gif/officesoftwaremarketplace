@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for office, finance and HR software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 235,
-  "flags": 376,
+  "tools": 236,
+  "flags": 379,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on officesoftwaremarketplace.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -6271,6 +6271,46 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-04",
    "first_observed_at": "2026-08-17"
+  },
+  {
+   "name": "UPDF",
+   "category": "IT & Productivity",
+   "domain": "updf.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/updf-review/",
+   "from_price_usd_mo": null,
+   "entry_price": "$54.99",
+   "entry_price_terms": "UPDF Pro Yearly · per year, Black Friday sale price on 4 November 2026 (list US$89.99), auto-renews…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-04 on updf.com/pricing-individuals, US dollars) On 4 November the pricing page ran a Black Friday sale, so these are sale prices with the list price struck through. UPDF Pro, the full set of PDF tools on up to 4 devices, cost US$54.99 a year (list US$89.99) with 10 GB of cloud storage and 20 basic e-signatures a year, or US$84.99 once for a lifetime licence (list US$139.99) with 2 GB and 50 basic e-signatures in total. The most popular card bundles Pro with a 7-day trial of the AI Assistant: US$0 for the AI part today, then it renews at US$69 a year unless you cancel. The AI Assistant is always a yearly subscription, also next to a lifetime licence, and it adds unlimited document AI (summarise, translate, chat with PDFs), 100 GB more cloud storage and 1,000 AI credits a month. The free version lets you try everything, but edits, annotations and page changes get a trial watermark, conversion is limited to 2 files a day and OCR to 5 uses. Prices and discounts change with each campaign, so check the page on the day you buy.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "The AI Assistant is always a yearly subscription, also next to a lifetime licence, and it adds unlimited document AI (summarise, translate, chat with PDFs), 100 GB more cloud storage and 1,000 AI credits a month.",
+     "evidence_excerpt": "The AI Assistant is always a yearly subscription, also next to a lifetime licence, and it adds unlimited document AI (summarise, translate, chat with PDFs), 100 GB more cloud storage and 1,000 AI cre…",
+     "source_url": "https://updf.com/pricing-individuals/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-04"
+    },
+    {
+     "flag": "renewal_jump",
+     "evidence": "The most popular card bundles Pro with a 7-day trial of the AI Assistant: US$0 for the AI part today, then it renews at US$69 a year unless you cancel.",
+     "evidence_excerpt": null,
+     "source_url": "https://updf.com/pricing-individuals/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-04"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "The free version lets you try everything, but edits, annotations and page changes get a trial watermark, conversion is limited to 2 files a day and OCR to 5 uses.",
+     "evidence_excerpt": null,
+     "source_url": "https://updf.com/pricing-individuals/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-04"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-04",
+   "first_observed_at": "2026-11-04"
   },
   {
    "name": "UserHelp.co",
