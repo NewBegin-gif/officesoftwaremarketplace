@@ -1,6 +1,6 @@
 # Office Software Marketplace — Full Review Catalog
 
-> All 146 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-03.
+> All 149 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-04.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -576,6 +576,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Verdict: Prezi has a free plan, Basic, and three paid individual plans: Standard €5 a month, Plus €15 and Premium €25, all billed annually.
 - Price: Prezi has a free plan, Basic, and three paid individual plans: Standard €5 a month, Plus €15 and Premium €25, all billed annually. Read on 28 September 2026 on prezi.com/pricing (which redirects to prezi.com/gts/pricing), in euros from a Netherlands exit, with every section of the comparison table opened; the three paid plans sit on the Individual tab, and Basic has a tab of its own, where it is shown next to Plus.
 
+## Process Street
+- Review: https://officesoftwaremarketplace.com/process-street-review.html
+- Verdict: Process Street publishes no prices. Built for operations-driven teams that run recurring, checklist-based processes and want them tracked and auditable.
+- Price: Process Street publishes no prices. Re-verified 2026-08-17, 2026-09-30 and 2026-10-06: every tier on their pricing page, Startup included, shows Contact sales rather than a figure, and our monthly captures from July and August 2026 are byte-for-byte identical and contain no amount.
+
 ## Proton
 - Review: https://officesoftwaremarketplace.com/proton-review.html
 - Verdict: Proton: Free is $0.00 a month for 1 GB and one address. Storage is the axis, and the jump from Drive Plus to Unlimited is not really about storage at all.
@@ -640,6 +645,16 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/sentaro-review.html
 - Verdict: Sentaro: Priced per protected account, in USD. The category claim (AI catches what filters miss) is plausible.
 - Price: (read 24 September 2026 on sentaro.com/en/pricing) Priced per protected account, in USD. Pro is $6 per protected account per month after the first account, or $68 per account per year, about $5.67 a month and roughly 5.6% below monthly.
+
+## Shiftie
+- Review: https://officesoftwaremarketplace.com/shiftie-review.html
+- Verdict: Shiftie: £2.75 per active employee per month for the first 30, then £1.50 for each employee above 30 — the reduced rate is marginal, not retroactive.
+- Price: (price re-verified 24 September 2026, unchanged since 5 September) £2.75 per active employee per month for the first 30, then £1.50 for each employee above 30 — the reduced rate is marginal, not retroactive. Measured on the vendor's own pricing slider: 1 employee £2.75, 5 £13.75, 10 £27.50, 15 £41.25, 30 £82.50, 31 £84.00, 50 £112.50, 100 £187.50, 150 £262.50, 199 £336.00.
+
+## Shippo
+- Review: https://officesoftwaremarketplace.com/shippo-review.html
+- Verdict: Shippo — Pro is banded by monthly label volume, priced monthly or annually: 1-200 labels $19/mo or $205/yr. The pricing is honest but layered.
+- Price: Read on their own pricing page, re-verified 25 September 2026. Starter is free: up to 30 labels a month, discounted USPS, UPS, FedEx and DHL Express rates, 1 user login, and 5¢ per label if you connect your own carrier account.
 
 ## Shoeboxed
 - Review: https://officesoftwaremarketplace.com/shoeboxed-review.html

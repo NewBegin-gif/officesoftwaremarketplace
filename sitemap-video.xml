@@ -215,16 +215,6 @@ The most useful review on the page is the critical one. In April 2026 a merchant
     </video:video>
   </url>
   <url>
-    <loc>https://officesoftwaremarketplace.com/clickup-review.html</loc>
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/M721SkyxsxA/hqdefault.jpg</video:thumbnail_loc>
-      <video:title>ClickUp Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>The everything-app breadth is also the downside — it&#x27;s feature-dense with a real learning curve, and teams can drown in options. Powerful and cheap per seat, but only if you&#x27;ll actually configure and adopt it.</video:description>
-      <video:player_loc>https://www.youtube-nocookie.com/embed/M721SkyxsxA</video:player_loc>
-    <video:publication_date>2026-07-10T00:00:00+00:00</video:publication_date>
-    </video:video>
-  </url>
-  <url>
     <loc>https://officesoftwaremarketplace.com/cloudtask-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/C1nRF1wlwkI/hqdefault.jpg</video:thumbnail_loc>
@@ -342,6 +332,16 @@ The most useful review on the page is the critical one. In April 2026 a merchant
       <video:description>&#x27;Free&#x27; self-hosting isn&#x27;t free — you own the servers, updates and reliability, and model usage bills separately once the included message credits run out. Dify Cloud takes that infrastructure work off your hands, but every cloud plan is a single workspace, and multiple workspaces, SSO and a commercial licence sit in quote-only Enterprise. It&#x27;s powerful, but self-hosting it well needs technical comfort.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/9d0pye9rdYU</video:player_loc>
     <video:publication_date>2026-07-25T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/digiparser-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/lU7-S3IL0xc/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>DigiParser Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Billing is per page, not per document, so multi-page POs and invoices use up the allowance faster than the plan names suggest, and confidence scoring doubles the credits per page. Unused credits expire every month, also on yearly plans, and a charged subscription is not refunded. AI splitting, classification and confidence scores start on Pro at $149 a month billed yearly. The ~99% accuracy, 2,000+ businesses and 5M+ documents on the home page are DigiParser&#x27;s own figures. We have not used DigiParser ourselves.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/lU7-S3IL0xc</video:player_loc>
+    <video:publication_date>2026-11-04T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -1125,6 +1125,26 @@ One structural note: EOR Plus needs a minimum of five employees and an annual co
     </video:video>
   </url>
   <url>
+    <loc>https://officesoftwaremarketplace.com/shiftie-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Otg46F1FEcE/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Shiftie Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>It&#x27;s focused, affordable rota software — which means it does scheduling, clock-ins, leave and swaps well, but it isn&#x27;t a full HR or payroll platform, so a growing business will still bolt on payroll and HR tools around it. Pricing is genuinely low, but the per-active-employee model means a large seasonal team in a busy month costs more than the headline suggests. For shift-based scheduling specifically, it&#x27;s a clean, cheap fit.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/Otg46F1FEcE</video:player_loc>
+    <video:publication_date>2026-07-20T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/shippo-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/HlWhp8sq39s/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Shippo Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The pricing is honest but layered. The free tier stops at 30 labels a month, and its 5¢ per label on your own carrier accounts quietly adds up. Pro looks like a flat $17 a month until you read the comparison table: it covers up to 10,000 shipments and then bills $0.08 for every label beyond that, so a good sales month adds a variable line to a subscription that reads as fixed. Address validation outside the US is metered too, at 9¢, 8¢ or 6¢ depending on plan. The real money is elsewhere anyway — in the carrier rate discounts, which vary by lane and weight. Run your five most common shipments through it against your current rates; that comparison decides, not the subscription price.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/HlWhp8sq39s</video:player_loc>
+    <video:publication_date>2026-07-16T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://officesoftwaremarketplace.com/shoeboxed-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/z9xA_O0AU3I/hqdefault.jpg</video:thumbnail_loc>
@@ -1205,16 +1225,6 @@ One structural note: EOR Plus needs a minimum of five employees and an annual co
     </video:video>
   </url>
   <url>
-    <loc>https://officesoftwaremarketplace.com/videoscribe-review.html</loc>
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/kFlklEsjLUk/hqdefault.jpg</video:thumbnail_loc>
-      <video:title>VideoScribe Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>Payments are non-refundable according to the help centre, and a monthly plan must be cancelled at least three business days before the next payment. Lite still watermarks premium images and caps you at 5 downloads of up to 5 minutes a month; AI voiceover starts on Core. Monthly billing costs more than twice the annual rate.</video:description>
-      <video:player_loc>https://www.youtube-nocookie.com/embed/kFlklEsjLUk</video:player_loc>
-    <video:publication_date>2026-10-21T00:00:00+00:00</video:publication_date>
-    </video:video>
-  </url>
-  <url>
     <loc>https://officesoftwaremarketplace.com/wplp-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/A7Pb3iYpjOU/hqdefault.jpg</video:thumbnail_loc>
@@ -1272,16 +1282,6 @@ One structural note: EOR Plus needs a minimum of five employees and an annual co
       <video:description>Formation is the cheap part; the recurring bookkeeping and tax tiers are where the real cost sits, and state fees are extra on top of doola&#x27;s price. Convenient especially for non-US founders, but a local accountant may be cheaper once you&#x27;re established.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/mvyDGLbySZw</video:player_loc>
     <video:publication_date>2026-07-22T00:00:00+00:00</video:publication_date>
-    </video:video>
-  </url>
-  <url>
-    <loc>https://officesoftwaremarketplace.com/pcloud-review.html</loc>
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/mnG2ka6xJEc/hqdefault.jpg</video:thumbnail_loc>
-      <video:title>pCloud Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>Client-side encryption is not included in personal plans; it is a separate €150 purchase. The 14-day money-back guarantee comes with a clause that lets pCloud decline refunds on promotional or discounted purchases, and the lifetime prices are presented as discounts. Free accounts inactive for 12 months are deleted with their files, and shared folders only work between accounts in the same data region.</video:description>
-      <video:player_loc>https://www.youtube-nocookie.com/embed/mnG2ka6xJEc</video:player_loc>
-    <video:publication_date>2026-10-28T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>

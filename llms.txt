@@ -1,6 +1,6 @@
 # Office Software Marketplace
 
-> Independent, hands-researched reviews of office, finance, HR and IT software for small and mid-sized teams. 146 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-11-03.
+> Independent, hands-researched reviews of office, finance, HR and IT software for small and mid-sized teams. 149 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-11-04.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -18,7 +18,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [The Best WP Engine Alternatives (2026)](https://officesoftwaremarketplace.com/best-wp-engine-alternatives.html): WP Engine alternatives compared on the numbers we read ourselves: what each host really costs, where the meter is, and who each one is actua
 - [How to Set Up Your Business Finance Stack (2026)](https://officesoftwaremarketplace.com/build-business-finance-stack.html): A blueprint for your money operations: a business account, paying bills, bookkeeping, payroll and tax — the exact stack, what each tool does
 
-## Reviews (146) — canonical versions
+## Reviews (149) — canonical versions
 - [accessiBe Review (2026): From $59/mo, Checked Oct 2026](https://officesoftwaremarketplace.com/accessibe-review.html): accessiBe: $490 is the first figure a visitor sees. The thing you most need to know about this product is not on its pricing page, it is on the FTC’s.
 - [AccuWeb Hosting Review (2026): Cheap VPS That Renews at 2-4x](https://officesoftwaremarketplace.com/accuweb-hosting-review.html): AccuWeb Hosting: VPS Edge is €4.42 a month and renews at €8.91. The money-back guarantee is 7 days, shorter than many hosts offer.
 - [Acronis True Image Review (2026): €49.99/yr, Cloud on Advanced](https://officesoftwaremarketplace.com/acronis-review.html): Acronis: For 1 computer it is €124.99 a year with 1 TB of cloud storage and goes up to €559.99 a year with 10 TB. Essentials has no cloud storage at a
@@ -133,6 +133,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Plansom Review (2026): No Public Price, Plans Behind Sign-In](https://officesoftwaremarketplace.com/plansom-review.html): Plansom: The old /pricing URL returns 404, and still did when re-checked on 24 September 2026. The thing you cannot check is the price.
 - [Plesk Review (2026): From $16.99/mo, Checked Sep 2026](https://officesoftwaremarketplace.com/plesk-review.html): Plesk: A 12-month term takes 8% off, to $15.57, $27.49 and $57.74. Plesk has been raising prices steadily (the 2026 round averaged ~26%).
 - [Prezi Review (2026): PDF Export Starts at Plus, Not Standard](https://officesoftwaremarketplace.com/prezi-review.html): Prezi has a free plan, Basic, and three paid individual plans: Standard €5 a month, Plus €15 and Premium €25, all billed annually.
+- [Process Street Review (2026): No Public Price, Quote Only](https://officesoftwaremarketplace.com/process-street-review.html): Process Street publishes no prices. Built for operations-driven teams that run recurring, checklist-based processes and want them tracked and auditabl
 - [Proton Review (2026): From $3.99/mo, Checked Oct 2026](https://officesoftwaremarketplace.com/proton-review.html): Proton: Free is $0.00 a month for 1 GB and one address. Storage is the axis, and the jump from Drive Plus to Unlimited is not really about storage at 
 - [Proton Drive Review (2026): From $3.99/mo, Checked Oct 2026](https://officesoftwaremarketplace.com/proton-drive-review.html): Proton Drive: Proton Duo is $14.99 for 2 TB across two users at $179.88 a year. End-to-end encryption is the point and the price.
 - [Qoyod Review (2026): Basic Stops at ZATCA Phase 1](https://officesoftwaremarketplace.com/qoyod-review.html): Qoyod: Billed in Saudi riyal, which is pegged to the dollar at 3.75. The entry tier does not do the thing the product is sold on.
@@ -146,6 +147,8 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Samsara Review (2026): Seven Plans, Not One Price](https://officesoftwaremarketplace.com/samsara-review.html): Samsara: The Pricing and Plans page names seven packages. The pricing page asks how many vehicles you run and leads to a sales form.
 - [Sendcloud Review (2026): Lite Wins Until 5,900 Labels](https://officesoftwaremarketplace.com/sendcloud-review.html): Sendcloud — Free plan €0/mo: up to 20 parcels a month, no courier contract, no subscription, €0.50 a label beyond that.
 - [Sentaro Review (2026): No MX Change, So You Can Test It](https://officesoftwaremarketplace.com/sentaro-review.html): Sentaro: Priced per protected account, in USD. The category claim (AI catches what filters miss) is plausible.
+- [Shiftie Review (2026): £2.75 an Employee a Month, No Minimum](https://officesoftwaremarketplace.com/shiftie-review.html): Shiftie: £2.75 per active employee per month for the first 30, then £1.50 for each employee above 30 — the reduced rate is marginal, not retroactive.
+- [Shippo Review (2026): Pro Is Six Price Bands, Not One](https://officesoftwaremarketplace.com/shippo-review.html): Shippo — Pro is banded by monthly label volume, priced monthly or annually: 1-200 labels $19/mo or $205/yr. The pricing is honest but layered.
 - [Shoeboxed Review (2026): Two Plans Yearly, Two Monthly](https://officesoftwaremarketplace.com/shoeboxed-review.html): Shoeboxed: Starter $97/yr or $9/mo (50 digital scans/mo, 20 paper scans/yr, 1 Magic Envelope/yr, 3 users, 3 years of digital scan storage).
 - [Shopmonkey Review (2026): $215-$449/mo, Payment Fees Unlisted](https://officesoftwaremarketplace.com/shopmonkey-review.html): Shopmonkey — Billed annually, which the page says saves up to 10%: Basic $215 a month, Clever $359, Genius $449. Card processing is part of the produc
 - [ShortlistIQ Review (2026): AI Interviewer From $49 a Month](https://officesoftwaremarketplace.com/shortlistiq-review.html): ShortlistIQ: Every account starts on a free plan for up to 10 applicants, with no credit card.
