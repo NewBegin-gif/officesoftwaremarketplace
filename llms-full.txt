@@ -1,6 +1,6 @@
 # Office Software Marketplace — Full Review Catalog
 
-> All 150 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-04.
+> All 153 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-05.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -666,6 +666,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Verdict: Shopmonkey — Billed annually, which the page says saves up to 10%: Basic $215 a month, Clever $359, Genius $449. Card processing is part of the product.
 - Price: (read 2026-10-11 on shopmonkey.io/pricing, USD) Three published plans for auto repair shops and a Multi-Shop plan on quote. Billed annually, which the page says saves up to 10%: Basic $215 a month, Clever $359, Genius $449.
 
+## Shore
+- Review: https://officesoftwaremarketplace.com/shore-review.html
+- Verdict: Shore: Five packages on two product lines, each with a yearly-billing and a monthly-billing rate a flat EUR 10 apart ('Yearly (Save EUR 120)').
+- Price: (2026-09-26, read on shore.com/en/pricing and its 'All features compared' page, in euros, excluding VAT, for businesses only) Five packages on two product lines, each with a yearly-billing and a monthly-billing rate a flat EUR 10 apart ('Yearly (Save EUR 120)'). Appointments: Booking EUR 49.90 a month billed yearly or EUR 59.90 monthly, up to 5 staff; Booking + Marketing EUR 69.90 / EUR 79.90, unlimited staff.
+
 ## ShortlistIQ
 - Review: https://officesoftwaremarketplace.com/shortlistiq-review.html
 - Verdict: ShortlistIQ: Every account starts on a free plan for up to 10 applicants, with no credit card.
@@ -680,6 +685,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/slasify-review.html
 - Verdict: Slasify: Three services, each with a starting price and a custom quote. Only starting prices are public.
 - Price: (read 2026-10-31 on slasify.com/pricing in a browser render, USD) Three services, each with a starting price and a custom quote. Employer of Record, marked most popular, starts at $250 a month.
+
+## SmartSuite
+- Review: https://officesoftwaremarketplace.com/smartsuite-review.html
+- Verdict: SmartSuite: No free plan — a 14-day trial of Professional with no credit card. One gate comes before all of that.
+- Price: (re-verified 2026-10-02 on their own pricing page, USD; unchanged since our August reading) No free plan — a 14-day trial of Professional with no credit card, and the page states there is no auto-charge when it ends. Team is $15 per seat a month billed annually, or $20 billed monthly, with a minimum of 3 billable users, 5,000 records per solution, 50GB of storage and a 30-day recycle bin.
 
 ## Sucuri
 - Review: https://officesoftwaremarketplace.com/sucuri-review.html
@@ -735,6 +745,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/world-businesses-for-sale-review.html
 - Verdict: World Businesses for Sale: Browsing is free for buyers. On the broker plans you pay twice: a listing fee up front AND commission when it sells.
 - Price: (2026, re-verified 2026-10-15 on their own store and selling pages) Browsing is free for buyers. Sellers pick one of two tracks.
+
+## WP Rocket
+- Review: https://officesoftwaremarketplace.com/wp-rocket-review.html
+- Verdict: WP Rocket: Read from Europe it sets EUR and shows Single €49.95/yr (1 website), Plus €99.95/yr (3 websites) and Multi €249.95/yr.
+- Price: (re-verified 2026-10-02 on their own pricing page, which had not moved since our September readings: the same three licences at the same rates, the same 50/100/500 site-count selector on Multi, and all three tiers now carrying Rocket Insights at no extra cost) These are annual licences, and the page prices in the visitor's currency. Read from Europe it sets EUR and shows Single €49.95/yr (1 website), Plus…
 
 ## WPLP
 - Review: https://officesoftwaremarketplace.com/wplp-review.html
