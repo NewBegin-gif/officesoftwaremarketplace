@@ -713,8 +713,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Tresorit
 - Review: https://officesoftwaremarketplace.com/tresorit-review.html
-- Verdict: Tresorit: €23.99, €16 and €20 on yearly. You pay the Swiss-E2EE premium — noticeably above mainstream clouds and above Proton Drive per GB.
-- Price: (business plans re-verified 2026-10-16 on tresorit.com/pricing/business in a browser, both billing toggles, all amounts unchanged since 14 August 2026; personal plans last read 2026-08-14) There are three business plans: Professional for 1 user, Business from 3 users and Business Pro from 5 users. Priced from our location in euros, they run €29.99, €20 and €25 per user per month on monthly billing, and €23.99,…
+- Verdict: Tresorit: €28.80, €19.20 and €24 on yearly. You pay the Swiss-E2EE premium — noticeably above mainstream clouds and above Proton Drive per GB.
+- Price: (re-verified 2026-11-05 on tresorit.com/pricing/business, /personal, /tresorit-engage and /file-sharing in a browser, both billing toggles; Tresorit announced a price increase to partners on 5 November 2026) There are three business plans: Professional for 1 user, Business from 3 users and Business Pro from 5 users. Priced from our location in euros, they run €36, €24 and €30 per user per month on monthly…
 
 ## UPDF
 - Review: https://officesoftwaremarketplace.com/updf-review.html
