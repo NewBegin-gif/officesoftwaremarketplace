@@ -753,8 +753,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## WPForms
 - Review: https://officesoftwaremarketplace.com/wpforms-review.html
-- Verdict: WPForms: Basic costs $49.50 a year for 1 site, Plus $99.50 for 3 sites, Pro $199.50 for 5 sites and Elite $299.50 for unlimited sites.
-- Price: (read 2026-11-05 on wpforms.com/pricing) WPForms sells yearly licences for WordPress, by the number of sites. Basic costs $49.50 a year for 1 site, Plus $99.50 for 3 sites, Pro $199.50 for 5 sites and Elite $299.50 for unlimited sites.
+- Verdict: WPForms: $49.50 a year for one site (Basic), $99.50 for three (Plus), $199.50 for five (Pro) and $299.50 for unlimited sites (Elite).
+- Price: (read 2026-11-05 on wpforms.com/pricing) WPForms sells yearly licences for WordPress, by the number of sites. The licence is priced by how many sites you run: $49.50 a year for one site (Basic), $99.50 for three (Plus), $199.50 for five (Pro) and $299.50 for unlimited sites (Elite).
 
 ## WPLP
 - Review: https://officesoftwaremarketplace.com/wplp-review.html
