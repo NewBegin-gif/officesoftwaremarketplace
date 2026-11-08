@@ -8,825 +8,990 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## accessiBe
 - Review: https://officesoftwaremarketplace.com/accessibe-review.html
+- Hands-on: tested by us on 2026-10-08
 - Verdict: accessiBe: $490 is the first figure a visitor sees. The thing you most need to know about this product is not on its pricing page, it is on the FTC’s.
 - Price: (re-read 2026-10-25 on accessibe.com/pricing/accesswidget; first read 2026-09-10) Four tiers for accessWidget, priced per monthly website visits, with both a monthly and a yearly rate on every tier: Micro $59/month or $490/year up to 5,000 visits a month, Growth $179/month or $1,490/year up to 30,000, Scale $479/month or $3,990/year up to 100,000, and Enterprise on quote above that. Micro covers automated scans…
 
 ## AccuWeb Hosting
 - Review: https://officesoftwaremarketplace.com/accuweb-hosting-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: AccuWeb Hosting: VPS Edge is €4.42 a month and renews at €8.91. The money-back guarantee is 7 days, shorter than many hosts offer.
 - Price: (read 2026-10-07 on accuwebhosting.com/pricing/vps-hosting in a browser render from a Netherlands connection, which showed euros, with the 24-month term and the New York location selected) Four Linux VPS plans. VPS Edge is €4.42 a month and renews at €8.91: 4 GB RAM, 1 vCPU, 50 GB storage, 250 GB bandwidth, 1 IP.
 
 ## Acronis
 - Review: https://officesoftwaremarketplace.com/acronis-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Acronis: For 1 computer it is €124.99 a year with 1 TB of cloud storage and goes up to €559.99 a year with 10 TB. Essentials has no cloud storage at all.
 - Price: (read 2026-11-02 on the True Image purchasing page, shown in euros to a visitor in Europe; we did not see a US-dollar price list) This review covers Acronis True Image, the home and home-office backup product. Acronis' business and MSP products (Cyber Protect) are priced separately and are not covered here.
 
 ## ADP
 - Review: https://officesoftwaremarketplace.com/adp-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: ADP shows no public pricing for RUN anywhere on its site. The quote-only posture is normal in payroll.
 - Price: (2026-08-15, read on their own site) ADP shows no public pricing for RUN anywhere on its site, and we checked four places before saying so. /pricing returns a 404, and so does /pricing.md.
 
 ## Airia
 - Review: https://officesoftwaremarketplace.com/airia-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Airia used to publish a ladder: a free tier, Individual around $50 a month and Team around $250. As of 20 August 2026 that is over.
 - Price: (re-verified 2026-10-10) Quote-only. Airia used to publish a ladder: a free tier, Individual around $50 a month and Team around $250.
 
 ## AML Watcher
 - Review: https://officesoftwaremarketplace.com/aml-watcher-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: AML Watcher sells anti-money-laundering screening in three plans. The recurring price is only visible after you set the search volume in the calculator.
 - Price: (read 2026-11-07 on amlwatcher.com/pricing) AML Watcher sells anti-money-laundering screening in three plans: Basic for quick checks, Premium for in-depth risk analysis and enhanced due diligence, and Enterprise for large organizations. The monthly or yearly amount is calculated by a slider for searches per month and entities monitored, and the page text we read does not show those amounts, so we do not quote a…
 
 ## Aplos
 - Review: https://officesoftwaremarketplace.com/aplos-review.html
+- Hands-on: tested by us on 2026-10-24. Measured 2026-10-24: After upload, every column of our file started as 'DO NOT IMPORT', including obvious ones such as First Name and Email, so each column has to be mapped by hand. Both contacts then came in with their addresses.
 - Verdict: Aplos: 50% off for three months with code FALL26, showing Lite at $39.50 and Core at $64.50. The headline you will see first is not the price you will pay.
 - Price: (2026-10-13, read on their own pricing page and in their help centre) Three published tiers, billed monthly: Lite at $79/month, Core at $129 and Advanced at $229, plus a fourth Custom tier with tailored pricing aimed at organisations above $1 million in annual revenue. Advanced is framed as a quote rather than a checkout: the card reads "Customized solutions start at $229/month" and the button asks for a demo.
 
 ## Arbor
 - Review: https://officesoftwaremarketplace.com/arbor-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Arbor has no pricing page at all — the URL 404s. The honest catches: it only exists in deregulated US states.
 - Price: Free for households, and re-verified as such on 2026-08-17, on 2026-10-06 and again on 2026-10-09. Arbor has no pricing page at all — the URL 404s — and neither our July nor our August 2026 capture produced a figure.
 
 ## Assembly
 - Review: https://officesoftwaremarketplace.com/assembly-review.html
+- Hands-on: tested by us on 2026-10-24. Measured 2026-10-24: Settings > Plans in the new Free workspace showed 'Build credits 50 available' and 'Used this billing period 0 of 50 monthly', with the credits expiring on 24 Nov 2026.
 - Verdict: Assembly: $29 a month billed yearly or $49 monthly, 50 active contacts, 1 internal user. Active contacts bite first: Starter stops at 50.
 - Price: (re-verified 28 September 2026 in a rendered browser, both billing tabs and the full comparison table) Assembly, the client-portal platform at assembly.com, publishes five tiers. Free, a free-forever plan: $0 with 5 active contacts, 1 internal user, 50 build credits a month and 3 apps.
 
 ## Atto
 - Review: https://officesoftwaremarketplace.com/atto-review.html
+- Hands-on: tested by us on 2026-10-23. Measured 2026-10-23: Clocking in from the browser needed no app: the Time Clock page has a large CLOCK IN button, after which the status read 'On the Clock', location 'Web Clock In', job code Uncategorized, with options to add…
 - Verdict: Atto: Billed monthly the same tiers are $6.95, $9.95, $12.95 and $19.95. Roll it out as 'accurate paychecks and fewer timesheet fights', involve the team.
 - Price: (re-read 2026-09-24 from the plan data behind attotime.com/pricing; amounts unchanged since 5 Sep) Per user per month, billed annually: Starter $5.65, Plus $7.95 (job codes, breaks and notes), Advanced $10.75 (job costing), Expert $16.55 (talk to sales). Billed monthly the same tiers are $6.95, $9.95, $12.95 and $19.95, so annual billing saves about 19% on Starter, 20% on Plus and 17% on Advanced and Expert.
 
 ## BackupMaster
 - Review: https://officesoftwaremarketplace.com/backupmaster-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: BackupMaster: Essentials $19 a month or $205.20 a year, a 10% saving, covers stores up to 300 orders a month. The listing header says free to install.
 - Price: (read 2026-08-22 on apps.shopify.com/backup-master) Four tiers, each paid one with a 7-day free trial. Agency is free to install but only for Shopify Partner development stores before they are transferred to a client, with all features enabled for three months.
 
 ## Barcodes Talk
 - Review: https://officesoftwaremarketplace.com/barcodes-talk-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Barcodes Talk — The full published ladder runs eighteen rungs: 1 barcode $5.00; 5 for $10.00 ($2.00 each). The honest caveat is about fit, not the codes.
 - Price: (prices re-verified 2026-09-19 on barcodestalk.com/buy-barcodes) One-off purchase, no subscription and no renewal. The full published ladder runs eighteen rungs: 1 barcode $5.00; 5 for $10.00 ($2.00 each); 10 for $15.00 ($1.50); 25 for $25.00 ($1.00); 50 for $35.00 ($0.70); 100 for $45.00 ($0.45); 200 for $80.00 ($0.40); 500 for $125.00 ($0.25); 1,000 for $180.00 ($0.18); 1,500 for $225.00 ($0.15); 2,000 for…
 
 ## Beautiful.ai
 - Review: https://officesoftwaremarketplace.com/beautiful-ai-review.html
+- Hands-on: tested by us on 2026-09-28
 - Verdict: Beautiful.ai: Team about $40/user/mo annual ($50 monthly) with brand controls and shared libraries. The smart-template engine is the feature and the fence.
 - Price: (re-verified 2026-09-02 on the vendor's own pricing page, amounts unchanged on 2026-09-29) Pro is $14.50/mo billed annually, up from $12 in our July and August 2026 captures ($45 for a one-off month); Team about $40/user/mo annual ($50 monthly) with brand controls and shared libraries; Enterprise custom for 20+ seats. A single one-off presentation can be bought for ~$45; 14-day trial.
 
 ## Bill.com
 - Review: https://officesoftwaremarketplace.com/bill-com-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Bill.com: Essentials $49, Team $65 and Corporate $89 per user per month, plus a quote-only Enterprise - the same four cards as on 15 August 2026.
 - Price: (re-verified 2026-10-30 on bill.com/product/pricing, the Accounts Payable & Receivable tab and the fee tables; the Spend and Expense tab and the accountant prices were last read 2026-09-15) Accounts-payable and receivable plans priced per user: Essentials $49, Team $65 and Corporate $89 per user per month, plus a quote-only Enterprise - the same four cards as on 15 August 2026. The separate Spend and Expense…
 
 ## BillingNow
 - Review: https://officesoftwaremarketplace.com/billingnow-review.html
+- Hands-on: tested by us on 2026-11-02. Measured 2026-11-02: We saw no trial banner or countdown anywhere, although the homepage promises a 3-day free trial; General settings simply showed 'Premium Plan'.
 - Verdict: BillingNow: $9.99 a month, or $99.90 a year which the page itself works out to $8.33 a month and labels 'Save 17%'. The pricing is genuinely refreshing.
 - Price: (re-verified 2026-10-09 on their own pricing FAQ and refund policy; first verified 2026-08-20) Two plans, both carrying the identical feature list with no limits: $9.99 a month, or $99.90 a year which the page itself works out to $8.33 a month and labels 'Save 17%'. Both include unlimited invoices, expenses, client relations, users, estimates and credit notes, plus payment tracking, tax rates, PDF export and the…
 
 ## Bitvavo
 - Review: https://officesoftwaremarketplace.com/bitvavo-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Bitvavo — Above that: 0.03%/0.12% from €2,500,000, 0.01%/0.10% from €5,000,000. The honest caveats are crypto-wide, not Bitvavo-specific.
 - Price: (re-verified 2026-10-08, read on their own fees page) No subscription — you pay per trade. EUR markets (Category A) run ten volume tiers.
 
 ## Bizee
 - Review: https://officesoftwaremarketplace.com/bizee-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Bizee: Basic $0, Standard $199 and Premium $299. The $0 headline leaves out the state filing fee, which is usually the larger part of the bill.
 - Price: (read 2026-10-15 on bizee.com and its registered agent and cancellation pages; the cards show $ without naming a currency) Three formation packages, each a one-time payment plus your state's filing fee: Basic $0, Standard $199 and Premium $299. The state fee is set by the state, not by Bizee, and the detailed package comparison only appears after you choose an entity type and a state, so we could not confirm what…
 
 ## Blinq
 - Review: https://officesoftwaremarketplace.com/blinq-review.html
+- Hands-on: tested by us on 2026-10-23. Measured 2026-10-23: The web dashboard was enough to make and share a card: 'Finish setup' still asked for the app, but nothing we did needed it. The dashboard opened with a ready-made 'Work' card and two sample contacts from…
 - Verdict: Blinq: Free forever for individuals (2 cards, unlimited QR sharing). The core product is honestly cheap — the cost that grows hides in event lead capture.
 - Price: (re-verified 2026-08-17 and 2026-10-07) Free forever for individuals (2 cards, unlimited QR sharing). For individuals, Premium is $9.99 a month billed monthly or $7.33 billed annually.
 
 ## Bokun
 - Review: https://officesoftwaremarketplace.com/bokun-review.html
+- Hands-on: tested by us on 2026-10-23. Measured 2026-10-23: After sign-up we had to pick a paid plan to start the trial; the next screen asked for a card to bill after the trial ends on 6 November 2026 (14 days after 23 October), but 'I'll add card later' skipped…
 - Verdict: Bokun: (2026) A free version (1 user) plus paid plans from $49/mo (Start, up to 5 users), $149 (Plus, up to 10) and $499 (Premium, unlimited).
 - Price: (price re-verified 2026-09-20 on bokun.io/pricing, plan cards and the full comparison table) (2026) A free version (1 user) plus paid plans from $49/mo (Start, up to 5 users), $149 (Plus, up to 10) and $499 (Premium, unlimited). Service fee on applicable bookings varies by plan (1.5% Start, 1.25% Plus, 1% Premium), and any paid plan lets you pass that fee on to the guest.
 
 ## Bolt Business
 - Review: https://officesoftwaremarketplace.com/bolt-business-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Bolt Business: One line the marketing does not carry. The honest boundary is geography: Bolt's network is Europe/Africa-centric across 600+ cities.
 - Price: No subscription and, in the words of Bolt's business page, no upfront fees (re-verified 2026-10-09; on 2026-08-20 the page also said no minimum commitment): you pay per ride or rental taken, with consolidated monthly billing, spend limits and policy controls included. One line the marketing does not carry, but Bolt's own support pages do: Bolt charges a service fee on every trip made with the business payment…
 
 ## BookX
 - Review: https://officesoftwaremarketplace.com/bookx-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: BookX: Business is $19.99 or $199.99 a year (17%) for twenty locations and team members. The free plan is a demonstration rather than a plan.
 - Price: (re-verified 2026-11-02 on apps.shopify.com/appointment-booking-bookeasy; first read 2026-09-08) Every paid tier was halved since our earlier readings, which had Starter at $9.99, Growth at $19.99 and Business at $39.99. Four tiers billed in USD every 30 days, and the meter is locations and team members rather than bookings — every tier, the free one included, carries unlimited bookings.
 
 ## BugHerd
 - Review: https://officesoftwaremarketplace.com/bugherd-review.html
+- Hands-on: tested by us on 2026-10-24. Measured 2026-10-24: The new account showed '7 days remaining! Upgrade now!' in the header. No card was asked.
 - Verdict: BugHerd: Standard $42/mo billed yearly or $50 month-to-month (5 members, 10 GB). The per-team-member tiers are the thing to size honestly.
 - Price: Standard $42/mo billed yearly or $50 month-to-month (5 members, 10 GB), Studio $67 or $80 (10 members, 25 GB), Premium $125 or $150 (25 members, 50 GB), plus a custom tier quoted as "Let's talk" — all with unlimited projects and unlimited client users; annual billing reads $500/$800/$1,500 a year ("two months free"), extra members $8 per user billed monthly or $6.60 billed annually ($80 a year each). Free trial;…
 
 ## Bybit
 - Review: https://officesoftwaremarketplace.com/bybit-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Bybit — At VIP 0 (non-VIP): spot 0.1000% maker and 0.1000% taker. Derivatives are the draw and the danger: leverage cuts both ways.
 - Price: No subscription — per-trade fees, re-verified 2026-10-16 against Bybit's own fee schedule, which still says it was last updated on 2 September 2026; the base VIP table below is unchanged since our 5 September reading. At VIP 0 (non-VIP): spot 0.1000% maker and 0.1000% taker; perpetuals and futures 0.0200% maker and 0.0550% taker; options 0.0200% maker and 0.0300% taker.
 
 ## Carbon6
 - Review: https://officesoftwaremarketplace.com/carbon6-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Carbon6: Entry tools from about $49/mo, PixelMe from about $500/mo with a 6-month minimum. The honest headline here is not pricing but ownership.
 - Price: What we can verify on the vendor’s own pages today (re-checked 10 Oct 2026; unchanged since 26 Aug 2026): carbon6.io/pricing now redirects to the tool list, so there is no suite-level price at all. SoStocked has dropped its two-tier ladder — where on 21 Jul it listed ProfitFlow at $97/mo and ProfitFlow + Inventory at "starting at" $250/mo, it now shows a single Inventory + Profit plan at "starting at" $175/mo…
 
 ## Checkr
 - Review: https://officesoftwaremarketplace.com/checkr-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Checkr: Tenant screening is priced separately at $24.99, $34.99 and $44.99 per report. The headline per-check price is rarely what you actually pay.
 - Price: (re-verified 2026-08-17 and again 2026-09-30) Pay-as-you-go per report, no subscription: Basic $29.99, Essential $59.99 and Complete $94.99 per report, with Enterprise quote-only. Tenant screening is priced separately at $24.99, $34.99 and $44.99 per report, and personal checks start from $49.99.
 
 ## ChemiCloud
 - Review: https://officesoftwaremarketplace.com/chemicloud-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: ChemiCloud: Shared hosting starts at $1.49/mo on ChemiCloud's Black Friday sale. The honest catch is the one every budget host shares.
 - Price: (re-verified 2026-11-02) Shared hosting starts at $1.49/mo on ChemiCloud's Black Friday sale, which went live on 2 November 2026 and replaced the Back to Build sale: Starter, Pro and Turbo cost $1.49, $2.49 and $3.49 a month on the 36-month term, or $2.95, $3.95 and $4.95 on 12 months. The site advertises it as up to 88% off on 36-month plans; ChemiCloud told its affiliates it runs until 7 December 2026, and the…
 
 ## Claude
 - Review: https://officesoftwaremarketplace.com/claude-review.html
+- Hands-on: tested by us on 2026-10-23. Measured 2026-10-23: We uploaded a short text file containing three contract records (A, B and C with seats and renewal dates) and a stated total ('Total seats 12.') and asked three questions with the instruction to quote the…
 - Verdict: Claude: Pro is $17/month with the annual discount ($200 billed up front) or $20 billed monthly. The honest catch is usage limits.
 - Price: (price re-verified 2026-10-11 on their own pricing page; unchanged since 2026-08-27) The free tier is $0. Pro is $17/month with the annual discount ($200 billed up front) or $20 billed monthly, and includes Claude Code and unlimited projects.
 
 ## ClickUp
 - Review: https://officesoftwaremarketplace.com/clickup-review.html
+- Hands-on: tested by us on 2026-10-23. Measured 2026-10-23: The spreadsheet importer (Settings > Imports / Exports) matched all five columns of our CSV to ClickUp fields automatically, then mapped the three status values one to one and previewed 3 valid rows before…
 - Verdict: ClickUp: A Free Forever plan with unlimited tasks but 60MB of storage; Unlimited $7 and Business $12 per user/month billed yearly.
 - Price: (re-verified 2026-08-13, read on their own pricing page with both billing tabs open; every amount unchanged on 2026-09-30) A Free Forever plan with unlimited tasks but 60MB of storage; Unlimited $7 and Business $12 per user/month billed yearly, which are $10 and $19 billed monthly; Enterprise is quote-only. AI is priced on top of the plan: Brain AI $9 and Everything AI $28 per user/month.
 
 ## CloudTask
 - Review: https://officesoftwaremarketplace.com/cloudtask-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: CloudTask: Two hiring models, both published, plus one deposit. The $299 is the honest part and also the small part.
 - Price: (re-verified 2026-10-08, read on their own pricing page and FAQ) Two hiring models, both published, plus one deposit. A one-time $299 deposit starts your search — asked “Do you charge a monthly platform fee?” their FAQ answers “No.
 
 ## Cloudways
 - Review: https://officesoftwaremarketplace.com/cloudways-review.html
+- Hands-on: tested by us on 2026-10-25. Measured 2026-10-25: The Flexible trial needed no card before launch. The setup screen showed DigitalOcean Premium 4GB at $54.00 a month ($0.0804 an hour) and $0 during the trial, with billing starting only when the account is…
 - Verdict: Cloudways: $0.0208 an hour is the $14 plan. "Fully managed" here means the server, not your site — and that distinction is where the money is.
 - Price: (read 2026-08-26 on cloudways.com/en/pricing.php, DigitalOcean tab) No free tier, but a 3-day free trial with no credit card required. Billing is hourly and post-paid, invoiced in the first week of the following month, with no annual contract — and the hourly figure is the one that decides the bill: every card divides its monthly price by 672 hours, so $0.0208 an hour is the $14 plan.
 
 ## CO2 Impact
 - Review: https://officesoftwaremarketplace.com/co2-impact-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: CO2 Impact: Basic is £468 a year (£39.00 a month) for 1 user and 1 operational site. Every licence is a 12-month commitment.
 - Price: (read 2026-10-09 in a browser render of the pricing table on co2impact.co.uk's homepage; re-verified 2026-10-22 on the redesigned table, GBP, all prices exclude VAT) Every licence runs for 12 months: annual payment is charged upfront, monthly payment is spread over the 12-month licence. Basic is £468 a year (£39.00 a month) for 1 user and 1 operational site.
 
 ## Compliancely
 - Review: https://officesoftwaremarketplace.com/compliancely-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Compliancely — The published price list covers one product only: TIN-match volume. The pricing page prices one product and the marketing sells about a dozen.
 - Price: (2026-07-29, re-verified 2026-08-05, read in a live browser session on their own pricing page, both billing toggles) The published price list covers one product only: TIN-match volume. Billed annually, Essential 25 is $16.95/mo for 25 monthly TIN verifications ($0.67 per match), Essential 50 $32.54/mo ($0.65), Essential 75 $45.79/mo ($0.61), Plus 100 $57.99/mo ($0.57) and Plus 250 $135.04/mo ($0.54).
 
 ## Contractor Foreman
 - Review: https://officesoftwaremarketplace.com/contractor-foreman-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Contractor Foreman: $404, $391, $694 and $804. Monthly costs 20% to 32% more than annual on the same plan — $139 against $105 on Standard.
 - Price: (re-verified 11 Oct 2026 on their own pricing page: annual prices unchanged since 1 Aug 2026; the quarterly option recorded on 28 Aug 2026 has been replaced by monthly billing) Priced for the company rather than per seat, with unlimited projects on every tier, and annual plans open with 30 days free before the first bill; monthly plans are charged at sign-up. Annual: Basic $49/month ($588 a year, 1 user),…
 
 ## Credit Repair Cloud
 - Review: https://officesoftwaremarketplace.com/credit-repair-cloud-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Credit Repair Cloud: Personal is $49 for 1 user and up to 3 friends and family, and Start $179 for up to 3 users and 300 active clients.
 - Price: (price re-verified 2026-08-21 against the vendor's own pricing page, and now with the published limits rather than approximations) There are five plans, priced monthly. Personal is $49 for 1 user and up to 3 friends and family, and Start $179 for up to 3 users and 300 active clients.
 
 ## Database Mart
 - Review: https://officesoftwaremarketplace.com/database-mart-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Database Mart: Windows VPS, which includes the Microsoft licence, runs from $5.99 to $63.99. Database Mart is cheap partly because the hardware is older.
 - Price: (read 2026-10-06 on databasemart.com/pricing, which lists every server row with its monthly price, and on databasemart.com/gpu-server) Flat monthly prices per server, billed in advance. Linux VPS runs from $2.88 a month for Express (2 cores, 4GB RAM, 60GB SSD, marked save 51%) through $7.99, $5.85, $12.99, $10.80, $27.99 and $31.99 to $28.80 for Advanced Plus (16 cores, 32GB, 400GB); several rows are discounted,…
 
 ## Databox
 - Review: https://officesoftwaremarketplace.com/databox-review.html
+- Hands-on: tested by us on 2026-09-25
 - Verdict: Databox: Monthly, Analyst reads $89 and the others $249, $399 and from $99; annual billing is 20% off. The pricing model bites, just not where it used to.
 - Price: (re-verified 2026-10-02, 2026-10-06 and 2026-10-20, read on their own pricing page) Databox renamed and repriced its whole ladder since our August reading, so the Analyst/Pro/Growth tiers we described are gone. Free is $0 forever: 1 user, 3 data sources, 1 dashboard, 10 custom metrics, 50 AI credits a month, daily sync.
 
 ## Datarails
 - Review: https://officesoftwaremarketplace.com/datarails-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Datarails publishes three plans. You cannot find out what it costs without talking to sales, and the entry plan is smaller than it looks.
 - Price: (read 2026-08-25 on www.datarails.com/pricing) There is no public price. Datarails publishes three plans — Professional, Premium and Expert — and every one of them carries a Request Quote button where the number would be.
 
 ## Deel
 - Review: https://officesoftwaremarketplace.com/deel-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Deel: Pricing is per worker and demo-led. Know what EOR money buys: at $599+/month per employee you’re paying for compliance risk transfer, not software.
 - Price: (re-verified 2026-10-09; the figures are unchanged since 2026-08-17) Pricing is per worker and demo-led, and each product is priced separately. Find talent (sourcing, screening and onboarding candidates) is $14 per worker a month.
 
 ## Deftform
 - Review: https://officesoftwaremarketplace.com/deftform-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Deftform: Lifetime is €189 one-time for unlimited forms, or €16 a month for 12 months as an instalment plan. The pricing is easy to misread.
 - Price: (read 2026-10-14 in a live browser on deftform.com, pricing section, and the legal notice) Three packages, base prices in euros excluding VAT, invoiced by a merchant of record. Pre-paid is €4 per form, bought in bulk quantities of 5, with no subscription.
 
 ## Deputy
 - Review: https://officesoftwaremarketplace.com/deputy-review.html
+- Hands-on: tested by us on 2026-10-24. Measured 2026-10-24: On sign-up day the app showed '31 days remaining of your Core Plan trial.' No card was asked.
 - Verdict: Deputy: On annual billing Lite is $5, Core $6.50 and Pro $9. The minimum monthly spend is the number to check before anything else.
 - Price: (re-read 2026-09-19 on deputy.com/pricing; amounts unchanged since the browser reading of 2026-07-31, which used both billing toggles) Three plans, per user per month and excluding tax. On annual billing Lite is $5, Core $6.50 and Pro $9; switch the toggle to monthly and the same three read $5.50, $7.25 and $10.
 
 ## Descript
 - Review: https://officesoftwaremarketplace.com/descript-review.html
+- Hands-on: tested by us on 2026-09-30
 - Verdict: Descript: Free plan with 60 minutes a month and watermarked 720p exports. Heavy podcast or video volume burns through the caps fast.
 - Price: (re-verified 2026-08-17 and again 2026-10-01) Free plan with 60 minutes a month and watermarked 720p exports. Paid, per person per month, annual against monthly: Hobbyist $16 / $24, Creator $24 / $35, Business $50 / $65, with annual billing saving up to 35%.
 
 ## Devs.ai
 - Review: https://officesoftwaremarketplace.com/devs-ai-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Devs.ai: Personal is $15 per seat / month billed annually or $18 billed monthly. The seat price is the smaller half of the bill.
 - Price: (re-verified 2026-10-11 and 2026-08-26, read in a live browser session on devs.ai/home/pricing with both billing toggles) Devs.ai does publish its pricing — on the marketing site at devs.ai/home/pricing, not at the app's /pricing route, which bounces you to a login screen. Free is $0 forever, but Agent Builder and App Builder appear there in "Core" rather than "Full" form, data upload is capped at 2 GB, and…
 
 ## Dext
 - Review: https://officesoftwaremarketplace.com/dext-review.html
+- Hands-on: tested by us on 2026-10-21. Measured 2026-10-21: After sign-up the account showed 'Your free trial ends in 14 days'. We gave no card or bank details, and the workspace worked without connecting accounting software.
 - Verdict: Dext has moved off named tiers. Extraction accuracy varies and sometimes needs manual fixes, the UI is tricky for beginners.
 - Price: (re-verified 2026-10-10, read in a browser on dext.com/en/business/pricing because the price panel renders client-side) Dext has moved off named tiers: you choose a region and a billing period, then slide an allowance. The base of 250 documents a month and 5 users costs $25.21 per month billed annually ($302.50 a year) or $31.50 monthly in the Rest of the World, £30 monthly in the UK, €31.50 in the EU and A$42 in…
 
 ## Dify
 - Review: https://officesoftwaremarketplace.com/dify-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Dify: Source-available and free of a software fee to self-host. 'Free' self-hosting isn't free — you own the servers, updates and reliability.
 - Price: Source-available and free of a software fee to self-host — the Community Edition ships under the Dify Open Source License, a modified Apache 2.0 with additional conditions — while the managed Dify Cloud adds a free Sandbox, Professional at $59/mo ($590/yr) and Team at $159/mo ($1,590/yr), each priced per workspace (re-verified 2026-10-09 against dify.ai/pricing.md; the advertised ~17% annual saving checks out:…
 
 ## DigiParser
 - Review: https://officesoftwaremarketplace.com/digiparser-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: DigiParser: Starter is $69 a month billed monthly, or $49 a month billed yearly ($588 a year). Billing is per page, not per document.
 - Price: (read 2026-10-13 in a live browser on digiparser.com/pricing in both the monthly and the yearly view, with the FAQ opened, and on the home page) Three self-serve plans, priced by pages processed per month, each with a 7-day free trial that needs no card. Starter is $69 a month billed monthly, or $49 a month billed yearly ($588 a year): 500 pages a month, 5 parsers and 3 team members, table and field extraction,…
 
 ## Digit
 - Review: https://officesoftwaremarketplace.com/digit-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Digit: Starter $400/month including 5 users, Growth $750 including 10, Professional $1,300 including 15. The tier price is a floor, not a ceiling.
 - Price: (re-read 2026-09-17 in a rendered browser on heysutton.com/pricing, the rebranded site; unchanged from the 5 September reading on digit-software.com) Four tiers with three published: Starter $400/month including 5 users, Growth $750 including 10, Professional $1,300 including 15, and Enterprise on quote. Extra users are $63/month each on every tier.
 
 ## Disputifier
 - Review: https://officesoftwaremarketplace.com/disputifier-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Disputifier: The 20% recovery fee, the $250 cap and the $17-$27.50 alert band are unchanged. Free to install is doing a lot of work here.
 - Price: (read 2026-08-19, re-verified 2026-09-17, and re-verified 2026-10-19 on apps.shopify.com/disputifier and disputifier.com/pricing: the 20% recovery fee, the $250 cap and the $17-$27.50 alert band are unchanged; the per-order prevention rates sit on pricing tabs the served page does not carry, and were not re-read that day) Free to install, with everything billed on use, and unchanged between those two readings.…
 
 ## DocSend
 - Review: https://officesoftwaremarketplace.com/docsend-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: DocSend: Personal is $10 per user a month billed yearly or $15 billed monthly, one user. The cheap plan is not the product people buy DocSend for.
 - Price: (read 2026-09-25 on docsend.com/pricing, both billing toggles) Personal is $10 per user a month billed yearly or $15 billed monthly, one user, basic link controls (email to view, passcode, expiry, download on or off), document-level analytics, 4 eSignatures a month, unlimited visitors and 10 GB of storage. Standard is $45 per user a month yearly or $65 monthly and adds multi-file sharing through data rooms…
 
 ## doola
 - Review: https://officesoftwaremarketplace.com/doola-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: doola: State filing fees run $50 to $500 depending on the state. Convenient especially for non-US founders.
 - Price: (re-verified 1 October 2026 on doola.com/pricing) These are the list prices. Starter is $297 a year plus state fees and covers LLC or C-Corp formation, EIN, a registered agent and a US address; state filing fees run $50 to $500 depending on the state, and they are yours, not doola's.
 
 ## Dryground AI
 - Review: https://officesoftwaremarketplace.com/dryground-ai-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Dryground AI: Core $99, Pro $297 and Enterprise $1,497 a month, each plus usage from a prepaid token wallet. Read the headline numbers carefully too.
 - Price: (2026-08-17, read in a browser because the site renders client-side and a plain fetch returns only the title) There is no public pricing for the consulting work anywhere on dryground.ai, and we checked before saying so. /pricing, /plans, /services, /about and /contact all return 404.
 
 ## EasyBrise
 - Review: https://officesoftwaremarketplace.com/easybrise-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: EasyBrise: Global Launch is $295 one-time plus the state fee, listed as $104 for Wyoming and $143 for Delaware. Refunds stop once documents go to the state.
 - Price: (read 2026-10-15 on easybrise.com/pricing, its terms of service and refund policy; the terms say all fees are in US dollars) EasyBrise sells US company formation to founders abroad. Global Launch is $295 one-time plus the state fee, listed as $104 for Wyoming and $143 for Delaware, and includes formation, an EIN, the first year of registered agent and virtual business address, and lifetime access to a document vault.
 
 ## eBillity
 - Review: https://officesoftwaremarketplace.com/ebillity-review.html
+- Hands-on: tested by us on 2026-10-31. Measured 2026-10-31: The dashboard and activation screen showed fourteen trial days remaining.
 - Verdict: EBillity sells four plans per user, and the pricing page says annual billing saves 20%. Workforce and Premium add a base fee on top of the per-user price.
 - Price: (read 2026-10-15 on ebillity.com/pricing with USD selected, plus the FAQ and the terms of service updated 18 March 2026) eBillity sells four plans per user, and the pricing page says annual billing saves 20%. Billed annually, Time Tracker Billing is $8 per user a month with no base fee, for simple time tracking and client billing.
 
 ## Emergent
 - Review: https://officesoftwaremarketplace.com/emergent-review.html
+- Hands-on: tested by us on 2026-09-26
 - Verdict: Emergent: Pro $200/mo, or $167/mo billed annually, for 750 credits (a $396 saving, 16.5%). Now do the division, because Emergent's own pricing page doesn't.
 - Price: (re-verified 2026-10-17 on emergent.sh/pricing in the monthly view, with the annual rates from the same page read on 16 October 2026, and on Emergent's help pages on managing credit usage and on cancellation and refunds) Free $0 (10 credits/mo); Standard $20/mo, or $17/mo billed annually, for 100 credits (the page states a $36 annual saving, 15%); Pro $200/mo, or $167/mo billed annually, for 750 credits (a $396…
 
 ## Employment Hero
 - Review: https://officesoftwaremarketplace.com/employment-hero-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Employment Hero: EVERY PRICE ON THAT PAGE IS AUD EXCLUDING GST — the page states it in its own disclaimer. Payroll no longer carries its own price at all.
 - Price: (2026-08-28, read on their own pricing page at employmenthero.com/pricing/; re-verified 2026-10-06) EVERY PRICE ON THAT PAGE IS AUD EXCLUDING GST — the page states it in its own disclaimer. It is the Australian page; separate pages exist for the UK, New Zealand, Singapore, Malaysia and Canada, and there is no US one.
 
 ## ExpertEx
 - Review: https://officesoftwaremarketplace.com/expertex-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: ExpertEx: Starter is $10 or $7 for 1,000 credits. Starter is sold as 65 product photos and 10 short video ads a month on 1,000 credits.
 - Price: (read 2026-08-22 in a live browser on expertex.ai/pricing -- plain fetches return an empty page, so this is the first reading we have of the real ladder) There are four credit tiers, monthly against yearly with two months free. Starter is $10 or $7 for 1,000 credits, and Premium $30 or $20 for 3,000.
 
 ## Expertise AI
 - Review: https://officesoftwaremarketplace.com/expertise-ai-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Expertise AI: Quote-only since our October reading. The honest catch is that you can no longer see what this costs.
 - Price: Quote-only since our October reading. Re-read 7 October 2026 on expertise.ai/pricing: the page no longer shows a single amount.
 
 ## Finale Inventory
 - Review: https://officesoftwaremarketplace.com/finale-inventory-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Finale Inventory: Essentials starts at $499/mo (positioned for 1-2 warehouses). If you do a few dozen orders a month, this is far more inventory engine.
 - Price: (re-verified 2026-08-31 on finaleinventory.com/pricing) Essentials starts at $499/mo (positioned for 1-2 warehouses); Growth starts at $799/mo and adds the Mobile Barcode WMS module plus email, phone and Zoom support; Enterprise is custom pricing on request and adds API and EDI access, premium support with SLAs and a dedicated account manager. Both published figures are 'starting at' and no per-tier order, SKU or…
 
 ## Flatpay
 - Review: https://officesoftwaremarketplace.com/flatpay-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Flatpay: The card terminal is 1.49% and costs GBP 0 to start. “Zero monthly fees” is the headline, and there genuinely is no subscription.
 - Price: (re-verified 2026-10-14 on flatpay.com/en-gb/pricing and their separate /pricelist page; the four transaction rates and up-front fees unchanged since 2026-08-13, the minimum monthly turnover changed -- see below) Flatpay charges one rate per transaction on every card type, with no monthly subscription. The card terminal is 1.49% and costs GBP 0 to start.
 
 ## FlexiQuiz
 - Review: https://officesoftwaremarketplace.com/flexiquiz-review.html
+- Hands-on: tested by us on 2026-10-20. Measured 2026-10-20: Ten questions saved. The form for an eleventh opened normally, and only on Save did FlexiQuiz say 'There is a maximum of 10 questions on the free plan. Upgrade to add more questions'; the eleventh was not…
 - Verdict: FlexiQuiz: Essentials $25/mo billed monthly or $17/mo billed yearly ($204/yr) -- 500 responses a month. The monthly response caps are the business model.
 - Price: (re-verified 2026-10-30 on flexiquiz.com/Home/Plans, every amount unchanged since 22 September; the monthly-billed rates were read from the page's own billing-toggle script, the yearly rates from the rendered cards) Free: 20 responses a month, no card required; in our test on 20 October 2026 a free quiz also stopped at 10 questions ('There is a maximum of 10 questions on the free plan'). Essentials $25/mo billed…
 
 ## Foxit
 - Review: https://officesoftwaremarketplace.com/foxit-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Foxit: PDF Editor+ is $159.99 per user per year or $13.99 per user per month. Foxit's pitch is being the honest fraction of Acrobat's price.
 - Price: (re-verified 2026-09-22 on the Foxit PDF Editor pricing page; every figure identical to the 1 Sep 2026 reading) PDF Editor is $129.99 per user per year, or $10.99 per user per month, with a 14-day free trial that asks for no card. PDF Editor+ is $159.99 per user per year or $13.99 per user per month, and bundles what used to be a second bill: mobile apps for iOS and Android, AI Smart Redact, cloud storage and…
 
 ## FreshBooks
 - Review: https://officesoftwaremarketplace.com/freshbooks-review.html
+- Hands-on: tested by us on 2026-09-07
 - Verdict: FreshBooks: The regular rates have not moved since 1 August 2026 — Lite $23, Plus $43, Premium $70 a month. People cost extra on top at $11 each.
 - Price: (2026-10-07, read on their own pricing page) The regular rates have not moved since 1 August 2026 — Lite $23, Plus $43, Premium $70 a month — but the promotion in front of them changed. In August and September every tier showed 90% off for three months ($2.30, $4.30 and $7).
 
 ## Freshservice
 - Review: https://officesoftwaremarketplace.com/freshservice-review.html
+- Hands-on: tested by us on 2026-10-08
 - Verdict: Freshservice: The page's own plan data still carries $139 annual and $167 monthly for it. The $19 headline rarely survives contact with a real deployment.
 - Price: (price re-verified 2026-09-29 against the vendor's own pricing page) Per agent, read 29 Sep 2026 on freshworks.com/freshservice/pricing/: Starter $19/agent/mo billed annually or $29 monthly; Growth $49 or $59; Pro $99 or $119. Enterprise is quote-only again: the card now reads 'Custom' with a 'Contact us' button.
 
 ## GCheck
 - Review: https://officesoftwaremarketplace.com/gcheck-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: GCheck: Basic is $18.95 per check (it was $19.95 when we first read the page on 29 September) and covers an SSN trace and address history.
 - Price: (re-verified 2026-10-16 on gcheck.com/pricing-packages after GCheck's partner mail announced a lower Basic price; first read 2026-09-29, including its FAQ) Three packages, each priced per background check, with no setup fees, no minimums and no long-term contracts. Basic is $18.95 per check (it was $19.95 when we first read the page on 29 September) and covers an SSN trace and address history, a national criminal…
 
 ## Glide
 - Review: https://officesoftwaremarketplace.com/glide-review.html
+- Hands-on: tested by us on 2026-09-07
 - Verdict: Glide: On the business tab, Business starts at $199 per month billed yearly or $249 monthly, with unlimited apps. Glide meters updates, not just seats.
 - Price: (GlideOS plans and the classic Business tab re-read 2026-10-17 and unchanged; the classic Explorer and Maker amounts were not printed in the page we fetched that day and were last read 2026-09-03 in a live browser session on both tabs and both billing toggles) The classic spreadsheet-to-app builder still has a genuinely free tier: unlimited drafts, one editor, up to 25k rows. Its paid plans are unchanged, but…
 
 ## Goflow
 - Review: https://officesoftwaremarketplace.com/goflow-review.html
+- Hands-on: tested by us on 2026-10-24. Measured 2026-10-24: After sign-up Goflow opened on a setup checklist that can be skipped; we saw no card, call or integration requirement.
 - Verdict: Goflow Core is free forever at $0/mo with no credit card. Core is free forever but no longer the whole platform.
 - Price: (re-verified 23 Sep 2026 on goflow.com/pricing; the plan ladder was restructured since 3 Sep) Goflow Core is free forever at $0/mo with no credit card, capped at 500 orders a month (new orders then wait until the 1st of the next month or an upgrade), 3 users and 1,000 newly created listings, and limited to stores on Amazon, eBay, Shopify, TikTok and Walmart, QuickBooks Online only, with no API and no App Store.…
 
 ## Gravity Forms
 - Review: https://officesoftwaremarketplace.com/gravity-forms-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Gravity Forms — Annual WordPress licences, unchanged since 1 Sep 2026: Basic $59/yr (1 site, standard support), Pro $159/yr (3 sites, standard support).
 - Price: (price re-verified 2026-09-23 against the vendor's own pricing page) Annual WordPress licences, unchanged since 1 Sep 2026: Basic $59/yr (1 site, standard support), Pro $159/yr (3 sites, standard support), Elite $259/yr (unlimited sites, WordPress Multisite, priority support and every first-party add-on). Which add-on sits where decides the tier as often as the site count: Basic carries the email-marketing and…
 
 ## Guesty
 - Review: https://officesoftwaremarketplace.com/guesty-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Guesty Lite is $9/mo PER LISTING plus 1% per reservation in 34 named markets, for 1-3 listings. Built for hosts with 1-3 listings starting on Guesty Lite.
 - Price: (price re-verified 2026-09-22 against the vendor's own pricing page and the Guesty Lite package page, read from a Dutch exit) Guesty Lite is $9/mo PER LISTING plus 1% per reservation in 34 named markets, for 1-3 listings; Pro covers 4-199 listings and Enterprise 200+, both quote-only. 14-day free trial of Lite, no credit card.
 
 ## Gusto
 - Review: https://officesoftwaremarketplace.com/gusto-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Gusto: Premium $180 plus $22 per person with premium account support and HR guidance. The base-plus-per-employee model is transparent but adds up.
 - Price: Read in a browser on gusto.com/product/pricing on 16 October 2026; the page blocks plain fetches. On the 'Pay My Team' tab, Simple is $49 a month plus $6 per person for single-state payroll, Plus $80 plus $12 per person with multi-state payroll, next-day pay and time tracking, and Premium $180 plus $22 per person with premium account support and HR guidance.
 
 ## Harbor Compliance
 - Review: https://officesoftwaremarketplace.com/harbor-compliance-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Harbor Compliance: Registered agent is $99 for the first year for new customers and renews at $159 a year. The $99 on every page is a first-year price.
 - Price: (read 2026-10-04 on harborcompliance.com, service page by service page; there is no single pricing page, /pricing returns a 404) Priced per service, each with its own page. Registered agent is $99 for the first year for new customers and renews at $159 a year; paying two years up front is $198 and three years $297, both at the $99 rate, after which it renews at $159.
 
 ## Heard
 - Review: https://officesoftwaremarketplace.com/heard-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Heard — For solo sole proprietors: Lite is $139 a month billed annually ($1,668 a year) or $159 billed monthly. Mind the fine print between tiers.
 - Price: (re-verified 2026-10-27 in a browser on joinheard.com/pricing and in joinheard.com/llms.txt, which says its prices are for new members starting October 26, 2026; earlier readings on 5 September and 6 October 2026 showed Lite at $129, Essential at $169 and Premium at $255 a month) Heard now prices by practice type, with annual and monthly billing. For solo sole proprietors: Lite is $139 a month billed annually…
 
 ## Hive
 - Review: https://officesoftwaremarketplace.com/hive-review.html
+- Hands-on: tested by us on 2026-10-21. Measured 2026-10-21: Onboarding runs in five steps. At the invite step, 'Allow users with @aibuildermarketplace.com domain to join the workspace automatically' was ticked by default; we switched it off. The workspace then…
 - Verdict: Hive: Free forever for up to 10 workspace members. The seat price is honest bait, the add-on grid is the business model.
 - Price: (re-verified 2026-10-18) Free forever for up to 10 workspace members, with 1,000 AI credits a month by the pricing page and 200MB of storage (a new account we tested on 21 October 2026, with no subscription, showed 5,000 of 5,000 AI credits included, resetting a month later, and a default AI spending limit of $500 a day; whether the extra credits are a one-off starting allowance is not established); Starter $5…
 
 ## Hopp
 - Review: https://officesoftwaremarketplace.com/hopp-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Hopp Business publishes no subscription price because it does not charge one. The honest note is that the platform is free and the rides are not.
 - Price: (price re-verified 2026-09-23 on gethopp.com/en/business/) Hopp Business publishes no subscription price because it does not charge one: the page states there are no activation costs and no minimum commitment, and billing is per ride on a single consolidated monthly invoice. Ride fares vary by city, vehicle class and demand and are not published as a rate card.
 
 ## Hostinger
 - Review: https://officesoftwaremarketplace.com/hostinger-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Hostinger: Cloud Startup is $7.99 ($383.52, regular $1,343.52; 100 GB NVMe) renewing at $25.99. The headline price only holds if you prepay years up front.
 - Price: (re-verified 2026-10-09, read on their own web-hosting and VPS pages) Shared and WordPress hosting runs three tiers on a 48-month term. Premium is $2.99/mo ($143.52 up front, regular price $575.52; 3 websites, 20 GB SSD, weekly backups) renewing at $10.99.
 
 ## HostPapa
 - Review: https://officesoftwaremarketplace.com/hostpapa-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: HostPapa: Growth renews at $17.99, $15.99, $14.99 or $13.99. The $2.95 is a first-term price on a 3-year term for new customers only.
 - Price: (read 2026-10-12 in a live browser on hostpapa.com/web-hosting-plan and hostpapa.com/renewal-pricing; US site, prices in US dollars excluding taxes) Shared web hosting comes in four cPanel plans, each shown at a promotional price that the page says applies to the first term only, on a 3-year discounted term, for new customers. Essentials is $2.95 a month for 1 website, 25GB NVMe storage and 1x server resources.
 
 ## Housecall Pro
 - Review: https://officesoftwaremarketplace.com/housecall-pro-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Housecall Pro: Essentials $149/month ($189) for five users. The seats are the expensive part: users beyond the eight on MAX cost $35 a month each.
 - Price: (re-verified 2026-09-29) Basic $59/month billed annually ($79 month-to-month, advertised as 'save $20/mo') for ONE user, with no GPS tracking and no QuickBooks Online sync; Essentials $149/month ($189) for five users; MAX $299/month ($329) for eight users, sold through a demo booking. Extra users on MAX are $35/month each; the page no longer states an extra-seat price for Essentials (on 2026-09-04 it read $100 on…
 
 ## Hubstaff
 - Review: https://officesoftwaremarketplace.com/hubstaff-review.html
+- Hands-on: tested by us on 2026-10-31. Measured 2026-10-31: Grow plan card says 4 seats minimum, while the annual Grow checkout says 2 seats minimum and shows $180.00 subtotal.
 - Verdict: Hubstaff: Starter $4.99, Grow $7.50, Team $10, Enterprise $25 per seat per month. The seat definition is the whole story and they state it plainly.
 - Price: (2026-08-29, read on their own pricing page) Priced per seat, with both billing columns published. Billed annually: Starter $4.99, Grow $7.50, Team $10, Enterprise $25 per seat per month.
 
 ## IDrive
 - Review: https://officesoftwaremarketplace.com/idrive-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: IDrive Mini is $0.25/month for 100 GB ($0.83/month for 500 GB). The first-year price is a teaser and the renewal is the price.
 - Price: (2026, re-verified 24 Sep 2026) Free 10 GB Basic tier. IDrive Mini is $0.25/month for 100 GB ($0.83/month for 500 GB).
 
 ## Imagify
 - Review: https://officesoftwaremarketplace.com/imagify-review.html
+- Hands-on: tested by us on 2026-10-21. Measured 2026-10-21: The account started at '0.0KB / 20MB used. You have 100% credit left.' Auto-converting PNG to JPEG is marked 'only for Pro users'; resizing is available on free.
 - Verdict: Imagify: Growth is $4.99 a month billed yearly, or $5.99 billed monthly. A prepaid yearly plan is not refunded.
 - Price: (read 2026-10-17 in a browser on imagify.io/pricing in the yearly view, with the monthly rates read on the same page on 15 October 2026; the terms name US dollars, excluding tax) Starter is $0 a month: 20MB a month, about 200 images, unlimited websites, 2MB maximum per image, no credit card. Growth is $4.99 a month billed yearly, or $5.99 billed monthly: 500MB a month, about 5,000 images, unlimited websites and…
 
 ## Inbox Zero
 - Review: https://officesoftwaremarketplace.com/inbox-zero-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Inbox Zero: Starter is $18 per user a month billed annually or $20 monthly. Pricing is per user, and a second mailbox needs Plus.
 - Price: (read 2026-10-15 in a live browser on getinboxzero.com/pricing with its comparison table and FAQ, the home page, the terms of service dated 16 July 2023 and the privacy policy) Three plans priced per user, plus Enterprise. Starter is $18 per user a month billed annually or $20 monthly: labelling and sorting every email, drafted replies in your voice, a cold-email blocker, bulk unsubscribe and archive, email…
 
 ## InVideo
 - Review: https://officesoftwaremarketplace.com/invideo-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: InVideo: Starter is $20 a seat a month on either billing (400 credits a seat a month, up to 5 seats). The honest catch is the credit model.
 - Price: Three plans priced per seat, re-verified on invideo.io/pricing on 24 September 2026; the page was rebuilt after 5 September, when it listed Plus, Max, Generative and Elite. Starter is $20 a seat a month on either billing (400 credits a seat a month, up to 5 seats), Plus $50 a seat annually or $60 monthly (2,000 credits, up to 10 seats) and Max $100 a seat annually or $150 monthly (5,000 credits, up to 20 seats;…
 
 ## Jane
 - Review: https://officesoftwaremarketplace.com/jane-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Jane: Extra practitioners cost $40 full-time or $20 part-time. Work out your price from your practitioner count, not from the plan headline.
 - Price: (read 2026-10-01 on jane.app/pricing with the US locale; the same page shows CAD to Canadian visitors and much lower GBP prices to UK visitors) Three plans, billed monthly. Balance is $59 a month for a single practitioner profile and is capped at 20 appointments a month (counted as invoices, so a class with several attendees uses one per attendee invoice).
 
 ## Jibble
 - Review: https://officesoftwaremarketplace.com/jibble-review.html
+- Hands-on: tested by us on 2026-09-25
 - Verdict: Jibble: Groei €3.79 annually or €4.99 monthly. Free forever with unlimited users holds up: the plan a new account lands on is Free, €0, with no card.
 - Price: (read 2026-09-25 inside a new Jibble account, signed in from the Netherlands; euros, excluding VAT) Jibble still publishes no prices on its public site — jibble.io/pricing, /plans and /upgrade-plans land on the homepage — but the account carries a full price table behind its upgrade button. Four plans, per user per month: Free, €0, 'forever', for unlimited members; Essentieel €1.79 billed annually or €2.99…
 
 ## Joiin
 - Review: https://officesoftwaremarketplace.com/joiin-review.html
+- Hands-on: tested by us on 2026-10-24. Measured 2026-10-24: After sign-up Joiin asked two setup questions (About you, Business details) with the Netherlands prefilled; no card, call or integration was required. The app showed 'Your free trial ends in 14 days'.
 - Verdict: Joiin: $35 / $42 / $49 for one company, $122 / $130 / $144 for ten and $350 / $371 / $406 for a hundred. The headline now hides a three-way split.
 - Price: (re-verified 2026-10-24 in a browser render of joiin.co/pricing in US dollars at 1, 2, 10 and 100 companies on both billing periods, unchanged; the 5, 20 and 50 company steps and the above-100 fees were last read on 2026-10-06 in the calculator and the price table in its own pricing script) Joiin now sells three plans, Core, Pro and Max, each priced by the number of companies you consolidate. Billed annually, per…
 
 ## Jubilee
 - Review: https://officesoftwaremarketplace.com/jubilee-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Jubilee: Pay As You Go is $95 per case. The case-count tiers are the thing to size correctly: pick 36 vs 300 by your real annual filing volume.
 - Price: Pay As You Go is $95 per case. The alternative is an annual subscription billed by yearly filing volume.
 
 ## Krystal
 - Review: https://officesoftwaremarketplace.com/krystal-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Krystal — All prices below are in pounds and exclude VAT: the site's Include VAT switch is off by default. Krystal does not win on sticker price.
 - Price: (read 2026-10-05 on krystal.io/hosting, /hosting/business, /hosting/wordpress/managed and /cloud-vps; shared plans and backup frequencies re-read 2026-10-20 on /hosting and /hosting/business) All prices below are in pounds and exclude VAT: the site's Include VAT switch is off by default, so UK buyers add 20%. Shared cPanel hosting comes in six plans: Amethyst £7 a month (1 site, 10GB NVMe storage, 2GB RAM, 1 CPU,…
 
 ## Leavo
 - Review: https://officesoftwaremarketplace.com/leavo-review.html
+- Hands-on: tested by us on 2026-10-31. Measured 2026-10-31: The wizard described thirty days and billing showed thirty days remaining.
 - Verdict: Leavo: Professional $2.50/user/mo billed yearly ($450 a year for 15 members) or $3/user/mo billed monthly. The tidy per-user numbers are annual-billed.
 - Price: (price re-verified 2026-08-17, 2026-10-07 and 2026-10-19 against leavo.com/en/pricing) (2026) 30-day free trial with unlimited members and no credit card (a trial, not a permanent free plan). Professional $2.50/user/mo billed yearly ($450 a year for 15 members) or $3/user/mo billed monthly, and adds unlimited features and overtime banking; Premium $4.17/user/mo billed yearly ($750 a year for 15 members) or…
 
 ## Liltio
 - Review: https://officesoftwaremarketplace.com/liltio-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Liltio: $49 standard price, with no recurring subscription. Speech recognition is local, but if you switch on a configured remote AI for text transforms.
 - Price: (read 2026-10-23 on liltio.com/#pricing; US dollars, before applicable taxes) Liltio sells one product, Liltio Local, as a one-time lifetime licence: $49 standard price, with no recurring subscription. A founding offer takes it to $29 for the first 100 paid licences, applied automatically while available; on 23 October 2026 the page counted 100 of 100 left and said availability is final at checkout.
 
 ## Lovable
 - Review: https://officesoftwaremarketplace.com/lovable-review.html
+- Hands-on: tested by us on 2026-09-26
 - Verdict: Lovable — Free: 5 build credits a day, capped at 30 a month, which do not roll over. You do not know what a change costs until it is done.
 - Price: (read 2026-09-26 on lovable.dev/pricing from a European exit, so shown in euros including VAT, and in Lovable's plans-and-credits documentation) Free: 5 build credits a day, capped at 30 a month, which do not roll over; plus a monthly Cloud grant of 20 credits for hosting and backend services and 4 credits for AI features inside published apps. Pro starts at 25 euros a month for 100 credits, with a dropdown of…
 
 ## Melio
 - Review: https://officesoftwaremarketplace.com/melio-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Melio: A free Go plan, $0 forever, with 5 free ACH payments a month and $0.50 for each one after that. The free plan is genuinely useful for low bill volume.
 - Price: (re-verified 2026-08-17 and 2026-10-07 on their own pricing page) A free Go plan, $0 forever, with 5 free ACH payments a month and $0.50 for each one after that. Core is $25/mo, or $20 billed annually, with 20 free ACH a month; Boost $55/mo, or $44 annually, with 50 free ACH; Unlimited $80/mo, or $64 annually, with unlimited users.
 
 ## Mera Work
 - Review: https://officesoftwaremarketplace.com/mera-work-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Mera Work: In US dollars it is $4 per user a month billed monthly or $3 per user a month billed annually. The price is low and the feature list is long.
 - Price: (read 2026-09-30 on mera.work/pricing, INR and USD tabs, and on mera.work/signup) One plan, priced per user, with every feature included: the page states there are no feature restrictions and no add-ons. In US dollars it is $4 per user a month billed monthly or $3 per user a month billed annually, which the page describes as saving $12 per user a year.
 
 ## MigrationPro
 - Review: https://officesoftwaremarketplace.com/migrationpro-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: MigrationPro: The homepage puts a typical store at $49 to $299 on actual record counts. Start with what is no longer there.
 - Price: (re-read 2026-10-05 on apps.shopify.com/migrationpro-shopify-migration-app and migrationpro.io/pricing/) The App Store listing has gone. Read on 5 October 2026 it says “This app is not currently available on the Shopify App Store.
 
 ## MindStudio
 - Review: https://officesoftwaremarketplace.com/mindstudio-review.html
+- Hands-on: tested by us on 2026-10-23. Measured 2026-10-23: The Free plan in the app lists 'One Agent' and '1,000 runs / month', but model usage is paid from a separate prepaid balance that starts at $0.00 on a new workspace (shown in red, 'Click to top up').…
 - Verdict: MindStudio: Free is $0/month plus usage and caps you at one agent and 1,000 runs a month. The no-markup model pass-through is genuinely fair.
 - Price: (prices re-verified 2026-09-18 and again 2026-10-05 on mindstudio.ai/pricing) The subscription is a floor, not the bill: every tier reads “+ usage”, so model calls are charged on top. Free is $0/month plus usage and caps you at one agent and 1,000 runs a month.
 
 ## Miro
 - Review: https://officesoftwaremarketplace.com/miro-review.html
+- Hands-on: tested by us on 2026-10-20. Measured 2026-10-20: A new free team opened with a ready-made 'My First Board' and a 'Free plan' label, so one board already counts toward the limit before you start.
 - Verdict: Miro — Free plan: 3 editable boards workspace-wide, unlimited members, AI shown as a limited trial in the plan table.
 - Price: (price re-verified 2026-09-23 on miro.com/pricing/) Free plan: 3 editable boards workspace-wide, unlimited members, AI shown as a limited trial in the plan table, which the FAQ puts at 10 credits a month. Starter $8/member/mo and Business $20/member/mo, both billed yearly; Enterprise custom priced from 30 members.
 
 ## Modge
 - Review: https://officesoftwaremarketplace.com/modge-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Modge: Basic is $5 per seat per month billed monthly or $4 billed annually. The numbers on Modge's own pages do not agree with each other.
 - Price: (read 2026-09-03 and re-verified 2026-10-16 on modge.com/pricing, both billing toggles and the comparison table; every amount unchanged) Per-seat plans with a full-feature 14-day trial and no card. Basic is $5 per seat per month billed monthly or $4 billed annually: app and URL tracking with AI productivity classification, workforce dashboards, automatic time tracking with optional screenshots, timesheets,…
 
 ## Momence
 - Review: https://officesoftwaremarketplace.com/momence-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Momence: Quote-only since September 2026. The last public ladder (6 September) made the 'free' plan the most expensive one at real volume.
 - Price: Quote-only since September 2026. Re-read 25 September 2026, momence.com/pricing (now www.momence.com/pricing/, with the footer reading 'Xplor Momence') no longer shows plan cards: it carries three customer quotes and a 'Let's talk pricing' form asking first and last name, business name, business website and email, with no amount, commission rate or processing fee anywhere on the page.
 
 ## Murf
 - Review: https://officesoftwaremarketplace.com/murf-review.html
+- Hands-on: tested by us on 2026-10-20. Measured 2026-10-20: The script stayed in one sub-block. The default voice was Ruby (US English) in the 'Angry' style, and the meter started at 00:10:00.
 - Verdict: Murf: Free $0 for 10 projects, 10 minutes of voice generation and one editor, with no downloads and no commercial rights. Voice quality is genuinely strong.
 - Price: (re-verified 2026-10-03 in a browser; the page renders client-side and opens on annual billing, so check which column you are reading) Studio plans: Free $0 for 10 projects, 10 minutes of voice generation and one editor, with no downloads and no commercial rights. Creator $19/mo billed annually ($228 a year): 100 projects, 24 hours of voice generation a year, 1 editor, all 200+ voices, unlimited downloads and…
 
 ## Mycroft
 - Review: https://officesoftwaremarketplace.com/mycroft-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Mycroft has no public pricing: three packages, and not one number between them. The pricing page is a feature list with the prices taken out.
 - Price: (read 4 September 2026 on www.mycroft.io/pricing) Mycroft has no public pricing: three packages, and not one number between them. Platform is the entry tier and the only one whose button says Get started rather than something sales-shaped; it bundles the full GRC platform for SOC 2, ISO 27001, GDPR, HIPAA and more, a Cloud Native Application Protection Platform, security, AI and privacy awareness training,…
 
 ## Navan
 - Review: https://officesoftwaremarketplace.com/navan-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Navan Expense is free for the first 5 monthly expensing users and then $15 per user per month. 'Free' is real but has a mechanism.
 - Price: (read 24 September 2026 on navan.com/pricing) Navan Business is free for companies of up to 300 employees, with no limit on trips, and Navan Expense is free for the first 5 monthly expensing users and then $15 per user per month. Above 300 employees the plan is Navan Enterprise, priced by quote.
 
 ## Netart
 - Review: https://officesoftwaremarketplace.com/netart-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Netart sells a broad range of cloud services. The headline offers are first-period promotions; after them you pay the standard $18.75, $37.50 or $75 a month.
 - Price: (read 2026-10-25 on netart.com/us/pricing/pricing-cloudhosting/ and on netart.com/us/hosting/) Netart sells a broad range of cloud services; this review covers CloudHosting, its main web hosting line. The standard price list is CloudHosting Start $18.75 a month, Business $37.50 and Pro $75, with 100 GB, 500 GB and 1 TB of storage.
 
 ## NexGen Virtual Office
 - Review: https://officesoftwaremarketplace.com/nexgen-virtual-office-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: NexGen Virtual Office: Enterprise customers, which the page describes as 1,000 or more seats, have to book a demo. We found no current free trial.
 - Price: (read 2026-10-27 on nexgenvirtualworkplace.net, SMB Market page; the Enterprise and Webex pages were read on 2026-10-20; dollar amounts, the page does not name the currency) NexGen prices its virtual workplace per user for companies with 1 to 100 employees, all with self implementation: $25 per user paid monthly (cancel anytime), $20 per user a month paid quarterly ($60 per quarter) or $15 per user a month paid…
 
 ## Ngram
 - Review: https://officesoftwaremarketplace.com/ngram-review.html
+- Hands-on: tested by us on 2026-09-30
 - Verdict: Ngram: Credit-based, three published tiers plus a quote-only Enterprise, with annual billing 20% off. Premium AI generation runs from 10 credits a second.
 - Price: (re-verified 2026-08-17 and 2026-10-07) Credit-based, three published tiers plus a quote-only Enterprise, with annual billing 20% off. Free is a one-time 600-credit allocation capped at 60 seconds of premium AI generation and 720p exports.
 
 ## Niural AI
 - Review: https://officesoftwaremarketplace.com/niural-ai-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Niural AI: Eight products, each priced separately. The prices are published — which in payroll is genuinely rare and worth crediting.
 - Price: (read 18 September 2026 in a live browser on niural.com/pricing) Eight products, each priced separately, and unusually for this category every one of them carries a published figure. US Payroll Standard is $100 a month as a platform fee plus $20 per employee a month, covering multi-state payroll with W-2s and 1099s, unlimited pay schedules and payroll runs, PTO and leave policies, workforce analytics, same-day…
 
 ## NordPass
 - Review: https://officesoftwaremarketplace.com/nordpass-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: NordPass: The Free plan has autosave, autofill and secure storage. Teams is sold only as a 10-user pack and Business and Enterprise have a 5-user minimum.
 - Price: (read 2026-10-08 and re-read 2026-10-14, unchanged, on nordpass.com/pricing in a browser render from a Netherlands connection, EUR, excluding VAT, on the 2-year, 1-year and 1-month tabs) Personal plans: Premium is €1.99 a month on the 1-year plan (€23.88 for the first 12 months, shown against €35.88) or €1.39 a month on the 2-year plan with 3 extra months (€37.53 for the first 27 months, against €80.73); Family,…
 
 ## Nouswise
 - Review: https://officesoftwaremarketplace.com/nouswise-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Nouswise: Four tiers, billed monthly. Their own site does not agree with itself about what this costs, and we have now checked that twice.
 - Price: (2026-08-12, read on their own pricing page; re-verified 2026-08-26 and again 2026-09-05) Four tiers, billed monthly: Starter at 0$/month, Essential at 19.99$/month and Pro at 49.99$/month, printed as “49,99$” with a comma on the page itself. Enterprise is “Contact us for custom plan”, with no figure at all.
 
 ## Oyster
 - Review: https://officesoftwaremarketplace.com/oyster-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Oyster: Employer of Record USD 699 per employee per month, with annual discounts available. The two numbers that decide your bill are not on the price card.
 - Price: (re-verified 2026-10-09 on their own pricing page; the figures are unchanged since 2026-08-14) Employer of Record USD 699 per employee per month, with annual discounts available; Global Contractors free for 30 days, then USD 29 per contractor per month; People Partner Services USD 300 per hour, project-based. Creating an account is free, there is no minimum team size, and Oyster states there are no setup or…
 
 ## Pangram
 - Review: https://officesoftwaremarketplace.com/pangram-review.html
+- Hands-on: tested by us on 2026-10-01
 - Verdict: Pangram: Llms.txt says funds from $5 to $2,000. The unavoidable honest limit of every AI detector, including accurate ones: it is never infallible.
 - Price: (re-verified 6 September and again 30 September 2026 on pangram.com/pricing and pangram.com/llms.txt, which agree with each other on every figure) Free: $0, no payment method, up to 2,000 words a day (20 credits of 100 words, rounded up per check: ten checks of 150 words in our test of 1 October 2026) and 3 image scans a day. Individual $20/mo or $15/mo billed annually ($180 a year) for up to 300,000 words a…
 
 ## Parim
 - Review: https://officesoftwaremarketplace.com/parim-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Parim: The page says pricing starts from £47 per month with unlimited users on every plan. Unlimited users sounds like the generous part, and it is.
 - Price: (re-read 2026-09-17 and again on 2026-10-05 on parim.co/pricing; unchanged since 20 August 2026) One number is published and the rest is not. The page says pricing starts from £47 per month with unlimited users on every plan, but each of the three tiers — Starter, Pro, Premium — carries a ‘Request Pricing’ button rather than a figure.
 
 ## pCloud
 - Review: https://officesoftwaremarketplace.com/pcloud-review.html
+- Hands-on: tested by us on 2026-11-02. Measured 2026-11-02: The free account started at 2 GB of storage and became 3 GB after our first upload: one extra gigabyte unlocked by that action. The homepage says you can unlock up to 10 GB; we only saw the first step.
 - Verdict: pCloud: Premium 500 GB is €219 (struck through from €279). Client-side encryption is not included in personal plans; it is a separate €150 purchase.
 - Price: (read 2026-10-26 on pcloud.com, its family and business pages, from a Netherlands connection that showed euros; the page calls the prices final) pCloud is best known for lifetime plans paid once. Premium 500 GB is €219 (struck through from €279), Premium Plus 2 TB €499 (from €709) and Ultra 10 TB €1,499 (from €2,799), each a one-time payment that includes pCloud Photos and pCloud Docs and shared-link traffic of…
 
 ## PDF Agile
 - Review: https://officesoftwaremarketplace.com/pdf-agile-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: PDF Agile: The free version limits conversion to 2 pages and 5 tasks. The Semi-Annual and Annual plans are one-time payments tied to an upgrade period.
 - Price: (read 2026-10-23 on pdfagile.com/pricing; dollar amounts, the page does not name the currency) PDF Agile sells three paid plans and calls each of them a one-time payment rather than a subscription. Semi-Annual is $39 (shown as $6.5 a month) with 6 months of upgrades and priority support; Annual is $59 (shown as $4.9 a month) with 1 year of upgrades and priority support; Lifetime is $119, marked as a 60%-off…
 
 ## Pdfdodo
 - Review: https://officesoftwaremarketplace.com/pdfdodo-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Pdfdodo: Free $0 for 25 pages a month and 5 MB per PDF. The yearly Solo card shows $20 a month beside $200 billed yearly, which cannot both be right.
 - Price: (read 2026-10-16 in a browser on pdfdodo.com, monthly and yearly view of the pricing block; the cards show a $ sign without naming the currency) Four plans metered by pages analysed per month: Free $0 for 25 pages a month and 5 MB per PDF; Solo $25 a month for 300 pages and 15 MB per PDF; Startup $59 a month for 1000 pages and 15 MB per PDF; Business $99 a month for 3000 pages with no upload limit and priority…
 
 ## PDWare
 - Review: https://officesoftwaremarketplace.com/pdware-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: PDWare: Quote-only, re-confirmed 25 September 2026. The honest pre-purchase question is organizational.
 - Price: Quote-only, re-confirmed 25 September 2026: pdware.com has no pricing page (/pricing returns 404) and every route ends in a 'Request pricing' form or a guided demo, with no amount anywhere on the homepage. What the site does publish, in a Pricing & licensing section on its FAQ page that carries no numbers, is the shape of the quote: licensing is based on the size of the planning group and on the types of users on…
 
 ## Petty Cash Manager
 - Review: https://officesoftwaremarketplace.com/petty-cash-manager-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Petty Cash Manager: 3 months is $16.99 ($5.66 a month) on 3 devices. Without the Cloud sync add-on, your records live in the browser on each device.
 - Price: (read 2026-11-02 on pettycash.getdailytools.com, pricing section and FAQ; the page says prices are in US dollars, with VAT or GST added at checkout where your country requires it) Petty Cash Manager has one app and four ways to pay, and every plan includes every feature. The difference is the billing term and the number of devices: Monthly is $7 a month on 2 devices; 3 months is $16.99 ($5.66 a month) on 3…
 
 ## Planday
 - Review: https://officesoftwaremarketplace.com/planday-review.html
+- Hands-on: tested by us on 2026-10-31. Measured 2026-10-31: The trial showed 30 days, with no card. The sign-up form requires a phone number.
 - Verdict: Planday: Plus is €4.99 against £3.99 against $4.49. The €25 monthly platform fee on Plus is the line most comparisons miss.
 - Price: (re-read 2026-09-17 and again on 2026-10-05; the euro list is unchanged since 20 August 2026, but which list you see depends on the page you open) Three tiers, two of them priced. On the euro page, planday.com/de/preise, Starter is €2.99 per user per month with a 5-user minimum, Plus is €4.99 per user with a 10-user minimum plus a €25.00 monthly subscription fee on top of the per-user cost, and Pro is…
 
 ## Plansom
 - Review: https://officesoftwaremarketplace.com/plansom-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Plansom: The old /pricing URL returns 404, and still did when re-checked on 24 September 2026. The thing you cannot check is the price.
 - Price: No public price. plansom.com (read in a browser on 5 September 2026) has no pricing page, no pricing link in the navigation and no amount anywhere on the site; the only routes off the homepage are 'Create plan' and the app login.
 
 ## Plesk
 - Review: https://officesoftwaremarketplace.com/plesk-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Plesk: A 12-month term takes 8% off, to $15.57, $27.49 and $57.74. Plesk has been raising prices steadily (the 2026 round averaged ~26%).
 - Price: (read 2026-08-30 on plesk.com/pricing from a US exit; re-verified 2026-09-20 from the Netherlands against the page's own PleskPricing rate card, which carries every currency) Per-server licences, priced per edition by domain count. On a VPS: Web Admin $16.99/month (10 domains), Web Pro $29.99 (30 domains), Web Host $62.99 (unlimited domains).
 
 ## Prezi
 - Review: https://officesoftwaremarketplace.com/prezi-review.html
+- Hands-on: tested by us on 2026-09-28
 - Verdict: Prezi has a free plan, Basic, and three paid individual plans: Standard €5 a month, Plus €15 and Premium €25, all billed annually.
 - Price: Prezi has a free plan, Basic, and three paid individual plans: Standard €5 a month, Plus €15 and Premium €25, all billed annually. Read on 28 September 2026 on prezi.com/pricing (which redirects to prezi.com/gts/pricing), in euros from a Netherlands exit, with every section of the comparison table opened; the three paid plans sit on the Individual tab, and Basic has a tab of its own, where it is shown next to Plus.
 
 ## Process Street
 - Review: https://officesoftwaremarketplace.com/process-street-review.html
+- Hands-on: tested by us on 2026-10-23. Measured 2026-10-23: On the day of sign-up the app showed '14 days left in your free trial'; no card was asked.
 - Verdict: Process Street publishes no prices. Built for operations-driven teams that run recurring, checklist-based processes and want them tracked and auditable.
 - Price: Process Street publishes no prices. Re-verified 2026-08-17, 2026-09-30 and 2026-10-06: every tier on their pricing page, Startup included, shows Contact sales rather than a figure, and our monthly captures from July and August 2026 are byte-for-byte identical and contain no amount.
 
 ## Proton
 - Review: https://officesoftwaremarketplace.com/proton-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Proton: Free is $0.00 a month for 1 GB and one address. Storage is the axis, and the jump from Drive Plus to Unlimited is not really about storage at all.
 - Price: (read 2026-08-26 on proton.me/pricing over a US connection, on the Mail tab with yearly billing) Free is $0.00 a month for 1 GB and one address. Mail Plus is $3.99 a month, marked 20% off $4.99 and billed at $47.88 every twelve months, for 15 GB, ten addresses and one custom domain.
 
 ## Proton Drive
 - Review: https://officesoftwaremarketplace.com/proton-drive-review.html
+- Hands-on: tested by us on 2026-10-09. Measured 2026-10-09: All four files came back identical: the same size and the same SHA-256 checksum as the originals, and the file name with spaces and an accented letter was unchanged, byte for byte.
 - Verdict: Proton Drive: Proton Duo is $14.99 for 2 TB across two users at $179.88 a year. End-to-end encryption is the point and the price.
 - Price: (read 2026-08-26 over a US connection and re-read 2026-10-16 with USD selected, on proton.me/drive/pricing, Individuals view with yearly billing) Proton Free gives 5 GB. Drive Plus is $3.99 a month for 200 GB, marked 20% off $4.99 and billed at $47.88 every twelve months.
 
 ## Qoyod
 - Review: https://officesoftwaremarketplace.com/qoyod-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Qoyod: Billed in Saudi riyal, which is pegged to the dollar at 3.75. The entry tier does not do the thing the product is sold on.
 - Price: (prices read 2026-08-18 in-browser on app.qoyod.com/home/select_plan_en; the marketing site returns 403 to plain fetches) Billed in Saudi riyal, which is pegged to the dollar at 3.75, so the conversion is exact rather than approximate. Annual pricing runs four tiers.
 
 ## QuickBooks UK
 - Review: https://officesoftwaremarketplace.com/quickbooks-uk-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: QuickBooks UK: Sole Trader Plus £10, Simple Start £16, Essentials £38 for three users, Plus £56 for five and Advanced £123 for twenty-five.
 - Price: Read in a live browser on their own UK pricing page, 28 Aug 2026, in pounds. The page now shows monthly list prices and carries no annual option: Sole Trader Plus £10, Simple Start £16, Essentials £38 for three users, Plus £56 for five and Advanced £123 for twenty-five — all plus VAT at 20%.
 
 ## QuillBot
 - Review: https://officesoftwaremarketplace.com/quillbot-review.html
+- Hands-on: tested by us on 2026-10-01
 - Verdict: QuillBot: Premium is $19.95 a month month-to-month, or $8.33 a month billed annually ($99.95 a year). The free tier is deliberately narrow.
 - Price: Read in a browser on quillbot.com/premium from a US exit (New York) on 8 September 2026, with the annual toggle operated in both positions; an EU read on 7 September showed the same figures in euros. Free at $0 (paraphrase up to 125 words in 2 modes, humanizer up to 125 words and 6 uses a day, summaries to 1,200 words).
 
 ## Recruit CRM
 - Review: https://officesoftwaremarketplace.com/recruit-crm-review.html
+- Hands-on: tested by us on 2026-11-02. Measured 2026-11-02: The exported Contact First Name values retained ë and è in both synthetic contacts despite this import warning.
 - Verdict: Recruit CRM: Pro is €79 per user a month billed annually or €95 monthly, with 100 credits per user a month. The headline seat price is not the whole bill.
 - Price: (read 2026-10-25 on recruitcrm.io/pricing/ with both the Annually and the Monthly toggle clicked, from the Netherlands, where the page shows euros; and in the Recruit CRM help centre) Pro is €79 per user a month billed annually or €95 monthly, with 100 credits per user a month. Business is €109 annually or €135 monthly with 200 credits, and adds the resume formatting agent, multichannel sequences across email,…
 
 ## Remote People
 - Review: https://officesoftwaremarketplace.com/remote-people-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Remote People: US PEO from $99 per employee a month and US payroll from $29. The monthly rates are the cheapest we have on file for this category.
 - Price: (2026-08-07, read on their own pricing page; re-verified unchanged on 2026-10-06 and again on 2026-10-09) Priced per service rather than per plan, and every figure is a floor. Employer of Record: EOR Flex from $199 per employee a month, billed monthly with no commitment, no setup fee and no minimum headcount; EOR Plus from $399 with an annual commitment, a dedicated account manager and a minimum of 5 employees.
 
 ## Replit
 - Review: https://officesoftwaremarketplace.com/replit-review.html
+- Hands-on: tested by us on 2026-09-26
 - Verdict: Replit: Core is $20/month, or $18/month billed annually. The subscription price is fixed; the paid Agent work is not.
 - Price: (re-verified 2026-09-26 on replit.com/pricing and docs.replit.com/billing/plans/starter-plan) The pricing page now lists Core, Pro and Enterprise. The free Starter plan is no longer shown there but still exists in Replit's documentation: daily Agent credits up to a monthly cap, Free Mode with a daily cap (the experience Replit used to call Lite build), no Full build (that needs Core or Pro), one published app…
 
 ## Rippling
 - Review: https://officesoftwaremarketplace.com/rippling-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Rippling is modular and mostly quote-led. You're buying a system of record; the value only shows up once you consolidate several systems onto it.
 - Price: (re-verified 2026-10-16) Rippling is modular and mostly quote-led. The pricing page is a custom-quote form: you tell it which of HR, IT and Finance you need and your headcount, and a price comes back through sales.
 
 ## Runpod
 - Review: https://officesoftwaremarketplace.com/runpod-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Runpod: $1.79/hr per A100 SXM and $4.31/hr per H200 SXM. On the same card serverless runs roughly 1.7x the pod rate per compute-hour.
 - Price: Pay-per-use GPU cloud (re-verified 24 September 2026 against runpod.io/pricing). Secure Cloud on-demand pods run from $0.27/hr (RTX A5000) and $0.49/hr (L4) up to $2.89/hr for an H100 PCIe, $3.49/hr H100 SXM, $4.59/hr H200, $6.79/hr B200 and $7.89/hr B300.
 
 ## Samsara
 - Review: https://officesoftwaremarketplace.com/samsara-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Samsara: The Pricing and Plans page names seven packages. The pricing page asks how many vehicles you run and leads to a sales form.
 - Price: (read 2026-10-10 on samsara.com/pricing and samsara.com/resources/plans, US site) No prices are shown. The pricing page opens a form that first asks how many vehicles or assets you have (1-5, 6-29, 30-499, 500-4,999 or 5,000+) and prints no figure.
 
 ## Sendcloud
 - Review: https://officesoftwaremarketplace.com/sendcloud-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Sendcloud — Free plan €0/mo: up to 20 parcels a month, no courier contract, no subscription, €0.50 a label beyond that.
 - Price: (price re-verified 2026-09-22 against the vendor's own pricing page, read from a Dutch exit; every subscription, label fee and cap identical to the 31 Aug 2026 reading) Free plan €0/mo: up to 20 parcels a month, no courier contract, no subscription, €0.50 a label beyond that. Paid tiers at the monthly rate: Lite €28/mo + €0.10 per label, Growth €87/mo + €0.09, Premium €175/mo + €0.08, Pro €639/mo + €0.07.
 
 ## Sentaro
 - Review: https://officesoftwaremarketplace.com/sentaro-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Sentaro: Priced per protected account, in USD. The category claim (AI catches what filters miss) is plausible.
 - Price: (read 24 September 2026 on sentaro.com/en/pricing) Priced per protected account, in USD. Pro is $6 per protected account per month after the first account, or $68 per account per year, about $5.67 a month and roughly 5.6% below monthly.
 
 ## Shiftie
 - Review: https://officesoftwaremarketplace.com/shiftie-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Shiftie: £2.75 per active employee per month for the first 30, then £1.50 for each employee above 30 — the reduced rate is marginal, not retroactive.
 - Price: (price re-verified 24 September 2026, unchanged since 5 September) £2.75 per active employee per month for the first 30, then £1.50 for each employee above 30 — the reduced rate is marginal, not retroactive. Measured on the vendor's own pricing slider: 1 employee £2.75, 5 £13.75, 10 £27.50, 15 £41.25, 30 £82.50, 31 £84.00, 50 £112.50, 100 £187.50, 150 £262.50, 199 £336.00.
 
 ## Shippo
 - Review: https://officesoftwaremarketplace.com/shippo-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Shippo — Pro is banded by monthly label volume, priced monthly or annually: 1-200 labels $19/mo or $205/yr. The pricing is honest but layered.
 - Price: Read on their own pricing page, re-verified 25 September 2026. Starter is free: up to 30 labels a month, discounted USPS, UPS, FedEx and DHL Express rates, 1 user login, and 5¢ per label if you connect your own carrier account.
 
 ## Shoeboxed
 - Review: https://officesoftwaremarketplace.com/shoeboxed-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Shoeboxed: Starter $97/yr or $9/mo (50 digital scans/mo, 20 paper scans/yr, 1 Magic Envelope/yr, 3 users, 3 years of digital scan storage).
 - Price: (price re-verified 2026-10-11 against the vendor's own pricing page; prices unchanged since 31 Aug 2026, allowances and overage rates changed) Four plans, each quoted both yearly and monthly: Starter $97/yr or $9/mo (50 digital scans/mo, 20 paper scans/yr, 1 Magic Envelope/yr, 3 users, 3 years of digital scan storage); Pro $297/yr or $29/mo (250 digital scans/mo, 50 paper scans/mo, 1 Magic Envelope per quarter,…
 
 ## Shopmonkey
 - Review: https://officesoftwaremarketplace.com/shopmonkey-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Shopmonkey — Billed annually, which the page says saves up to 10%: Basic $215 a month, Clever $359, Genius $449. Card processing is part of the product.
 - Price: (read 2026-10-11 on shopmonkey.io/pricing, USD) Three published plans for auto repair shops and a Multi-Shop plan on quote. Billed annually, which the page says saves up to 10%: Basic $215 a month, Clever $359, Genius $449.
 
 ## Shore
 - Review: https://officesoftwaremarketplace.com/shore-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Shore: Five packages on two product lines, each with a yearly-billing and a monthly-billing rate a flat EUR 10 apart ('Yearly (Save EUR 120)').
 - Price: (2026-09-26, read on shore.com/en/pricing and its 'All features compared' page, in euros, excluding VAT, for businesses only) Five packages on two product lines, each with a yearly-billing and a monthly-billing rate a flat EUR 10 apart ('Yearly (Save EUR 120)'). Appointments: Booking EUR 49.90 a month billed yearly or EUR 59.90 monthly, up to 5 staff; Booking + Marketing EUR 69.90 / EUR 79.90, unlimited staff.
 
 ## Shortcut Chat
 - Review: https://officesoftwaremarketplace.com/shortcut-chat-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Shortcut Chat: Pro is $20 a month or $216 a year, Pro+ is $40 a month or $432 a year. The usage allowance is the unknown.
 - Price: (read 2026-11-08 on shortcutchat.com, dollar amounts as shown on the page) Shortcut Chat sells one subscription in three sizes. Pro is $20 a month or $216 a year, Pro+ is $40 a month or $432 a year, and Ultra is $100 a month or $1,080 a year; the page says annual billing is 10% off.
 
 ## ShortlistIQ
 - Review: https://officesoftwaremarketplace.com/shortlistiq-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: ShortlistIQ: Every account starts on a free plan for up to 10 applicants, with no credit card.
 - Price: (read 2026-10-16 in a browser on shortlistiq.com/pricing; the cards show a $ sign without naming the currency, and clicking Pay annually did not change the amounts) Three paid plans, each labelled per month and metered by invited applicants per month: Basic $49 for up to 20 applicants and one AI assistant; Standard $199 for up to 200 applicants and unlimited AI assistants with live chat support; Premium $599 for…
 
 ## Signable
 - Review: https://officesoftwaremarketplace.com/signable-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Signable prices by the envelope, not by the user. Business and Enterprise prices are only 'from' figures and go through sales.
 - Price: (read 2026-10-20 on signable.com/plans, prices in pounds plus VAT; the EU page signable.com/plans-eu was read on 2026-10-15) Signable prices by the envelope, not by the user: every plan has unlimited users and unlimited templates. An envelope is one package of one or more documents sent together for signing.
 
 ## SignNow
 - Review: https://officesoftwaremarketplace.com/signnow-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Signnow.com/pricing.md, read the same day, gives the annual rates as $8, $15 and $30 per user a month. It's built for straightforward everyday signing.
 - Price: Three plans on signNow's live checkout page, read in a browser on 26 September 2026 from the EU: Business EUR 8, Business Premium EUR 15 and Enterprise EUR 30 a month billed annually, against EUR 20, EUR 30 and EUR 50 month-to-month (the cards state the annual saving as EUR 144, EUR 180 and EUR 240); signnow.com/pricing.md, read the same day, gives the annual rates as $8, $15 and $30 per user a month. Every card…
 
 ## Slasify
 - Review: https://officesoftwaremarketplace.com/slasify-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Slasify: Three services, each with a starting price and a custom quote. Only starting prices are public.
 - Price: (read 2026-10-31 on slasify.com/pricing in a browser render, USD) Three services, each with a starting price and a custom quote. Employer of Record, marked most popular, starts at $250 a month.
 
 ## SmartSuite
 - Review: https://officesoftwaremarketplace.com/smartsuite-review.html
+- Hands-on: tested by us on 2026-10-21. Measured 2026-10-21: The sign-up page reads 'Welcome to SmartSuite' and 'Let's get your free 14-day trial setup', with one field, 'Enter your business email', and the note 'A valid business email address is required to…
 - Verdict: SmartSuite: No free plan — a 14-day trial of Professional with no credit card. One gate comes before all of that.
 - Price: (re-verified 2026-10-02 on their own pricing page, USD; unchanged since our August reading) No free plan — a 14-day trial of Professional with no credit card, and the page states there is no auto-charge when it ends. Team is $15 per seat a month billed annually, or $20 billed monthly, with a minimum of 3 billable users, 5,000 records per solution, 50GB of storage and a 30-day recycle bin.
 
 ## SMTP.com
 - Review: https://officesoftwaremarketplace.com/smtp-com-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: SMTP.com: Essential $25 (50,000 emails, shared IP), Starter $80 (100,000, dedicated IP begins here), Growth $300 (500,000), Business $500 (1,000,000).
 - Price: (price re-verified 24 September 2026, unchanged since 5 September) Fixed-volume plans, all billed monthly: Essential $25 (50,000 emails, shared IP), Starter $80 (100,000, dedicated IP begins here), Growth $300 (500,000), Business $500 (1,000,000). Above that, High Volume Senders is quote-only and starts at a minimum of 250 million emails a month, with a dedicated platform instance, dedicated IP and MTA and no…
 
 ## SMTP2GO
 - Review: https://officesoftwaremarketplace.com/smtp2go-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: SMTP2GO — Starter: $15/mo or $150/year for 10,000 (overage $1.20 per thousand). Check the overage rate for your tier before you size up.
 - Price: (read 2026-09-26 on smtp2go.com/pricing with the volume slider walked through all nine stops; the plan cards carry the amounts in their data-rate-monthly and data-rate-annual attributes) Free: 1,000 emails a month, 200 a day, 5 days of reporting, ticket support only (toll-free phone and live chat limited to 14 days), extra emails not permitted. Starter: $15/mo or $150/year for 10,000 (overage $1.20 per thousand);…
 
 ## Softr
 - Review: https://officesoftwaremarketplace.com/softr-review.html
+- Hands-on: tested by us on 2026-10-21. Measured 2026-10-21: The trial runs on Business for 7 days and drops back to Free on its own: the plan panel in the app marked Free 'Automatic when trial ends'. The same panel listed Basic at $25, Pro at $119 and Business at…
 - Verdict: Softr: A free plan with unlimited apps, up to 3 builders, 5 app users, 5,000 database records, 500 workflow actions and 5 AI credits a month.
 - Price: (re-verified 2026-09-07 and again 2026-10-01) A free plan with unlimited apps, up to 3 builders, 5 app users, 5,000 database records, 500 workflow actions and 5 AI credits a month. Paid on yearly billing: Basic $19/month, Pro $99/month and Business $329/month, with Enterprise on custom limits; the pricing page opens on the Yearly tab and advertises two months off, so month-to-month costs more: the plan panel…
 
 ## Sucuri
 - Review: https://officesoftwaremarketplace.com/sucuri-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Sucuri sells per website. Pricing is per site, so costs climb quickly for agencies, and plans for 10 or more sites have no published price.
 - Price: (read 2026-10-27 on sucuri.net/website-security-platform/signup/, both tabs; the help-centre and terms pages were read on 2026-10-15; dollar amounts, the page does not name the currency) Sucuri sells per website. The Security Platform plans each cover one site with unlimited malware and hack removals by Sucuri's team: Basic $229 a year (first ticket response 30 hours, scans every 12 hours), Pro $339 a year (12…
 
 ## Sunsama
 - Review: https://officesoftwaremarketplace.com/sunsama-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Sunsama: The plan card says $17 a month billed yearly, or $22 billed monthly, for the Pro plan, with unlimited usage and integrations.
 - Price: (2026-08-30, re-read on their own pricing page from a US exit) The page gives two different numbers and it is worth knowing both. The plan card says $17 a month billed yearly, or $22 billed monthly, for the Pro plan, with unlimited usage and integrations; Enterprise is quote-only.
 
 ## Synthesia
 - Review: https://officesoftwaremarketplace.com/synthesia-review.html
+- Hands-on: tested by us on 2026-10-01
 - Verdict: Synthesia: Starter is $29 a month, or $18 a month billed yearly. A small edit generated again cost us 4 credits rather than the whole video.
 - Price: (re-read 1 October 2026) The public pricing page, read without signing in from a Netherlands connection, now shows dollars and a new credit model: 'Credits are now the shared currency across all AI usage-based features'. Basic is $0 with 500 credits a month plus a free allowance of 10 minutes of video or dubbing and 3 survey responses; free videos carry a Synthesia watermark and are shared by link.
 
 ## TestGorilla
 - Review: https://officesoftwaremarketplace.com/testgorilla-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: TestGorilla: Free $0 (browse and preview only, no invites). Core starts from $77 a month billed annually or from $287 billed monthly.
 - Price: (re-verified 2026-10-07 in a browser render of testgorilla.com/pricing with the currency set to USD; the page defaults to euros from a European connection; re-verified unchanged 2026-10-15 on both billing toggles) TestGorilla now sells two products that you can buy on their own or together. Gorilla Sourcing, a candidate-search product priced per Sourcing seat: Free $0 (browse and preview only, no invites); Core…
 
 ## TextExpander
 - Review: https://officesoftwaremarketplace.com/textexpander-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: TextExpander: Free is $0 forever with no credit card, Pro $5 (billed annually at $60), Business $10 (billed annually at $120), Enterprise quoted.
 - Price: (re-verified 2026-10-09 on the vendor's own pricing page; USD per user/month billed annually, excluding tax) The line-up was rebuilt after our July reading and now starts at free; nothing on it moved between 18 August and 9 October 2026. Free is $0 forever with no credit card, Pro $5 (billed annually at $60), Business $10 (billed annually at $120), Enterprise quoted.
 
 ## Todoist
 - Review: https://officesoftwaremarketplace.com/todoist-review.html
+- Hands-on: tested by us on 2026-10-20. Measured 2026-10-20: A new account started at '0 projects' with a 'Free' label; the Inbox does not count as a project.
 - Verdict: Todoist: Pro $5 a month billed annually ($60 a year) or $7 billed monthly, with 300 personal projects, custom reminders. The free plan's 5-project cap.
 - Price: (re-verified 25 September 2026 on todoist.com/pricing, currency set to USD, both billing toggles) Free Beginner plan: 5 personal projects, 3 filter views, 5 MB uploads, one week of activity history and one automatic reminder per task. Pro $5 a month billed annually ($60 a year) or $7 billed monthly, with 300 personal projects, custom reminders, calendar layout, task duration, deadlines and full history.
 
 ## Top Echelon
 - Review: https://officesoftwaremarketplace.com/top-echelon-review.html
+- Hands-on: tested by us on 2026-10-31. Measured 2026-10-31: The trial showed 30 days, with no card. The account came pre-filled with 100 sample people and 50 sample companies.
 - Verdict: Top Echelon: $95 billed annually or $115 month-to-month on Professional. Almost everything people shop for sits in Professional, not Standard.
 - Price: (2026-09-10, read on their own pricing page, both billing toggles; re-verified unchanged on 2026-10-06) TE Recruit (the ATS and CRM) runs $79 per seat per month billed annually or $95 month-to-month on Standard, and $95 billed annually or $115 month-to-month on Professional. Those seat rates rose during 2026: the same cards read $75/$89 on Standard and $89/$110 on Professional when we read them on 25 August 2026.
 
 ## Tresorit
 - Review: https://officesoftwaremarketplace.com/tresorit-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Tresorit: €28.80, €19.20 and €24 on yearly. You pay the Swiss-E2EE premium — noticeably above mainstream clouds and above Proton Drive per GB.
 - Price: (re-verified 2026-11-05 on tresorit.com/pricing/business, /personal, /tresorit-engage and /file-sharing in a browser, both billing toggles; Tresorit announced a price increase to partners on 5 November 2026) There are three business plans: Professional for 1 user, Business from 3 users and Business Pro from 5 users. Priced from our location in euros, they run €36, €24 and €30 per user per month on monthly…
 
 ## UPDF
 - Review: https://officesoftwaremarketplace.com/updf-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: UPDF: US$0 for the AI part today, then it renews at US$69 a year unless you cancel. The free version puts a trial watermark on edited files.
 - Price: (read 2026-11-04 on updf.com/pricing-individuals, US dollars) On 4 November the pricing page ran a Black Friday sale, so these are sale prices with the list price struck through. UPDF Pro, the full set of PDF tools on up to 4 devices, cost US$54.99 a year (list US$89.99) with 10 GB of cloud storage and 20 basic e-signatures a year, or US$84.99 once for a lifetime licence (list US$139.99) with 2 GB and 50 basic…
 
 ## Upwork
 - Review: https://officesoftwaremarketplace.com/upwork-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Upwork is a marketplace where clients hire freelancers. The Client Marketplace Fee is not refundable even if the payment is refunded.
 - Price: (read 2026-10-23 on support.upwork.com help articles; the client pricing pages returned an access error, so there is no complete plan table) Upwork is a marketplace where clients hire freelancers, and it earns through fees on payments rather than a single subscription price. Its help article on the Client Marketplace Fee describes the Basic client plan as free and says payments made to freelancers carry a Client…
 
 ## UserHelp.co
 - Review: https://officesoftwaremarketplace.com/userhelp-co-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: UserHelp.co — Basic is free forever: unlimited responses, one project, categories. Basic is limited to one project and shows a watermark.
 - Price: (read 2026-10-17 in a browser on userhelp.co/pricing; the card shows a $ sign without naming the currency) Two plans. Basic is free forever: unlimited responses, one project, categories, annotated screenshots and translation into several languages, with a UserHelp.co watermark.
 
 ## VideoScribe
 - Review: https://officesoftwaremarketplace.com/videoscribe-review.html
+- Hands-on: tested by us on 2026-11-02. Measured 2026-11-02: The trial banner read 'Free Trial - 6 days 23h 58m 54s remaining', which matches the 7-day trial on the pricing page, and said to purchase to remove VideoScribe watermarks.
 - Verdict: VideoScribe: Lite is €34.00 a month billed monthly, or €13.75 a month billed annually at €165.00. Payments are non-refundable according to the help centre.
 - Price: (read 2026-10-18 in a browser on videoscribe.co/pricing in the monthly and annual view, from a Netherlands connection, prices shown in euros; the cards do not say whether tax is included) Three paid plans, priced per licence. Lite is €34.00 a month billed monthly, or €13.75 a month billed annually at €165.00: 5 video downloads a month, videos up to 5 minutes, watermarks only on premium images.
 
 ## Wondershare PDFelement
 - Review: https://officesoftwaremarketplace.com/wondershare-pdfelement-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Wondershare PDFelement: The 2-Year Plan is US$109.99 (list US$149) and renews manually. A perpetual licence covers PDFelement 13, not later major versions.
 - Price: (read 2026-10-09 in a browser render of pdf.wondershare.com/store/windows-individuals.html, USD, Windows, individuals, single-platform tab) All three prices are shown as a PDFelement 13 launch discount next to a struck-through list price. The Yearly Plan is US$79.99 a year (list US$129) and renews automatically.
 
 ## WordPerfect Office
 - Review: https://officesoftwaremarketplace.com/wordperfect-office-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: WordPerfect Office: On 22 October 2026 the full version download was $99.99 for Home & Student, $249.99 for Standard and $399.99 for Professional.
 - Price: (read 2026-10-22 on the WordPerfect product pages at wordperfect.com, US English; dollar prices) WordPerfect Office is sold as a one-time purchase, not a subscription. On 22 October 2026 the full version download was $99.99 for Home & Student, $249.99 for Standard and $399.99 for Professional.
 
 ## World Businesses for Sale
 - Review: https://officesoftwaremarketplace.com/world-businesses-for-sale-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: World Businesses for Sale: Browsing is free for buyers. On the broker plans you pay twice: a listing fee up front AND commission when it sells.
 - Price: (2026, re-verified 2026-10-15 on their own store and selling pages) Browsing is free for buyers. Sellers pick one of two tracks.
 
 ## WP Rocket
 - Review: https://officesoftwaremarketplace.com/wp-rocket-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: WP Rocket: Read from Europe it sets EUR and shows Single €49.95/yr (1 website), Plus €99.95/yr (3 websites) and Multi €249.95/yr.
 - Price: (re-verified 2026-10-02 on their own pricing page, which had not moved since our September readings: the same three licences at the same rates, the same 50/100/500 site-count selector on Multi, and all three tiers now carrying Rocket Insights at no extra cost) These are annual licences, and the page prices in the visitor's currency. Read from Europe it sets EUR and shows Single €49.95/yr (1 website), Plus…
 
 ## WPForms
 - Review: https://officesoftwaremarketplace.com/wpforms-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: WPForms: $49.50 a year for one site (Basic), $99.50 for three (Plus), $199.50 for five (Pro) and $299.50 for unlimited sites (Elite).
 - Price: (read 2026-11-05 on wpforms.com/pricing) WPForms sells yearly licences for WordPress, by the number of sites. The licence is priced by how many sites you run: $49.50 a year for one site (Basic), $99.50 for three (Plus), $199.50 for five (Pro) and $299.50 for unlimited sites (Elite).
 
 ## WPLP
 - Review: https://officesoftwaremarketplace.com/wplp-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: WPLP: The cookie plugin's own listing says the free version already includes the cookie banner.
 - Price: (read 2026-10-12 in a live browser on wplegalpages.com/pricing, every option in the site selector chosen, and on the two plugin pages at wordpress.org/plugins/wplegalpages and wordpress.org/plugins/gdpr-cookie-consent) Two layers. The base is two free WordPress plugins, WPLP Legal Pages and WPLP Cookie Consent.
 
 ## xTiles
 - Review: https://officesoftwaremarketplace.com/xtiles-review.html
+- Hands-on: tested by us on 2026-10-21. Measured 2026-10-21: Sign-up runs through a required questionnaire for 'Daily Brief by xTiles' and three 'Your stack' steps that each need a choice; going straight to the workspace sent us back. 'I don't need a daily brief' is…
 - Verdict: xTiles: Plus is $19 a month, or $12.42 a month billed yearly, which the page says saves $79 a year. Pro's headline is AI control of your workspace.
 - Price: (read 2026-10-13 in a live browser on xtiles.app/en/pricing, prices in US dollars, with the comparison table and FAQ) Four plans, priced per user. Free costs nothing and gives unlimited pages and projects, free templates, 3 personal spaces, Google and Outlook calendar, an AI assistant with 1,000 credits and limited AI integrations; the table adds file uploads of up to 5MB, two weeks of planner history (in our…
 
 ## Your Company Formations
 - Review: https://officesoftwaremarketplace.com/your-company-formations-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Your Company Formations: One-off packages for forming a UK limited company, each plus the £100 Companies House incorporation fee, which is added separately.
 - Price: (read 2026-10-18 in a browser on yourcompanyformations.co.uk/packages/compare-packages/, prices in pounds) One-off packages for forming a UK limited company, each plus the £100 Companies House incorporation fee, which is added separately. VAT at 20% applies to the package price and paid extras but not to the Companies House fee.
 
 ## Zenind
 - Review: https://officesoftwaremarketplace.com/zenind-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Zenind: Three US company formation packages, each a one-time fee plus state filing fees. The $0 Basic package covers filing only.
 - Price: (read 2026-10-07 on zenind.com/pricing in a browser render, USD) Three US company formation packages, each a one-time fee plus state filing fees, which the page showed as $120.00 as it loaded and which change with the state you choose. Basic is $0.00: name availability check, preparation and filing of the state documents, filing within 7 days, lifetime customer support and an online company dashboard.
