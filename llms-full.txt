@@ -842,7 +842,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## ShortlistIQ
 - Review: https://officesoftwaremarketplace.com/shortlistiq-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-02. Measured 2026-11-02: The header showed 'Free Trial' and '0 of 10 candidates invited', which matches the pricing page's free plan for up to 10 applicants. No card was asked for in the screens we saw.
 - Verdict: ShortlistIQ: Every account starts on a free plan for up to 10 applicants, with no credit card.
 - Price: (read 2026-10-16 in a browser on shortlistiq.com/pricing; the cards show a $ sign without naming the currency, and clicking Pay annually did not change the amounts) Three paid plans, each labelled per month and metered by invited applicants per month: Basic $49 for up to 20 applicants and one AI assistant; Standard $199 for up to 200 applicants and unlimited AI assistants with live chat support; Premium $599 for…
 
