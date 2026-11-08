@@ -93,7 +93,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## BillingNow
 - Review: https://officesoftwaremarketplace.com/billingnow-review.html
 - Hands-on: tested by us on 2026-11-02. Measured 2026-11-02: We saw no trial banner or countdown anywhere, although the homepage promises a 3-day free trial; General settings simply showed 'Premium Plan'.
-- Verdict: BillingNow: $9.99 a month, or $99.90 a year which the page itself works out to $8.33 a month and labels 'Save 17%'. The pricing is genuinely refreshing.
+- Verdict: BillingNow: $9.99 a month, or $99.90 a year which the page itself works out to $8.33 a month and labels 'Save 17%'.
 - Price: (re-verified 2026-10-09 on their own pricing FAQ and refund policy; first verified 2026-08-20) Two plans, both carrying the identical feature list with no limits: $9.99 a month, or $99.90 a year which the page itself works out to $8.33 a month and labels 'Save 17%'. Both include unlimited invoices, expenses, client relations, users, estimates and credit notes, plus payment tracking, tax rates, PDF export and the…
 
 ## Bitvavo
@@ -111,7 +111,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Blinq
 - Review: https://officesoftwaremarketplace.com/blinq-review.html
 - Hands-on: tested by us on 2026-10-23. Measured 2026-10-23: The web dashboard was enough to make and share a card: 'Finish setup' still asked for the app, but nothing we did needed it. The dashboard opened with a ready-made 'Work' card and two sample contacts from…
-- Verdict: Blinq: Free forever for individuals (2 cards, unlimited QR sharing). The core product is honestly cheap — the cost that grows hides in event lead capture.
+- Verdict: Blinq: Free forever for individuals (2 cards, unlimited QR sharing). The core product is honestly cheap: the cost that grows hides in event lead capture.
 - Price: (re-verified 2026-08-17 and 2026-10-07) Free forever for individuals (2 cards, unlimited QR sharing). For individuals, Premium is $9.99 a month billed monthly or $7.33 billed annually.
 
 ## Bokun
@@ -189,7 +189,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Cloudways
 - Review: https://officesoftwaremarketplace.com/cloudways-review.html
 - Hands-on: tested by us on 2026-10-25. Measured 2026-10-25: The Flexible trial needed no card before launch. The setup screen showed DigitalOcean Premium 4GB at $54.00 a month ($0.0804 an hour) and $0 during the trial, with billing starting only when the account is…
-- Verdict: Cloudways: $0.0208 an hour is the $14 plan. "Fully managed" here means the server, not your site — and that distinction is where the money is.
+- Verdict: Cloudways: $0.0208 an hour is the $14 plan. "Fully managed" here means the server, not your site, and that distinction is where the money is.
 - Price: (read 2026-08-26 on cloudways.com/en/pricing.php, DigitalOcean tab) No free tier, but a 3-day free trial with no credit card required. Billing is hourly and post-paid, invoiced in the first week of the following month, with no annual contract — and the hourly figure is the one that decides the bill: every card divides its monthly price by 672 hours, so $0.0208 an hour is the $14 plan.
 
 ## CO2 Impact
@@ -207,7 +207,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Contractor Foreman
 - Review: https://officesoftwaremarketplace.com/contractor-foreman-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Contractor Foreman: $404, $391, $694 and $804. Monthly costs 20% to 32% more than annual on the same plan — $139 against $105 on Standard.
+- Verdict: Contractor Foreman: $404, $391, $694 and $804. Monthly costs 20% to 32% more than annual on the same plan, $139 against $105 on Standard.
 - Price: (re-verified 11 Oct 2026 on their own pricing page: annual prices unchanged since 1 Aug 2026; the quarterly option recorded on 28 Aug 2026 has been replaced by monthly billing) Priced for the company rather than per seat, with unlimited projects on every tier, and annual plans open with 30 days free before the first bill; monthly plans are charged at sign-up. Annual: Basic $49/month ($588 a year, 1 user),…
 
 ## Credit Repair Cloud
@@ -273,7 +273,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Dify
 - Review: https://officesoftwaremarketplace.com/dify-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Dify: Source-available and free of a software fee to self-host. 'Free' self-hosting isn't free — you own the servers, updates and reliability.
+- Verdict: Dify: Source-available and free of a software fee to self-host. 'Free' self-hosting isn't free: you own the servers, updates and reliability.
 - Price: Source-available and free of a software fee to self-host — the Community Edition ships under the Dify Open Source License, a modified Apache 2.0 with additional conditions — while the managed Dify Cloud adds a free Sandbox, Professional at $59/mo ($590/yr) and Team at $159/mo ($1,590/yr), each priced per workspace (re-verified 2026-10-09 against dify.ai/pricing.md; the advertised ~17% annual saving checks out:…
 
 ## DigiParser
@@ -357,7 +357,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Flatpay
 - Review: https://officesoftwaremarketplace.com/flatpay-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Flatpay: The card terminal is 1.49% and costs GBP 0 to start. “Zero monthly fees” is the headline, and there genuinely is no subscription.
+- Verdict: Flatpay: The card terminal is 1.49% and costs GBP 0 to start. “Zero monthly fees” is the headline, and there is no subscription, but there is a floor.
 - Price: (re-verified 2026-10-14 on flatpay.com/en-gb/pricing and their separate /pricelist page; the four transaction rates and up-front fees unchanged since 2026-08-13, the minimum monthly turnover changed -- see below) Flatpay charges one rate per transaction on every card type, with no monthly subscription. The card terminal is 1.49% and costs GBP 0 to start.
 
 ## FlexiQuiz
@@ -543,7 +543,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Melio
 - Review: https://officesoftwaremarketplace.com/melio-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Melio: A free Go plan, $0 forever, with 5 free ACH payments a month and $0.50 for each one after that. The free plan is genuinely useful for low bill volume.
+- Verdict: Melio: A free Go plan, $0 forever, with 5 free ACH payments a month and $0.50 for each one after that. The free plan is useful for low bill volume.
 - Price: (re-verified 2026-08-17 and 2026-10-07 on their own pricing page) A free Go plan, $0 forever, with 5 free ACH payments a month and $0.50 for each one after that. Core is $25/mo, or $20 billed annually, with 20 free ACH a month; Boost $55/mo, or $44 annually, with 50 free ACH; Unlimited $80/mo, or $64 annually, with unlimited users.
 
 ## Mera Work
@@ -561,7 +561,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## MindStudio
 - Review: https://officesoftwaremarketplace.com/mindstudio-review.html
 - Hands-on: tested by us on 2026-10-23. Measured 2026-10-23: The Free plan in the app lists 'One Agent' and '1,000 runs / month', but model usage is paid from a separate prepaid balance that starts at $0.00 on a new workspace (shown in red, 'Click to top up').…
-- Verdict: MindStudio: Free is $0/month plus usage and caps you at one agent and 1,000 runs a month. The no-markup model pass-through is genuinely fair.
+- Verdict: MindStudio: Free is $0/month plus usage and caps you at one agent and 1,000 runs a month. The no-markup model pass-through is fair.
 - Price: (prices re-verified 2026-09-18 and again 2026-10-05 on mindstudio.ai/pricing) The subscription is a floor, not the bill: every tier reads “+ usage”, so model calls are charged on top. Free is $0/month plus usage and caps you at one agent and 1,000 runs a month.
 
 ## Miro
@@ -585,7 +585,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Murf
 - Review: https://officesoftwaremarketplace.com/murf-review.html
 - Hands-on: tested by us on 2026-10-20. Measured 2026-10-20: The script stayed in one sub-block. The default voice was Ruby (US English) in the 'Angry' style, and the meter started at 00:10:00.
-- Verdict: Murf: Free $0 for 10 projects, 10 minutes of voice generation and one editor, with no downloads and no commercial rights. Voice quality is genuinely strong.
+- Verdict: Murf — Studio plans: Free $0 for 10 projects, 10 minutes of voice generation and one editor, with no downloads and no commercial rights.
 - Price: (re-verified 2026-10-03 in a browser; the page renders client-side and opens on annual billing, so check which column you are reading) Studio plans: Free $0 for 10 projects, 10 minutes of voice generation and one editor, with no downloads and no commercial rights. Creator $19/mo billed annually ($228 a year): 100 projects, 24 hours of voice generation a year, 1 editor, all 200+ voices, unlimited downloads and…
 
 ## Mycroft
@@ -621,7 +621,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Niural AI
 - Review: https://officesoftwaremarketplace.com/niural-ai-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Niural AI: Eight products, each priced separately. The prices are published — which in payroll is genuinely rare and worth crediting.
+- Verdict: Niural AI: Eight products, each priced separately. At five employees that is $200 a month, or $40 an employee: double the headline rate.
 - Price: (read 18 September 2026 in a live browser on niural.com/pricing) Eight products, each priced separately, and unusually for this category every one of them carries a published figure. US Payroll Standard is $100 a month as a platform fee plus $20 per employee a month, covering multi-state payroll with W-2s and 1099s, unlimited pay schedules and payroll runs, PTO and leave policies, workforce analytics, same-day…
 
 ## NordPass
@@ -657,7 +657,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Parim
 - Review: https://officesoftwaremarketplace.com/parim-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Parim: The page says pricing starts from £47 per month with unlimited users on every plan. Unlimited users sounds like the generous part, and it is.
+- Verdict: Parim: One number is published and the rest is not. Unlimited users sounds like the generous part, and it is, until you notice what replaces per-seat pricing.
 - Price: (re-read 2026-09-17 and again on 2026-10-05 on parim.co/pricing; unchanged since 20 August 2026) One number is published and the rest is not. The page says pricing starts from £47 per month with unlimited users on every plan, but each of the three tiers — Starter, Pro, Premium — carries a ‘Request Pricing’ button rather than a figure.
 
 ## pCloud
@@ -849,7 +849,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## SignNow
 - Review: https://officesoftwaremarketplace.com/signnow-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Signnow.com/pricing.md, read the same day, gives the annual rates as $8, $15 and $30 per user a month. It's built for straightforward everyday signing.
+- Verdict: Signnow.com/pricing.md, read the same day, gives the annual rates as $8, $15 and $30 per user a month.
 - Price: Three plans on signNow's live checkout page, read in a browser on 26 September 2026 from the EU: Business EUR 8, Business Premium EUR 15 and Enterprise EUR 30 a month billed annually, against EUR 20, EUR 30 and EUR 50 month-to-month (the cards state the annual saving as EUR 144, EUR 180 and EUR 240); signnow.com/pricing.md, read the same day, gives the annual rates as $8, $15 and $30 per user a month. Every card…
 
 ## Slasify
@@ -927,7 +927,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Tresorit
 - Review: https://officesoftwaremarketplace.com/tresorit-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Tresorit: €28.80, €19.20 and €24 on yearly. You pay the Swiss-E2EE premium — noticeably above mainstream clouds and above Proton Drive per GB.
+- Verdict: Tresorit: €28.80, €19.20 and €24 on yearly. For regulated teams that's exactly the deal; for casual storage it's over-engineering.
 - Price: (re-verified 2026-11-05 on tresorit.com/pricing/business, /personal, /tresorit-engage and /file-sharing in a browser, both billing toggles; Tresorit announced a price increase to partners on 5 November 2026) There are three business plans: Professional for 1 user, Business from 3 users and Business Pro from 5 users. Priced from our location in euros, they run €36, €24 and €30 per user per month on monthly…
 
 ## UPDF
@@ -969,7 +969,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## World Businesses for Sale
 - Review: https://officesoftwaremarketplace.com/world-businesses-for-sale-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: World Businesses for Sale: Browsing is free for buyers. On the broker plans you pay twice: a listing fee up front AND commission when it sells.
+- Verdict: World Businesses for Sale: Browsing is free for buyers. If you want no commission at all, the pay-as-you-go plans start at £49 a month.
 - Price: (2026, re-verified 2026-10-15 on their own store and selling pages) Browsing is free for buyers. Sellers pick one of two tracks.
 
 ## WP Rocket
