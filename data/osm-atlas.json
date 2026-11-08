@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for office, finance and HR software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 238,
-  "flags": 383,
+  "tools": 243,
+  "flags": 390,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on officesoftwaremarketplace.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -270,6 +270,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-09-20",
    "first_observed_at": null
+  },
+  {
+   "name": "AML Watcher",
+   "category": "Financial Operations",
+   "domain": "amlwatcher.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/aml-watcher-review/",
+   "from_price_usd_mo": null,
+   "entry_price": null,
+   "entry_price_terms": null,
+   "pricing_status": "see_details",
+   "price_note": "(read 2026-11-07 on amlwatcher.com/pricing) AML Watcher sells anti-money-laundering screening in three plans: Basic for quick checks, Premium for in-depth risk analysis and enhanced due diligence, and Enterprise for large organizations. The monthly or yearly amount is calculated by a slider for searches per month and entities monitored, and the page text we read does not show those amounts, so we do not quote a plan price. What the page does show is a one-time set-up cost of $250 for Basic and $1,000 for Premium, with Enterprise on a custom quote, and a saving of 17% for yearly billing. The minimum plan includes 100 monitored entities. A free trial gives the first five searches free. Extra searches above a package are charged at the end of the billing cycle at your agreed per-unit rate, unused credits do not roll over, and screening plus monitoring the same customer counts as one monitored entity in a month. Cancellation is done by emailing the sales team, and access continues to the end of the billing cycle.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "Extra searches above a package are charged at the end of the billing cycle at your agreed per-unit rate, unused credits do not roll over, and screening plus monitoring the same customer counts as one monitored entity in a month.",
+     "evidence_excerpt": "Extra searches above a package are charged at the end of the billing cycle at your agreed per-unit rate, unused credits do not roll over, and screening plus monitoring the same customer counts as one…",
+     "source_url": "https://amlwatcher.com/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-07"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-07",
+   "first_observed_at": "2026-11-07"
   },
   {
    "name": "Aplos",
@@ -656,7 +680,7 @@
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "Distribution to Viator and 2,600+ resellers is excellent, but you're building your booking backbone inside one OTA's ecosystem, and the per-booking service fee on direct sales is a real cut on top of the subscription — although any paid plan lets you pass that fee to the guest instead of absorbing it.",
+     "evidence": "Distribution to Viator and 2,600+ resellers is excellent, but you're building your booking backbone inside one OTA's ecosystem, and the per-booking service fee on direct sales is a real cut on top of the subscription, although any paid plan lets you pass that fee to the guest instead of absorbing it.",
      "evidence_excerpt": "Distribution to Viator and 2,600+ resellers is excellent, but you're building your booking backbone inside one OTA's ecosystem, and the per-booking service fee on direct sales is a real cut on top of…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
@@ -759,7 +783,7 @@
     },
     {
      "flag": "free_tier",
-     "evidence": "The jump from free (one position) to the first paid tier is steep if you only hire occasionally — the free plan is genuinely usable, so live in it until you're filling several roles at once.",
+     "evidence": "The jump from free (one position) to the first paid tier is steep if you only hire occasionally: the free plan is usable, so live in it until you're filling several roles at once.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
@@ -1259,7 +1283,7 @@
    "flags": [
     {
      "flag": "annual_lock",
-     "evidence": "Monthly costs 20% to 32% more than annual on the same plan — $139 against $105 on Standard — and Basic is sold on annual billing only, so the cheapest way in requires a year paid up front.",
+     "evidence": "Monthly costs 20% to 32% more than annual on the same plan, $139 against $105 on Standard, and Basic is sold on annual billing only, so the cheapest way in requires a year paid up front.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
@@ -1362,8 +1386,8 @@
     },
     {
      "flag": "addons_extra",
-     "evidence": "AI credits are a shared monthly pool for Genie and the MCP server, so heavy AI use moves you up a tier as fast as data does, and 15-minute sync — once part of the top plan — is now a $14 per-source add-on on top of the subscription.",
-     "evidence_excerpt": "AI credits are a shared monthly pool for Genie and the MCP server, so heavy AI use moves you up a tier as fast as data does, and 15-minute sync — once part of the top plan — is now a $14 per-source a…",
+     "evidence": "AI credits are a shared monthly pool for Genie and the MCP server, so heavy AI use moves you up a tier as fast as data does, and 15-minute sync, once part of the top plan, is now a $14 per-source add-on on top of the subscription.",
+     "evidence_excerpt": "AI credits are a shared monthly pool for Genie and the MCP server, so heavy AI use moves you up a tier as fast as data does, and 15-minute sync, once part of the top plan, is now a $14 per-source add…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
      "verified_at": "2026-10-20"
@@ -2211,6 +2235,46 @@
    "first_observed_at": "2026-08-31"
   },
   {
+   "name": "Finmo",
+   "category": "Financial Operations",
+   "domain": "finmo.net",
+   "review_url": "https://aibuildermarketplace.com/b2b/finmo-review/",
+   "from_price_usd_mo": null,
+   "entry_price": null,
+   "entry_price_terms": null,
+   "pricing_status": "see_details",
+   "price_note": "(read 6 November 2026 on finmo.net/pricing and the launch promotion terms) Finmo sells three things. The Business Account is free to hold: $0 to open, $0 a month, no minimum balance and unlimited user seats at no charge. You pay per transaction instead. SWIFT payouts carry a US$5 Finmo fee per transfer on supported corridors, and conversions on supported major currency pairs include a 0.07% FX margin (7 basis points) in the rate. That 0.07% is an introductory price, and the conditions matter. It runs for 12 months from the day you complete KYB. From the fourth full calendar month after you register, you must convert at least USD 10,000 equivalent each month to keep it. It only applies to conversions made Monday to Friday, 08:00 to 17:00 Singapore time, and not to Treasury, Embedded or any API access. Finmo does not publish the margins that apply after the promotion or outside those hours; it told us on 6 November 2026 that standard margins are set by currency pair and volume, are shared at onboarding and typically fall between 7 and 20 basis points (0.07% to 0.20%). That range comes from Finmo, not from a public page, and we have not verified it. Local transfer allowances depend on the payment method and your account, and payments sent through the API are priced separately. Finmo Treasury (Finmo's line: \"Every bank account, one view of your cash\") and Finmo Embedded (\"Licensed global payments infrastructure to build on\") have no public price: Finmo says pricing combines subscription and usage fees based on your banks, volumes and integration scope.",
+   "flags": [
+    {
+     "flag": "renewal_jump",
+     "evidence": "That 0.07% is an introductory price, and the conditions matter.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.finmo.net/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-06"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "Local transfer allowances depend on the payment method and your account, and payments sent through the API are priced separately.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.finmo.net/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-06"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "The Business Account is free to hold: $0 to open, $0 a month, no minimum balance and unlimited user seats at no charge.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.finmo.net/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-06"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-06",
+   "first_observed_at": null
+  },
+  {
    "name": "Flatpay",
    "category": "Financial Operations",
    "domain": "flatpay.com",
@@ -2644,8 +2708,8 @@
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "The base-plus-per-employee model is transparent but adds up, and Gusto is US-only — excellent for straightforward US payroll and benefits, but not the pick for international teams or complex multi-entity HR.",
-     "evidence_excerpt": "The base-plus-per-employee model is transparent but adds up, and Gusto is US-only — excellent for straightforward US payroll and benefits, but not the pick for international teams or complex multi-en…",
+     "evidence": "The base-plus-per-employee model is transparent but adds up, and Gusto is US-only: excellent for straightforward US payroll and benefits, but not the pick for international teams or complex multi-entity HR.",
+     "evidence_excerpt": "The base-plus-per-employee model is transparent but adds up, and Gusto is US-only: excellent for straightforward US payroll and benefits, but not the pick for international teams or complex multi-ent…",
      "source_url": "https://gusto.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
      "verified_at": "2026-10-16"
@@ -2796,7 +2860,7 @@
     },
     {
      "flag": "addons_extra",
-     "evidence": "The seat price is honest bait, the add-on grid is the business model: switch on three add-ons and your $12 seat becomes $27 — a la carte flexibility that punishes teams who need the full toolkit.",
+     "evidence": "The seat price is honest bait, the add-on grid is the business model: switch on three add-ons and your $12 seat becomes $27: a la carte flexibility that punishes teams who need the full toolkit.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
@@ -2843,7 +2907,7 @@
    "flags": [
     {
      "flag": "renewal_jump",
-     "evidence": "The headline price only holds if you prepay years up front — renewals run several times the intro rate, the number-one complaint.",
+     "evidence": "The headline price only holds if you prepay years up front: renewals run several times the intro rate, the number-one complaint.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
@@ -3419,30 +3483,30 @@
    "review_url": "https://aibuildermarketplace.com/b2b/lindy-ai-review/",
    "from_price_usd_mo": 29.99,
    "entry_price": "$29.99",
-   "entry_price_terms": "per month per user for 3,000 credits",
+   "entry_price_terms": "per user per month (the page also serves $49.99/mo for 5,000 credits)",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-02, read on their own pricing page; every amount, credit allowance and FAQ rule unchanged since 4 September) Now sold per user, and the credit allowance is published again. Plus is $29.99/mo per user (3k credits per user per month), Pro $99.99/mo per user (15k credits, 5x Plus) and Max $199.99/mo per user (35k credits, ~12x Plus). Enterprise is quote-only. Every seat's credits pool into one workspace balance, refresh each billing cycle and do not roll over; the page sizes work as 2-250 credits for an everyday ask, 250-1,000 for deep work and 1,000-2,500 for a big build. Anyone who uses Lindy takes a paid seat, including colleagues who only @mention it in Slack — those who join that way get a 7-day free trial first, direct signups are billed straight away. All four tiers connect up to 5 inboxes, and computer use, model selection and MCP support are no longer tier-gated.",
+   "price_note": "(re-verified 2026-11-08, read on their own pricing page by plain fetch, ten times) Team starts at $29.99/mo per user for 3,000 credits on some fetches of lindy.ai/pricing and at $49.99/mo per user for 5,000 credits on others: the page serves two versions of the entry level, and 7 of 10 pricing-page fetches on 8 November showed $49.99. The plan line-up changed since 2 October: Plus, Pro and Max are gone. There is now a Free start with $50 in credits for 7 days and no credit card required, one Team plan where you pick a monthly credit level, and quote-only Enterprise. Higher Team levels read the same in both versions: 6,000 credits $59.99, 8,000 $79.99, 15,000 $99.99, 20,000 $149.99, 35,000 $199.99, 45,000 $299.99, and team levels of 70,000 ($399.98), 105,000 ($599.97), 175,000 ($999.95), 350,000 ($1,999.90), 700,000 ($3,999.80) and 1,750,000 credits ($9,999.50). The page says every active user in the workspace is billed, from the entry amount for the entry credits each. Credits pool across the team; monthly credits refresh each billing cycle and do not roll over. Top-ups are now sold at $10 per 1,000 credits, and top-up credits stay until used. Anyone who uses Lindy takes a seat, including colleagues who only @mention it in Slack; those who join through Slack get a 7-day free trial first, direct signups are billed straight away.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "Plus is $29.99/mo per user (3k credits per user per month), Pro $99.99/mo per user (15k credits, 5x Plus) and Max $199.99/mo per user (35k credits, ~12x Plus).",
-     "evidence_excerpt": null,
+     "evidence": "(re-verified 2026-11-08, read on their own pricing page by plain fetch, ten times) Team starts at $29.99/mo per user for 3,000 credits on some fetches of lindy.ai/pricing and at $49.99/mo per user for 5,000 credits on others: the page serves two versions of the entry level, and 7 of 10 pricing-page fetches on 8 November showed $49.99.",
+     "evidence_excerpt": "(re-verified 2026-11-08, read on their own pricing page by plain fetch, ten times) Team starts at $29.99/mo per user for 3,000 credits on some fetches of lindy.ai/pricing and at $49.99/mo per user fo…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-02"
+     "verified_at": "2026-11-08"
     },
     {
      "flag": "usage_metered",
-     "evidence": "(re-verified 2026-10-02, read on their own pricing page; every amount, credit allowance and FAQ rule unchanged since 4 September) Now sold per user, and the credit allowance is published again.",
-     "evidence_excerpt": null,
+     "evidence": "(re-verified 2026-11-08, read on their own pricing page by plain fetch, ten times) Team starts at $29.99/mo per user for 3,000 credits on some fetches of lindy.ai/pricing and at $49.99/mo per user for 5,000 credits on others: the page serves two versions of the entry level, and 7 of 10 pricing-page fetches on 8 November showed $49.99.",
+     "evidence_excerpt": "(re-verified 2026-11-08, read on their own pricing page by plain fetch, ten times) Team starts at $29.99/mo per user for 3,000 credits on some fetches of lindy.ai/pricing and at $49.99/mo per user fo…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-02"
+     "verified_at": "2026-11-08"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-02",
-   "first_observed_at": "2026-10-02"
+   "price_verified_at": "2026-11-08",
+   "first_observed_at": "2026-11-08"
   },
   {
    "name": "Lovable",
@@ -4275,6 +4339,21 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-01",
    "first_observed_at": "2026-10-01"
+  },
+  {
+   "name": "Parallels",
+   "category": "IT & Productivity",
+   "domain": "parallels.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/parallels-review/",
+   "from_price_usd_mo": null,
+   "entry_price": "€99.99",
+   "entry_price_terms": "Standard · Standard subscription list price per year for one Mac, 8 GB vRAM…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-08 in a live browser on parallels.com/products/desktop/buy, euros from a Netherlands connection) Parallels Desktop runs Windows, Linux or macOS in a virtual machine on a Mac. Three editions are sold as yearly subscriptions. Standard is €99.99 a year (8 GB virtual RAM and 4 virtual CPUs per machine), Pro is €119.99 a year (128 GB and 32 CPUs, command line tools and developer features) and Business is €149.99 a year (Pro plus central administration, volume licensing and deployment through Mac management tools). On the day we read the page a Black Friday offer cut these to €49.99, €59.99 and €97.49 a year; it is a promotion, so check the number at checkout. Pro and Business can also be bought as a 2-year subscription. The page lists a one-time purchase option for Standard, and the Standard card says subscription only for the latest version features. Each licence covers one Mac, and a Windows licence is not included. All purchases carry a 30-day money-back guarantee; the vendor's help centre says renewal payments are not returnable. Enterprise pricing is by contact.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-08",
+   "first_observed_at": "2026-11-08"
   },
   {
    "name": "Parim",
@@ -5198,6 +5277,38 @@
    "first_observed_at": "2026-09-26"
   },
   {
+   "name": "Shortcut Chat",
+   "category": "IT & Productivity",
+   "domain": "shortcutchat.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/shortcut-chat-review/",
+   "from_price_usd_mo": 20.0,
+   "entry_price": "$20",
+   "entry_price_terms": "Pro · Pro billed monthly",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-08 on shortcutchat.com, dollar amounts as shown on the page) Shortcut Chat sells one subscription in three sizes. Pro is $20 a month or $216 a year, Pro+ is $40 a month or $432 a year, and Ultra is $100 a month or $1,080 a year; the page says annual billing is 10% off. The three plans unlock the same models, up to three answers side by side, unlimited custom shortcuts, image generation and web search. What changes is the monthly usage allowance: Pro+ has twice the Pro usage and Ultra five times. The allowance is shown as a percentage and resets on the day you first subscribed. According to the FAQ you are not charged overage when you hit it; you wait for the reset or upgrade. The page names no free plan and no free trial, and it does not say how big the Pro allowance is. Cancellation is done from your account and access continues to the end of the billing period.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "The usage allowance is the unknown: the page shows it only as a percentage and never says how much the Pro plan includes, so you cannot compare it to the per-message limits of other chat subscriptions.",
+     "evidence_excerpt": "The usage allowance is the unknown: the page shows it only as a percentage and never says how much the Pro plan includes, so you cannot compare it to the per-message limits of other chat subscription…",
+     "source_url": "https://www.shortcutchat.com/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-08"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "Pro is $20 a month or $216 a year, Pro+ is $40 a month or $432 a year, and Ultra is $100 a month or $1,080 a year; the page says annual billing is 10% off.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.shortcutchat.com/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-08"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-08",
+   "first_observed_at": "2026-11-08"
+  },
+  {
    "name": "ShortlistIQ",
    "category": "HR & People",
    "domain": "shortlistiq.com",
@@ -5417,7 +5528,7 @@
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "And the value-add features — reputation and verification — are metered on top at ~20% of plan cost, so the real bill is higher than the base tier.",
+     "evidence": "And the value-add features (reputation and verification) are metered on top at ~20% of plan cost, so the real bill is higher than the base tier.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
@@ -5614,7 +5725,7 @@
     },
     {
      "flag": "free_tier",
-     "evidence": "The plan is metered by response volume, not by surveys — a viral NPS month can push you a tier up, and the free plan's 30-day retention quietly deletes your history.",
+     "evidence": "The plan is metered by response volume, not by surveys: a viral NPS month can push you a tier up, and the free plan's 30-day retention quietly deletes your history.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
@@ -5702,7 +5813,7 @@
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "Per-form pricing is genuinely cheap for a handful of 1099s, but it's metered: TIN matching, W-9 requests, state filing and corrections can each carry their own charge.",
+     "evidence": "Per-form pricing is cheap for a handful of 1099s, but it's metered: TIN matching, W-9 requests, state filing and corrections can each carry their own charge.",
      "evidence_excerpt": null,
      "source_url": "https://www.tax1099.com/tax-1099-efile-pricing",
      "evidence_field": "dossier pricing notes and honest knock",
@@ -6005,7 +6116,7 @@
     },
     {
      "flag": "free_tier",
-     "evidence": "The free plan's 5-project cap, and reminders that fire only at the moment a task comes due, push most serious users to Pro quickly — but Pro is genuinely cheap.",
+     "evidence": "The free plan's 5-project cap, and reminders that fire only at the moment a task comes due, push most serious users to Pro quickly, but Pro is cheap.",
      "evidence_excerpt": null,
      "source_url": "https://todoist.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
@@ -6336,6 +6447,30 @@
    "first_observed_at": "2026-11-04"
   },
   {
+   "name": "Upwork",
+   "category": "HR & People",
+   "domain": "upwork.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/upwork-review/",
+   "from_price_usd_mo": null,
+   "entry_price": null,
+   "entry_price_terms": null,
+   "pricing_status": "see_details",
+   "price_note": "(read 2026-10-23 on support.upwork.com help articles; the client pricing pages returned an access error, so there is no complete plan table) Upwork is a marketplace where clients hire freelancers, and it earns through fees on payments rather than a single subscription price. Its help article on the Client Marketplace Fee describes the Basic client plan as free and says payments made to freelancers carry a Client Marketplace Fee of up to 7.99%, which is not refundable even when the underlying payment is refunded. A Business Plus client pays a 10% fee on freelancer payments, and eligible US Business Plus clients may qualify for a reduced 8% fee when paying from a checking account. Freelancers pay a separate service fee of 0% to 15% per contract, fixed once the contract begins, and Upwork returns the freelancer service fee on any amount that is refunded. Freelancers bid with Connects, which cost $0.15 (USD) each. Enterprise pricing and the Connects allowances per membership are not published in the pages we read. Client and freelancer fees are separate and should not be added into one price.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "Enterprise pricing and the Connects allowances per membership are not published in the pages we read.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.upwork.com/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-23"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-23",
+   "first_observed_at": "2026-10-23"
+  },
+  {
    "name": "UserHelp.co",
    "category": "Operations & Workflow",
    "domain": "userhelp.co",
@@ -6372,8 +6507,8 @@
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "That ambition is also the honest caveat — it's a young product making a big promise, its price ladder was rebuilt in August 2026 with a top tier at $597 per user a month, and independent review coverage is still thin (one rating on the US App Store on 29 September 2026).",
-     "evidence_excerpt": "That ambition is also the honest caveat — it's a young product making a big promise, its price ladder was rebuilt in August 2026 with a top tier at $597 per user a month, and independent review cover…",
+     "evidence": "That ambition is also the honest caveat: it's a young product making a big promise, its price ladder was rebuilt in August 2026 with a top tier at $597 per user a month, and independent review coverage is still thin (one rating on the US App Store on 29 September 2026).",
+     "evidence_excerpt": "That ambition is also the honest caveat: it's a young product making a big promise, its price ladder was rebuilt in August 2026 with a top tier at $597 per user a month, and independent review covera…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
      "verified_at": "2026-09-29"
@@ -6760,7 +6895,7 @@
    "flags": [
     {
      "flag": "addons_extra",
-     "evidence": "The 'starting from' wording is doing real work: £166/mo is the floor of the cheapest module, billed annually, so a working setup for a brand that sells wholesale quickly stacks toward £332/mo and beyond — about £4,000 a year before add-ons.",
+     "evidence": "The 'starting from' wording is doing real work: £166/mo is the floor of the cheapest module, billed annually, so a working setup for a brand that sells wholesale quickly stacks toward £332/mo and beyond: about £4,000 a year before add-ons.",
      "evidence_excerpt": "The 'starting from' wording is doing real work: £166/mo is the floor of the cheapest module, billed annually, so a working setup for a brand that sells wholesale quickly stacks toward £332/mo and bey…",
      "source_url": "https://zedonk.co.uk/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
