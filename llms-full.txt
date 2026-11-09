@@ -464,7 +464,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Housecall Pro
 - Review: https://officesoftwaremarketplace.com/housecall-pro-review.html
-- Hands-on: tested by us on 2026-11-05. Measured 2026-11-05: Housecall Pro's pricing page promises 'Free for 2 weeks.' and, in our notes from the earlier read, no credit card. We could not start that trial from the Netherlands.
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Housecall Pro: Essentials $149/month ($189) for five users. The seats are the expensive part: users beyond the eight on MAX cost $35 a month each.
 - Price: (re-verified 2026-09-29) Basic $59/month billed annually ($79 month-to-month, advertised as 'save $20/mo') for ONE user, with no GPS tracking and no QuickBooks Online sync; Essentials $149/month ($189) for five users; MAX $299/month ($329) for eight users, sold through a demo booking. Extra users on MAX are $35/month each; the page no longer states an extra-seat price for Essentials (on 2026-09-04 it read $100 on…
 
@@ -680,7 +680,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Pdfdodo
 - Review: https://officesoftwaremarketplace.com/pdfdodo-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-06. Measured 2026-11-06: Sign-up asked for no card. The dashboard showed 25 credits and a 15 MB limit per file. The page says you can download results as CSV or Excel.
 - Verdict: Pdfdodo: Free $0 for 25 pages a month and 5 MB per PDF. The yearly Solo card shows $20 a month beside $200 billed yearly, which cannot both be right.
 - Price: (read 2026-10-16 in a browser on pdfdodo.com, monthly and yearly view of the pricing block; the cards show a $ sign without naming the currency) Four plans metered by pages analysed per month: Free $0 for 25 pages a month and 5 MB per PDF; Solo $25 a month for 300 pages and 15 MB per PDF; Startup $59 a month for 1000 pages and 15 MB per PDF; Business $99 a month for 3000 pages with no upload limit and priority…
 
@@ -716,7 +716,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Prezi
 - Review: https://officesoftwaremarketplace.com/prezi-review.html
-- Hands-on: tested by us on 2026-09-28
+- Hands-on: tested by us on 2026-11-06. Measured 2026-11-06: No card was asked for at sign-up. The dashboard showed 500 credits. One generation of two slides took about a minute and brought the balance to 350, so 150 credits.
 - Verdict: Prezi has a free plan, Basic, and three paid individual plans: Standard €5 a month, Plus €15 and Premium €25, all billed annually.
 - Price: Prezi has a free plan, Basic, and three paid individual plans: Standard €5 a month, Plus €15 and Premium €25, all billed annually. Read on 28 September 2026 on prezi.com/pricing (which redirects to prezi.com/gts/pricing), in euros from a Netherlands exit, with every section of the comparison table opened; the three paid plans sit on the Individual tab, and Basic has a tab of its own, where it is shown next to Plus.
 
@@ -848,7 +848,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## ShortlistIQ
 - Review: https://officesoftwaremarketplace.com/shortlistiq-review.html
-- Hands-on: tested by us on 2026-11-02. Measured 2026-11-02: The header showed 'Free Trial' and '0 of 10 candidates invited', which matches the pricing page's free plan for up to 10 applicants. No card was asked for in the screens we saw.
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: ShortlistIQ: Every account starts on a free plan for up to 10 applicants, with no credit card.
 - Price: (read 2026-10-16 in a browser on shortlistiq.com/pricing; the cards show a $ sign without naming the currency, and clicking Pay annually did not change the amounts) Three paid plans, each labelled per month and metered by invited applicants per month: Basic $49 for up to 20 applicants and one AI assistant; Standard $199 for up to 200 applicants and unlimited AI assistants with live chat support; Premium $599 for…
 
@@ -872,7 +872,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## SmartSuite
 - Review: https://officesoftwaremarketplace.com/smartsuite-review.html
-- Hands-on: tested by us on 2026-10-21. Measured 2026-10-21: The sign-up page reads 'Welcome to SmartSuite' and 'Let's get your free 14-day trial setup', with one field, 'Enter your business email', and the note 'A valid business email address is required to…
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: SmartSuite: No free plan — a 14-day trial of Professional with no credit card. One gate comes before all of that.
 - Price: (re-verified 2026-10-02 on their own pricing page, USD; unchanged since our August reading) No free plan — a 14-day trial of Professional with no credit card, and the page states there is no auto-charge when it ends. Team is $15 per seat a month billed annually, or $20 billed monthly, with a minimum of 3 billable users, 5,000 records per solution, 50GB of storage and a 30-day recycle bin.
 
