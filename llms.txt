@@ -1,6 +1,6 @@
 # Office Software Marketplace
 
-> Independent reviews of office, finance, HR and IT software for small and mid-sized teams. 171 full reviews live here as the canonical version, 53 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-09.
+> Independent reviews of office, finance, HR and IT software for small and mid-sized teams. 171 full reviews live here as the canonical version, 54 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-09.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -18,8 +18,9 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [The Best WP Engine Alternatives (2026)](https://officesoftwaremarketplace.com/best-wp-engine-alternatives.html): WP Engine alternatives compared on the numbers we read ourselves: what each host really costs, where the meter is, and who each one is actua
 - [How to Set Up Your Business Finance Stack (2026)](https://officesoftwaremarketplace.com/build-business-finance-stack.html): A blueprint for your money operations: a business account, paying bills, bookkeeping, payroll and tax — the exact stack, what each tool does
 
-## Tested hands-on (53): first-hand findings
+## Tested hands-on (54): first-hand findings
 We signed up and ran these tools ourselves. The date is the test date; the line is what we measured, not the vendor's claim. All other reviews are researched from the vendor's own pages and buyer reviews, and say so on the page.
+- [Housecall Pro](https://officesoftwaremarketplace.com/housecall-pro-review.html): tested 2026-11-05. Measured 2026-11-05: Housecall Pro's pricing page promises 'Free for 2 weeks.' and, in our notes from the earlier read, no credit card. We could not start that trial from the Netherlands.
 - [SurveyMonkey](https://officesoftwaremarketplace.com/surveymonkey-review.html): tested 2026-11-05. Measured 2026-11-05: Checkout total says VAT included, but the renewal sentence says plus applicable taxes. Future tax basis is unresolved.
 - [BillingNow](https://officesoftwaremarketplace.com/billingnow-review.html): tested 2026-11-02. Measured 2026-11-02: We saw no trial banner or countdown anywhere, although the homepage promises a 3-day free trial; General settings simply showed 'Premium Plan'.
 - [pCloud](https://officesoftwaremarketplace.com/pcloud-review.html): tested 2026-11-02. Measured 2026-11-02: The free account started at 2 GB of storage and became 3 GB after our first upload: one extra gigabyte unlocked by that action. The homepage says you can unlock up to 10 GB; we only saw the first step.
@@ -151,7 +152,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [Hopp Review (2026): Bolt's Business Rides, One Invoice](https://officesoftwaremarketplace.com/hopp-review.html): Hopp Business publishes no subscription price because it does not charge one. The honest note is that the platform is free and the rides are not.
 - [Hostinger Review (2026): From $2.99/mo, Checked Oct 2026](https://officesoftwaremarketplace.com/hostinger-review.html): Hostinger: Cloud Startup is $7.99 ($383.52, regular $1,343.52; 100 GB NVMe) renewing at $25.99. The headline price only holds if you prepay years up f
 - [HostPapa Review (2026): $2.95 Intro, Renews From $8.99](https://officesoftwaremarketplace.com/hostpapa-review.html): HostPapa: Growth renews at $17.99, $15.99, $14.99 or $13.99. The $2.95 is a first-term price on a 3-year term for new customers only.
-- [Housecall Pro Review (2026): $59 Plan, 2.59% Card Fee](https://officesoftwaremarketplace.com/housecall-pro-review.html): Housecall Pro: Essentials $149/month ($189) for five users. The seats are the expensive part: users beyond the eight on MAX cost $35 a month each.
+- [Housecall Pro Review (2026): $59 Plan, 2.59% Card Fee](https://officesoftwaremarketplace.com/housecall-pro-review.html) (tested hands-on): Housecall Pro: Essentials $149/month ($189) for five users. The seats are the expensive part: users beyond the eight on MAX cost $35 a month each.
 - [Hubstaff Review (Tested 2026): You Pay for Seats, Not People](https://officesoftwaremarketplace.com/hubstaff-review.html) (tested hands-on): Hubstaff: Starter $4.99, Grow $7.50, Team $10, Enterprise $25 per seat per month. The seat definition is the whole story and they state it plainly.
 - [IDrive Review (2026): Year Two Costs 43% More](https://officesoftwaremarketplace.com/idrive-review.html): IDrive Mini is $0.25/month for 100 GB ($0.83/month for 500 GB). The first-year price is a teaser and the renewal is the price.
 - [Imagify Review (2026): WordPress Image Compression From $4.99](https://officesoftwaremarketplace.com/imagify-review.html) (tested hands-on): Imagify: Growth is $4.99 a month billed yearly, or $5.99 billed monthly. A prepaid yearly plan is not refunded.

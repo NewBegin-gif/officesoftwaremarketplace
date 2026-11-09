@@ -464,7 +464,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Housecall Pro
 - Review: https://officesoftwaremarketplace.com/housecall-pro-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-05. Measured 2026-11-05: Housecall Pro's pricing page promises 'Free for 2 weeks.' and, in our notes from the earlier read, no credit card. We could not start that trial from the Netherlands.
 - Verdict: Housecall Pro: Essentials $149/month ($189) for five users. The seats are the expensive part: users beyond the eight on MAX cost $35 a month each.
 - Price: (re-verified 2026-09-29) Basic $59/month billed annually ($79 month-to-month, advertised as 'save $20/mo') for ONE user, with no GPS tracking and no QuickBooks Online sync; Essentials $149/month ($189) for five users; MAX $299/month ($329) for eight users, sold through a demo booking. Extra users on MAX are $35/month each; the page no longer states an extra-seat price for Essentials (on 2026-09-04 it read $100 on…
 
