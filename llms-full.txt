@@ -908,7 +908,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## SurveyMonkey
 - Review: https://officesoftwaremarketplace.com/surveymonkey-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-05. Measured 2026-11-05: Checkout total says VAT included, but the renewal sentence says plus applicable taxes. Future tax basis is unresolved.
 - Verdict: SurveyMonkey: Euro storefronts read €360 and €900 a user a year, shown on the page as €30 and €75 a month. Branding and customisation are limited.
 - Price: (re-verified 2026-10-01 in surveymonkey.com/pricing.md, whose header now dates the content 2026-09-22, and on surveymonkey.com/pricing/ as served to a euro storefront) Team plans are billed annually and need three or more users; pricing.md no longer lists any monthly Team variant. Every Team seat costs the same, the first one included: in the US table Team Advantage Annual is $360 a user a year and Team Premier…
 
