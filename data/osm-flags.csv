@@ -319,6 +319,9 @@ SurveyMonkey,free_tier,The free tier is a teaser.,2026-07,2026-10-01,
 Survicate,usage_metered,"Growth is metered on feedback rather than seats and is a ladder, not a single price: $56 a month for 100 responses and 500 data points, $114 for 250 and 1,000, $169 for 500 and 1,500, $229 for 1,000 and 2,000, and $289 for 1,500 and 2,500 — billed annually, with 10 user seats across 2 teams and one dashboard at every rung.",2026-07,2026-09-26,
 Survicate,annual_lock,Mind the billing asymmetry too: Starter is monthly-only while Growth and up expect an annual commitment.,2026-07,2026-09-26,
 Survicate,free_tier,"The plan is metered by response volume, not by surveys: a viral NPS month can push you a tier up, and the free plan's 30-day retention quietly deletes your history.",2026-07,2026-09-26,
+SurvIQ,usage_metered,"If you do not want a subscription, prepaid credits run from $5 for 100 responses to $79 for 5,000 responses and never expire, and you can buy a tier once: Basic for $45 or Pro for $145, each with a monthly response quota.",2026-07,2026-11-10,https://surviqapp.com/en
+SurvIQ,annual_lock,"The page also advertises 2 months free on annual billing, but we did not see the annual amounts.",2026-07,2026-11-10,https://surviqapp.com/en
+SurvIQ,free_tier,"(read 2026-11-10 on surviqapp.com/en, US dollars) SurvIQ has a Free plan with 50 responses a month, 1 user and up to 3 active surveys.",2026-07,2026-11-10,https://surviqapp.com/en
 Switcher Studio,annual_lock,(read 2026-09-26 on switcherstudio.com/pricing) Studio is $65 a month month-to-month and $45 on annual billing ('Up to 30% Off').,2026-07,2026-09-26,
 Synthesia,usage_metered,"(re-read 1 October 2026) The public pricing page, read without signing in from a Netherlands connection, now shows dollars and a new credit model: 'Credits are now the shared currency across all AI usage-based features'.",2026-07,2026-10-01,
 Synthesia,addons_extra,A Studio avatar remains a paid add-on.,2026-07,2026-10-01,
