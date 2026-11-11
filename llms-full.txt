@@ -724,7 +724,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/plesk-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Plesk: A 12-month term takes 8% off, to $15.57, $27.49 and $57.74. Plesk has been raising prices steadily (the 2026 round averaged ~26%).
-- Price: (read 2026-08-30 on plesk.com/pricing from a US exit; re-verified 2026-09-20 from the Netherlands against the page's own PleskPricing rate card, which carries every currency) Per-server licences, priced per edition by domain count. On a VPS: Web Admin $16.99/month (10 domains), Web Pro $29.99 (30 domains), Web Host $62.99 (unlimited domains).
+- Price: (read 2026-08-30 on plesk.com/pricing from a US exit; re-verified 2026-09-20 and, for the euro figures, 2026-11-11 from the Netherlands against the page's own PleskPricing rate card, which carries every currency) Per-server licences, priced per edition by domain count. On a VPS: Web Admin $16.99/month (10 domains), Web Pro $29.99 (30 domains), Web Host $62.99 (unlimited domains).
 
 ## Prezi
 - Review: https://officesoftwaremarketplace.com/prezi-review.html
