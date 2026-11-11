@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for office, finance and HR software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 244,
-  "flags": 393,
+  "tools": 246,
+  "flags": 395,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on officesoftwaremarketplace.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -937,6 +937,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-13",
    "first_observed_at": null
+  },
+  {
+   "name": "BulkCertPDF",
+   "category": "IT & Productivity",
+   "domain": "bulkcertpdf.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/bulkcertpdf-review/",
+   "from_price_usd_mo": null,
+   "entry_price": null,
+   "entry_price_terms": null,
+   "pricing_status": "see_details",
+   "price_note": "(read 2026-11-11 on bulkcertpdf.com/pricing, US dollars) BulkCertPDF has a Free plan, a one-off Batch Pass and a Pro subscription. Free costs $0, takes an Excel or CSV upload, includes all 8 designs, your logo and signatures, and covers 25 certificates a month with a watermark. The Batch Pass costs $19 once and covers up to 500 certificates without a watermark; it gives 7 days of access and is not a subscription. Pro costs $29 a month or $199 a year, shown as $16.58 a month and a 43% saving, and allows unlimited certificates and batches without a watermark; the page says you can cancel any time. The page shows a 14-day money-back guarantee and secure checkout by Lemon Squeezy, and says taxes are calculated at checkout where they apply.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "(read 2026-11-11 on bulkcertpdf.com/pricing, US dollars) BulkCertPDF has a Free plan, a one-off Batch Pass and a Pro subscription.",
+     "evidence_excerpt": null,
+     "source_url": "https://bulkcertpdf.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-11"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-11",
+   "first_observed_at": "2026-11-11"
   },
   {
    "name": "Bybit",
@@ -4277,6 +4301,30 @@
    "first_observed_at": "2026-10-09"
   },
   {
+   "name": "Pagely",
+   "category": "IT & Productivity",
+   "domain": "pagely.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/pagely-review/",
+   "from_price_usd_mo": 99.0,
+   "entry_price": "$99",
+   "entry_price_terms": "StartPress · StartPress $99 a month for 5 WordPress sites",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-11 on pagely.com/pricing-signup, US dollars) Pagely sells managed WordPress hosting in six plans, all billed per month. StartPress costs $99 a month for 5 WordPress sites, 30 GB SSD storage, 50 GB bandwidth and 150 GB of PressCDN. DevPress costs $199 for 10 sites, 50 GB SSD, 100 GB bandwidth and 350 GB PressCDN. LitePress costs $299 for 15 sites, 50 GB SSD, 150 GB bandwidth and 500 GB PressCDN. The higher plans use a high-availability configuration: ProPress costs $499 for 35 sites, 2 vCPU, 4 GB RAM and 50 GB SSD; PowerPress costs $999 for 60 sites, 4 vCPU and 8 GB RAM; ScalePress costs $2500 and is sized to order. The page also shows higher crossed-out prices next to each plan ($199, $299, $375, $1249, $2249 and $3600), which we did not treat as the price. The page says pageviews and visitors are always free and every plan includes ticket and live-chat support. We did not see contract length, setup fees, refund terms or tax, and we did not open the order form.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "The page says pageviews and visitors are always free and every plan includes ticket and live-chat support.",
+     "evidence_excerpt": null,
+     "source_url": "https://pagely.com/pricing-signup/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-11"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-11",
+   "first_observed_at": "2026-11-11"
+  },
+  {
    "name": "Pangram",
    "category": "Operations & Workflow",
    "domain": "pangram.com",
@@ -4611,10 +4659,10 @@
    "entry_price": "$16.99",
    "entry_price_terms": "Web Admin Edition (VPS) · per server per month billed monthly for 10 domains, or 15.57 a month…",
    "pricing_status": "public",
-   "price_note": "(read 2026-08-30 on plesk.com/pricing from a US exit; re-verified 2026-09-20 from the Netherlands against the page's own PleskPricing rate card, which carries every currency) Per-server licences, priced per edition by domain count. On a VPS: Web Admin $16.99/month (10 domains), Web Pro $29.99 (30 domains), Web Host $62.99 (unlimited domains). A 12-month term takes 8% off, to $15.57, $27.49 and $57.74. Only Web Host costs more on dedicated hardware — $69.99/month, or $64.16 on the yearly term; Web Admin and Web Pro carry no separate dedicated rate at all, so they cost the same on either. Sitejet Builder is included on every edition. Two weeks free trial, no card. Refunds run 14 days and only on purchases made direct through the Plesk Online Store; resellers, cloud marketplaces and hosting providers apply their own policy. The partner programme discounts 15-45%, but the page states its minimum twice and differently: the Partners card reads \"Monthly Minimum of only €250 / $250\" while the FAQ lower down says the minimum commitment starts at $500/month. The page bills in local currency by region: read from the Netherlands the same table shows EUR 14.29, 25.49 and 52.99 monthly, EUR 13.10, 23.37 and 48.57 on the yearly term, and EUR 59.99 (54.99 yearly) for Web Host on dedicated hardware. VAT may apply depending on your country. The ~26% average increase that took effect January 2026 is visible in the page's own data: it still carries the pre-increase set — Web Admin $15.49, Web Pro $26.99, Web Host $49.99 on a VPS and $66.99 dedicated — behind a baseIncreased flag that is set, and a notice on the page says renewals after 1 January 2026 move to the revised structure.",
+   "price_note": "(read 2026-08-30 on plesk.com/pricing from a US exit; re-verified 2026-09-20 and, for the euro figures, 2026-11-11 from the Netherlands against the page's own PleskPricing rate card, which carries every currency) Per-server licences, priced per edition by domain count. On a VPS: Web Admin $16.99/month (10 domains), Web Pro $29.99 (30 domains), Web Host $62.99 (unlimited domains). A 12-month term takes 8% off, to $15.57, $27.49 and $57.74. Only Web Host costs more on dedicated hardware — $69.99/month, or $64.16 on the yearly term; Web Admin and Web Pro carry no separate dedicated rate at all, so they cost the same on either. Sitejet Builder is included on every edition. Two weeks free trial, no card. Refunds run 14 days and only on purchases made direct through the Plesk Online Store; resellers, cloud marketplaces and hosting providers apply their own policy. The partner programme discounts 15-45%, but the page states its minimum twice and differently: the Partners card reads \"Monthly Minimum of only €250 / $250\" while the FAQ lower down says the minimum commitment starts at $500/month. The page bills in local currency by region: read from the Netherlands the same table shows EUR 14.29, 25.49 and 52.99 monthly, EUR 13.10, 23.37 and 48.57 on the yearly term, and EUR 59.99 (54.99 yearly) for Web Host on dedicated hardware. VAT may apply depending on your country. The ~26% average increase that took effect January 2026 is visible in the page's own data: it still carries the pre-increase set — Web Admin $15.49, Web Pro $26.99, Web Host $49.99 on a VPS and $66.99 dedicated — behind a baseIncreased flag that is set, and a notice on the page says renewals after 1 January 2026 move to the revised structure. On 11 November 2026 the page also carries a notice that Plesk licence pricing will be adjusted effective 1 January 2027, affecting new orders and all renewals on or after that date; no new amounts are published yet.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-20",
+   "price_verified_at": "2026-11-11",
    "first_observed_at": "2026-08-30"
   },
   {
@@ -5705,7 +5753,7 @@
    "entry_price": "$56",
    "entry_price_terms": "Growth (100 responses) · per month, billed annually",
    "pricing_status": "public",
-   "price_note": "(read 2026-09-08 and re-read unchanged 2026-09-26 in the plan data embedded in survicate.com/pricing; from an EU exit the cards show EUR 99 for Growth at 250 responses, EUR 299 for Pro and EUR 499 for Enterprise) A 10-day trial of all features, no card. Growth is metered on feedback rather than seats and is a ladder, not a single price: $56 a month for 100 responses and 500 data points, $114 for 250 and 1,000, $169 for 500 and 1,500, $229 for 1,000 and 2,000, and $289 for 1,500 and 2,500 — billed annually, with 10 user seats across 2 teams and one dashboard at every rung. Pro is $349 with a custom yearly response pool, advanced survey logic and 10 dashboards; Enterprise is $569. Starter is monthly-only and has its own ladder with an explicit overage rate: $89 for 100 responses at $0.89 for each one beyond, $179 for 250 at $0.59, $279 for 500 at $0.39. A response is counted per respondent, partial or complete; data points are new external feedback from integrations (calls, tickets, reviews) and exclude survey responses.",
+   "price_note": "(read 2026-09-08 and re-read unchanged 2026-09-26 and 2026-11-11 (Growth from $56, Pro $349, Enterprise $569) in the plan data embedded in survicate.com/pricing; from an EU exit the cards show EUR 99 for Growth at 250 responses, EUR 299 for Pro and EUR 499 for Enterprise) A 10-day trial of all features, no card. Growth is metered on feedback rather than seats and is a ladder, not a single price: $56 a month for 100 responses and 500 data points, $114 for 250 and 1,000, $169 for 500 and 1,500, $229 for 1,000 and 2,000, and $289 for 1,500 and 2,500 — billed annually, with 10 user seats across 2 teams and one dashboard at every rung. Pro is $349 with a custom yearly response pool, advanced survey logic and 10 dashboards; Enterprise is $569. Starter is monthly-only and has its own ladder with an explicit overage rate: $89 for 100 responses at $0.89 for each one beyond, $179 for 250 at $0.59, $279 for 500 at $0.39. A response is counted per respondent, partial or complete; data points are new external feedback from integrations (calls, tickets, reviews) and exclude survey responses.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -5713,7 +5761,7 @@
      "evidence_excerpt": "Growth is metered on feedback rather than seats and is a ladder, not a single price: $56 a month for 100 responses and 500 data points, $114 for 250 and 1,000, $169 for 500 and 1,500, $229 for 1,000 …",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-26"
+     "verified_at": "2026-11-11"
     },
     {
      "flag": "annual_lock",
@@ -5721,7 +5769,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-26"
+     "verified_at": "2026-11-11"
     },
     {
      "flag": "free_tier",
@@ -5729,11 +5777,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-26"
+     "verified_at": "2026-11-11"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-26",
+   "price_verified_at": "2026-11-11",
    "first_observed_at": "2026-09-08"
   },
   {
