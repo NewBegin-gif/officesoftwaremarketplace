@@ -112,7 +112,7 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "quote_only",
-   "price_note": "(2026-08-15, read on their own site) ADP shows no public pricing for RUN anywhere on its site, and we checked four places before saying so. /pricing returns a 404, and so does /pricing.md. The RUN product page offers only a “Get Pricing” button. And the dedicated package-comparison page lists all four tiers with “Get pricing” under each one and not a single figure. The tiers are Essential Payroll, Enhanced Payroll (adds ZipRecruiter, State Unemployment Insurance and garnishment payments), Complete Payroll & HR Plus (adds basic HR support) and HR Pro Payroll & HR (enhanced HR support and staff perks). A promotion was running when we read it: three months of free payroll, marked “Ends 8/27”, with terms behind an asterisk. Re-checked 11 October 2026 in a live browser: the package-comparison page still shows Get pricing under all four tiers and no figure. The banner now reads 'Get 3 months FREE when you sign up for small business payroll. Ends 10/22.' Its terms (adp.com/terms/3-month-offer-terms.aspx) say the sales order must be signed and payroll started by October 22, 2026, processing must continue for three consecutive months at the original bundle, pay frequency and discount level, fees must be paid by direct debit, and the free months are credited to months 4, 5 and 6, not the first three. The offer is for new RUN clients with 1-49 employees in the continental U.S.; non-payroll services, pass-through costs, delivery and off-cycle fees are excluded.",
+   "price_note": "(2026-08-15, read on their own site) ADP shows no public pricing for RUN anywhere on its site, and we checked four places before saying so. /pricing returns a 404, and so does /pricing.md. The RUN product page offers only a “Get Pricing” button. And the dedicated package-comparison page lists all four tiers with “Get pricing” under each one and not a single figure. The tiers are Essential Payroll, Enhanced Payroll (adds ZipRecruiter, State Unemployment Insurance and garnishment payments), Complete Payroll & HR Plus (adds basic HR support) and HR Pro Payroll & HR (enhanced HR support and staff perks). A promotion was running when we read it: three months of free payroll, marked “Ends 8/27”, with terms behind an asterisk. Re-checked 11 October 2026 in a live browser: the package-comparison page still shows Get pricing under all four tiers and no figure. On 11 October 2026 the banner read 'Get 3 months FREE when you sign up for small business payroll. Ends 10/22.' That offer date has passed. On 12 November 2026 the package-comparison page shows a banner 'Switch your payroll & HR before November 26th and get up to 6 months FREE!*' and still no price figure Its terms (adp.com/terms/3-month-offer-terms.aspx) said the sales order must be signed and payroll started by October 22, 2026 (read 11 October; the terms page now says November 26, 2026, read 12 November), processing must continue for three consecutive months at the original bundle, pay frequency and discount level, fees must be paid by direct debit, and the free months are credited to months 4, 5 and 6, not the first three. The offer is for new RUN clients with 1-49 employees in the continental U.S.; non-payroll services, pass-through costs, delivery and off-cycle fees are excluded.",
    "flags": [
     {
      "flag": "quote_only",
@@ -120,7 +120,7 @@
      "evidence_excerpt": null,
      "source_url": "https://www.adp.com/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-11"
+     "verified_at": "2026-11-12"
     },
     {
      "flag": "per_seat",
@@ -128,11 +128,11 @@
      "evidence_excerpt": null,
      "source_url": "https://www.adp.com/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-11"
+     "verified_at": "2026-11-12"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-11",
+   "price_verified_at": "2026-11-12",
    "first_observed_at": "2026-08-15"
   },
   {
@@ -1409,27 +1409,27 @@
    "category": "Operations & Workflow",
    "domain": "databox.com",
    "review_url": "https://aibuildermarketplace.com/b2b/databox-review/",
-   "from_price_usd_mo": 71.0,
-   "entry_price": "$71",
-   "entry_price_terms": "a month billed annually (1 user, 5 sources, 150 AI credits)",
+   "from_price_usd_mo": 399.0,
+   "entry_price": "$399",
+   "entry_price_terms": "per month billed annually ($499 monthly)",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-02, 2026-10-06 and 2026-10-20, read on their own pricing page) Databox renamed and repriced its whole ladder since our August reading, so the Analyst/Pro/Growth tiers we described are gone. Free is $0 forever: 1 user, 3 data sources, 1 dashboard, 10 custom metrics, 50 AI credits a month, daily sync. Billed annually: Analyst $71/mo (1 user, 5 sources, unlimited dashboards and reports, 150 credits, hourly sync), Team Core $199/mo (3 users, 10 sources, 500 credits), Team Scale $319/mo (10 users, 30 sources, 1,000 credits, sub-accounts) and Agency from $79/mo (unlimited users, 4 clients, 20 sources, 300 credits), plus a quoted Custom tier. Monthly, Analyst reads $89 and the others $249, $399 and from $99; annual billing is 20% off. Databox states it does not charge per seat. Extra data sources no longer carry a per-source fee: each plan includes a fixed number and more means moving up a tier, except on Agency, which adds client packs of 1 client, 5 sources and 50 credits for $20/mo annually ($25 monthly). Add-ons are priced separately: branding and white-labeling $200/mo, advanced security management $80/mo, OKRs $160/mo, fiscal calendar $40/mo, 15-minute sync $14/mo per source, and flexible AI credit top-ups. Those add-on amounts are the annual-billing rates; on monthly billing the page shows $250 for branding, $100 for security management, $200 for OKRs, $50 for the fiscal calendar and $18 per source for 15-minute sync.",
+   "price_note": "(read 2026-11-12 on their own pricing page) NEW: the page now sells one self-serve plan, Business, at $399 a month billed annually ($4,788 a year) or $499 billed monthly, with up to 10 users, up to 30 data sources, 1,500 AI credits a month and email support. Agency is $79 a month billed annually plus $20 a month per account pack (1 account, 5 data sources, 50 AI credits); add-ons are unchanged at $200, $80, $40, $160 and $14 per source (annual rates). A done-for-you Custom service starts from $15,000. The page no longer shows a Free plan, Analyst, Team Core or Team Scale, and its FAQ answers 'Do you offer a free plan?' with 'No. Every account starts with a 14-day trial of the Platform plan instead, with no credit card required.' The page states no spreadsheet limit. OLD READING (re-verified 2026-10-02, 2026-10-06 and 2026-10-20, read on their own pricing page): Databox renamed and repriced its whole ladder since our August reading, so the Analyst/Pro/Growth tiers we described are gone. Free is $0 forever: 1 user, 3 data sources, 1 dashboard, 10 custom metrics, 50 AI credits a month, daily sync. Billed annually: Analyst $71/mo (1 user, 5 sources, unlimited dashboards and reports, 150 credits, hourly sync), Team Core $199/mo (3 users, 10 sources, 500 credits), Team Scale $319/mo (10 users, 30 sources, 1,000 credits, sub-accounts) and Agency from $79/mo (unlimited users, 4 clients, 20 sources, 300 credits), plus a quoted Custom tier. Monthly, Analyst reads $89 and the others $249, $399 and from $99; annual billing is 20% off. Databox states it does not charge per seat. Extra data sources no longer carry a per-source fee: each plan includes a fixed number and more means moving up a tier, except on Agency, which adds client packs of 1 client, 5 sources and 50 credits for $20/mo annually ($25 monthly). Add-ons are priced separately: branding and white-labeling $200/mo, advanced security management $80/mo, OKRs $160/mo, fiscal calendar $40/mo, 15-minute sync $14/mo per source, and flexible AI credit top-ups. Those add-on amounts are the annual-billing rates; on monthly billing the page shows $250 for branding, $100 for security management, $200 for OKRs, $50 for the fiscal calendar and $18 per source for 15-minute sync.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "Free is $0 forever: 1 user, 3 data sources, 1 dashboard, 10 custom metrics, 50 AI credits a month, daily sync.",
-     "evidence_excerpt": null,
+     "evidence": "(read 2026-11-12 on their own pricing page) NEW: the page now sells one self-serve plan, Business, at $399 a month billed annually ($4,788 a year) or $499 billed monthly, with up to 10 users, up to 30 data sources, 1,500 AI credits a month and email support.",
+     "evidence_excerpt": "(read 2026-11-12 on their own pricing page) NEW: the page now sells one self-serve plan, Business, at $399 a month billed annually ($4,788 a year) or $499 billed monthly, with up to 10 users, up to 3…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-20"
+     "verified_at": "2026-11-12"
     },
     {
      "flag": "addons_extra",
-     "evidence": "AI credits are a shared monthly pool for Genie and the MCP server, so heavy AI use moves you up a tier as fast as data does, and 15-minute sync, once part of the top plan, is now a $14 per-source add-on on top of the subscription.",
-     "evidence_excerpt": "AI credits are a shared monthly pool for Genie and the MCP server, so heavy AI use moves you up a tier as fast as data does, and 15-minute sync, once part of the top plan, is now a $14 per-source add…",
+     "evidence": "Agency is $79 a month billed annually plus $20 a month per account pack (1 account, 5 data sources, 50 AI credits); add-ons are unchanged at $200, $80, $40, $160 and $14 per source (annual rates).",
+     "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-20"
+     "verified_at": "2026-11-12"
     },
     {
      "flag": "annual_lock",
@@ -1437,7 +1437,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-20"
+     "verified_at": "2026-11-12"
     },
     {
      "flag": "free_tier",
@@ -1445,12 +1445,12 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-20"
+     "verified_at": "2026-11-12"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-20",
-   "first_observed_at": "2026-10-02"
+   "price_verified_at": "2026-11-12",
+   "first_observed_at": "2026-11-12"
   },
   {
    "name": "Datarails",
@@ -2566,12 +2566,12 @@
    "review_url": "https://aibuildermarketplace.com/b2b/gcheck-review/",
    "from_price_usd_mo": null,
    "entry_price": "$18.95",
-   "entry_price_terms": "Basic · per background check, current county of residence only",
+   "entry_price_terms": "Basic · per year, per background check, current county of residence only",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-16 on gcheck.com/pricing-packages after GCheck's partner mail announced a lower Basic price; first read 2026-09-29, including its FAQ) Three packages, each priced per background check, with no setup fees, no minimums and no long-term contracts. Basic is $18.95 per check (it was $19.95 when we first read the page on 29 September) and covers an SSN trace and address history, a national criminal database search, the nationwide sex offender registry, the OIG excluded parties list, OFAC sanctions lists, global watchlists and a county criminal search in the candidate's current county of residence only. Standard, marked Most Popular, is $39.95 per check and adds biometric identity verification and county criminal searches in every county on the candidate's full address history. Advanced, marked Recommended, is $49.95 per check and adds a federal criminal search across every federal district on that same address history. An asterisk on all three prices reads: additional third-party fees may apply to some products and are passed through with no markup; the page does not list those fees. Employers running more than 50 checks a year are pointed to a custom quote, which is where the page places ATS and HRIS integrations and customised workflows, and GCheck states that volume pricing and merit-based nonprofit discounts exist without publishing either. Everything else in the catalogue — drug tests (DOT, 5-panel and 10-panel), motor vehicle and CDL records, employment, education and reference verification, credit, bankruptcy, eviction, liens and judgments searches, fingerprinting, Form I-9 and E-Verify, and international searches — carries no public price. GCheck is based at 8335 W Sunset Blvd, Los Angeles, and gives its phone number as 844-424-3254.",
+   "price_note": "(re-verified 2026-10-16 on gcheck.com/pricing-packages after GCheck's partner mail announced a lower Basic price, and again on 2026-11-12 with its comparison page; first read 2026-09-29, including its FAQ) Three packages, each priced per background check, with no setup fees, no minimums and no long-term contracts. Basic is $18.95 per check (it was $19.95 when we first read the page on 29 September) and covers an SSN trace and address history, a national criminal database search, the nationwide sex offender registry, the OIG excluded parties list, OFAC sanctions lists, global watchlists and a county criminal search in the candidate's current county of residence only. Standard, marked Most Popular, is $39.95 per check and adds biometric identity verification and county criminal searches in every county on the candidate's full address history. Advanced, marked Recommended, is $49.95 per check and adds a federal criminal search across every federal district on that same address history. An asterisk on all three prices reads: additional third-party fees may apply to some products and are passed through with no markup; the page does not list those fees. Employers running more than 50 checks a year are pointed to a custom quote, which is where the page places ATS and HRIS integrations and customised workflows, and GCheck states that volume pricing and merit-based nonprofit discounts exist without publishing either. Everything else in the catalogue — drug tests (DOT, 5-panel and 10-panel), motor vehicle and CDL records, employment, education and reference verification, credit, bankruptcy, eviction, liens and judgments searches, fingerprinting, Form I-9 and E-Verify, and international searches — carries no public price. GCheck is based at 8335 W Sunset Blvd, Los Angeles, and gives its phone number as 844-424-3254. Re-read on 12 November 2026: the three prices are unchanged. The plan cards still say Standard covers \"a candidate's full address history\", but the FAQ on the same page and GCheck's comparison page (gcheck.com/pricing-packages/compare, \"Prices checked November 2026\") limit the county searches on Standard and Advanced to counties of residence in the last 7 years, and the federal search on Advanced to districts on that seven-year history. The comparison page also states a charge the cards do not show: on every package, if the national database search finds possible records in counties the package does not cover, those counties are searched automatically at $9.95 each, and court fees may come on top.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-16",
+   "price_verified_at": "2026-11-12",
    "first_observed_at": "2026-10-16"
   },
   {
@@ -3005,7 +3005,7 @@
    "entry_price": "$4.99",
    "entry_price_terms": "Starter, per seat · per seat per month billed annually ($7 billed monthly)",
    "pricing_status": "public",
-   "price_note": "(2026-08-29, read on their own pricing page) Priced per seat, with both billing columns published. Billed annually: Starter $4.99, Grow $7.50, Team $10, Enterprise $25 per seat per month. Billed monthly: Starter $7, Grow $9, Team $12; Enterprise is sold annually only. The annual column is labelled 'Annual (2 months free)'. Starter, Grow and Team each carry a 2 seat minimum, so the smallest bill Hubstaff will issue is $9.98 a month rather than $4.99. Their FAQ is explicit about what a seat means: 'Hubstaff charges per seat. This means that even if only two out of your three team members are using its tracking features, you will still have to pay for all three members.' Seats added mid-term on an annual plan are prorated — their example is $60 for a seat added in July on a January-to-December plan. Six add-ons are sold per seat per month: Insights, More screenshots, Tasks and Silent app from $2.50, Locations from $3.33, Data retention from $1.67. VIP Support is $29 a month per organisation for accounts spending $275-$400 a month and $59 above $400. There is a 14-day free trial with no credit card, a 30-day money-back guarantee excluding that trial, and a free Project Viewer role for people who only read reports. Re-verified 2026-09-19, reading the plan cards as they render rather than as they ship: every figure above is unchanged — $4.99/$7.50/$10/$25 annual against $7/$9/$12 monthly, the two-seat minimum on the first three tiers, Enterprise annual-only, the six add-on rates, and VIP Support at $29 and $59 per organisation. Two details are worth having: Tasks is included from Grow upward and Locations is not available at all on Starter or Grow, so the add-on menu differs per tier rather than simply costing the same everywhere. The page's plan data still carries a dormant Free tier that does not render as a card and that the FAQ does not acknowledge — asked whether you can use Hubstaff for free, it answers with the 14-day trial.",
+   "price_note": "(2026-08-29, read on their own pricing page) Priced per seat, with both billing columns published. Billed annually: Starter $4.99, Grow $7.50, Team $10, Enterprise $25 per seat per month. Billed monthly: Starter $7, Grow $9, Team $12; Enterprise is sold annually only. The annual column is labelled 'Annual (2 months free)'. Starter, Grow and Team each carry a 2 seat minimum, so the smallest bill Hubstaff will issue is $9.98 a month rather than $4.99. Their FAQ is explicit about what a seat means: 'Hubstaff charges per seat. This means that even if only two out of your three team members are using its tracking features, you will still have to pay for all three members.' Seats added mid-term on an annual plan are prorated — their example is $60 for a seat added in July on a January-to-December plan. Six add-ons are sold per seat per month: Insights, More screenshots, Tasks and Silent app from $2.50, Locations from $3.33, Data retention from $1.67. VIP Support is $29 a month per organisation for accounts spending $275-$400 a month and $59 above $400. There is a 14-day free trial that the page says needs no credit card (our 31 October 2026 test saw the trial start only with a card; see hands-on), a 30-day money-back guarantee excluding that trial, and a free Project Viewer role for people who only read reports. Re-verified 2026-09-19, reading the plan cards as they render rather than as they ship: every figure above is unchanged — $4.99/$7.50/$10/$25 annual against $7/$9/$12 monthly, the two-seat minimum on the first three tiers, Enterprise annual-only, the six add-on rates, and VIP Support at $29 and $59 per organisation. Two details are worth having: Tasks is included from Grow upward and Locations is not available at all on Starter or Grow, so the add-on menu differs per tier rather than simply costing the same everywhere. The page's plan data still carries a dormant Free tier that does not render as a card and that the FAQ does not acknowledge — asked whether you can use Hubstaff for free, it answers with the 14-day trial.",
    "flags": [
     {
      "flag": "per_seat",
@@ -3013,7 +3013,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-12"
     },
     {
      "flag": "addons_extra",
@@ -3021,11 +3021,11 @@
      "evidence_excerpt": "Re-verified 2026-09-19, reading the plan cards as they render rather than as they ship: every figure above is unchanged — $4.99/$7.50/$10/$25 annual against $7/$9/$12 monthly, the two-seat minimum on…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-12"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-19",
+   "price_verified_at": "2026-11-12",
    "first_observed_at": "2026-08-29"
   },
   {
@@ -5013,32 +5013,32 @@
    "category": "HR & People",
    "domain": "remotepeople.com",
    "review_url": "https://aibuildermarketplace.com/b2b/remote-people-review/",
-   "from_price_usd_mo": 199.0,
-   "entry_price": "$199",
-   "entry_price_terms": "EOR Flex, per employee · billed monthly with no commitment, no setup fee and no minimum headcount",
+   "from_price_usd_mo": 499.0,
+   "entry_price": "$499",
+   "entry_price_terms": "per employee per month (EOR Select from $199 in selected countries and salary ranges)",
    "pricing_status": "public",
-   "price_note": "(2026-08-07, read on their own pricing page; re-verified unchanged on 2026-10-06 and again on 2026-10-09) Priced per service rather than per plan, and every figure is a floor. Employer of Record: EOR Flex from $199 per employee a month, billed monthly with no commitment, no setup fee and no minimum headcount; EOR Plus from $399 with an annual commitment, a dedicated account manager and a minimum of 5 employees. Contractor of Record from $199 a month including misclassification cover; plain contractor management from $29. US PEO from $99 per employee a month and US payroll from $29. Global payroll from $25 per employee a month, with volume discounts quoted above 50 employees. Recruitment is charged on salary instead: Recruit + EOR is 2% of annual salary spread over twelve months, Global Recruitment 20% payable on the candidate’s first day, and Executive Search 25%. Legal help is $199 an hour with no retainer. Benefits, equity, incorporation, entity management and visas are all quote-only. The pricing FAQ (read 9 October 2026) says EOR Plus requires no security deposit, and that for EOR Flex the deposit amount and refund conditions are confirmed in your proposal.",
+   "price_note": "(read 2026-11-12 on their own pricing page. NEW since our readings of 2026-08-07, 2026-10-06 and 2026-10-09, which showed EOR Flex from $199 and EOR Plus from $399) Priced per service rather than per plan, and every figure is a floor. Employer of Record: EOR Global from $499 per employee a month, and EOR Select from $199 per employee a month for selected countries and qualifying salary ranges (country and salary conditions apply). The page no longer lists EOR Flex or EOR Plus. Our earlier readings had EOR Flex from $199 (billed monthly, no commitment, no setup fee, no minimum headcount) and EOR Plus from $399 (annual commitment, minimum of 5 employees). Contractor of Record from $199 a month including misclassification cover; plain contractor management from $29 per payout. US PEO from $99 per employee a month and US payroll from $29. Global payroll from $25 per employee a month, with volume discounts quoted above 50 employees. Recruitment is charged on salary instead: Recruit + EOR is 2% of annual salary spread over twelve months, Global Recruitment 20% payable on the candidate’s first day, and Executive Search 25%. Legal help is $199 an hour with no retainer. Benefits, equity, incorporation, entity management and visas are all quote-only. The pricing FAQ (read 12 November 2026) says your proposal confirms the applicable security deposit, payroll funding requirements and refund terms, and names no plan that needs no deposit. On 9 October 2026 it said EOR Plus required no security deposit.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "Employer of Record: EOR Flex from $199 per employee a month, billed monthly with no commitment, no setup fee and no minimum headcount; EOR Plus from $399 with an annual commitment, a dedicated account manager and a minimum of 5 employees.",
-     "evidence_excerpt": "Employer of Record: EOR Flex from $199 per employee a month, billed monthly with no commitment, no setup fee and no minimum headcount; EOR Plus from $399 with an annual commitment, a dedicated accoun…",
+     "evidence": "Employer of Record: EOR Global from $499 per employee a month, and EOR Select from $199 per employee a month for selected countries and qualifying salary ranges (country and salary conditions apply).",
+     "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-09"
+     "verified_at": "2026-11-12"
     },
     {
      "flag": "annual_lock",
-     "evidence": "Employer of Record: EOR Flex from $199 per employee a month, billed monthly with no commitment, no setup fee and no minimum headcount; EOR Plus from $399 with an annual commitment, a dedicated account manager and a minimum of 5 employees.",
-     "evidence_excerpt": "Employer of Record: EOR Flex from $199 per employee a month, billed monthly with no commitment, no setup fee and no minimum headcount; EOR Plus from $399 with an annual commitment, a dedicated accoun…",
+     "evidence": "Our earlier readings had EOR Flex from $199 (billed monthly, no commitment, no setup fee, no minimum headcount) and EOR Plus from $399 (annual commitment, minimum of 5 employees).",
+     "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-09"
+     "verified_at": "2026-11-12"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-09",
-   "first_observed_at": "2026-08-07"
+   "price_verified_at": "2026-11-12",
+   "first_observed_at": "2026-11-12"
   },
   {
    "name": "Replit",
@@ -5691,10 +5691,10 @@
    "entry_price": "$19",
    "entry_price_terms": "Premium · per month, 3-day free trial",
    "pricing_status": "public",
-   "price_note": "(re-read 2026-10-27 on apps.shopify.com/storelock, storelock.app/pricing and the StoreLock FAQ) Two plans are on sale today. Premium is $19 a month with a 3-day free trial and covers storefront protection, country blocking, copy protection for text and images, domain squatter detection, real-time threat alerts and abuse-report filing in the app; image monitoring is billed on top, at $0.20 per monitored image according to the Shopify listing. Enterprise is $399 a month, also with a 3-day trial, and is fully managed: StoreLock's team reviews, files and escalates every case, with unlimited takedowns and image monitoring, a dedicated account manager and a weekly case summary. All charges are in USD, billed through Shopify every 30 days. The pricing page also previews a 'StoreLock 2' line-up marked coming soon, with no launch date: Free at $0 (copy protection, clone alerts, a monthly lookalike scan, 10 monitored images), Premium at $19 (100 image scans a month, then $0.05 per scan, and 5 automated reports), Plus at $149 (up to 5 domains or brand terms, 50 reports, 1,000 scans, then $0.02) and Enterprise at $499 (up to 10 domains or terms, 100 reports, 10,000 scans, then $0.01, plus Assisted Enforcement Support). Existing Premium and Enterprise subscribers keep their price and features for 6 months after that launch. Developer Williams Web Services LLC of Columbus, Ohio (founder Adam Weis); listed on Shopify since 30 June 2023, rated 4.6 from 10 reviews.",
+   "price_note": "(re-read 2026-10-27 and re-verified unchanged 2026-11-12 on apps.shopify.com/storelock, storelock.app/pricing and the StoreLock FAQ) Two plans are on sale today. Premium is $19 a month with a 3-day free trial and covers storefront protection, country blocking, copy protection for text and images, domain squatter detection, real-time threat alerts and abuse-report filing in the app; image monitoring is billed on top, at $0.20 per monitored image according to the Shopify listing. Enterprise is $399 a month, also with a 3-day trial, and is fully managed: StoreLock's team reviews, files and escalates every case, with unlimited takedowns and image monitoring, a dedicated account manager and a weekly case summary. All charges are in USD, billed through Shopify every 30 days. The pricing page also previews a 'StoreLock 2' line-up marked coming soon, with no launch date: Free at $0 (copy protection, clone alerts, a monthly lookalike scan, 10 monitored images), Premium at $19 (100 image scans a month, then $0.05 per scan, and 5 automated reports), Plus at $149 (up to 5 domains or brand terms, 50 reports, 1,000 scans, then $0.02) and Enterprise at $499 (up to 10 domains or terms, 100 reports, 10,000 scans, then $0.01, plus Assisted Enforcement Support). Existing Premium and Enterprise subscribers keep their price and features for 6 months after that launch. Developer Williams Web Services LLC of Columbus, Ohio (founder Adam Weis); listed on Shopify since 30 June 2023, rated 4.6 from 10 reviews on 27 October and 4.7 from 11 on 12 November 2026. On 12 November 2026 StoreLock 2 was still marked coming soon with no date, and the plan amounts on both pages were unchanged.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-27",
+   "price_verified_at": "2026-11-12",
    "first_observed_at": "2026-10-27"
   },
   {
@@ -5736,7 +5736,7 @@
    "entry_price": "$30",
    "entry_price_terms": "per user a month, billed annually",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-01 in surveymonkey.com/pricing.md, whose header now dates the content 2026-09-22, and on surveymonkey.com/pricing/ as served to a euro storefront) Team plans are billed annually and need three or more users; pricing.md no longer lists any monthly Team variant. Every Team seat costs the same, the first one included: in the US table Team Advantage Annual is $360 a user a year and Team Premier Annual $1,104, the $30 and $92 a month the SurveyMonkey partner team quoted by email on 24 September 2026, so three seats come to $1,080 or $3,312 a year. Euro storefronts read €360 and €900 a user a year, shown on the page as €30 and €75 a month. The euro pricing page states the included responses: 50,000 a year on Team Advantage and 100,000 on Team Premier, counted across all surveys and users; Enterprise (five or more users, custom quote) has a custom limit. Overage above the limit is priced per storefront: $0.15 a response in dollar countries, €0.10 in euro countries, £0.15 in sterling; SurveyMonkey Audience responses are sold separately. Individual plans in the US table: Standard Monthly $149 a month, Standard Annual $300 a year (US, GB and AU only, not offered to churned Basic users), Advantage Annual $468 and Premier Annual $1,668 a year. The partner team quoted Standard Monthly at $99 a month two days after this edition of pricing.md, so confirm that one at checkout. The free Basic plan allows 10 questions per survey, and pricing.md now shows its response limit as 10 outside Canada, where Basic users keep 25.",
+   "price_note": "(re-verified 2026-10-01 in surveymonkey.com/pricing.md, whose header now dates the content 2026-09-22, and on surveymonkey.com/pricing/ as served to a euro storefront) Team plans are billed annually and need three or more users; pricing.md no longer lists any monthly Team variant. Every Team seat costs the same, the first one included: in the US table Team Advantage Annual is $360 a user a year and Team Premier Annual $1,104, the $30 and $92 a month the SurveyMonkey partner team quoted by email on 24 September 2026, so three seats come to $1,080 or $3,312 a year. Euro storefronts read €360 and €900 a user a year, shown on the page as €30 and €75 a month. The euro pricing page states the included responses: 50,000 a year on Team Advantage and 100,000 on Team Premier, counted across all surveys and users; Enterprise (five or more users, custom quote) has a custom limit. Overage above the limit is priced per storefront: $0.15 a response in dollar countries, €0.10 in euro countries, £0.15 in sterling; SurveyMonkey Audience responses are sold separately. Individual plans in the US table: Standard Monthly $149 a month, Standard Annual $300 a year (US, GB and AU only, not offered to churned Basic users), Advantage Annual $468 and Premier Annual $1,668 a year. The pricing.md edition updated 27 October 2026 (read 12 November 2026) still lists $149 a month for the US. The $99 a month was a partner-team email quote of 24 September 2026 and appears in no published table. The €39 a month we saw at checkout matches the German euro row (the Irish row reads €35), so it is a different storefront, not a different US price. The free Basic plan allows 10 questions per survey, and pricing.md now shows its response limit as 10 outside Canada, where Basic users keep 25.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -5744,7 +5744,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-01"
+     "verified_at": "2026-11-12"
     },
     {
      "flag": "free_tier",
@@ -5752,11 +5752,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-01"
+     "verified_at": "2026-11-12"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-01",
+   "price_verified_at": "2026-11-12",
    "first_observed_at": "2026-10-01"
   },
   {
@@ -5868,19 +5868,19 @@
    "category": "Operations & Workflow",
    "domain": "synthesia.io",
    "review_url": "https://aibuildermarketplace.com/b2b/synthesia-review/",
-   "from_price_usd_mo": 29.0,
-   "entry_price": "$29",
+   "from_price_usd_mo": 19.0,
+   "entry_price": "$19",
    "entry_price_terms": "Starter · billed monthly",
    "pricing_status": "public",
-   "price_note": "(re-read 1 October 2026) The public pricing page, read without signing in from a Netherlands connection, now shows dollars and a new credit model: 'Credits are now the shared currency across all AI usage-based features'. Basic is $0 with 500 credits a month plus a free allowance of 10 minutes of video or dubbing and 3 survey responses; free videos carry a Synthesia watermark and are shared by link. Starter is $29 a month, or $18 a month billed yearly, with 1,250 credits a month (15,000 a year), which the page puts at about 12 minutes of video on top of the free allowance. Pro, which replaces Creator on the plan cards, is $89 a month or $64 billed yearly with 6,000 credits a month (72,000 a year), about 60 minutes, and scales to 48,000 credits a month at $676. Enterprise is quote-only. The page's calculator prices video at 100 credits a minute, dubbing at 76 and a survey response at 350, with the first 10 minutes of video included on every plan. Inside the app the same day, signed in on Basic, the upgrade window still showed the earlier plans in euros: Starter €19 a month or €12 billed yearly with 15,500 credits a year (up to 120 minutes of video), and Creator €79 or €49 with 72,500 credits a year (up to 360 minutes). In our own test the meter charged 59 credits for 29 seconds of video. Check which plan your checkout shows before budgeting. A Studio avatar remains a paid add-on.",
+   "price_note": "(re-read 12 November 2026) The public pricing page is geo-priced, and the dollar view has changed since 1 October. In dollars it read Starter $19 a month (first month $9) or $14 a month billed yearly ($168) with 1,250 credits a month, and Pro $89 a month (first month $49) or $59 a month billed yearly ($708) with 6,000 credits a month. In euros the same page read Starter €19 or €12 a month (€144 billed yearly, 15,000 credits a year) and Pro €79 or €49 a month (€588 billed yearly, 72,000 credits a year), so the euro plans our app showed on 1 October are now on the public page too. The older reading follows. (re-read 1 October 2026) The public pricing page, read without signing in from a Netherlands connection, now shows dollars and a new credit model: 'Credits are now the shared currency across all AI usage-based features'. Basic is $0 with 500 credits a month plus a free allowance of 10 minutes of video or dubbing and 3 survey responses; free videos carry a Synthesia watermark and are shared by link. Starter is $29 a month, or $18 a month billed yearly, with 1,250 credits a month (15,000 a year), which the page puts at about 12 minutes of video on top of the free allowance. Pro, which replaces Creator on the plan cards, is $89 a month or $64 billed yearly with 6,000 credits a month (72,000 a year), about 60 minutes, and scales to 48,000 credits a month at $676. Enterprise is quote-only. The page's calculator prices video at 100 credits a minute, dubbing at 76 and a survey response at 350, with the first 10 minutes of video included on every plan. Inside the app the same day, signed in on Basic, the upgrade window still showed the earlier plans in euros: Starter €19 a month or €12 billed yearly with 15,500 credits a year (up to 120 minutes of video), and Creator €79 or €49 with 72,500 credits a year (up to 360 minutes). In our own test the meter charged 59 credits for 29 seconds of video. Check which plan your checkout shows before budgeting. A Studio avatar remains a paid add-on.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(re-read 1 October 2026) The public pricing page, read without signing in from a Netherlands connection, now shows dollars and a new credit model: 'Credits are now the shared currency across all AI usage-based features'.",
-     "evidence_excerpt": "(re-read 1 October 2026) The public pricing page, read without signing in from a Netherlands connection, now shows dollars and a new credit model: 'Credits are now the shared currency across all AI u…",
+     "evidence": "In dollars it read Starter $19 a month (first month $9) or $14 a month billed yearly ($168) with 1,250 credits a month, and Pro $89 a month (first month $49) or $59 a month billed yearly ($708) with 6,000 credits a month.",
+     "evidence_excerpt": "In dollars it read Starter $19 a month (first month $9) or $14 a month billed yearly ($168) with 1,250 credits a month, and Pro $89 a month (first month $49) or $59 a month billed yearly ($708) with …",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-01"
+     "verified_at": "2026-11-12"
     },
     {
      "flag": "addons_extra",
@@ -5888,7 +5888,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-01"
+     "verified_at": "2026-11-12"
     },
     {
      "flag": "free_tier",
@@ -5896,11 +5896,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-01"
+     "verified_at": "2026-11-12"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-01",
+   "price_verified_at": "2026-11-12",
    "first_observed_at": null
   },
   {

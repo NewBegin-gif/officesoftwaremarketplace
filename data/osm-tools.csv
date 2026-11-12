@@ -3,7 +3,7 @@ name,category,domain,from_price_usd_mo,flags,review_url,researched,entry_price,e
 accessiBe,IT & Productivity,accessibe.com,59.0,,https://aibuildermarketplace.com/b2b/accessibe-review/,2026-07,$59,"Micro · per month for up to 5,000 monthly visits",public,2026-10-25
 AccuWeb Hosting,IT & Productivity,accuwebhosting.com,,renewal_jump,https://aibuildermarketplace.com/b2b/accuweb-hosting-review/,2026-07,€4.42,"VPS Edge · per month on a 24-month term, New York location",public,2026-10-07
 Acronis,IT & Productivity,acronis.com,,addons_extra,https://aibuildermarketplace.com/b2b/acronis-review/,2026-07,€49.99,"Essentials · per year, one-year subscription for 1 computer, local backup only",public,2026-11-02
-ADP,HR & People,adp.com,,quote_only|per_seat,https://aibuildermarketplace.com/b2b/adp-review/,2026-07,,,quote_only,2026-10-11
+ADP,HR & People,adp.com,,quote_only|per_seat,https://aibuildermarketplace.com/b2b/adp-review/,2026-07,,,quote_only,2026-11-12
 Airia,IT & Productivity,airia.com,,quote_only,https://aibuildermarketplace.com/b2b/airia-review/,2026-07,,,quote_only,2026-10-10
 Airwallex,Finance,airwallex.com,12.0,usage_metered,https://aibuildermarketplace.com/b2b/airwallex-review/,2026-07,$12,a month per active Spend user plus a team-size platform fee,public,2026-10-23
 Alohi,Operations & Workflow,alohi.com,6.99,per_seat|usage_metered|addons_extra|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/alohi-review/,2026-07,$6.99,a month billed annually ($83.99/yr),public,2026-09-27
@@ -51,7 +51,7 @@ Contractor Foreman,Operations & Workflow,contractorforeman.com,49.0,annual_lock,
 Credit Repair Cloud,Financial Operations,creditrepaircloud.com,49.0,addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/credit-repair-cloud-review/,2026-07,$49,a month for one user,public,2026-10-10
 CrowdStrike,Security,crowdstrike.com,,,https://aibuildermarketplace.com/b2b/crowdstrike-review/,2026-07,$7.99,"Falcon Go · per device per month, or $59.99 per device a year",public,2026-09-22
 Database Mart,IT & Productivity,databasemart.com,2.88,addons_extra,https://aibuildermarketplace.com/b2b/database-mart-review/,2026-07,$2.88,"Express Linux VPS · per month, 2 CPU cores, 4GB RAM, 60GB SSD, marked save 51%",public,2026-10-06
-Databox,Operations & Workflow,databox.com,71.0,usage_metered|addons_extra|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/databox-review/,2026-07,$71,"a month billed annually (1 user, 5 sources, 150 AI credits)",public,2026-10-20
+Databox,Operations & Workflow,databox.com,399.0,usage_metered|addons_extra|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/databox-review/,2026-07,$399,per month billed annually ($499 monthly),public,2026-11-12
 Datarails,Financial Operations,datarails.com,,quote_only|addons_extra,https://aibuildermarketplace.com/b2b/datarails-review/,2026-07,,,quote_only,2026-10-10
 Deel,HR & People,deel.com,14.0,per_seat|addons_extra,https://aibuildermarketplace.com/b2b/deel-review/,2026-07,$14,a month per worker for Find talent (hiring),public,2026-10-09
 Deftform,IT & Productivity,deftform.com,,usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/deftform-review/,2026-07,,,see_details,2026-10-14
@@ -88,7 +88,7 @@ FreshBooks,Financial Operations,freshbooks.com,,per_seat|renewal_jump|addons_ext
 Freshservice,IT & Productivity,freshservice.com,19.0,per_seat|usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/freshservice-review/,2026-07,$19,"per agent a month, billed annually ($29 billed monthly)",public,2026-09-29
 Future Skills Academy,Business Operations,futureskillsacademy.com,25.0,,https://aibuildermarketplace.com/b2b/future-skills-academy-review/,2026-07,$25,Standard · Standard shown as $25 a month billed yearly…,public,2026-11-06
 Gamma,Operations & Workflow,gamma.app,,per_seat|usage_metered|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/gamma-review/,2026-07,€8,per seat a month billed annually (€10 monthly),public,2026-09-29
-GCheck,HR & People,gcheck.com,,,https://aibuildermarketplace.com/b2b/gcheck-review/,2026-07,$18.95,"Basic · per background check, current county of residence only",public,2026-10-16
+GCheck,HR & People,gcheck.com,,,https://aibuildermarketplace.com/b2b/gcheck-review/,2026-07,$18.95,"Basic · per year, per background check, current county of residence only",public,2026-11-12
 Getscreen,IT & Productivity,getscreen.me,4.17,free_tier,https://aibuildermarketplace.com/b2b/getscreen-review/,2026-07,$4.17,"a month per technician plus $0.08 per device, billed annually",public,2026-09-23
 Glide,IT & Productivity,glideapps.com,19.0,per_seat|usage_metered|addons_extra|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/glide-review/,2026-07,$19,per month billed yearly ($25 monthly),public,2026-10-17
 Goflow,Operations & Workflow,goflow.com,499.0,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/goflow-review/,2026-07,$499,"entry plan (750 orders) · per month for 750 orders, month-to-month",public,2026-09-23
@@ -104,7 +104,7 @@ Hopp,IT & Productivity,gethopp.com,,,https://aibuildermarketplace.com/b2b/hopp-r
 Hostinger,IT & Productivity,hostinger.com,2.99,renewal_jump,https://aibuildermarketplace.com/b2b/hostinger-review/,2026-07,$2.99,"a month (48-month prepaid term, $143.52 upfront), renews at $10.99/mo",public,2026-10-09
 HostPapa,IT & Productivity,hostpapa.com,,renewal_jump,https://aibuildermarketplace.com/b2b/hostpapa-review/,2026-07,$2.95,"Web Hosting Essentials · per month on a 3-year discounted first term, new customers only",public,2026-10-12
 Housecall Pro,Operations & Workflow,housecallpro.com,59.0,,https://aibuildermarketplace.com/b2b/housecall-pro-review/,2026-07,$59,"per month billed annually ($79 month-to-month), 1 user",public,2026-09-29
-Hubstaff,HR & People,hubstaff.com,4.99,per_seat|addons_extra,https://aibuildermarketplace.com/b2b/hubstaff-review/,2026-07,$4.99,"Starter, per seat · per seat per month billed annually ($7 billed monthly)",public,2026-09-19
+Hubstaff,HR & People,hubstaff.com,4.99,per_seat|addons_extra,https://aibuildermarketplace.com/b2b/hubstaff-review/,2026-07,$4.99,"Starter, per seat · per seat per month billed annually ($7 billed monthly)",public,2026-11-12
 IDrive,IT & Productivity,idrive.com,0.25,addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/idrive-review/,2026-07,$0.25,a month for 100 GB,public,2026-09-24
 Imagify,IT & Productivity,imagify.io,4.99,free_tier,https://aibuildermarketplace.com/b2b/imagify-review/,2026-07,$4.99,"Growth · per month, billed yearly, excluding tax",public,2026-10-17
 Inbox Zero,IT & Productivity,getinboxzero.com,18.0,per_seat,https://aibuildermarketplace.com/b2b/inbox-zero-review/,2026-07,$18,"Starter · per user per month billed annually, $20 billed monthly",public,2026-10-15
@@ -172,7 +172,7 @@ QuickSigner,IT & Productivity,quicksigner.com,5.0,per_seat|annual_lock|free_tier
 QuillBot,Operations & Workflow,quillbot.com,19.95,free_tier,https://aibuildermarketplace.com/b2b/quillbot-review/,2026-07,$19.95,"a month, or $8.33 a month billed annually ($99.95 a year)",public,2026-09-26
 Reclaim.ai,Operations & Workflow,reclaim.ai,10.0,per_seat|addons_extra|free_tier,https://aibuildermarketplace.com/b2b/reclaim-ai-review/,2026-07,$10,per seat a month billed yearly ($12 monthly),public,2026-10-03
 Recruit CRM,HR & People,recruitcrm.io,,per_seat|usage_metered|annual_lock,https://aibuildermarketplace.com/b2b/recruit-crm-review/,2026-07,€79,Pro · per user a month billed annually (€95 billed monthly),public,2026-11-02
-Remote People,HR & People,remotepeople.com,199.0,per_seat|annual_lock,https://aibuildermarketplace.com/b2b/remote-people-review/,2026-07,$199,"EOR Flex, per employee · billed monthly with no commitment, no setup fee and no minimum headcount",public,2026-10-09
+Remote People,HR & People,remotepeople.com,499.0,per_seat|annual_lock,https://aibuildermarketplace.com/b2b/remote-people-review/,2026-07,$499,per employee per month (EOR Select from $199 in selected countries and salary ranges),public,2026-11-12
 Replit,IT & Productivity,replit.com,18.0,usage_metered,https://aibuildermarketplace.com/b2b/replit-review/,2026-07,$18,"a month, billed annually ($20 billed monthly)",public,2026-09-26
 Rippling,HR & People,rippling.com,8.0,per_seat,https://aibuildermarketplace.com/b2b/rippling-review/,2026-07,$8,per employee a month plus a $40 monthly base fee (published floor),public,2026-10-16
 Runpod,IT & Productivity,runpod.io,,,https://aibuildermarketplace.com/b2b/runpod-review/,2026-07,$0.27,"RTX A5000 pod, Secure… · per hour, billed per second",public,2026-09-24
@@ -197,14 +197,14 @@ SmartSuite,Operations & Workflow,smartsuite.com,15.0,per_seat,https://aibuilderm
 SMTP.com,IT & Productivity,smtp.com,25.0,usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/smtp-com-review/,2026-07,$25,"per month (50,000 emails, shared IP)",public,2026-09-24
 SMTP2GO,IT & Productivity,smtp2go.com,15.0,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/smtp2go-review/,2026-07,$15,"per month or $150/yr for 10,000 emails",public,2026-09-26
 Softr,IT & Productivity,softr.io,19.0,usage_metered|addons_extra|free_tier,https://aibuildermarketplace.com/b2b/softr-review/,2026-07,$19,"per month billed annually (page opens on the Yearly tab, two months off)",public,2026-10-01
-StoreLock,Security,storelock.app,19.0,,https://aibuildermarketplace.com/b2b/storelock-review/,2026-07,$19,"Premium · per month, 3-day free trial",public,2026-10-27
+StoreLock,Security,storelock.app,19.0,,https://aibuildermarketplace.com/b2b/storelock-review/,2026-07,$19,"Premium · per month, 3-day free trial",public,2026-11-12
 Sucuri,IT & Productivity,sucuri.net,,,https://aibuildermarketplace.com/b2b/sucuri-review/,2026-07,$229,"Basic Platform · one website, billed yearly",public,2026-10-27
 Sunsama,Operations & Workflow,sunsama.com,17.0,,https://aibuildermarketplace.com/b2b/sunsama-review/,2026-07,$17,"per month billed yearly, $22 monthly on the plan card",public,2026-09-19
-SurveyMonkey,Operations & Workflow,surveymonkey.com,30.0,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/surveymonkey-review/,2026-07,$30,"per user a month, billed annually",public,2026-10-01
+SurveyMonkey,Operations & Workflow,surveymonkey.com,30.0,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/surveymonkey-review/,2026-07,$30,"per user a month, billed annually",public,2026-11-12
 Survicate,Operations & Workflow,survicate.com,56.0,usage_metered|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/survicate-review/,2026-07,$56,"Growth (100 responses) · per month, billed annually",public,2026-11-11
 SurvIQ,IT & Productivity,surviqapp.com,9.0,usage_metered|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/surviq-review/,2026-07,$9,"Basic · 1,000 responses a month and 1 user",public,2026-11-10
 Switcher Studio,Operations & Workflow,switcherstudio.com,65.0,annual_lock,https://aibuildermarketplace.com/b2b/switcher-studio-review/,2026-07,$65,"a month month-to-month, or $45 a month billed annually",public,2026-09-26
-Synthesia,Operations & Workflow,synthesia.io,29.0,usage_metered|addons_extra|free_tier,https://aibuildermarketplace.com/b2b/synthesia-review/,2026-07,$29,Starter · billed monthly,public,2026-10-01
+Synthesia,Operations & Workflow,synthesia.io,19.0,usage_metered|addons_extra|free_tier,https://aibuildermarketplace.com/b2b/synthesia-review/,2026-07,$19,Starter · billed monthly,public,2026-11-12
 Tax1099,Financial Operations,tax1099.com,,usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/tax1099-review/,2026-07,$249,"a year (multi-user access, 250 free TIN matches)",public,2026-10-12
 TaxCycle,Financial Operations,taxcycle.com,,per_seat|addons_extra,https://aibuildermarketplace.com/b2b/taxcycle-review/,2026-07,C$618,a year,public,2026-10-13
 Team Pulse,Operations & Workflow,goteampulse.io,29.0,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/team-pulse-review/,2026-07,$29,per month billed annually ($39 monthly),public,2026-10-13
