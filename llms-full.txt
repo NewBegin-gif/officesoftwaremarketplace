@@ -250,7 +250,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/databox-review.html
 - Hands-on: tested by us on 2026-09-25
 - Verdict: Databox: Monthly, Analyst reads $89 and the others $249, $399 and from $99; annual billing is 20% off. The pricing model bites, just not where it used to.
-- Price: (re-verified 2026-10-02, 2026-10-06 and 2026-10-20, read on their own pricing page) Databox renamed and repriced its whole ladder since our August reading, so the Analyst/Pro/Growth tiers we described are gone. Free is $0 forever: 1 user, 3 data sources, 1 dashboard, 10 custom metrics, 50 AI credits a month, daily sync.
+- Price: (read 2026-11-12 on their own pricing page) NEW: the page now sells one self-serve plan, Business, at $399 a month billed annually ($4,788 a year) or $499 billed monthly, with up to 10 users, up to 30 data sources, 1,500 AI credits a month and email support. Agency is $79 a month billed annually plus $20 a month per account pack (1 account, 5 data sources, 50 AI credits); add-ons are unchanged at $200, $80, $40,…
 
 ## Datarails
 - Review: https://officesoftwaremarketplace.com/datarails-review.html
@@ -890,7 +890,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## SignNow
 - Review: https://officesoftwaremarketplace.com/signnow-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-12. Measured 2026-11-12: The source reports a dossier price of $8 per user/month annually. At 25 seats Business checkout stayed $96/year for the account; Business Premium stayed $240/year.
 - Verdict: Signnow.com/pricing.md, read the same day, gives the annual rates as $8, $15 and $30 per user a month.
 - Price: Three plans on signNow's live checkout page, read in a browser on 26 September 2026 from the EU: Business EUR 8, Business Premium EUR 15 and Enterprise EUR 30 a month billed annually, against EUR 20, EUR 30 and EUR 50 month-to-month (the cards state the annual saving as EUR 144, EUR 180 and EUR 240); signnow.com/pricing.md, read the same day, gives the annual rates as $8, $15 and $30 per user a month. Every card…
 
