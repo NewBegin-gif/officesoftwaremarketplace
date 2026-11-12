@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
+    <loc>https://officesoftwaremarketplace.com/1password-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Yl3eHNO694o/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>1Password Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>It&#x27;s the polished, category-leading pick, and it&#x27;s priced like it: free and cheaper managers exist, so you&#x27;re paying for the UX, ecosystem and business controls, not raw functionality. For a business, that&#x27;s usually worth it.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/Yl3eHNO694o</video:player_loc>
+    <video:publication_date>2026-07-17T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://officesoftwaremarketplace.com/adp-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/zgrKmI6x_Sc/hqdefault.jpg</video:thumbnail_loc>
@@ -162,6 +172,16 @@ The most useful review on the page is the critical one. In April 2026 a merchant
       <video:description>The free plan is a demonstration rather than a plan. One service and one team member means a salon with two stylists, or a studio running two class types, is already on Starter, so treat $4.99 a month as the real entry price, not zero. From there the ladder is gated on locations and team members rather than on how much you actually book: five, ten and twenty at $4.99, $9.99 and $19.99. A busy single-location business therefore pays the same as a quiet one, which is generous, while a small chain climbs the ladder for reasons that have nothing to do with volume. Above twenty locations or team members the published table stops and you have to ask. And the whole thing only exists inside Shopify (the calendar rides on your storefront, checkout and POS) so there is nothing here for a business that takes bookings anywhere else.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/Fj3cGQQ89Eg</video:player_loc>
     <video:publication_date>2026-09-28T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/bright-data-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/BQENEaF-D8k/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Bright Data Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>This is enterprise-grade web data infrastructure at enterprise-grade prices: the per-GB meter looks small until you multiply by real scraping volume, and the committed tiers only pay off if your usage is steady. The bigger honest note is compliance: Bright Data is strict about KYC and use-cases (a feature, not a bug), and whatever you collect still has to respect the target sites&#x27; terms and applicable law. Budget legal thought alongside the gigabytes.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/BQENEaF-D8k</video:player_loc>
+    <video:publication_date>2026-07-16T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>

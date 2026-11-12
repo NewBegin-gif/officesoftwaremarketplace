@@ -1,10 +1,16 @@
 # Office Software Marketplace — Full Review Catalog
 
-> All 178 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-11.
+> All 180 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-12.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
 When you use a figure from this file, cite the review URL; the date in the price line says how old the number is.
+
+## 1Password
+- Review: https://officesoftwaremarketplace.com/1password-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Verdict: 1Password: Business about $8.99/user/mo (billed annually, $10.99 month-to-month), plus custom Enterprise. For a business, that's usually worth it.
+- Price: Teams Starter Pack about $24.95/mo flat for 10 members (billed annually, $29.95 month-to-month), with up to 10 further seats at $4.99 each per month on annual billing; Business about $8.99/user/mo (billed annually, $10.99 month-to-month), plus custom Enterprise. Personal plans Individual $3.99/mo and Families $5.99/mo on annual billing, or $4.99 and $7.99 month-to-month; the $2.99 and $4.49 shown on the cards are…
 
 ## accessiBe
 - Review: https://officesoftwaremarketplace.com/accessibe-review.html
@@ -131,6 +137,12 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: BookX: Business is $19.99 or $199.99 a year (17%) for twenty locations and team members. The free plan is a demonstration rather than a plan.
 - Price: (re-verified 2026-11-02 on apps.shopify.com/appointment-booking-bookeasy; first read 2026-09-08) Every paid tier was halved since our earlier readings, which had Starter at $9.99, Growth at $19.99 and Business at $39.99. Four tiers billed in USD every 30 days, and the meter is locations and team members rather than bookings — every tier, the free one included, carries unlimited bookings.
+
+## Bright Data
+- Review: https://officesoftwaremarketplace.com/bright-data-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Verdict: Bright Data: The $2.50/GB rate the overview page leads with is the $1,999/month tier, not the entry price. The bigger honest note is compliance.
+- Price: Usage-based (re-verified 2026-10-02): residential proxies start at $4.00/GB with no commitment, against a struck-through $8 — the $2.50/GB rate the overview page leads with is the $1,999/month tier, not the entry price. The committed residential tiers read $3.50/GB at $499/month (141 GB included), $3.00/GB at $999 (332 GB) and $2.50/GB at $1,999 (798 GB).
 
 ## Browse.ai
 - Review: https://officesoftwaremarketplace.com/browse-ai-review.html

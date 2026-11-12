@@ -1,6 +1,6 @@
 # Office Software Marketplace
 
-> Independent reviews of office, finance, HR and IT software for small and mid-sized teams. 178 full reviews live here as the canonical version, 52 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-11.
+> Independent reviews of office, finance, HR and IT software for small and mid-sized teams. 180 full reviews live here as the canonical version, 52 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-12.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -73,7 +73,8 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [FreshBooks](https://officesoftwaremarketplace.com/freshbooks-review.html): tested 2026-09-07
 - [Glide](https://officesoftwaremarketplace.com/glide-review.html): tested 2026-09-07
 
-## Reviews (178) — canonical versions
+## Reviews (180) — canonical versions
+- [1Password Review (2026): No Free Tier, From $3.99/mo Yearly](https://officesoftwaremarketplace.com/1password-review.html): 1Password: Business about $8.99/user/mo (billed annually, $10.99 month-to-month), plus custom Enterprise. For a business, that's usually worth it.
 - [accessiBe Review (2026): From $59/mo, Tested Oct 2026](https://officesoftwaremarketplace.com/accessibe-review.html) (tested hands-on): accessiBe: $490 is the first figure a visitor sees. The thing you most need to know about this product is not on its pricing page, it is on the FTC’s.
 - [AccuWeb Hosting Review (2026): Cheap VPS That Renews at 2-4x](https://officesoftwaremarketplace.com/accuweb-hosting-review.html): AccuWeb Hosting: VPS Edge is €4.42 a month and renews at €8.91. The money-back guarantee is 7 days, shorter than many hosts offer.
 - [Acronis True Image Review (2026): €49.99/yr, Cloud on Advanced](https://officesoftwaremarketplace.com/acronis-review.html): Acronis: For 1 computer it is €124.99 a year with 1 TB of cloud storage and goes up to €559.99 a year with 10 TB. Essentials has no cloud storage at a
@@ -95,6 +96,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [Bokun Review (Tested Oct 2026): Free Tier, Then $49/mo](https://officesoftwaremarketplace.com/bokun-review.html) (tested hands-on): Bokun: (2026) A free version (1 user) plus paid plans from $49/mo (Start, up to 5 users), $149 (Plus, up to 10) and $499 (Premium, unlimited).
 - [Bolt Business Review (2026): Pricing Not Public, Quote Only](https://officesoftwaremarketplace.com/bolt-business-review.html): Bolt Business: One line the marketing does not carry. The honest boundary is geography: Bolt's network is Europe/Africa-centric across 600+ cities.
 - [BookX Review (2026): From $4.99/mo, Checked Nov 2026](https://officesoftwaremarketplace.com/bookx-review.html): BookX: Business is $19.99 or $199.99 a year (17%) for twenty locations and team members. The free plan is a demonstration rather than a plan.
+- [Bright Data Review (2026): Skip It for Occasional Scrapes](https://officesoftwaremarketplace.com/bright-data-review.html): Bright Data: The $2.50/GB rate the overview page leads with is the $1,999/month tier, not the entry price. The bigger honest note is compliance.
 - [Browse.ai Review (2026): $19/mo Only If Billed Yearly](https://officesoftwaremarketplace.com/browse-ai-review.html): Browse.ai: Free is $0 with 50 credits a month, 2 websites and 3 users. Two honest realities of no-code scraping.
 - [BugHerd Review (2026): From $42/mo, Tested Oct 2026](https://officesoftwaremarketplace.com/bugherd-review.html) (tested hands-on): BugHerd: Standard $42/mo billed yearly or $50 month-to-month (5 members, 10 GB). The per-team-member tiers are the thing to size honestly.
 - [BulkCertPDF Review (2026): Excel to Certificates, $19 Pass](https://officesoftwaremarketplace.com/bulkcertpdf-review.html): BulkCertPDF has a Free plan, a one-off Batch Pass and a Pro subscription. The free plan adds a watermark and stops at 25 certificates a month.
