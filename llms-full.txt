@@ -249,7 +249,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Databox
 - Review: https://officesoftwaremarketplace.com/databox-review.html
 - Hands-on: tested by us on 2026-09-25
-- Verdict: Databox: Monthly, Analyst reads $89 and the others $249, $399 and from $99; annual billing is 20% off. The pricing model bites, just not where it used to.
+- Verdict: Databox — Free is $0 forever: 1 user, 3 data sources, 1 dashboard, 10 custom metrics, 50 AI credits a month, daily sync.
 - Price: (read 2026-11-12 on their own pricing page) NEW: the page now sells one self-serve plan, Business, at $399 a month billed annually ($4,788 a year) or $499 billed monthly, with up to 10 users, up to 30 data sources, 1,500 AI credits a month and email support. Agency is $79 a month billed annually plus $20 a month per account pack (1 account, 5 data sources, 50 AI credits); add-ons are unchanged at $200, $80, $40,…
 
 ## Datarails
@@ -795,8 +795,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Remote People
 - Review: https://officesoftwaremarketplace.com/remote-people-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Remote People: US PEO from $99 per employee a month and US payroll from $29. The monthly rates are the cheapest we have on file for this category.
-- Price: (2026-08-07, read on their own pricing page; re-verified unchanged on 2026-10-06 and again on 2026-10-09) Priced per service rather than per plan, and every figure is a floor. Employer of Record: EOR Flex from $199 per employee a month, billed monthly with no commitment, no setup fee and no minimum headcount; EOR Plus from $399 with an annual commitment, a dedicated account manager and a minimum of 5 employees.
+- Verdict: Remote People — Employer of Record: EOR Global from $499 per employee a month. The monthly rates are the cheapest we have on file for this category.
+- Price: (read 2026-11-12 on their own pricing page. NEW since our readings of 2026-08-07, 2026-10-06 and 2026-10-09, which showed EOR Flex from $199 and EOR Plus from $399) Priced per service rather than per plan, and every figure is a floor.
 
 ## Replit
 - Review: https://officesoftwaremarketplace.com/replit-review.html
@@ -957,8 +957,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Synthesia
 - Review: https://officesoftwaremarketplace.com/synthesia-review.html
 - Hands-on: tested by us on 2026-10-01
-- Verdict: Synthesia: Starter is $29 a month, or $18 a month billed yearly. A small edit generated again cost us 4 credits rather than the whole video.
-- Price: (re-read 1 October 2026) The public pricing page, read without signing in from a Netherlands connection, now shows dollars and a new credit model: 'Credits are now the shared currency across all AI usage-based features'. Basic is $0 with 500 credits a month plus a free allowance of 10 minutes of video or dubbing and 3 survey responses; free videos carry a Synthesia watermark and are shared by link.
+- Verdict: Synthesia: The public pricing page is geo-priced. The minute caps are tight: Starter's 1,250 credits a month is roughly 10 to 12 minutes of finished video.
+- Price: (re-read 12 November 2026) The public pricing page is geo-priced, and the dollar view has changed since 1 October. In dollars it read Starter $19 a month (first month $9) or $14 a month billed yearly ($168) with 1,250 credits a month, and Pro $89 a month (first month $49) or $59 a month billed yearly ($708) with 6,000 credits a month.
 
 ## Tax1099
 - Review: https://officesoftwaremarketplace.com/tax1099-review.html
