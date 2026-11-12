@@ -705,6 +705,16 @@ The ratings on the pages are Google reviews that Harbor Compliance quotes itself
     </video:video>
   </url>
   <url>
+    <loc>https://officesoftwaremarketplace.com/imagify-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/BaAQ134JjTg/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Imagify Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>A prepaid yearly plan is not refunded. The free tier&#x27;s 20MB a month and 2MB per image are only enough for a test, Growth charges $5 for each extra GB, and Infinite&#x27;s unlimited use falls under a fair-use clause. In our test on 21 October 2026 the free quota counted the original file size, not the compressed result (a 11.8KB and a 48.9KB image moved the counter to 61.44KB), a 3.4MB file was refused at the 2MB cap without using quota, and the &#x27;You saved&#x27; total on the web app&#x27;s optimizer page showed the size after compression instead of the saving; the History page had the right figures.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/BaAQ134JjTg</video:player_loc>
+    <video:publication_date>2026-11-09T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://officesoftwaremarketplace.com/invideo-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/RqVbBu0Z8Rc/hqdefault.jpg</video:thumbnail_loc>
