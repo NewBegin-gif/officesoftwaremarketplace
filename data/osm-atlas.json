@@ -3,7 +3,7 @@
   "title": "The cost-trap atlas for office, finance and HR software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 246,
+  "tools": 247,
   "flags": 395,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on officesoftwaremarketplace.com. Every flag carries the dossier sentence it rests on."
  },
@@ -1039,6 +1039,21 @@
    "researched": "2026-07",
    "price_verified_at": "2026-11-02",
    "first_observed_at": "2026-11-02"
+  },
+  {
+   "name": "ChristianSteven",
+   "category": "Operations & Workflow",
+   "domain": "christiansteven.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/christiansteven-review/",
+   "from_price_usd_mo": 249.59,
+   "entry_price": "$249.59",
+   "entry_price_terms": "PBRS up to 100 peak… · per month, PBRS Option 1, up to 100 peak outputs and 1 installation, shown…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-12 on go.christiansteven.com/pbrs-pricing-purchase, US dollars) ChristianSteven sells four report-automation products: PBRS for Power BI and SSRS, ATRS for Tableau, CRD for Crystal Reports and IntelliFront BI. We read the PBRS pricing page. It prices PBRS two ways. Option 1 limits peak outputs on one installation: up to 100 peak outputs costs $249.59 a month, shown as a special offer with terms and conditions, while the 200 and 1000 output tiers say Talk to Sales. Option 2 gives unlimited outputs on 1 installation, 2 installations or unlimited installations, all through sales. Every PBRS plan lists 10 concurrent Web App users (unlimited on the unlimited-installation plan), unlimited Server App users, unlimited API access, and 1 year of technical support and software updates. The page says annual subscriptions can be paid online or invoiced on NET 30 terms, and month-to-month subscriptions need automated online payment. A formal quote is available before purchase. The homepage offers a 30-day free trial with no licence, account or credit card. We did not read the ATRS, CRD or IntelliFront BI prices.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-12",
+   "first_observed_at": "2026-11-12"
   },
   {
    "name": "Claude",
