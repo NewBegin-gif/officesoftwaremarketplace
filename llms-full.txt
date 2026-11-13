@@ -970,7 +970,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/synthesia-review.html
 - Hands-on: tested by us on 2026-10-01
 - Verdict: Synthesia: The public pricing page is geo-priced. The minute caps are tight: Starter's 1,250 credits a month is roughly 10 to 12 minutes of finished video.
-- Price: (re-read 12 November 2026) The public pricing page is geo-priced, and the dollar view has changed since 1 October. In dollars it read Starter $19 a month (first month $9) or $14 a month billed yearly ($168) with 1,250 credits a month, and Pro $89 a month (first month $49) or $59 a month billed yearly ($708) with 6,000 credits a month.
+- Price: (re-read 12 and 13 November 2026, unchanged) The public pricing page is geo-priced, and the dollar view has changed since 1 October. In dollars it read Starter $19 a month (first month $9) or $14 a month billed yearly ($168) with 1,250 credits a month, and Pro $89 a month (first month $49) or $59 a month billed yearly ($708) with 6,000 credits a month.
 
 ## Tax1099
 - Review: https://officesoftwaremarketplace.com/tax1099-review.html
