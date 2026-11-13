@@ -308,7 +308,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Dify
 - Review: https://officesoftwaremarketplace.com/dify-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-13. Measured 2026-11-13: Sandbox is free and asked for no card. It starts with 200 message credits.
 - Verdict: Dify: Source-available and free of a software fee to self-host. 'Free' self-hosting isn't free: you own the servers, updates and reliability.
 - Price: Source-available and free of a software fee to self-host — the Community Edition ships under the Dify Open Source License, a modified Apache 2.0 with additional conditions — while the managed Dify Cloud adds a free Sandbox, Professional at $59/mo ($590/yr) and Team at $159/mo ($1,590/yr), each priced per workspace (re-verified 2026-10-09 against dify.ai/pricing.md; the advertised ~17% annual saving checks out:…
 
@@ -674,7 +674,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Nouswise
 - Review: https://officesoftwaremarketplace.com/nouswise-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-13. Measured 2026-11-13: A question outside the one added source, about the current VAT rate for software subscriptions in Germany, was answered with Bronnen 0 after 5 steps: the standard rate is 19%, followed by a statement that…
 - Verdict: Nouswise: Four tiers, billed monthly. Their own site does not agree with itself about what this costs, and we have now checked that twice.
 - Price: (2026-08-12, read on their own pricing page; re-verified 2026-08-26 and again 2026-09-05) Four tiers, billed monthly: Starter at 0$/month, Essential at 19.99$/month and Pro at 49.99$/month, printed as “49,99$” with a comma on the page itself. Enterprise is “Contact us for custom plan”, with no figure at all.
 
