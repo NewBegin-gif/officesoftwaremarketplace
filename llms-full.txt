@@ -710,7 +710,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## pCloud
 - Review: https://officesoftwaremarketplace.com/pcloud-review.html
-- Hands-on: tested by us on 2026-11-02. Measured 2026-11-02: The free account started at 2 GB of storage and became 3 GB after our first upload: one extra gigabyte unlocked by that action. The homepage says you can unlock up to 10 GB; we only saw the first step.
+- Hands-on: tested by us on 2026-11-02. Measured 2026-11-02: The free account started at 2 GB of storage and became 3 GB after our first upload: one extra gigabyte added by that action. The homepage says you can reach up to 10 GB; we only saw the first step.
 - Verdict: pCloud: Premium 500 GB is €219 (struck through from €279). Client-side encryption is not included in personal plans; it is a separate €150 purchase.
 - Price: (read 2026-10-26 on pcloud.com, its family and business pages, from a Netherlands connection that showed euros; the page calls the prices final) pCloud is best known for lifetime plans paid once. Premium 500 GB is €219 (struck through from €279), Premium Plus 2 TB €499 (from €709) and Ultra 10 TB €1,499 (from €2,799), each a one-time payment that includes pCloud Photos and pCloud Docs and shared-link traffic of…
 
@@ -723,7 +723,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Pdfdodo
 - Review: https://officesoftwaremarketplace.com/pdfdodo-review.html
 - Hands-on: tested by us on 2026-11-06. Measured 2026-11-06: Sign-up asked for no card. The dashboard showed 25 credits and a 15 MB limit per file. The page says you can download results as CSV or Excel.
-- Verdict: Pdfdodo: Free $0 for 25 pages a month and 5 MB per PDF. The yearly Solo card was repriced between our readings: $20.83 a month and $250 billed yearly on 6
+- Verdict: Pdfdodo — Four plans metered by pages analysed per month: Free $0 for 25 pages a month and 5 MB per PDF. The refund rules contradict each other.
 - Price: (read 2026-10-16 in a browser on pdfdodo.com, monthly and yearly view of the pricing block; the cards show a $ sign without naming the currency) Four plans metered by pages analysed per month: Free $0 for 25 pages a month and 5 MB per PDF; Solo $25 a month for 300 pages and 15 MB per PDF; Startup $59 a month for 1000 pages and 15 MB per PDF; Business $99 a month for 3000 pages with no upload limit and priority…
 
 ## PDWare
