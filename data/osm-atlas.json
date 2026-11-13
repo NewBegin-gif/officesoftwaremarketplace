@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 247,
-  "flags": 395,
+  "flags": 391,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on officesoftwaremarketplace.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -680,8 +680,8 @@
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "Distribution to Viator and 2,600+ resellers is excellent, but you're building your booking backbone inside one OTA's ecosystem, and the per-booking service fee on direct sales is a real cut on top of the subscription, although any paid plan lets you pass that fee to the guest instead of absorbing it.",
-     "evidence_excerpt": "Distribution to Viator and 2,600+ resellers is excellent, but you're building your booking backbone inside one OTA's ecosystem, and the per-booking service fee on direct sales is a real cut on top of…",
+     "evidence": "Distribution to Viator and 2,600+ resellers is excellent, but you're building your booking backbone inside one OTA's platform, and the per-booking service fee on direct sales is a real cut on top of the subscription, although any paid plan lets you pass that fee to the guest instead of absorbing it.",
+     "evidence_excerpt": "Distribution to Viator and 2,600+ resellers is excellent, but you're building your booking backbone inside one OTA's platform, and the per-booking service fee on direct sales is a real cut on top of …",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
      "verified_at": "2026-09-20"
@@ -2385,7 +2385,7 @@
    "entry_price": "$129.99",
    "entry_price_terms": "per user per year or $10.99 per user a month",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-22 on the Foxit PDF Editor pricing page; every figure identical to the 1 Sep 2026 reading) PDF Editor is $129.99 per user per year, or $10.99 per user per month, with a 14-day free trial that asks for no card. PDF Editor+ is $159.99 per user per year or $13.99 per user per month, and bundles what used to be a second bill: mobile apps for iOS and Android, AI Smart Redact, cloud storage and Foxit eSign Essentials with 150 envelopes a year plus pooled eSign licensing. BILLING NOTE, first recorded 22 Sep 2026: the two price columns are not annual against monthly. The toggle reads 'Annual plan, paid in full' and 'Annual plan, billed monthly' - both are twelve-month plans, and no month-to-month option exists on the page. Paying by the month therefore costs $131.88 a year on Editor ($1.89 more) and $167.88 on Editor+ ($7.89 more) without shortening the commitment. A perpetual licence, Foxit PDF Editor 14, is $209.99 once per user for Windows or macOS, covering editing, conversion, OCR, forms, security and fill-and-sign but not the web app, the AI Assistant, Smart Redact, the document management system or any cloud feature; Foxit's own FAQ argues the subscription is better value because it unlocks AI, cloud integrations, unlimited cloud storage, the full DMS and eSign integration, and notes that Adobe no longer sells perpetual Acrobat licences to new customers. Every Editor and Editor+ seat carries 300 free AI credits per user per month; the paid AI Assistant tier is $49.99 a year for 2,000 credits a month per user, also offered at 'early access pricing' of $4.99 a month, which is $59.88 a year - $9.89 more for the same allowance. Credits reset monthly and do not roll over, and the add-on is not sold for perpetual licences. Standalone eSign still exists: Essentials $120.00 a year with 250 envelopes and 10 templates, Business $300.00 per licence a year with unlimited envelopes and templates; Foxit Agreements is $359.88 per user a year paid in full ($29.99 a month) or $34.99 a month billed monthly. Volume discounts of up to 30% apply to orders of 30 or more licences across PDF Editor, PDF Editor+ and eSign, on subscription and perpetual alike, consolidating deployment into a single purchase order with one renewal date, standardised installation images and coverage for divisions and subsidiaries. An education discount is applied automatically at checkout when you register with a school email address; Foxit does not publish the rate. Reading note: the page's own translation table still carries superseded strings ('20GB cloud storage included', 'AI Assistant with 20 free credits/month') beside the rendered card text of unlimited cloud storage and 300 free credits a month. (2026)",
+   "price_note": "(re-verified 2026-09-22 on the Foxit PDF Editor pricing page; every figure identical to the 1 Sep 2026 reading) PDF Editor is $129.99 per user per year, or $10.99 per user per month, with a 14-day free trial that asks for no card. PDF Editor+ is $159.99 per user per year or $13.99 per user per month, and bundles what used to be a second bill: mobile apps for iOS and Android, AI Smart Redact, cloud storage and Foxit eSign Essentials with 150 envelopes a year plus pooled eSign licensing. BILLING NOTE, first recorded 22 Sep 2026: the two price columns are not annual against monthly. The toggle reads 'Annual plan, paid in full' and 'Annual plan, billed monthly' - both are twelve-month plans, and no month-to-month option exists on the page. Paying by the month therefore costs $131.88 a year on Editor ($1.89 more) and $167.88 on Editor+ ($7.89 more) without shortening the commitment. A perpetual licence, Foxit PDF Editor 14, is $209.99 once per user for Windows or macOS, covering editing, conversion, OCR, forms, security and fill-and-sign but not the web app, the AI Assistant, Smart Redact, the document management system or any cloud feature; Foxit's own FAQ argues the subscription is better value because it adds AI, cloud integrations, unlimited cloud storage, the full DMS and eSign integration, and notes that Adobe no longer sells perpetual Acrobat licences to new customers. Every Editor and Editor+ seat carries 300 free AI credits per user per month; the paid AI Assistant tier is $49.99 a year for 2,000 credits a month per user, also offered at 'early access pricing' of $4.99 a month, which is $59.88 a year - $9.89 more for the same allowance. Credits reset monthly and do not roll over, and the add-on is not sold for perpetual licences. Standalone eSign still exists: Essentials $120.00 a year with 250 envelopes and 10 templates, Business $300.00 per licence a year with unlimited envelopes and templates; Foxit Agreements is $359.88 per user a year paid in full ($29.99 a month) or $34.99 a month billed monthly. Volume discounts of up to 30% apply to orders of 30 or more licences across PDF Editor, PDF Editor+ and eSign, on subscription and perpetual alike, consolidating deployment into a single purchase order with one renewal date, standardised installation images and coverage for divisions and subsidiaries. An education discount is applied automatically at checkout when you register with a school email address; Foxit does not publish the rate. Reading note: the page's own translation table still carries superseded strings ('20GB cloud storage included', 'AI Assistant with 20 free credits/month') beside the rendered card text of unlimited cloud storage and 300 free credits a month. (2026)",
    "flags": [
     {
      "flag": "per_seat",
@@ -3259,14 +3259,14 @@
    "review_url": "https://aibuildermarketplace.com/b2b/jibble-review/",
    "from_price_usd_mo": null,
    "entry_price": "€1.79",
-   "entry_price_terms": "Essentieel · per user a month billed annually",
+   "entry_price_terms": "Essential · per user a month billed annually",
    "pricing_status": "public",
-   "price_note": "(read 2026-09-25 inside a new Jibble account, signed in from the Netherlands; euros, excluding VAT) Jibble still publishes no prices on its public site — jibble.io/pricing, /plans and /upgrade-plans land on the homepage — but the account carries a full price table behind its upgrade button. Four plans, per user per month: Free, €0, 'forever', for unlimited members; Essentieel €1.79 billed annually or €2.99 monthly; Groei €3.79 annually or €4.99 monthly; Pro €6.79 annually or €9.29 monthly (plan names as our Dutch-language account shows them). Monthly billing costs 32% to 67% more than annual. A new organisation starts on Free with a 14-day trial of the paid features. We saw euros; a visitor elsewhere may be shown another currency. Earlier history: on 30 August 2026 the public pricing page had been retired, and on 2 September 2026 Jibble's partnerships team confirmed to us in writing that there is no external pricing page. Jibble states an average of 4.8 out of 5 across major review platforms and app stores on more than 20,000 verified reviews.",
+   "price_note": "(read 2026-09-25 inside a new Jibble account, signed in from the Netherlands; euros, excluding VAT) Jibble still publishes no prices on its public site — jibble.io/pricing, /plans and /upgrade-plans land on the homepage — but the account carries a full price table behind its upgrade button. Four plans, per user per month: Free, €0, 'forever', for unlimited members; Essential €1.79 billed annually or €2.99 monthly; Growth €3.79 annually or €4.99 monthly; Pro €6.79 annually or €9.29 monthly (plan names as our Dutch-language account shows them). Monthly billing costs 32% to 67% more than annual. A new organisation starts on Free with a 14-day trial of the paid features. We saw euros; a visitor elsewhere may be shown another currency. Earlier history: on 30 August 2026 the public pricing page had been retired, and on 2 September 2026 Jibble's partnerships team confirmed to us in writing that there is no external pricing page. Jibble states an average of 4.8 out of 5 across major review platforms and app stores on more than 20,000 verified reviews.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "Four plans, per user per month: Free, €0, 'forever', for unlimited members; Essentieel €1.79 billed annually or €2.99 monthly; Groei €3.79 annually or €4.99 monthly; Pro €6.79 annually or €9.29 monthly (plan names as our Dutch-language account shows them).",
-     "evidence_excerpt": "Four plans, per user per month: Free, €0, 'forever', for unlimited members; Essentieel €1.79 billed annually or €2.99 monthly; Groei €3.79 annually or €4.99 monthly; Pro €6.79 annually or €9.29 month…",
+     "evidence": "Four plans, per user per month: Free, €0, 'forever', for unlimited members; Essential €1.79 billed annually or €2.99 monthly; Growth €3.79 annually or €4.99 monthly; Pro €6.79 annually or €9.29 monthly (plan names as our Dutch-language account shows them).",
+     "evidence_excerpt": "Four plans, per user per month: Free, €0, 'forever', for unlimited members; Essential €1.79 billed annually or €2.99 monthly; Growth €3.79 annually or €4.99 monthly; Pro €6.79 annually or €9.29 month…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
      "verified_at": "2026-09-25"
@@ -3509,10 +3509,10 @@
    "entry_price": "$49",
    "entry_price_terms": "Liltio Local · one-off, lifetime Local licence for 2 Macs at the standard price, before tax",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-23 on liltio.com/#pricing; US dollars, before applicable taxes) Liltio sells one product, Liltio Local, as a one-time lifetime licence: $49 standard price, with no recurring subscription. A founding offer takes it to $29 for the first 100 paid licences, applied automatically while available; on 23 October 2026 the page counted 100 of 100 left and said availability is final at checkout. The licence covers 2 Macs and future Liltio updates; separately branded products are not included. Before buying there is a 14-day full local trial in the app, with no card and no automatic charge when it ends. It is a trial, not a free plan. The page showed the same amounts on 12 October 2026.",
+   "price_note": "(read 2026-10-23 on liltio.com/#pricing; US dollars, before applicable taxes) Liltio sells one product, Liltio Local, as a one-time lifetime licence: $49 standard price, with no recurring subscription. A founding offer takes it to $29 for the first 100 paid licences, applied automatically while available; on 23 October 2026 the page counted 100 of 100 left and said availability is final at checkout. The licence covers 2 Macs and future Liltio updates; separately branded products are not included. Before buying there is a 14-day full local trial in the app, with no card and no automatic charge when it ends. It is a trial, not a free plan. The page showed the same amounts on 12 October 2026. Re-read on 13 November 2026 with a plain fetch of liltio.com and liltio.com/terms: $49 standard, $29 founding offer for the first 100 paid licences, 2 Macs, the 14-day trial without a card and without an automatic charge, all unchanged. The live counter of founding licences loads by script and was not read that day.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-23",
+   "price_verified_at": "2026-11-13",
    "first_observed_at": "2026-10-23"
   },
   {
@@ -4013,14 +4013,6 @@
      "source_url": "https://www.netart.com/us/pricing/pricing-cloudhosting/",
      "evidence_field": "dossier pricing notes and honest knock",
      "verified_at": "2026-10-25"
-    },
-    {
-     "flag": "free_tier",
-     "evidence": "The first billing period is discounted: the Superdeal table shows the first 3 months of all three plans at $0, and the Promotion table shows Start at $0 for a first month or quarter or $112.50 for a first year, Business at $0, $112.50 or $225, and Pro at $0, $225 or $450.",
-     "evidence_excerpt": "The first billing period is discounted: the Superdeal table shows the first 3 months of all three plans at $0, and the Promotion table shows Start at $0 for a first month or quarter or $112.50 for a …",
-     "source_url": "https://www.netart.com/us/pricing/pricing-cloudhosting/",
-     "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-25"
     }
    ],
    "researched": "2026-07",
@@ -4490,7 +4482,7 @@
    "entry_price": "€219",
    "entry_price_terms": "Premium 500 GB Lifetime · one-time payment for 500 GB, read from a Netherlands connection…",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-26 on pcloud.com, its family and business pages, from a Netherlands connection that showed euros; the page calls the prices final) pCloud is best known for lifetime plans paid once. Premium 500 GB is €219 (struck through from €279), Premium Plus 2 TB €499 (from €709) and Ultra 10 TB €1,499 (from €2,799), each a one-time payment that includes pCloud Photos and pCloud Docs and shared-link traffic of twice the storage. Family lifetime plans for up to 5 users cost €749 for 2 TB (from €999) and €1,849 for 10 TB (from €3,499). For teams, Business is €9.99 per user a month with 1 TB per user and Business Pro €14.98 per user a month with 2 TB per user (€44.94 a month for 3 users, marked down from €59.94, for new accounts only), both with a minimum of 3 users and pCloud Encryption included; Business has a 30-day free trial. For personal plans, client-side encryption is a separate add-on: €150 once (from €229). The free account starts with 2 GB and can be unlocked to 10 GB. pCloud also sells monthly and annual Premium plans; we did not record those prices on this read. 'Lifetime' means the account owner's lifetime or 99 years, whichever is shorter. There is a 14-day money-back guarantee, but pCloud reserves the right to decline refunds on promotional or discounted purchases.",
+   "price_note": "(read 2026-10-26 on pcloud.com, its family and business pages, from a Netherlands connection that showed euros; the page calls the prices final) pCloud is best known for lifetime plans paid once. Premium 500 GB is €219 (struck through from €279), Premium Plus 2 TB €499 (from €709) and Ultra 10 TB €1,499 (from €2,799), each a one-time payment that includes pCloud Photos and pCloud Docs and shared-link traffic of twice the storage. Family lifetime plans for up to 5 users cost €749 for 2 TB (from €999) and €1,849 for 10 TB (from €3,499). For teams, Business is €9.99 per user a month with 1 TB per user and Business Pro €14.98 per user a month with 2 TB per user (€44.94 a month for 3 users, marked down from €59.94, for new accounts only), both with a minimum of 3 users and pCloud Encryption included; Business has a 30-day free trial. For personal plans, client-side encryption is a separate add-on: €150 once (from €229). The free account starts with 2 GB and can grow to 10 GB. pCloud also sells monthly and annual Premium plans; we did not record those prices on this read. 'Lifetime' means the account owner's lifetime or 99 years, whichever is shorter. There is a 14-day money-back guarantee, but pCloud reserves the right to decline refunds on promotional or discounted purchases.",
    "flags": [
     {
      "flag": "per_seat",
@@ -4873,35 +4865,27 @@
    "entry_price": "$5",
    "entry_price_terms": "per user a month ($48/yr), unlimited documents",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-08-17, re-read 2026-09-27 and again 2026-10-20 against QuickSigner's own pricing table and llms.txt) Personal is free: 5 documents a month, 3 signers and 1 document per request, 5 MB maximum, PDF only, with signature and stamp fields and AATL sealing. Business is $5 per user a month ($48 a year) and is where documents become unlimited — 10 signers and 3 documents per request, 10 MB, Word files, 10 saved templates, reminders and signing order. Professional is $15 per user a month ($144 a year): 50 signers and 10 documents per request, 15 MB, OTP phone verification, bulk send, teams and the eSign API. Annual billing saves 20% and paid plans carry a 14-day trial. The API has a free developer account with unlimited test requests; production costs from $0.30 per signed document and requires Professional, whose card includes 50 free API sign requests before that rate; completed test documents are watermarked. ISO/IEC 27001:2022-certified and AATL, legally binding in the US, UK and EU.",
+   "price_note": "(re-verified 2026-08-17, re-read 2026-09-27 and 2026-10-20, and read again on 2026-11-13 on QuickSigner's redesigned pricing page) Free, shown as 'Personal Plan (free)' inside the app: 5 documents a month, 3 signers and 1 document per request, PDF up to 5 MB, signature and stamp fields, certificate and diploma sealing, and uploads from Google Drive. Business is $5 per user a month ($48 a year, so $4 a month billed yearly) and is where documents become unlimited: 10 signers and 3 documents per request, PDF or Word up to 10 MB, 10 reusable templates, signing order, reminders, a saved signature, and search, filters, tags and reports. Professional is $15 per user a month ($144 a year): 50 signers and 10 documents per request, 15 MB, unlimited templates, OTP verification by SMS or WhatsApp, editing a request after sending, bulk send, teams, priority support and the eSignature API. Enterprise is priced on a custom quote for high API volume, custom approval flows and large teams. Annual billing saves 20%, and Business and Professional carry a 14-day free trial. The API has a free developer account with unlimited test requests; going live requires Professional, which includes the first 50 production sign requests free, then $0.30 per request, with a lower rate above 500 requests a month. llms.txt adds that completed test documents are watermarked. ISO/IEC 27001:2022-certified and AATL, legally binding under the ESIGN Act, UETA and eIDAS.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "Business is $5 per user a month ($48 a year) and is where documents become unlimited — 10 signers and 3 documents per request, 10 MB, Word files, 10 saved templates, reminders and signing order.",
-     "evidence_excerpt": null,
+     "evidence": "Business is $5 per user a month ($48 a year, so $4 a month billed yearly) and is where documents become unlimited: 10 signers and 3 documents per request, PDF or Word up to 10 MB, 10 reusable templates, signing order, reminders, a saved signature, and search, filters, tags and reports.",
+     "evidence_excerpt": "Business is $5 per user a month ($48 a year, so $4 a month billed yearly) and is where documents become unlimited: 10 signers and 3 documents per request, PDF or Word up to 10 MB, 10 reusable templat…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-20"
+     "verified_at": "2026-11-13"
     },
     {
      "flag": "annual_lock",
-     "evidence": "Annual billing saves 20% and paid plans carry a 14-day trial.",
+     "evidence": "Annual billing saves 20%, and Business and Professional carry a 14-day free trial.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-20"
-    },
-    {
-     "flag": "free_tier",
-     "evidence": "(re-verified 2026-08-17, re-read 2026-09-27 and again 2026-10-20 against QuickSigner's own pricing table and llms.txt) Personal is free: 5 documents a month, 3 signers and 1 document per request, 5 MB maximum, PDF only, with signature and stamp fields and AATL sealing.",
-     "evidence_excerpt": "(re-verified 2026-08-17, re-read 2026-09-27 and again 2026-10-20 against QuickSigner's own pricing table and llms.txt) Personal is free: 5 documents a month, 3 signers and 1 document per request, 5 M…",
-     "source_url": null,
-     "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-20"
+     "verified_at": "2026-11-13"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-20",
+   "price_verified_at": "2026-11-13",
    "first_observed_at": "2026-08-17"
   },
   {
@@ -5348,7 +5332,7 @@
    "entry_price": "$20",
    "entry_price_terms": "Pro · Pro billed monthly",
    "pricing_status": "public",
-   "price_note": "(read 2026-11-08 on shortcutchat.com, dollar amounts as shown on the page) Shortcut Chat sells one subscription in three sizes. Pro is $20 a month or $216 a year, Pro+ is $40 a month or $432 a year, and Ultra is $100 a month or $1,080 a year; the page says annual billing is 10% off. The three plans unlock the same models, up to three answers side by side, unlimited custom shortcuts, image generation and web search. What changes is the monthly usage allowance: Pro+ has twice the Pro usage and Ultra five times. The allowance is shown as a percentage and resets on the day you first subscribed. According to the FAQ you are not charged overage when you hit it; you wait for the reset or upgrade. The page names no free plan and no free trial, and it does not say how big the Pro allowance is. Cancellation is done from your account and access continues to the end of the billing period.",
+   "price_note": "(read 2026-11-08 on shortcutchat.com, dollar amounts as shown on the page) Shortcut Chat sells one subscription in three sizes. Pro is $20 a month or $216 a year, Pro+ is $40 a month or $432 a year, and Ultra is $100 a month or $1,080 a year; the page says annual billing is 10% off. The three plans include the same models, up to three answers side by side, unlimited custom shortcuts, image generation and web search. What changes is the monthly usage allowance: Pro+ has twice the Pro usage and Ultra five times. The allowance is shown as a percentage and resets on the day you first subscribed. According to the FAQ you are not charged overage when you hit it; you wait for the reset or upgrade. The page names no free plan and no free trial, and it does not say how big the Pro allowance is. Cancellation is done from your account and access continues to the end of the billing period.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -5436,7 +5420,7 @@
    "entry_price": "$10",
    "entry_price_terms": "per month billed yearly ($120/yr), single seat",
    "pricing_status": "public",
-   "price_note": "(re-read 2026-10-04 on signeasy.com/pricing, including the page's own pricing script) No free plan on the pricing page, a 14-day free trial and a 100-day money-back guarantee. Signeasy's own trial email (24 October 2026) does say an account moves to a Free Plan automatically when the trial ends, without a charge; the pricing page, checked again on 27 October 2026, lists no such plan and does not say what it includes, so treat it as a fallback rather than a plan to choose. Three per-seat eSignature tiers: Personal $15 a month billed monthly or $10 billed yearly ($120), single seat, 5 documents sent for signature a month and no templates; Business $30 or $20 a seat ($240), unlimited sending under a fair-usage note and 5 templates; Business Pro $40 or $30 a seat ($360), with roles, permissions and unlimited templates. The yearly toggle says “Save up to 33%”. The script prices other currencies directly rather than converting: yearly per seat a month that is €8, €14 and €24, £7, £12 and £22, or C$12, C$27 and C$39. A fourth tier, Build Your Plan, is custom-priced for 5+ seats or high volume. New since September is a separate Intelligent Contract Management tab: ICM Core $45 and ICM Pro $60 a month per seat, each with a minimum of 3 seats and a Request Demo button rather than a checkout. Signature APIs sit on their own tab: a free sandbox for 100 requests, Intermediate $125 a month ($1,499 billed annually) for 1,000 and Advanced $250 ($2,999) for 2,000.",
+   "price_note": "(re-read 2026-10-04 on signeasy.com/pricing, including the page's own pricing script) No free plan on the pricing page, a 14-day free trial and a 100-day money-back guarantee. Signeasy's own trial email (24 October 2026) does say an account moves to a Free Plan automatically when the trial ends, without a charge; the pricing page, checked again on 27 October and 13 November 2026, lists no such plan and does not say what it includes, so treat it as a fallback rather than a plan to choose. Three per-seat eSignature tiers: Personal $15 a month billed monthly or $10 billed yearly ($120), single seat, 5 documents sent for signature a month and no templates; Business $30 or $20 a seat ($240), unlimited sending under a fair-usage note and 5 templates; Business Pro $40 or $30 a seat ($360), with roles, permissions and unlimited templates. The yearly toggle says “Save up to 33%”. The script prices other currencies directly rather than converting: yearly per seat a month that is €8, €14 and €24, £7, £12 and £22, or C$12, C$27 and C$39. A fourth tier, Build Your Plan, is custom-priced for 5+ seats or high volume. New since September is a separate Intelligent Contract Management tab: ICM Core $45 and ICM Pro $60 a month per seat, each with a minimum of 3 seats and a Request Demo button rather than a checkout. Signature APIs sit on their own tab: a free sandbox for 100 requests, Intermediate $125 a month ($1,499 billed annually) for 1,000 and Advanced $250 ($2,999) for 2,000.",
    "flags": [
     {
      "flag": "per_seat",
@@ -5444,19 +5428,11 @@
      "evidence_excerpt": "Three per-seat eSignature tiers: Personal $15 a month billed monthly or $10 billed yearly ($120), single seat, 5 documents sent for signature a month and no templates; Business $30 or $20 a seat ($24…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-04"
-    },
-    {
-     "flag": "free_tier",
-     "evidence": "Signeasy's own trial email (24 October 2026) does say an account moves to a Free Plan automatically when the trial ends, without a charge; the pricing page, checked again on 27 October 2026, lists no such plan and does not say what it includes, so treat it as a fallback rather than a plan to choose.",
-     "evidence_excerpt": "Signeasy's own trial email (24 October 2026) does say an account moves to a Free Plan automatically when the trial ends, without a charge; the pricing page, checked again on 27 October 2026, lists no…",
-     "source_url": null,
-     "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-04"
+     "verified_at": "2026-11-13"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-04",
+   "price_verified_at": "2026-11-13",
    "first_observed_at": "2026-10-04"
   },
   {
@@ -5500,7 +5476,7 @@
    "entry_price": "€11.90",
    "entry_price_terms": "per month billed annually (€13.90 monthly)",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-16 and again 2026-10-20 on simplybook.me/en/pricing, EUR, priceCurrency 'EUR' in the page's own markup) Free plan, EUR 0 a month: 50 bookings a month, 1 custom feature, 1 provider, no card needed. Basic EUR 11.9 a month billed annually or EUR 13.9 monthly: 100 bookings, 3 custom features, 5 providers. Standard EUR 24.9 billed annually or EUR 29.9 monthly: 500 bookings, 8 custom features, 15 providers. Premium EUR 49.9 billed annually or EUR 59.9 monthly: 2,000 bookings, unlimited custom features, 30 providers. Enterprise is custom-priced after a call. Annual billing saves a stated 17%. Their own page says no setup fees, no transaction fees and no per-user charges; payment processors bill their own rates separately. A 14-day trial of premium features runs without a card. Add-ons are priced in dollars on the same page: 100 SMS credits $8, 100 extra bookings $4, a custom domain with three years of SSL $119. Currency note: on 2026-09-20 the same page served the ladder in Brazilian reais to two European networks; on 2026-10-16 and 2026-10-20 it was in euros, while a second reading on 2026-10-20 from another connection showed the same figures with dollar signs, so check the currency on the card before you compare.",
+   "price_note": "(re-verified 2026-10-16 and again 2026-10-20 on simplybook.me/en/pricing, EUR, priceCurrency 'EUR' in the page's own markup) Free plan, EUR 0 a month: 50 bookings a month, 1 custom feature, 1 provider, no card needed. Basic EUR 11.9 a month billed annually or EUR 13.9 monthly: 100 bookings, 3 custom features, 5 providers. Standard EUR 24.9 billed annually or EUR 29.9 monthly: 500 bookings, 8 custom features, 15 providers. Premium EUR 49.9 billed annually or EUR 59.9 monthly: 2,000 bookings, unlimited custom features, 30 providers. Enterprise is custom-priced after a call. Annual billing saves a stated 17%. Their own page says no setup fees, no transaction fees and no per-user charges; payment processors bill their own rates separately. A 7-day trial of premium features runs without a card (it was 14 days when we tested on 30 October; SimplyBook.me confirmed the change in writing on 13 November 2026). Add-ons are priced in dollars on the same page: 100 SMS credits $8, 100 extra bookings $4, a custom domain with three years of SSL $119. Currency note: on 2026-09-20 the same page served the ladder in Brazilian reais to two European networks; on 2026-10-16 and 2026-10-20 it was in euros, while a second reading on 2026-10-20 from another connection showed the same figures with dollar signs, so check the currency on the card before you compare.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -5872,7 +5848,7 @@
    "entry_price": "$19",
    "entry_price_terms": "Starter · billed monthly",
    "pricing_status": "public",
-   "price_note": "(re-read 12 November 2026) The public pricing page is geo-priced, and the dollar view has changed since 1 October. In dollars it read Starter $19 a month (first month $9) or $14 a month billed yearly ($168) with 1,250 credits a month, and Pro $89 a month (first month $49) or $59 a month billed yearly ($708) with 6,000 credits a month. In euros the same page read Starter €19 or €12 a month (€144 billed yearly, 15,000 credits a year) and Pro €79 or €49 a month (€588 billed yearly, 72,000 credits a year), so the euro plans our app showed on 1 October are now on the public page too. The older reading follows. (re-read 1 October 2026) The public pricing page, read without signing in from a Netherlands connection, now shows dollars and a new credit model: 'Credits are now the shared currency across all AI usage-based features'. Basic is $0 with 500 credits a month plus a free allowance of 10 minutes of video or dubbing and 3 survey responses; free videos carry a Synthesia watermark and are shared by link. Starter is $29 a month, or $18 a month billed yearly, with 1,250 credits a month (15,000 a year), which the page puts at about 12 minutes of video on top of the free allowance. Pro, which replaces Creator on the plan cards, is $89 a month or $64 billed yearly with 6,000 credits a month (72,000 a year), about 60 minutes, and scales to 48,000 credits a month at $676. Enterprise is quote-only. The page's calculator prices video at 100 credits a minute, dubbing at 76 and a survey response at 350, with the first 10 minutes of video included on every plan. Inside the app the same day, signed in on Basic, the upgrade window still showed the earlier plans in euros: Starter €19 a month or €12 billed yearly with 15,500 credits a year (up to 120 minutes of video), and Creator €79 or €49 with 72,500 credits a year (up to 360 minutes). In our own test the meter charged 59 credits for 29 seconds of video. Check which plan your checkout shows before budgeting. A Studio avatar remains a paid add-on.",
+   "price_note": "(re-read 12 and 13 November 2026, unchanged) The public pricing page is geo-priced, and the dollar view has changed since 1 October. In dollars it read Starter $19 a month (first month $9) or $14 a month billed yearly ($168) with 1,250 credits a month, and Pro $89 a month (first month $49) or $59 a month billed yearly ($708) with 6,000 credits a month. In euros the same page read Starter €19 or €12 a month (€144 billed yearly, 15,000 credits a year) and Pro €79 or €49 a month (€588 billed yearly, 72,000 credits a year), so the euro plans our app showed on 1 October are now on the public page too. The older reading follows. (re-read 1 October 2026) The public pricing page, read without signing in from a Netherlands connection, now shows dollars and a new credit model: 'Credits are now the shared currency across all AI usage-based features'. Basic is $0 with 500 credits a month plus a free allowance of 10 minutes of video or dubbing and 3 survey responses; free videos carry a Synthesia watermark and are shared by link. Starter is $29 a month, or $18 a month billed yearly, with 1,250 credits a month (15,000 a year), which the page puts at about 12 minutes of video on top of the free allowance. Pro, which replaces Creator on the plan cards, is $89 a month or $64 billed yearly with 6,000 credits a month (72,000 a year), about 60 minutes, and scales to 48,000 credits a month at $676. Enterprise is quote-only. The page's calculator prices video at 100 credits a minute, dubbing at 76 and a survey response at 350, with the first 10 minutes of video included on every plan. Inside the app the same day, signed in on Basic, the upgrade window still showed the earlier plans in euros: Starter €19 a month or €12 billed yearly with 15,500 credits a year (up to 120 minutes of video), and Creator €79 or €49 with 72,500 credits a year (up to 360 minutes). In our own test the meter charged 59 credits for 29 seconds of video. Check which plan your checkout shows before budgeting. A Studio avatar remains a paid add-on.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -5880,7 +5856,7 @@
      "evidence_excerpt": "In dollars it read Starter $19 a month (first month $9) or $14 a month billed yearly ($168) with 1,250 credits a month, and Pro $89 a month (first month $49) or $59 a month billed yearly ($708) with …",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-12"
+     "verified_at": "2026-11-13"
     },
     {
      "flag": "addons_extra",
@@ -5888,7 +5864,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-12"
+     "verified_at": "2026-11-13"
     },
     {
      "flag": "free_tier",
@@ -5896,11 +5872,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-12"
+     "verified_at": "2026-11-13"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-12",
+   "price_verified_at": "2026-11-13",
    "first_observed_at": null
   },
   {
@@ -6638,7 +6614,7 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "quote_only",
-   "price_note": "Quote-only. joinvelora.com (read in a browser on 5 September 2026) has no pricing page and no amount anywhere; every call to action is 'Talk to sales'. Velora bundles Keela (CRM), Aplos (accounting) and Raisely (fundraising) for nonprofits, and the individual product prices are not shown on the unified site. The products' own pricing pages still publish them — read 25 September 2026, Keela from $164 a month billed annually ($190 monthly) for up to 1,000 contacts, Aplos Lite at $79 a month, and Raisely with no monthly fee — but whether a Velora contract uses those rates is something only sales can confirm. Our earlier note of Keela 'from about $134' is out of date.",
+   "price_note": "(read 25 September 2026 on joinvelora.com, which has no pricing page, and on the pricing pages of the products it is built on) Quote-only. joinvelora.com (read in a browser on 5 September 2026) has no pricing page and no amount anywhere; every call to action is 'Talk to sales'. Velora bundles Keela (CRM), Aplos (accounting) and Raisely (fundraising) for nonprofits, and the individual product prices are not shown on the unified site. The products' own pricing pages still publish them — read 25 September 2026, Keela from $164 a month billed annually ($190 monthly) for up to 1,000 contacts, Aplos Lite at $79 a month, and Raisely with no monthly fee — but whether a Velora contract uses those rates is something only sales can confirm. Our earlier note of Keela 'from about $134' is out of date.",
    "flags": [
     {
      "flag": "quote_only",
@@ -6733,7 +6709,7 @@
    "entry_price": "$79.99",
    "entry_price_terms": "Yearly Plan… · per year, V13 launch discount, struck-through price US$129",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-09 in a browser render of pdf.wondershare.com/store/windows-individuals.html, USD, Windows, individuals, single-platform tab) All three prices are shown as a PDFelement 13 launch discount next to a struck-through list price. The Yearly Plan is US$79.99 a year (list US$129) and renews automatically. The 2-Year Plan is US$109.99 (list US$149) and renews manually. The Perpetual Plan is US$129.99 once (list US$159) for perpetual access to PDFelement 13. Each paid plan includes 20 GB of PDFelement Cloud storage, no watermark and tech support; the yearly and 2-year plans include updates for their term. The comparison table gives every paid plan 50 'trial uses' of the PDF AI and 3 eSign requests; the FAQ has a question about extra charges for AI that we could not read in the render. The free trial without an account allows only create, view, protect and organise and adds a watermark; a registered 14-day trial without a card unlocks nearly all features but still watermarks saved files. There is a 30-day money-back guarantee. On the same store, the cross-platform individual licences (desktop plus iOS, Android and web) were US$89.99 a year (list US$305), US$119.99 for two years (list US$510) and US$139.99 once (list US$695), with 100 GB of cloud storage instead of 20 GB; on the perpetual licence, mobile and web access is for a limited time. Mac single-platform, team and education prices were not read.",
+   "price_note": "(read 2026-10-09 in a browser render of pdf.wondershare.com/store/windows-individuals.html, USD, Windows, individuals, single-platform tab) All three prices are shown as a PDFelement 13 launch discount next to a struck-through list price. The Yearly Plan is US$79.99 a year (list US$129) and renews automatically. The 2-Year Plan is US$109.99 (list US$149) and renews manually. The Perpetual Plan is US$129.99 once (list US$159) for perpetual access to PDFelement 13. Each paid plan includes 20 GB of PDFelement Cloud storage, no watermark and tech support; the yearly and 2-year plans include updates for their term. The comparison table gives every paid plan 50 'trial uses' of the PDF AI and 3 eSign requests; the FAQ has a question about extra charges for AI that we could not read in the render. The free trial without an account allows only create, view, protect and organise and adds a watermark; a registered 14-day trial without a card includes nearly all features but still watermarks saved files. There is a 30-day money-back guarantee. On the same store, the cross-platform individual licences (desktop plus iOS, Android and web) were US$89.99 a year (list US$305), US$119.99 for two years (list US$510) and US$139.99 once (list US$695), with 100 GB of cloud storage instead of 20 GB; on the perpetual licence, mobile and web access is for a limited time. Mac single-platform, team and education prices were not read.",
    "flags": [],
    "researched": "2026-07",
    "price_verified_at": "2026-10-09",
@@ -6970,7 +6946,7 @@
    "entry_price": "£2.48",
    "entry_price_terms": "Digital · one-off, per formation, excluding 20% VAT",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-18 in a browser on yourcompanyformations.co.uk/packages/compare-packages/, prices in pounds) One-off packages for forming a UK limited company, each plus the £100 Companies House incorporation fee, which is added separately. VAT at 20% applies to the package price and paid extras but not to the Companies House fee. Digital is £2.48: formation and official digital documents by email. Digital & Print is £6.98 and adds printed copies by post. Privacy is £17.48 and adds a London EC1 registered office address and a director's service address. Fully Inclusive is £44.48 and adds business mail forwarding, VAT registration and a Premium 12 Month Company Filing Service. Non-Resident is £98.48, with London address services, VAT registration, filing support and international document postage. Entrepreneurs is £315.00, with London address services, VAT and PAYE registration, filing support and 12 months of call answering. Identity verification for Companies House (ACSP service) is included for up to four officers. Every basket starts with a £5.99 pre-submission review that you can remove at checkout. The yearly services renew at a price: the registered office address £29 a year plus VAT, the director's service address £28, business mail forwarding £98, and the Premium filing service £128 a year excluding VAT, with the £50 Companies House confirmation statement fee paid separately. Other company types, such as limited by guarantee, charity, property management, right to manage, LLP and PLC, have their own packages.",
+   "price_note": "(read 2026-10-18 in a browser on yourcompanyformations.co.uk/packages/compare-packages/, prices in pounds) One-off packages for forming a UK limited company, each plus the £100 Companies House incorporation fee, which is added separately. VAT at 20% applies to the package price and paid extras but not to the Companies House fee. Digital is £2.48: formation and official digital documents by email. Digital & Print is £6.98 and adds printed copies by post. Privacy is £17.48 and adds a London EC1 registered office address and a director's service address. Fully Inclusive is £44.48 and adds business mail forwarding, VAT registration and a Premium 12 Month Company Filing Service. Non-Resident is £98.48, with London address services, VAT registration, filing support and international document postage. Entrepreneurs is £315.00, with London address services, VAT and PAYE registration, filing support and 12 months of call answering. Identity verification for Companies House (ACSP service) is included for up to four officers. Every basket starts with a £5.99 pre-submission review that you can remove at checkout. The yearly services renew at a price: the registered office address £29 a year plus VAT, the director's service address £28, business mail forwarding £98, and the Premium filing service £128 a year excluding VAT, with the £50 Companies House confirmation statement fee paid separately. Other company types, such as limited by guarantee, charity, property management, right to manage, LLP and PLC, have their own packages. Re-read on 13 November 2026 with a plain fetch of the comparison page: all six limited company package prices, the £100 Companies House fee, the £5.99 pre-submission review and the yearly renewal prices are unchanged.",
    "flags": [
     {
      "flag": "renewal_jump",
@@ -6978,11 +6954,11 @@
      "evidence_excerpt": "The yearly services renew at a price: the registered office address £29 a year plus VAT, the director's service address £28, business mail forwarding £98, and the Premium filing service £128 a year e…",
      "source_url": "https://www.yourcompanyformations.co.uk/packages/compare-packages/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-18"
+     "verified_at": "2026-11-13"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-18",
+   "price_verified_at": "2026-11-13",
    "first_observed_at": "2026-10-18"
   },
   {
@@ -7043,16 +7019,7 @@
    "entry_price_terms": "a year and Worry-Free Compliance $199 a year",
    "pricing_status": "public",
    "price_note": "(re-verified 2026-09-22 on zenbusiness.com/pricing-products/, where /pricing/ now redirects; every one of the sixteen published amounts unchanged since 25 Jul 2026) Formation itself is $0 plus the state's fee — that applies to LLC, S corp and C corp filings alike, and the state fee is separate, varies by state and is not shown until you pick one. Everything else is priced as its own line rather than bundled into plan tiers. The recurring items are registered agent at $199/year, Worry-Free Compliance Filing at $199/year, and Advanced Compliance Protection at $299/year. One-time filings: operating agreement $99, EIN $99, business document templates $99, rush filing $79 and DBA registration $95 plus state fees. Then business licence report $149, amendment $100, certificate of good standing $100, annual report filing $100 per report, and New York publication $200 for the state that requires it. There is a second catalogue alongside the legal one: business website $129/year, eCommerce website $279/year, business email address $25/year, domain $25/year, domain privacy $10/year, logo kit $60, business banking $5/month and Money Pro with online payments $30/month.",
-   "flags": [
-    {
-     "flag": "free_tier",
-     "evidence": "(re-verified 2026-09-22 on zenbusiness.com/pricing-products/, where /pricing/ now redirects; every one of the sixteen published amounts unchanged since 25 Jul 2026) Formation itself is $0 plus the state's fee — that applies to LLC, S corp and C corp filings alike, and the state fee is separate, varies by state and is not shown until you pick one.",
-     "evidence_excerpt": "(re-verified 2026-09-22 on zenbusiness.com/pricing-products/, where /pricing/ now redirects; every one of the sixteen published amounts unchanged since 25 Jul 2026) Formation itself is $0 plus the st…",
-     "source_url": "https://www.zenbusiness.com/pricing-products/",
-     "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-22"
-    }
-   ],
+   "flags": [],
    "researched": "2026-07",
    "price_verified_at": "2026-09-22",
    "first_observed_at": "2026-09-22"
