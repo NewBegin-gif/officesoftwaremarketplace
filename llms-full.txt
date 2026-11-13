@@ -152,7 +152,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Browse.ai
 - Review: https://officesoftwaremarketplace.com/browse-ai-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-13. Measured 2026-11-13: The start screen offered 'Extract structured data' or 'Monitor for changes'. We chose monitoring. Three training methods followed: Table Studio (AI training, labelled Beta), Robot Studio (point and click)…
 - Verdict: Browse.ai: Free is $0 with 50 credits a month, 2 websites and 3 users. Two honest realities of no-code scraping.
 - Price: (price re-verified 2026-09-21 in a live browser on www.browse.ai/pricing, with browse.ai/llms.txt read alongside it) Credit-metered, prices in USD. Free is $0 with 50 credits a month, 2 websites and 3 users.
 
