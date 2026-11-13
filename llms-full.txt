@@ -723,7 +723,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Pdfdodo
 - Review: https://officesoftwaremarketplace.com/pdfdodo-review.html
 - Hands-on: tested by us on 2026-11-06. Measured 2026-11-06: Sign-up asked for no card. The dashboard showed 25 credits and a 15 MB limit per file. The page says you can download results as CSV or Excel.
-- Verdict: Pdfdodo: Free $0 for 25 pages a month and 5 MB per PDF. The yearly Solo card was repriced between our readings: $20.83 a month and $250 billed yearly on 6 November 2026.
+- Verdict: Pdfdodo: Free $0 for 25 pages a month and 5 MB per PDF. The yearly Solo card was repriced between our readings: $20.83 a month and $250 billed yearly on 6
 - Price: (read 2026-10-16 in a browser on pdfdodo.com, monthly and yearly view of the pricing block; the cards show a $ sign without naming the currency) Four plans metered by pages analysed per month: Free $0 for 25 pages a month and 5 MB per PDF; Solo $25 a month for 300 pages and 15 MB per PDF; Startup $59 a month for 1000 pages and 15 MB per PDF; Business $99 a month for 3000 pages with no upload limit and priority…
 
 ## PDWare
