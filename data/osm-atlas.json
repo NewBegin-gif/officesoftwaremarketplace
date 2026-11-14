@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 249,
-  "flags": 394,
+  "flags": 395,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on officesoftwaremarketplace.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -4902,6 +4902,14 @@
     {
      "flag": "annual_lock",
      "evidence": "Annual billing saves 20%, and Business and Professional carry a 14-day free trial.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-13"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "Below that line it does what it says for a fraction of per-envelope pricing, and there is a free plan (Personal, 5 documents a month): recipients sign from a link with no account, app or token.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
