@@ -914,7 +914,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## SignThis
 - Review: https://officesoftwaremarketplace.com/signthis-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-14. Measured 2026-11-14: Three signers cost one document: the counter went from 3 of 3 to 2 of 3 free documents left this month, and Review and send said Uses 1 of your 3 remaining free documents. One click on Place signature…
 - Verdict: SignThis has a free plan that sends 3 documents a month with no card and no end date. Built for senders who sign a few documents a month for free.
 - Price: (read 2026-11-14 on signthis.pro and signthis.pro/reviewers, US dollars a month before tax) SignThis has a free plan that sends 3 documents a month with no card and no end date; the allowance renews on the first day of each month (UTC) and is shared by every workspace one person creates. Individual plans have no annual commitment: Basic is $8 a month for 6 envelopes a month (the first month is $5 for a new…
 
