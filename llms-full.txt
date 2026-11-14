@@ -1,6 +1,6 @@
 # Office Software Marketplace — Full Review Catalog
 
-> All 185 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-14.
+> All 187 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-14.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -407,6 +407,12 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Hands-on: tested by us on 2026-10-20. Measured 2026-10-20: Ten questions saved. The form for an eleventh opened normally, and only on Save did FlexiQuiz say 'There is a maximum of 10 questions on the free plan. Upgrade to add more questions'; the eleventh was not…
 - Verdict: FlexiQuiz: Essentials $25/mo billed monthly or $17/mo billed yearly ($204/yr), 500 responses a month. The monthly response caps are the business model.
 - Price: (re-verified 2026-10-30 on flexiquiz.com/Home/Plans, every amount unchanged since 22 September; the monthly-billed rates were read from the page's own billing-toggle script, the yearly rates from the rendered cards) Free: 20 responses a month, no card required; in our test on 20 October 2026 a free quiz also stopped at 10 questions ('There is a maximum of 10 questions on the free plan'). Essentials $25/mo billed…
+
+## Forwardly
+- Review: https://officesoftwaremarketplace.com/forwardly-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Verdict: Forwardly has no monthly platform fee. The price page is clear about fees, but the headline savings depend on both sides being on the Forwardly Network.
+- Price: (read 2026-11-14 on forwardly.com/pricing, US dollars) Forwardly has no monthly platform fee. The free business account costs $0 a month and includes 10 free standard ACH payments a month (5 sent and 5 received), card or bank collection, AI bill capture, a dedicated bill inbox, unlimited users with custom roles, auto collect and auto pay, accounting sync, payment links, custom approval workflows and W-9…
 
 ## Foxit
 - Review: https://officesoftwaremarketplace.com/foxit-review.html
@@ -905,6 +911,12 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Hands-on: tested by us on 2026-11-12. Measured 2026-11-12: The source reports a dossier price of $8 per user/month annually. At 25 seats Business checkout stayed $96/year for the account; Business Premium stayed $240/year.
 - Verdict: Signnow.com/pricing.md, read the same day, gives the annual rates as $8, $15 and $30 per user a month.
 - Price: Three plans on signNow's live checkout page, read in a browser on 26 September 2026 from the EU: Business EUR 8, Business Premium EUR 15 and Enterprise EUR 30 a month billed annually, against EUR 20, EUR 30 and EUR 50 month-to-month (the cards state the annual saving as EUR 144, EUR 180 and EUR 240); signnow.com/pricing.md, read the same day, gives the annual rates as $8, $15 and $30 per user a month. Every card…
+
+## SignThis
+- Review: https://officesoftwaremarketplace.com/signthis-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Verdict: SignThis has a free plan that sends 3 documents a month with no card and no end date. Built for senders who sign a few documents a month for free.
+- Price: (read 2026-11-14 on signthis.pro and signthis.pro/reviewers, US dollars a month before tax) SignThis has a free plan that sends 3 documents a month with no card and no end date; the allowance renews on the first day of each month (UTC) and is shared by every workspace one person creates. Individual plans have no annual commitment: Basic is $8 a month for 6 envelopes a month (the first month is $5 for a new…
 
 ## Slasify
 - Review: https://officesoftwaremarketplace.com/slasify-review.html
