@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for office, finance and HR software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 247,
-  "flags": 391,
+  "tools": 249,
+  "flags": 394,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on officesoftwaremarketplace.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -88,7 +88,7 @@
    "entry_price": "€49.99",
    "entry_price_terms": "Essentials · per year, one-year subscription for 1 computer, local backup only",
    "pricing_status": "public",
-   "price_note": "(read 2026-11-02 on the True Image purchasing page, shown in euros to a visitor in Europe; we did not see a US-dollar price list) This review covers Acronis True Image, the home and home-office backup product. Acronis' business and MSP products (Cyber Protect) are priced separately and are not covered here. True Image is sold as a one-year subscription per number of computers. Essentials is €49.99 a year for 1 computer (€79.99 for 3, €99.99 for 5) and has no cloud storage: it does local backup and disk cloning. Advanced adds cloud backup, Microsoft 365 backup and antivirus; for 1 computer it is €57.99 a year with 50 GB of cloud storage, €72.99 with 250 GB (the option the page pre-selects) or €89.99 with 500 GB. Premium adds blockchain certification and e-signatures; for 1 computer it is €124.99 a year with 1 TB of cloud storage and goes up to €559.99 a year with 10 TB. The page does not state what the subscription costs at renewal, and it does not say whether VAT is included. The comparison table lists a 30-day free trial.",
+   "price_note": "(read 2026-11-02 on the True Image purchasing page, shown in euros to a visitor in Europe; we did not see a US-dollar price list) This review covers Acronis True Image, the home and home-office backup product. Acronis' business and MSP products (Cyber Protect) are priced separately and are not covered here. True Image is sold as a one-year subscription per number of computers. Essentials is €49.99 a year for 1 computer (€79.99 for 3, €99.99 for 5) and has no cloud storage: it does local backup and disk cloning. Advanced adds cloud backup, Microsoft 365 backup and antivirus; for 1 computer it is €57.99 a year with 50 GB of cloud storage, €72.99 with 250 GB (the option the page pre-selects) or €89.99 with 500 GB. Premium adds blockchain certification and e-signatures; for 1 computer it is €124.99 a year with 1 TB of cloud storage and goes up to €559.99 a year with 10 TB. The page does not state what the subscription costs at renewal, and it does not say whether VAT is included. The comparison table lists a 30-day free trial. Re-read on 14 November 2026 with a plain fetch of the purchasing page, again in euros: the 1-computer prices shown without the plan selector are unchanged at €49.99 (Essentials), €57.99 (Advanced) and €124.99 (Premium) a year. The 3- and 5-computer prices and the other storage sizes are filled in by the page script and were not visible in that fetch; they stay as read on 2 November 2026.",
    "flags": [
     {
      "flag": "addons_extra",
@@ -96,11 +96,11 @@
      "evidence_excerpt": null,
      "source_url": "https://www.acronis.com/en/products/true-image/purchasing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-02"
+     "verified_at": "2026-11-14"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-02",
+   "price_verified_at": "2026-11-14",
    "first_observed_at": "2026-11-02"
   },
   {
@@ -2377,6 +2377,30 @@
    "first_observed_at": "2026-09-03"
   },
   {
+   "name": "Forwardly",
+   "category": "Financial Operations",
+   "domain": "forwardly.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/forwardly-review/",
+   "from_price_usd_mo": null,
+   "entry_price": null,
+   "entry_price_terms": null,
+   "pricing_status": "see_details",
+   "price_note": "(read 2026-11-14 on forwardly.com/pricing, US dollars) Forwardly has no monthly platform fee. The free business account costs $0 a month and includes 10 free standard ACH payments a month (5 sent and 5 received), card or bank collection, AI bill capture, a dedicated bill inbox, unlimited users with custom roles, auto collect and auto pay, accounting sync, payment links, custom approval workflows and W-9 collection, with standard email support. The Pay as you go tier starts with a 30-day free trial for US businesses and adds unlimited standard ACH, fast and instant payment options from as little as $1 a payment, and real-time sync with QuickBooks Online and Xero. Enterprise is custom priced and adds volume discounts, API access, sync with Sage Intacct, Oracle NetSuite and Microsoft Dynamics 365, and phone support. The fee table lists standard ACH at $0.50 after the free payments, next-day ACH at 1% (minimum $1, maximum $10), same-day ACH at 1% (minimum $1, maximum $20), instant bank transfer at 1% (minimum $1, maximum $30), and card payments at 2.99%, which can be passed to the client. A $0.25 card settlement fee is charged per batch and cannot be passed on. Transfers between two businesses on the Forwardly Network cost $0. The page says that after the trial, new customers get special promotional pricing for 12 months from sign-up. We did not open an account, so tax and the price after the promotional period are not known.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "The free business account costs $0 a month and includes 10 free standard ACH payments a month (5 sent and 5 received), card or bank collection, AI bill capture, a dedicated bill inbox, unlimited users with custom roles, auto collect and auto pay, accounting sync, payment links, custom approval workflows and W-9 collection, with standard email support.",
+     "evidence_excerpt": "The free business account costs $0 a month and includes 10 free standard ACH payments a month (5 sent and 5 received), card or bank collection, AI bill capture, a dedicated bill inbox, unlimited user…",
+     "source_url": "https://forwardly.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-14"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-14",
+   "first_observed_at": "2026-11-14"
+  },
+  {
    "name": "Foxit",
    "category": "IT & Productivity",
    "domain": "foxit.com",
@@ -4594,7 +4618,7 @@
    "entry_price": "$7",
    "entry_price_terms": "Monthly · billed monthly, 2 devices",
    "pricing_status": "public",
-   "price_note": "(read 2026-11-02 on pettycash.getdailytools.com, pricing section and FAQ; the page says prices are in US dollars, with VAT or GST added at checkout where your country requires it) Petty Cash Manager has one app and four ways to pay, and every plan includes every feature. The difference is the billing term and the number of devices: Monthly is $7 a month on 2 devices; 3 months is $16.99 ($5.66 a month) on 3 devices; 6 months is $26.99 ($4.50 a month) on 5 devices; Yearly is $41.99 ($3.50 a month) on 6 devices. Cloud sync, which keeps a shared copy on the vendor's EU cloud server so a team sees the same entries, is an add-on of +$3 a month on any plan. Plans renew automatically and can be cancelled any time; there is a 14-day free trial without a card and a full refund if you email within 14 days of any payment. The page also shows a launch offer: 50% off your first payment for the first 20 customers, until 18 November 2026.",
+   "price_note": "(read 2026-11-02 on pettycash.getdailytools.com, pricing section and FAQ; the page says prices are in US dollars, with VAT or GST added at checkout where your country requires it) Petty Cash Manager has one app and four ways to pay, and every plan includes every feature. The difference is the billing term and the number of devices: Monthly is $7 a month on 2 devices; 3 months is $16.99 ($5.66 a month) on 3 devices; 6 months is $26.99 ($4.50 a month) on 5 devices; Yearly is $41.99 ($3.50 a month) on 6 devices. Cloud sync, which keeps a shared copy on the vendor's EU cloud server so a team sees the same entries, is an add-on of +$3 a month on any plan. Plans renew automatically and can be cancelled any time; there is a 14-day free trial without a card and a full refund if you email within 14 days of any payment. The page also shows a launch offer: 50% off your first payment for the first 20 customers, until 18 November 2026. Re-read on 14 November 2026 with a plain fetch of pettycash.getdailytools.com: Monthly $7 (2 devices), 3 months $16.99 (3 devices), 6 months $26.99 (5 devices), Yearly $41.99 (6 devices), Cloud sync +$3 a month, unchanged. The advertised savings check out against $7 a month: $5.66 is 19% less, $4.50 is 36% less and $3.50 is 50% less. The launch offer (50% off the first payment for the first 20 customers) still runs until 18 November 2026.",
    "flags": [
     {
      "flag": "addons_extra",
@@ -4602,11 +4626,11 @@
      "evidence_excerpt": null,
      "source_url": "https://pettycash.getdailytools.com/#pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-02"
+     "verified_at": "2026-11-14"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-02",
+   "price_verified_at": "2026-11-14",
    "first_observed_at": "2026-11-02"
   },
   {
@@ -5466,6 +5490,38 @@
    "researched": "2026-07",
    "price_verified_at": "2026-09-26",
    "first_observed_at": null
+  },
+  {
+   "name": "SignThis",
+   "category": "IT & Productivity",
+   "domain": "signthis.pro",
+   "review_url": "https://aibuildermarketplace.com/b2b/signthis-review/",
+   "from_price_usd_mo": 8.0,
+   "entry_price": "$8",
+   "entry_price_terms": "Basic · Free plan 3 documents a month",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-14 on signthis.pro and signthis.pro/reviewers, US dollars a month before tax) SignThis has a free plan that sends 3 documents a month with no card and no end date; the allowance renews on the first day of each month (UTC) and is shared by every workspace one person creates. Individual plans have no annual commitment: Basic is $8 a month for 6 envelopes a month (the first month is $5 for a new subscriber), Standard is $20 a month for 120 envelopes a year and 25 saved templates, Professional is $25 a month for 200 envelopes a year and 100 templates with the REST API, signed webhooks and an MCP server, and Secure is $49 a month for 400 envelopes a year. Business plans need a 12-month commitment billed monthly: Starter is $30 a seat with 100 envelopes a year per seat and single sign-on, Standard is $35 a seat (3-seat minimum) with unlimited envelopes under fair use, and Professional is $65 a seat (3-seat minimum) with 500 templates. An ordinary send uses one envelope per document whatever the number of signers. VerySecure palm verification uses 2 envelopes per signer, or 1 per signer on Secure, and is not part of the free sending allowance. We have not paid for a plan, so tax is not known.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "Business plans need a 12-month commitment billed monthly: Starter is $30 a seat with 100 envelopes a year per seat and single sign-on, Standard is $35 a seat (3-seat minimum) with unlimited envelopes under fair use, and Professional is $65 a seat (3-seat minimum) with 500 templates.",
+     "evidence_excerpt": "Business plans need a 12-month commitment billed monthly: Starter is $30 a seat with 100 envelopes a year per seat and single sign-on, Standard is $35 a seat (3-seat minimum) with unlimited envelopes…",
+     "source_url": "https://signthis.pro/#pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-14"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "(read 2026-11-14 on signthis.pro and signthis.pro/reviewers, US dollars a month before tax) SignThis has a free plan that sends 3 documents a month with no card and no end date; the allowance renews on the first day of each month (UTC) and is shared by every workspace one person creates.",
+     "evidence_excerpt": "(read 2026-11-14 on signthis.pro and signthis.pro/reviewers, US dollars a month before tax) SignThis has a free plan that sends 3 documents a month with no card and no end date; the allowance renews …",
+     "source_url": "https://signthis.pro/#pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-14"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-14",
+   "first_observed_at": "2026-11-14"
   },
   {
    "name": "SimplyBook.me",

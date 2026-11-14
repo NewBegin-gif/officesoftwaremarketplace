@@ -2,7 +2,7 @@ name,category,domain,from_price_usd_mo,flags,review_url,researched,entry_price,e
 1Password,IT & Productivity,1password.com,3.99,per_seat|annual_lock,https://aibuildermarketplace.com/b2b/1password-review/,2026-07,$3.99,"Individual · per month, regular rate billed annually",public,2026-10-01
 accessiBe,IT & Productivity,accessibe.com,59.0,,https://aibuildermarketplace.com/b2b/accessibe-review/,2026-07,$59,"Micro · per month for up to 5,000 monthly visits",public,2026-10-25
 AccuWeb Hosting,IT & Productivity,accuwebhosting.com,,renewal_jump,https://aibuildermarketplace.com/b2b/accuweb-hosting-review/,2026-07,€4.42,"VPS Edge · per month on a 24-month term, New York location",public,2026-10-07
-Acronis,IT & Productivity,acronis.com,,addons_extra,https://aibuildermarketplace.com/b2b/acronis-review/,2026-07,€49.99,"Essentials · per year, one-year subscription for 1 computer, local backup only",public,2026-11-02
+Acronis,IT & Productivity,acronis.com,,addons_extra,https://aibuildermarketplace.com/b2b/acronis-review/,2026-07,€49.99,"Essentials · per year, one-year subscription for 1 computer, local backup only",public,2026-11-14
 ADP,HR & People,adp.com,,quote_only|per_seat,https://aibuildermarketplace.com/b2b/adp-review/,2026-07,,,quote_only,2026-11-12
 Airia,IT & Productivity,airia.com,,quote_only,https://aibuildermarketplace.com/b2b/airia-review/,2026-07,,,quote_only,2026-10-10
 Airwallex,Finance,airwallex.com,12.0,usage_metered,https://aibuildermarketplace.com/b2b/airwallex-review/,2026-07,$12,a month per active Spend user plus a team-size platform fee,public,2026-10-23
@@ -83,6 +83,7 @@ Finmo,Financial Operations,finmo.net,,renewal_jump|addons_extra|free_tier,https:
 Flatpay,Financial Operations,flatpay.com,,,https://aibuildermarketplace.com/b2b/flatpay-review/,2026-07,1.49%,"per card transaction, no monthly subscription (POS plans 1.69% plus an up-front fee)",public,2026-10-14
 FlexiQuiz,Operations & Workflow,flexiquiz.com,25.0,free_tier,https://aibuildermarketplace.com/b2b/flexiquiz-review/,2026-07,$25,per month billed monthly or $17/mo billed yearly ($204/yr),public,2026-10-30
 Flippa,Financial Operations,flippa.com,,usage_metered,https://aibuildermarketplace.com/b2b/flippa-review/,2026-07,,,see_details,2026-09-29
+Forwardly,Financial Operations,forwardly.com,,free_tier,https://aibuildermarketplace.com/b2b/forwardly-review/,2026-07,,,see_details,2026-11-14
 Foxit,IT & Productivity,foxit.com,,per_seat|usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/foxit-review/,2026-07,$129.99,per user per year or $10.99 per user a month,public,2026-09-22
 FreshBooks,Financial Operations,freshbooks.com,,per_seat|renewal_jump|addons_extra,https://aibuildermarketplace.com/b2b/freshbooks-review/,2026-07,$1,"per month for the first year on Lite, then $23/mo",public,2026-10-07
 Freshservice,IT & Productivity,freshservice.com,19.0,per_seat|usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/freshservice-review/,2026-07,$19,"per agent a month, billed annually ($29 billed monthly)",public,2026-09-29
@@ -158,7 +159,7 @@ pCloud,IT & Productivity,pcloud.com,,per_seat|addons_extra,https://aibuildermark
 PDF Agile,IT & Productivity,pdfagile.com,39.0,free_tier,https://aibuildermarketplace.com/b2b/pdf-agile-review/,2026-07,$39,Semi-Annual · one-time payment with 6 months of upgrades and priority support,public,2026-10-23
 Pdfdodo,Financial Operations,pdfdodo.com,25.0,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/pdfdodo-review/,2026-07,$25,"Solo · billed monthly, 300 pages a month, 15 MB per PDF",public,2026-10-16
 PDWare,Operations & Workflow,pdware.com,,quote_only,https://aibuildermarketplace.com/b2b/pdware-review/,2026-07,,,quote_only,2026-09-25
-Petty Cash Manager,Financial Operations,pettycash.getdailytools.com,7.0,addons_extra,https://aibuildermarketplace.com/b2b/petty-cash-manager-review/,2026-07,$7,"Monthly · billed monthly, 2 devices",public,2026-11-02
+Petty Cash Manager,Financial Operations,pettycash.getdailytools.com,7.0,addons_extra,https://aibuildermarketplace.com/b2b/petty-cash-manager-review/,2026-07,$7,"Monthly · billed monthly, 2 devices",public,2026-11-14
 Planday,HR & People,planday.com,,per_seat,https://aibuildermarketplace.com/b2b/planday-review/,2026-07,€2.99,"Starter · per user per month with a 5-user minimum, so the real floor is EUR 14.95",public,2026-10-05
 Plansom,Operations & Workflow,plansom.com,,usage_metered,https://aibuildermarketplace.com/b2b/plansom-review/,2026-07,,,see_details,2026-09-24
 Plesk,IT & Productivity,plesk.com,16.99,,https://aibuildermarketplace.com/b2b/plesk-review/,2026-07,$16.99,"Web Admin Edition (VPS) · per server per month billed monthly for 10 domains, or 15.57 a month…",public,2026-11-11
@@ -191,6 +192,7 @@ ShortlistIQ,HR & People,shortlistiq.com,49.0,usage_metered|free_tier,https://aib
 Signable,Operations & Workflow,signable.com,,usage_metered,https://aibuildermarketplace.com/b2b/signable-review/,2026-07,,,see_details,2026-10-20
 Signeasy,Productivity,signeasy.com,10.0,per_seat,https://aibuildermarketplace.com/b2b/signeasy-review/,2026-07,$10,"per month billed yearly ($120/yr), single seat",public,2026-11-13
 SignNow,Operations & Workflow,signnow.com,8.0,per_seat|addons_extra,https://aibuildermarketplace.com/b2b/signnow-review/,2026-07,$8,per month billed annually,public,2026-09-26
+SignThis,IT & Productivity,signthis.pro,8.0,per_seat|free_tier,https://aibuildermarketplace.com/b2b/signthis-review/,2026-07,$8,Basic · Free plan 3 documents a month,public,2026-11-14
 SimplyBook.me,Operations & Workflow,simplybook.me,,usage_metered|addons_extra|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/simplybook-me-review/,2026-07,€11.90,per month billed annually (€13.90 monthly),public,2026-10-20
 Slasify,HR & People,slasify.com,250.0,,https://aibuildermarketplace.com/b2b/slasify-review/,2026-07,$250,"Employer of Record · per month, starting-at price on the pricing page",public,2026-10-31
 SmartSuite,Operations & Workflow,smartsuite.com,15.0,per_seat,https://aibuildermarketplace.com/b2b/smartsuite-review/,2026-07,$15,"Team, per seat · per seat per month billed annually, with a minimum of 3 billable users",public,2026-10-02
