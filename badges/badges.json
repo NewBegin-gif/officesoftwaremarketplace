@@ -1,0 +1,747 @@
+[
+ {
+  "slug": "aplos",
+  "name": "Aplos",
+  "review_url": "https://officesoftwaremarketplace.com/aplos-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/aplos.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#aplos",
+  "tested_on": "2026-10-24",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 1",
+   "1 not testable",
+   "Data export: file opened, re-import tested"
+  ],
+  "alt": "Aplos hands-on test by Office Software Marketplace, 24 Oct 2026: Vendor claims checked 1; 1 not testable; Data export: file opened, re-import tested",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/aplos-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/aplos.svg\" width=\"340\" height=\"115\" alt=\"Aplos hands-on test by Office Software Marketplace, 24 Oct 2026: Vendor claims checked 1; 1 not testable; Data export: file opened, re-import tested\"></a>"
+ },
+ {
+  "slug": "assembly",
+  "name": "Assembly",
+  "review_url": "https://officesoftwaremarketplace.com/assembly-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/assembly.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#assembly",
+  "tested_on": "2026-10-24",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 1",
+   "1 contradicted",
+   "Data export: file opened, re-import not tested"
+  ],
+  "alt": "Assembly hands-on test by Office Software Marketplace, 24 Oct 2026: Vendor claims checked 1; 1 contradicted; Data export: file opened, re-import not tested",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/assembly-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/assembly.svg\" width=\"340\" height=\"115\" alt=\"Assembly hands-on test by Office Software Marketplace, 24 Oct 2026: Vendor claims checked 1; 1 contradicted; Data export: file opened, re-import not tested\"></a>"
+ },
+ {
+  "slug": "atto",
+  "name": "Atto",
+  "review_url": "https://officesoftwaremarketplace.com/atto-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/atto.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#atto",
+  "tested_on": "2026-10-23",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 1",
+   "1 not comparable"
+  ],
+  "alt": "Atto hands-on test by Office Software Marketplace, 23 Oct 2026: Vendor claims checked 1; 1 not comparable",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/atto-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/atto.svg\" width=\"340\" height=\"98\" alt=\"Atto hands-on test by Office Software Marketplace, 23 Oct 2026: Vendor claims checked 1; 1 not comparable\"></a>"
+ },
+ {
+  "slug": "billingnow",
+  "name": "BillingNow",
+  "review_url": "https://officesoftwaremarketplace.com/billingnow-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/billingnow.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#billingnow",
+  "tested_on": "2026-11-02",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 2",
+   "2 not testable",
+   "Data export: file opened, re-import not tested"
+  ],
+  "alt": "BillingNow hands-on test by Office Software Marketplace, 2 Nov 2026: Vendor claims checked 2; 2 not testable; Data export: file opened, re-import not tested",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/billingnow-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/billingnow.svg\" width=\"340\" height=\"115\" alt=\"BillingNow hands-on test by Office Software Marketplace, 2 Nov 2026: Vendor claims checked 2; 2 not testable; Data export: file opened, re-import not tested\"></a>"
+ },
+ {
+  "slug": "blinq",
+  "name": "Blinq",
+  "review_url": "https://officesoftwaremarketplace.com/blinq-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/blinq.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#blinq",
+  "tested_on": "2026-10-23",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "Blinq hands-on test by Office Software Marketplace, 23 Oct 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/blinq-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/blinq.svg\" width=\"340\" height=\"81\" alt=\"Blinq hands-on test by Office Software Marketplace, 23 Oct 2026: No claim or export checks recorded\"></a>"
+ },
+ {
+  "slug": "bokun",
+  "name": "Bokun",
+  "review_url": "https://officesoftwaremarketplace.com/bokun-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/bokun.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#bokun",
+  "tested_on": "2026-10-23",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 1",
+   "1 confirmed"
+  ],
+  "alt": "Bokun hands-on test by Office Software Marketplace, 23 Oct 2026: Vendor claims checked 1; 1 confirmed",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/bokun-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/bokun.svg\" width=\"340\" height=\"98\" alt=\"Bokun hands-on test by Office Software Marketplace, 23 Oct 2026: Vendor claims checked 1; 1 confirmed\"></a>"
+ },
+ {
+  "slug": "browse-ai",
+  "name": "Browse.ai",
+  "review_url": "https://officesoftwaremarketplace.com/browse-ai-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/browse-ai.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#browse-ai",
+  "tested_on": "2026-11-13",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 3",
+   "2 confirmed · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Browse.ai hands-on test by Office Software Marketplace, 13 Nov 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/browse-ai-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/browse-ai.svg\" width=\"340\" height=\"115\" alt=\"Browse.ai hands-on test by Office Software Marketplace, 13 Nov 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "bugherd",
+  "name": "BugHerd",
+  "review_url": "https://officesoftwaremarketplace.com/bugherd-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/bugherd.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#bugherd",
+  "tested_on": "2026-10-24",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 1",
+   "1 confirmed",
+   "Data export: file opened, re-import not tested"
+  ],
+  "alt": "BugHerd hands-on test by Office Software Marketplace, 24 Oct 2026: Vendor claims checked 1; 1 confirmed; Data export: file opened, re-import not tested",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/bugherd-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/bugherd.svg\" width=\"340\" height=\"115\" alt=\"BugHerd hands-on test by Office Software Marketplace, 24 Oct 2026: Vendor claims checked 1; 1 confirmed; Data export: file opened, re-import not tested\"></a>"
+ },
+ {
+  "slug": "claude",
+  "name": "Claude",
+  "review_url": "https://officesoftwaremarketplace.com/claude-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/claude.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#claude",
+  "tested_on": "2026-10-23",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "Claude hands-on test by Office Software Marketplace, 23 Oct 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/claude-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/claude.svg\" width=\"340\" height=\"81\" alt=\"Claude hands-on test by Office Software Marketplace, 23 Oct 2026: No claim or export checks recorded\"></a>"
+ },
+ {
+  "slug": "clickup",
+  "name": "ClickUp",
+  "review_url": "https://officesoftwaremarketplace.com/clickup-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/clickup.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#clickup",
+  "tested_on": "2026-10-23",
+  "signup_blocked": false,
+  "lines": [
+   "Data export: file opened, re-import not tested"
+  ],
+  "alt": "ClickUp hands-on test by Office Software Marketplace, 23 Oct 2026: Data export: file opened, re-import not tested",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/clickup-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/clickup.svg\" width=\"340\" height=\"81\" alt=\"ClickUp hands-on test by Office Software Marketplace, 23 Oct 2026: Data export: file opened, re-import not tested\"></a>"
+ },
+ {
+  "slug": "cloudways",
+  "name": "Cloudways",
+  "review_url": "https://officesoftwaremarketplace.com/cloudways-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/cloudways.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#cloudways",
+  "tested_on": "2026-10-25",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 1",
+   "1 not testable",
+   "Data export: file opened, re-import tested"
+  ],
+  "alt": "Cloudways hands-on test by Office Software Marketplace, 25 Oct 2026: Vendor claims checked 1; 1 not testable; Data export: file opened, re-import tested",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/cloudways-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/cloudways.svg\" width=\"340\" height=\"115\" alt=\"Cloudways hands-on test by Office Software Marketplace, 25 Oct 2026: Vendor claims checked 1; 1 not testable; Data export: file opened, re-import tested\"></a>"
+ },
+ {
+  "slug": "deputy",
+  "name": "Deputy",
+  "review_url": "https://officesoftwaremarketplace.com/deputy-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/deputy.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#deputy",
+  "tested_on": "2026-10-24",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 1",
+   "1 confirmed",
+   "Data export: file opened, re-import tested"
+  ],
+  "alt": "Deputy hands-on test by Office Software Marketplace, 24 Oct 2026: Vendor claims checked 1; 1 confirmed; Data export: file opened, re-import tested",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/deputy-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/deputy.svg\" width=\"340\" height=\"115\" alt=\"Deputy hands-on test by Office Software Marketplace, 24 Oct 2026: Vendor claims checked 1; 1 confirmed; Data export: file opened, re-import tested\"></a>"
+ },
+ {
+  "slug": "devs-ai",
+  "name": "Devs.ai",
+  "review_url": "https://officesoftwaremarketplace.com/devs-ai-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/devs-ai.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#devs-ai",
+  "tested_on": "2026-11-13",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 3",
+   "1 confirmed · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Devs.ai hands-on test by Office Software Marketplace, 13 Nov 2026: Vendor claims checked 3; 1 confirmed · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/devs-ai-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/devs-ai.svg\" width=\"340\" height=\"115\" alt=\"Devs.ai hands-on test by Office Software Marketplace, 13 Nov 2026: Vendor claims checked 3; 1 confirmed · 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "dext",
+  "name": "Dext",
+  "review_url": "https://officesoftwaremarketplace.com/dext-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/dext.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#dext",
+  "tested_on": "2026-10-21",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 1",
+   "1 confirmed"
+  ],
+  "alt": "Dext hands-on test by Office Software Marketplace, 21 Oct 2026: Vendor claims checked 1; 1 confirmed",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/dext-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/dext.svg\" width=\"340\" height=\"98\" alt=\"Dext hands-on test by Office Software Marketplace, 21 Oct 2026: Vendor claims checked 1; 1 confirmed\"></a>"
+ },
+ {
+  "slug": "dify",
+  "name": "Dify",
+  "review_url": "https://officesoftwaremarketplace.com/dify-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/dify.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#dify",
+  "tested_on": "2026-11-13",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 2",
+   "1 confirmed · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Dify hands-on test by Office Software Marketplace, 13 Nov 2026: Vendor claims checked 2; 1 confirmed · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/dify-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/dify.svg\" width=\"340\" height=\"115\" alt=\"Dify hands-on test by Office Software Marketplace, 13 Nov 2026: Vendor claims checked 2; 1 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "ebillity",
+  "name": "eBillity",
+  "review_url": "https://officesoftwaremarketplace.com/ebillity-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/ebillity.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#ebillity",
+  "tested_on": "2026-10-31",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 3",
+   "2 confirmed · 1 not testable",
+   "Data export: file opened, re-import not tested"
+  ],
+  "alt": "eBillity hands-on test by Office Software Marketplace, 31 Oct 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: file opened, re-import not tested",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/ebillity-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/ebillity.svg\" width=\"340\" height=\"115\" alt=\"eBillity hands-on test by Office Software Marketplace, 31 Oct 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: file opened, re-import not tested\"></a>"
+ },
+ {
+  "slug": "flexiquiz",
+  "name": "FlexiQuiz",
+  "review_url": "https://officesoftwaremarketplace.com/flexiquiz-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/flexiquiz.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#flexiquiz",
+  "tested_on": "2026-10-20",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 1",
+   "1 not comparable"
+  ],
+  "alt": "FlexiQuiz hands-on test by Office Software Marketplace, 20 Oct 2026: Vendor claims checked 1; 1 not comparable",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/flexiquiz-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/flexiquiz.svg\" width=\"340\" height=\"98\" alt=\"FlexiQuiz hands-on test by Office Software Marketplace, 20 Oct 2026: Vendor claims checked 1; 1 not comparable\"></a>"
+ },
+ {
+  "slug": "goflow",
+  "name": "Goflow",
+  "review_url": "https://officesoftwaremarketplace.com/goflow-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/goflow.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#goflow",
+  "tested_on": "2026-10-24",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 1",
+   "1 not testable",
+   "Data export: file opened, re-import tested"
+  ],
+  "alt": "Goflow hands-on test by Office Software Marketplace, 24 Oct 2026: Vendor claims checked 1; 1 not testable; Data export: file opened, re-import tested",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/goflow-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/goflow.svg\" width=\"340\" height=\"115\" alt=\"Goflow hands-on test by Office Software Marketplace, 24 Oct 2026: Vendor claims checked 1; 1 not testable; Data export: file opened, re-import tested\"></a>"
+ },
+ {
+  "slug": "hive",
+  "name": "Hive",
+  "review_url": "https://officesoftwaremarketplace.com/hive-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/hive.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#hive",
+  "tested_on": "2026-10-21",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 1",
+   "1 not comparable",
+   "Data export: file opened, re-import tested"
+  ],
+  "alt": "Hive hands-on test by Office Software Marketplace, 21 Oct 2026: Vendor claims checked 1; 1 not comparable; Data export: file opened, re-import tested",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/hive-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/hive.svg\" width=\"340\" height=\"115\" alt=\"Hive hands-on test by Office Software Marketplace, 21 Oct 2026: Vendor claims checked 1; 1 not comparable; Data export: file opened, re-import tested\"></a>"
+ },
+ {
+  "slug": "housecall-pro",
+  "name": "Housecall Pro",
+  "review_url": "https://officesoftwaremarketplace.com/housecall-pro-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/housecall-pro.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#housecall-pro",
+  "tested_on": "2026-11-05",
+  "signup_blocked": true,
+  "lines": [
+   "Stopped at sign-up; details in the review",
+   "Vendor claims checked: 2",
+   "2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Housecall Pro sign-up attempt by Office Software Marketplace, 5 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 2; 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/housecall-pro-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/housecall-pro.svg\" width=\"340\" height=\"132\" alt=\"Housecall Pro sign-up attempt by Office Software Marketplace, 5 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 2; 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "hubstaff",
+  "name": "Hubstaff",
+  "review_url": "https://officesoftwaremarketplace.com/hubstaff-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/hubstaff.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#hubstaff",
+  "tested_on": "2026-10-31",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 4",
+   "2 contradicted · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Hubstaff hands-on test by Office Software Marketplace, 31 Oct 2026: Vendor claims checked 4; 2 contradicted · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/hubstaff-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/hubstaff.svg\" width=\"340\" height=\"115\" alt=\"Hubstaff hands-on test by Office Software Marketplace, 31 Oct 2026: Vendor claims checked 4; 2 contradicted · 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "imagify",
+  "name": "Imagify",
+  "review_url": "https://officesoftwaremarketplace.com/imagify-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/imagify.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#imagify",
+  "tested_on": "2026-10-21",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 2",
+   "2 confirmed"
+  ],
+  "alt": "Imagify hands-on test by Office Software Marketplace, 21 Oct 2026: Vendor claims checked 2; 2 confirmed",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/imagify-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/imagify.svg\" width=\"340\" height=\"98\" alt=\"Imagify hands-on test by Office Software Marketplace, 21 Oct 2026: Vendor claims checked 2; 2 confirmed\"></a>"
+ },
+ {
+  "slug": "joiin",
+  "name": "Joiin",
+  "review_url": "https://officesoftwaremarketplace.com/joiin-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/joiin.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#joiin",
+  "tested_on": "2026-10-24",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 1",
+   "1 not testable",
+   "Data export: file opened, re-import not tested"
+  ],
+  "alt": "Joiin hands-on test by Office Software Marketplace, 24 Oct 2026: Vendor claims checked 1; 1 not testable; Data export: file opened, re-import not tested",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/joiin-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/joiin.svg\" width=\"340\" height=\"115\" alt=\"Joiin hands-on test by Office Software Marketplace, 24 Oct 2026: Vendor claims checked 1; 1 not testable; Data export: file opened, re-import not tested\"></a>"
+ },
+ {
+  "slug": "leavo",
+  "name": "Leavo",
+  "review_url": "https://officesoftwaremarketplace.com/leavo-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/leavo.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#leavo",
+  "tested_on": "2026-10-31",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 4",
+   "2 confirmed · 2 not testable",
+   "Data export: file opened, re-import not tested"
+  ],
+  "alt": "Leavo hands-on test by Office Software Marketplace, 31 Oct 2026: Vendor claims checked 4; 2 confirmed · 2 not testable; Data export: file opened, re-import not tested",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/leavo-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/leavo.svg\" width=\"340\" height=\"115\" alt=\"Leavo hands-on test by Office Software Marketplace, 31 Oct 2026: Vendor claims checked 4; 2 confirmed · 2 not testable; Data export: file opened, re-import not tested\"></a>"
+ },
+ {
+  "slug": "mindstudio",
+  "name": "MindStudio",
+  "review_url": "https://officesoftwaremarketplace.com/mindstudio-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/mindstudio.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#mindstudio",
+  "tested_on": "2026-10-23",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 1",
+   "1 not comparable"
+  ],
+  "alt": "MindStudio hands-on test by Office Software Marketplace, 23 Oct 2026: Vendor claims checked 1; 1 not comparable",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/mindstudio-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/mindstudio.svg\" width=\"340\" height=\"98\" alt=\"MindStudio hands-on test by Office Software Marketplace, 23 Oct 2026: Vendor claims checked 1; 1 not comparable\"></a>"
+ },
+ {
+  "slug": "miro",
+  "name": "Miro",
+  "review_url": "https://officesoftwaremarketplace.com/miro-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/miro.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#miro",
+  "tested_on": "2026-10-20",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 1",
+   "1 confirmed"
+  ],
+  "alt": "Miro hands-on test by Office Software Marketplace, 20 Oct 2026: Vendor claims checked 1; 1 confirmed",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/miro-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/miro.svg\" width=\"340\" height=\"98\" alt=\"Miro hands-on test by Office Software Marketplace, 20 Oct 2026: Vendor claims checked 1; 1 confirmed\"></a>"
+ },
+ {
+  "slug": "murf",
+  "name": "Murf",
+  "review_url": "https://officesoftwaremarketplace.com/murf-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/murf.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#murf",
+  "tested_on": "2026-10-20",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "Murf hands-on test by Office Software Marketplace, 20 Oct 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/murf-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/murf.svg\" width=\"340\" height=\"81\" alt=\"Murf hands-on test by Office Software Marketplace, 20 Oct 2026: No claim or export checks recorded\"></a>"
+ },
+ {
+  "slug": "nouswise",
+  "name": "Nouswise",
+  "review_url": "https://officesoftwaremarketplace.com/nouswise-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/nouswise.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#nouswise",
+  "tested_on": "2026-11-13",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 4",
+   "2 confirmed · 1 contradicted · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Nouswise hands-on test by Office Software Marketplace, 13 Nov 2026: Vendor claims checked 4; 2 confirmed · 1 contradicted · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/nouswise-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/nouswise.svg\" width=\"340\" height=\"115\" alt=\"Nouswise hands-on test by Office Software Marketplace, 13 Nov 2026: Vendor claims checked 4; 2 confirmed · 1 contradicted · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "pcloud",
+  "name": "pCloud",
+  "review_url": "https://officesoftwaremarketplace.com/pcloud-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/pcloud.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#pcloud",
+  "tested_on": "2026-11-02",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 2",
+   "2 not testable",
+   "Data export: file opened, re-import not tested"
+  ],
+  "alt": "pCloud hands-on test by Office Software Marketplace, 2 Nov 2026: Vendor claims checked 2; 2 not testable; Data export: file opened, re-import not tested",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/pcloud-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/pcloud.svg\" width=\"340\" height=\"115\" alt=\"pCloud hands-on test by Office Software Marketplace, 2 Nov 2026: Vendor claims checked 2; 2 not testable; Data export: file opened, re-import not tested\"></a>"
+ },
+ {
+  "slug": "pdfdodo",
+  "name": "Pdfdodo",
+  "review_url": "https://officesoftwaremarketplace.com/pdfdodo-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/pdfdodo.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#pdfdodo",
+  "tested_on": "2026-11-06",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 11",
+   "10 confirmed · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Pdfdodo hands-on test by Office Software Marketplace, 6 Nov 2026: Vendor claims checked 11; 10 confirmed · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/pdfdodo-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/pdfdodo.svg\" width=\"340\" height=\"115\" alt=\"Pdfdodo hands-on test by Office Software Marketplace, 6 Nov 2026: Vendor claims checked 11; 10 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "planday",
+  "name": "Planday",
+  "review_url": "https://officesoftwaremarketplace.com/planday-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/planday.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#planday",
+  "tested_on": "2026-10-31",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 5",
+   "4 confirmed · 1 not testable",
+   "Data export: file opened, re-import not tested"
+  ],
+  "alt": "Planday hands-on test by Office Software Marketplace, 31 Oct 2026: Vendor claims checked 5; 4 confirmed · 1 not testable; Data export: file opened, re-import not tested",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/planday-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/planday.svg\" width=\"340\" height=\"115\" alt=\"Planday hands-on test by Office Software Marketplace, 31 Oct 2026: Vendor claims checked 5; 4 confirmed · 1 not testable; Data export: file opened, re-import not tested\"></a>"
+ },
+ {
+  "slug": "prezi",
+  "name": "Prezi",
+  "review_url": "https://officesoftwaremarketplace.com/prezi-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/prezi.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#prezi",
+  "tested_on": "2026-11-06",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 5",
+   "5 confirmed",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Prezi hands-on test by Office Software Marketplace, 6 Nov 2026: Vendor claims checked 5; 5 confirmed; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/prezi-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/prezi.svg\" width=\"340\" height=\"115\" alt=\"Prezi hands-on test by Office Software Marketplace, 6 Nov 2026: Vendor claims checked 5; 5 confirmed; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "process-street",
+  "name": "Process Street",
+  "review_url": "https://officesoftwaremarketplace.com/process-street-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/process-street.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#process-street",
+  "tested_on": "2026-10-23",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 1",
+   "1 confirmed",
+   "Data export: file opened, re-import not tested"
+  ],
+  "alt": "Process Street hands-on test by Office Software Marketplace, 23 Oct 2026: Vendor claims checked 1; 1 confirmed; Data export: file opened, re-import not tested",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/process-street-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/process-street.svg\" width=\"340\" height=\"115\" alt=\"Process Street hands-on test by Office Software Marketplace, 23 Oct 2026: Vendor claims checked 1; 1 confirmed; Data export: file opened, re-import not tested\"></a>"
+ },
+ {
+  "slug": "proton-drive",
+  "name": "Proton Drive",
+  "review_url": "https://officesoftwaremarketplace.com/proton-drive-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/proton-drive.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#proton-drive",
+  "tested_on": "2026-10-23",
+  "signup_blocked": false,
+  "lines": [
+   "Data export: file opened, re-import not tested"
+  ],
+  "alt": "Proton Drive hands-on test by Office Software Marketplace, 23 Oct 2026: Data export: file opened, re-import not tested",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/proton-drive-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/proton-drive.svg\" width=\"340\" height=\"81\" alt=\"Proton Drive hands-on test by Office Software Marketplace, 23 Oct 2026: Data export: file opened, re-import not tested\"></a>"
+ },
+ {
+  "slug": "recruit-crm",
+  "name": "Recruit CRM",
+  "review_url": "https://officesoftwaremarketplace.com/recruit-crm-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/recruit-crm.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#recruit-crm",
+  "tested_on": "2026-11-02",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 3",
+   "1 confirmed · 1 contradicted · 1 not testable",
+   "Data export: file opened, re-import not tested"
+  ],
+  "alt": "Recruit CRM hands-on test by Office Software Marketplace, 2 Nov 2026: Vendor claims checked 3; 1 confirmed · 1 contradicted · 1 not testable; Data export: file opened, re-import not tested",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/recruit-crm-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/recruit-crm.svg\" width=\"340\" height=\"115\" alt=\"Recruit CRM hands-on test by Office Software Marketplace, 2 Nov 2026: Vendor claims checked 3; 1 confirmed · 1 contradicted · 1 not testable; Data export: file opened, re-import not tested\"></a>"
+ },
+ {
+  "slug": "servicem8",
+  "name": "ServiceM8",
+  "review_url": "https://officesoftwaremarketplace.com/servicem8-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/servicem8.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#servicem8",
+  "tested_on": "2026-10-30",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 3",
+   "2 confirmed · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "ServiceM8 hands-on test by Office Software Marketplace, 30 Oct 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/servicem8-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/servicem8.svg\" width=\"340\" height=\"115\" alt=\"ServiceM8 hands-on test by Office Software Marketplace, 30 Oct 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "shortlistiq",
+  "name": "ShortlistIQ",
+  "review_url": "https://officesoftwaremarketplace.com/shortlistiq-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/shortlistiq.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#shortlistiq",
+  "tested_on": "2026-11-02",
+  "signup_blocked": true,
+  "lines": [
+   "Stopped at sign-up; details in the review",
+   "Vendor claims checked: 2",
+   "1 confirmed · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "ShortlistIQ sign-up attempt by Office Software Marketplace, 2 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 2; 1 confirmed · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/shortlistiq-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/shortlistiq.svg\" width=\"340\" height=\"132\" alt=\"ShortlistIQ sign-up attempt by Office Software Marketplace, 2 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 2; 1 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "signnow",
+  "name": "SignNow",
+  "review_url": "https://officesoftwaremarketplace.com/signnow-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/signnow.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#signnow",
+  "tested_on": "2026-11-12",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 4",
+   "1 confirmed · 2 contradicted · 1 not comparable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "SignNow hands-on test by Office Software Marketplace, 12 Nov 2026: Vendor claims checked 4; 1 confirmed · 2 contradicted · 1 not comparable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/signnow-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/signnow.svg\" width=\"340\" height=\"115\" alt=\"SignNow hands-on test by Office Software Marketplace, 12 Nov 2026: Vendor claims checked 4; 1 confirmed · 2 contradicted · 1 not comparable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "signthis",
+  "name": "SignThis",
+  "review_url": "https://officesoftwaremarketplace.com/signthis-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/signthis.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#signthis",
+  "tested_on": "2026-11-14",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 6",
+   "4 confirmed · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "SignThis hands-on test by Office Software Marketplace, 14 Nov 2026: Vendor claims checked 6; 4 confirmed · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/signthis-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/signthis.svg\" width=\"340\" height=\"115\" alt=\"SignThis hands-on test by Office Software Marketplace, 14 Nov 2026: Vendor claims checked 6; 4 confirmed · 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "simplybook-me",
+  "name": "SimplyBook.me",
+  "review_url": "https://officesoftwaremarketplace.com/simplybook-me-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/simplybook-me.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#simplybook-me",
+  "tested_on": "2026-10-30",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 2",
+   "1 confirmed · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "SimplyBook.me hands-on test by Office Software Marketplace, 30 Oct 2026: Vendor claims checked 2; 1 confirmed · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/simplybook-me-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/simplybook-me.svg\" width=\"340\" height=\"115\" alt=\"SimplyBook.me hands-on test by Office Software Marketplace, 30 Oct 2026: Vendor claims checked 2; 1 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "smartsuite",
+  "name": "SmartSuite",
+  "review_url": "https://officesoftwaremarketplace.com/smartsuite-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/smartsuite.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#smartsuite",
+  "tested_on": "2026-10-21",
+  "signup_blocked": true,
+  "lines": [
+   "Stopped at sign-up; details in the review"
+  ],
+  "alt": "SmartSuite sign-up attempt by Office Software Marketplace, 21 Oct 2026: Stopped at sign-up; details in the review",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/smartsuite-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/smartsuite.svg\" width=\"340\" height=\"81\" alt=\"SmartSuite sign-up attempt by Office Software Marketplace, 21 Oct 2026: Stopped at sign-up; details in the review\"></a>"
+ },
+ {
+  "slug": "softr",
+  "name": "Softr",
+  "review_url": "https://officesoftwaremarketplace.com/softr-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/softr.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#softr",
+  "tested_on": "2026-10-21",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "Softr hands-on test by Office Software Marketplace, 21 Oct 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/softr-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/softr.svg\" width=\"340\" height=\"81\" alt=\"Softr hands-on test by Office Software Marketplace, 21 Oct 2026: No claim or export checks recorded\"></a>"
+ },
+ {
+  "slug": "surveymonkey",
+  "name": "SurveyMonkey",
+  "review_url": "https://officesoftwaremarketplace.com/surveymonkey-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/surveymonkey.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#surveymonkey",
+  "tested_on": "2026-11-05",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 8",
+   "7 confirmed · 1 contradicted",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "SurveyMonkey hands-on test by Office Software Marketplace, 5 Nov 2026: Vendor claims checked 8; 7 confirmed · 1 contradicted; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/surveymonkey-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/surveymonkey.svg\" width=\"340\" height=\"115\" alt=\"SurveyMonkey hands-on test by Office Software Marketplace, 5 Nov 2026: Vendor claims checked 8; 7 confirmed · 1 contradicted; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "todoist",
+  "name": "Todoist",
+  "review_url": "https://officesoftwaremarketplace.com/todoist-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/todoist.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#todoist",
+  "tested_on": "2026-10-20",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "Todoist hands-on test by Office Software Marketplace, 20 Oct 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/todoist-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/todoist.svg\" width=\"340\" height=\"81\" alt=\"Todoist hands-on test by Office Software Marketplace, 20 Oct 2026: No claim or export checks recorded\"></a>"
+ },
+ {
+  "slug": "top-echelon",
+  "name": "Top Echelon",
+  "review_url": "https://officesoftwaremarketplace.com/top-echelon-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/top-echelon.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#top-echelon",
+  "tested_on": "2026-10-31",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 3",
+   "2 confirmed · 1 not testable",
+   "Data export: file opened, re-import not tested"
+  ],
+  "alt": "Top Echelon hands-on test by Office Software Marketplace, 31 Oct 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: file opened, re-import not tested",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/top-echelon-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/top-echelon.svg\" width=\"340\" height=\"115\" alt=\"Top Echelon hands-on test by Office Software Marketplace, 31 Oct 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: file opened, re-import not tested\"></a>"
+ },
+ {
+  "slug": "unleashed-software",
+  "name": "Unleashed Software",
+  "review_url": "https://officesoftwaremarketplace.com/unleashed-software-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/unleashed-software.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#unleashed-software",
+  "tested_on": "2026-11-05",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 6",
+   "5 confirmed · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Unleashed Software hands-on test by Office Software Marketplace, 5 Nov 2026: Vendor claims checked 6; 5 confirmed · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/unleashed-software-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/unleashed-software.svg\" width=\"340\" height=\"115\" alt=\"Unleashed Software hands-on test by Office Software Marketplace, 5 Nov 2026: Vendor claims checked 6; 5 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "videoscribe",
+  "name": "VideoScribe",
+  "review_url": "https://officesoftwaremarketplace.com/videoscribe-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/videoscribe.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#videoscribe",
+  "tested_on": "2026-11-02",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 3",
+   "2 confirmed · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "VideoScribe hands-on test by Office Software Marketplace, 2 Nov 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/videoscribe-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/videoscribe.svg\" width=\"340\" height=\"115\" alt=\"VideoScribe hands-on test by Office Software Marketplace, 2 Nov 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "xtiles",
+  "name": "xTiles",
+  "review_url": "https://officesoftwaremarketplace.com/xtiles-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/xtiles.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#xtiles",
+  "tested_on": "2026-10-21",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "xTiles hands-on test by Office Software Marketplace, 21 Oct 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/xtiles-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/xtiles.svg\" width=\"340\" height=\"81\" alt=\"xTiles hands-on test by Office Software Marketplace, 21 Oct 2026: No claim or export checks recorded\"></a>"
+ }
+]
