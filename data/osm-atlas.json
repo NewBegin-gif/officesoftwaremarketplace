@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for office, finance and HR software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 249,
-  "flags": 396,
+  "tools": 250,
+  "flags": 397,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on officesoftwaremarketplace.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -4348,7 +4348,7 @@
    "entry_price": "$99",
    "entry_price_terms": "StartPress · StartPress $99 a month for 5 WordPress sites",
    "pricing_status": "public",
-   "price_note": "(read 2026-11-11 on pagely.com/pricing-signup, US dollars) Pagely sells managed WordPress hosting in six plans, all billed per month. StartPress costs $99 a month for 5 WordPress sites, 30 GB SSD storage, 50 GB bandwidth and 150 GB of PressCDN. DevPress costs $199 for 10 sites, 50 GB SSD, 100 GB bandwidth and 350 GB PressCDN. LitePress costs $299 for 15 sites, 50 GB SSD, 150 GB bandwidth and 500 GB PressCDN. The higher plans use a high-availability configuration: ProPress costs $499 for 35 sites, 2 vCPU, 4 GB RAM and 50 GB SSD; PowerPress costs $999 for 60 sites, 4 vCPU and 8 GB RAM; ScalePress costs $2500 and is sized to order. The page also shows higher crossed-out prices next to each plan ($199, $299, $375, $1249, $2249 and $3600), which we did not treat as the price. The page says pageviews and visitors are always free and every plan includes ticket and live-chat support. We did not see contract length, setup fees, refund terms or tax, and we did not open the order form.",
+   "price_note": "(read 2026-11-11 on pagely.com/pricing-signup, US dollars) Pagely sells managed WordPress hosting in six plans, all billed per month. StartPress costs $99 a month for 5 WordPress sites, 30 GB SSD storage, 50 GB bandwidth and 150 GB of PressCDN. DevPress costs $199 for 10 sites, 50 GB SSD, 100 GB bandwidth and 350 GB PressCDN. LitePress costs $299 for 15 sites, 50 GB SSD, 150 GB bandwidth and 500 GB PressCDN. The higher plans use a high-availability configuration: ProPress costs $499 for 35 sites, 2 vCPU, 4 GB RAM and 50 GB SSD; PowerPress costs $999 for 60 sites, 4 vCPU and 8 GB RAM; ScalePress costs $2500 and is sized to order. The page also shows higher crossed-out prices next to each plan ($199, $299, $375, $1249, $2249 and $3600), which we did not treat as the price. The page says pageviews and visitors are always free and every plan includes ticket and live-chat support. We did not see contract length, setup fees, refund terms or tax, and we did not open the order form. Re-read on 15 November 2026 with a plain fetch of pagely.com/pricing-signup: StartPress $99, DevPress $199, LitePress $299, ProPress $499, PowerPress $999 and ScalePress $2500 a month, unchanged.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -4356,11 +4356,11 @@
      "evidence_excerpt": null,
      "source_url": "https://pagely.com/pricing-signup/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-11"
+     "verified_at": "2026-11-15"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-11",
+   "price_verified_at": "2026-11-15",
    "first_observed_at": "2026-11-11"
   },
   {
@@ -7032,6 +7032,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-11-13",
    "first_observed_at": "2026-10-18"
+  },
+  {
+   "name": "zastech",
+   "category": "Financial Operations",
+   "domain": "zastech.dev",
+   "review_url": "https://aibuildermarketplace.com/b2b/zastech-review/",
+   "from_price_usd_mo": null,
+   "entry_price": null,
+   "entry_price_terms": null,
+   "pricing_status": "see_details",
+   "price_note": "(read 2026-11-15 on zastech.dev/pricing, US dollars) zastech sells small browser tools and developer APIs. Invoice Maker, Proposal Builder and Client Report Builder are free forever with a small zastech footer, and removing it costs a one-time $9, $15 and $19. Every other browser tool gives three free results with no signup, then a one-time license: Etsy Payout Breakdown, Bank Statement Converter and Data Reconciliation Studio cost $29; Payout Audit, Contract Workspace, Invoice & Receipt Extractor, AR Aging Analyzer, PDF Redactor and Spreadsheet Diff cost $19; CSV Cleaner & Mapper costs $15. A license works on up to three browsers and has no renewal. Developer APIs are prepaid packs of $15 or $19 for 10,000 to 20,000 requests and never renew. The Freelancer Kit (four tools) costs $39 once and the Finance Ops Kit (five tools) $79 once; team plans of 10 or 25 people cost more. Checkout is by Lemon Squeezy, which adds tax. We have not paid for a license.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "Invoice Maker, Proposal Builder and Client Report Builder are free forever with a small zastech footer, and removing it costs a one-time $9, $15 and $19.",
+     "evidence_excerpt": null,
+     "source_url": "https://zastech.dev/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-15"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-15",
+   "first_observed_at": "2026-11-15"
   },
   {
    "name": "Zedonk",
