@@ -1102,7 +1102,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/world-businesses-for-sale-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: World Businesses for Sale: Browsing is free for buyers. If you want no commission at all, the pay-as-you-go plans start at £49 a month.
-- Price: (2026, re-verified 2026-10-15 on their own store and selling pages) Browsing is free for buyers. Sellers pick one of two tracks.
+- Price: (2026, re-verified 2026-11-15 on their own store and selling pages) Browsing is free for buyers. Sellers pick one of two tracks.
 
 ## WP Rocket
 - Review: https://officesoftwaremarketplace.com/wp-rocket-review.html
