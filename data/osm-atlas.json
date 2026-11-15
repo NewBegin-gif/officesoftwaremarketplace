@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 250,
-  "flags": 397,
+  "flags": 398,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on officesoftwaremarketplace.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -1254,15 +1254,23 @@
    "entry_price": "$29",
    "entry_price_terms": "per month billed yearly ($35 monthly), covers first 30 users",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-03 on their own pricing page, USD) The free tier is real and not a trial: the Small Business Plan is $0 for life, covers up to 10 users and includes all hubs and features. Above that you buy per hub — Operations, Communications or HR & Skills — and each hub carries a flat base price covering the first 30 users, plus a per-user surcharge only from user 31 onward. Billed yearly that base is $29/mo at Basic, $49 at Advanced and $99 at Expert; billed monthly it is $35, $59 and $119. The surcharge is where the hubs diverge: on the yearly plans Operations adds $0.80, $2.50 and $4.20 per extra user a month, while Communications and HR & Skills add $0.50, $1.50 and $3.00. Quoting only the per-user rate understates a small team's bill, because a shop of 30 or fewer pays the flat base either way. Price it per hub you will actually switch on, not per user. Re-read on 3 October 2026 with every figure unchanged; the yearly toggle is now labelled \"save 18%\", and the 14-day trial still needs no credit card. Re-read on 22 October 2026 by plain fetch with every base price and surcharge unchanged. The page's FAQ adds two terms that change the free-tier picture: a team of 11 to 30 users does not have to pay after the trial, because it can move to the Limited plan, free for life on each hub but keeping only the essentials; and the time-clock comparison table marks payroll integration as not included in the Small Business Plan. Prices are in US dollars only.",
+   "price_note": "(re-verified 2026-10-03 on their own pricing page, USD) The free tier is real and not a trial: the Small Business Plan is $0 for life, covers up to 10 users and includes all hubs and features. Above that you buy per hub — Operations, Communications or HR & Skills — and each hub carries a flat base price covering the first 30 users, plus a per-user surcharge only from user 31 onward. Billed yearly that base is $29/mo at Basic, $49 at Advanced and $99 at Expert; billed monthly it is $35, $59 and $119. The surcharge is where the hubs diverge: on the yearly plans Operations adds $0.80, $2.50 and $4.20 per extra user a month, while Communications and HR & Skills add $0.50, $1.50 and $3.00. Quoting only the per-user rate understates a small team's bill, because a shop of 30 or fewer pays the flat base either way. Price it per hub you will actually switch on, not per user. Re-read on 3 October 2026 with every figure unchanged; the yearly toggle is now labelled \"save 18%\", and the 14-day trial still needs no credit card. Re-read on 22 October 2026 by plain fetch with every base price and surcharge unchanged. The page's FAQ adds two terms that change the free-tier picture: a team of 11 to 30 users does not have to pay after the trial, because it can move to the Limited plan, free for life on each hub but keeping only the essentials; and the time-clock comparison table marks payroll integration as not included in the Small Business Plan. Prices are in US dollars only. Re-read on 15 November 2026 by plain fetch with every base price ($29, $49 and $99 yearly; $35, $59 and $119 monthly, for the first 30 users) and every per-user surcharge unchanged. The FAQ says annual billing equals 10 months of monthly use (\"2 free months\") and the toggle says \"save 18%\"; the base prices work out to 17.1% off at Basic, 16.9% at Advanced and 16.8% at Expert.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "Above that you buy per hub — Operations, Communications or HR & Skills — and each hub carries a flat base price covering the first 30 users, plus a per-user surcharge only from user 31 onward.",
+     "evidence": "Re-read on 15 November 2026 by plain fetch with every base price ($29, $49 and $99 yearly; $35, $59 and $119 monthly, for the first 30 users) and every per-user surcharge unchanged.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-22"
+     "verified_at": "2026-11-15"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "The FAQ says annual billing equals 10 months of monthly use (\"2 free months\") and the toggle says \"save 18%\"; the base prices work out to 17.1% off at Basic, 16.9% at Advanced and 16.8% at Expert.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-15"
     },
     {
      "flag": "free_tier",
@@ -1270,11 +1278,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-22"
+     "verified_at": "2026-11-15"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-22",
+   "price_verified_at": "2026-11-15",
    "first_observed_at": "2026-10-03"
   },
   {
@@ -2393,7 +2401,7 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "see_details",
-   "price_note": "(read 2026-11-14 on forwardly.com/pricing, US dollars) Forwardly has no monthly platform fee. The free business account costs $0 a month and includes 10 free standard ACH payments a month (5 sent and 5 received), card or bank collection, AI bill capture, a dedicated bill inbox, unlimited users with custom roles, auto collect and auto pay, accounting sync, payment links, custom approval workflows and W-9 collection, with standard email support. The Pay as you go tier starts with a 30-day free trial for US businesses and adds unlimited standard ACH, fast and instant payment options from as little as $1 a payment, and real-time sync with QuickBooks Online and Xero. Enterprise is custom priced and adds volume discounts, API access, sync with Sage Intacct, Oracle NetSuite and Microsoft Dynamics 365, and phone support. The fee table lists standard ACH at $0.50 after the free payments, next-day ACH at 1% (minimum $1, maximum $10), same-day ACH at 1% (minimum $1, maximum $20), instant bank transfer at 1% (minimum $1, maximum $30), and card payments at 2.99%, which can be passed to the client. A $0.25 card settlement fee is charged per batch and cannot be passed on. Transfers between two businesses on the Forwardly Network cost $0. The page says that after the trial, new customers get special promotional pricing for 12 months from sign-up. We did not open an account, so tax and the price after the promotional period are not known.",
+   "price_note": "(read 2026-11-14 on forwardly.com/pricing, US dollars) Forwardly has no monthly platform fee. The free business account costs $0 a month and includes 10 free standard ACH payments a month (5 sent and 5 received), card or bank collection, AI bill capture, a dedicated bill inbox, unlimited users with custom roles, auto collect and auto pay, accounting sync, payment links, custom approval workflows and W-9 collection, with standard email support. The Pay as you go tier starts with a 30-day free trial for US businesses and adds unlimited standard ACH, fast and instant payment options from as little as $1 a payment, and real-time sync with QuickBooks Online and Xero. Enterprise is custom priced and adds volume discounts, API access, sync with Sage Intacct, Oracle NetSuite and Microsoft Dynamics 365, and phone support. The fee table lists standard ACH at $0.50 after the free payments, next-day ACH at 1% (minimum $1, maximum $10), same-day ACH at 1% (minimum $1, maximum $20), instant bank transfer at 1% (minimum $1, maximum $30), and card payments at 2.99%, which can be passed to the client. A $0.25 card settlement fee is charged per batch and cannot be passed on. Transfers between two businesses on the Forwardly Network cost $0. The page says that after the trial, new customers get special promotional pricing for 12 months from sign-up. We did not open an account, so tax and the price after the promotional period are not known. Re-read on 15 November 2026 with a plain fetch of forwardly.com/pricing: the free account, the Pay as you go tier and every line of the fee table unchanged.",
    "flags": [
     {
      "flag": "free_tier",
@@ -2401,11 +2409,11 @@
      "evidence_excerpt": "The free business account costs $0 a month and includes 10 free standard ACH payments a month (5 sent and 5 received), card or bank collection, AI bill capture, a dedicated bill inbox, unlimited user…",
      "source_url": "https://forwardly.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-14"
+     "verified_at": "2026-11-15"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-14",
+   "price_verified_at": "2026-11-15",
    "first_observed_at": "2026-11-14"
   },
   {
@@ -6431,7 +6439,7 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "quote_only",
-   "price_note": "(re-read 2026-09-18 and again on 2026-10-05 on trainual.com/pricing) No prices at all. The page lists four plans — Core, Pro, Premium and Enterprise, grouped under a Training, an Operations and a Performance suite — and every one of them carries a “Get a demo” button where a rate would be. The only figure the page publishes is a one-time implementation fee of $1,000, stated in its own FAQ alongside a 4–6 week engagement with an implementation specialist. The FAQ also answers the sizing question directly: “Trainual is best suited for companies with 25 - 1000 employees”, and says pricing varies with team size and the features you need. Pricing is quote-only. An earlier version of this entry carried monthly figures attributed to unnamed third-party sources; those are not on the vendor's page and could not be traced to a named source, so they have been removed rather than repeated.\n\nThere is also no self-serve way to try it. The FAQ question “Can I try Trainual before committing to a subscription?” is answered with an invitation to book a demo, not with a trial, so a sales conversation is the only route in. Two things are quantified beyond the fee: the implementation team aims to have interviews completed and content in the account within 10 business days, and 500+ templates are included, with 400+ expert-built courses sold separately as a premium courses add-on whose price the page does not give. Read on 5 October 2026, the Premium card lists an MCP server for custom AI agents, and Enterprise adds API access with custom integration support, access to SOC 2 security documentation and extended implementation and migration.\n\nRead a third time on 21 October 2026 (served HTML): still no rate on any plan, the same $1,000 implementation fee and the same 25 - 1000 employee fit. The page is now organised around three suites, Training, Operations and Performance, each with its own Get a demo button, above a plan grid that still names Core, Pro, Premium and Enterprise. The per-plan video-storage and version-history figures we quoted from the 5 October reading did not appear in the served page this time, so they rest on that earlier reading. The FAQ now also answers the cancellation question: a cancelled plan runs to the end of the billing cycle with full access, and an account can instead be put on hold for up to three months.",
+   "price_note": "(re-read 2026-09-18 and again on 2026-10-05 on trainual.com/pricing) No prices at all. The page lists four plans — Core, Pro, Premium and Enterprise, grouped under a Training, an Operations and a Performance suite — and every one of them carries a “Get a demo” button where a rate would be. The only figure the page publishes is a one-time implementation fee of $1,000, stated in its own FAQ alongside a 4–6 week engagement with an implementation specialist. The FAQ also answers the sizing question directly: “Trainual is best suited for companies with 25 - 1000 employees”, and says pricing varies with team size and the features you need. Pricing is quote-only. An earlier version of this entry carried monthly figures attributed to unnamed third-party sources; those are not on the vendor's page and could not be traced to a named source, so they have been removed rather than repeated.\n\nThere is also no self-serve way to try it. The FAQ question “Can I try Trainual before committing to a subscription?” is answered with an invitation to book a demo, not with a trial, so a sales conversation is the only route in. Two things are quantified beyond the fee: the implementation team aims to have interviews completed and content in the account within 10 business days, and 500+ templates are included, with 400+ expert-built courses sold separately as a premium courses add-on whose price the page does not give. Read on 5 October 2026, the Premium card lists an MCP server for custom AI agents, and Enterprise adds API access with custom integration support, access to SOC 2 security documentation and extended implementation and migration.\n\nRead a third time on 21 October 2026 (served HTML): still no rate on any plan, the same $1,000 implementation fee and the same 25 - 1000 employee fit. The page is now organised around three suites, Training, Operations and Performance, each with its own Get a demo button, above a plan grid that still names Core, Pro, Premium and Enterprise. The per-plan video-storage and version-history figures we quoted from the 5 October reading did not appear in the served page this time, so they rest on that earlier reading. The FAQ now also answers the cancellation question: a cancelled plan runs to the end of the billing cycle with full access, and an account can instead be put on hold for up to three months. Re-read on 15 November 2026 by plain fetch: still no rate on any plan, the same $1,000 one-time implementation fee, the same 25 - 1000 employee fit and the same cancel-or-pause answer.",
    "flags": [
     {
      "flag": "quote_only",
@@ -6439,7 +6447,7 @@
      "evidence_excerpt": null,
      "source_url": "https://trainual.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-21"
+     "verified_at": "2026-11-15"
     },
     {
      "flag": "addons_extra",
@@ -6447,11 +6455,11 @@
      "evidence_excerpt": "Two things are quantified beyond the fee: the implementation team aims to have interviews completed and content in the account within 10 business days, and 500+ templates are included, with 400+ expe…",
      "source_url": "https://trainual.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-21"
+     "verified_at": "2026-11-15"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-21",
+   "price_verified_at": "2026-11-15",
    "first_observed_at": "2026-09-18"
   },
   {
