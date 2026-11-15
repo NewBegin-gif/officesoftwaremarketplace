@@ -5372,7 +5372,7 @@
    "entry_price": "$20",
    "entry_price_terms": "Pro · Pro billed monthly",
    "pricing_status": "public",
-   "price_note": "(read 2026-11-08 on shortcutchat.com, dollar amounts as shown on the page) Shortcut Chat sells one subscription in three sizes. Pro is $20 a month or $216 a year, Pro+ is $40 a month or $432 a year, and Ultra is $100 a month or $1,080 a year; the page says annual billing is 10% off. The three plans include the same models, up to three answers side by side, unlimited custom shortcuts, image generation and web search. What changes is the monthly usage allowance: Pro+ has twice the Pro usage and Ultra five times. The allowance is shown as a percentage and resets on the day you first subscribed. According to the FAQ you are not charged overage when you hit it; you wait for the reset or upgrade. The page names no free plan and no free trial, and it does not say how big the Pro allowance is. Cancellation is done from your account and access continues to the end of the billing period.",
+   "price_note": "(read 2026-11-08 on shortcutchat.com, dollar amounts as shown on the page) Shortcut Chat sells one subscription in three sizes. Pro is $20 a month or $216 a year, Pro+ is $40 a month or $432 a year, and Ultra is $100 a month or $1,080 a year; the page says annual billing is 10% off. The three plans include the same models, up to three answers side by side, unlimited custom shortcuts, image generation and web search. What changes is the monthly usage allowance: Pro+ has twice the Pro usage and Ultra five times. The allowance is shown as a percentage and resets on the day you first subscribed. According to the FAQ you are not charged overage when you hit it; you wait for the reset or upgrade. The page names no free plan and no free trial, and it does not say how big the Pro allowance is. Cancellation is done from your account and access continues to the end of the billing period. Re-read on 15 November 2026 with a plain fetch of shortcutchat.com: Pro $20 a month or $216 a year, Pro+ $40 or $432, Ultra $100 or $1,080, unchanged. The annual prices are exactly twelve months less 10%, as the toggle says.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -5380,7 +5380,7 @@
      "evidence_excerpt": "The usage allowance is the unknown: the page shows it only as a percentage and never says how much the Pro plan includes, so you cannot compare it to the per-message limits of other chat subscription…",
      "source_url": "https://www.shortcutchat.com/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-08"
+     "verified_at": "2026-11-15"
     },
     {
      "flag": "annual_lock",
@@ -5388,11 +5388,11 @@
      "evidence_excerpt": null,
      "source_url": "https://www.shortcutchat.com/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-08"
+     "verified_at": "2026-11-15"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-08",
+   "price_verified_at": "2026-11-15",
    "first_observed_at": "2026-11-08"
   },
   {
@@ -6820,11 +6820,11 @@
    "entry_price": "£49",
    "entry_price_terms": "a month (£147 per six months), broker plans from £395",
    "pricing_status": "public",
-   "price_note": "(2026, re-verified 2026-10-15 on their own store and selling pages) Browsing is free for buyers. Sellers pick one of two tracks. Broker plans: Basic £395 (3% commission, 6-month contract), Standard £749 (2% commission, 9 months), Premium £1,500 (1% commission, 12-month contract, stays live until sold with free renewals) — every tier states commission is due only if they introduce the buyer. Or no-commission pay-as-you-go listings (inc. VAT), now sold only as subscriptions: a Monthly Plan at Basic £49, Standard £75 or Premium £99 a month, or a 6-Month Plan at 50% off — £147, £225 or £297 per six months (the store's 'from £24.50/month'), renewing automatically every six months; you can cancel future renewals, and the listing stays active to the end of the paid period. You keep 100% of the sale price. Historical: on 13 October 2026 we read these as one-off 30-day listings with 10% off monthly (£44.10 / £67.50 / £89.10) and 20% off for six months (£235.20 / £360.00 / £475.20). Free 24/7 chat guidance before you commit. Sources: plan prices from the store's own product data on 15 October 2026; commissions and contract lengths from the selling page on 13 October 2026.",
+   "price_note": "(2026, re-verified 2026-11-15 on their own store and selling pages) Browsing is free for buyers. Sellers pick one of two tracks. Broker plans: Basic £395 (3% commission, 6-month contract), Standard £499 (2% commission, 9 months), Premium £999 (1% commission, 12-month contract, stays live until sold with free renewals) — every tier states commission is due only if they introduce the buyer. Or no-commission pay-as-you-go listings (inc. VAT), now sold only as subscriptions: a Monthly Plan at Basic £49, Standard £75 or Premium £99 a month, or a 6-Month Plan at 50% off — £147, £225 or £297 per six months (the store's 'from £24.50/month'), renewing automatically every six months; you can cancel future renewals, and the listing stays active to the end of the paid period. You keep 100% of the sale price. Historical: until 15 October 2026 the broker plans were Standard £749 and Premium £1,500, and on 15 November 2026 the selling page showed £499 and £999. On 13 October 2026 we read these as one-off 30-day listings with 10% off monthly (£44.10 / £67.50 / £89.10) and 20% off for six months (£235.20 / £360.00 / £475.20). Free 24/7 chat guidance before you commit. Sources: broker plan prices, commissions and contract lengths from the selling page on 15 November 2026; pay-as-you-go prices from the no-commission page on 15 November 2026.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-15",
-   "first_observed_at": "2026-10-15"
+   "price_verified_at": "2026-11-15",
+   "first_observed_at": "2026-11-15"
   },
   {
    "name": "WP Rocket",
