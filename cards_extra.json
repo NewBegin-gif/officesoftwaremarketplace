@@ -5145,7 +5145,7 @@
   ],
   "price": "$49",
   "price_note": "from · per month ($37 annually)",
-  "verified": "2026-09-28",
+  "verified": "2026-11-16",
   "catch": "The paid ladder rises fast: Starter at $49 buys only 100 SKUs, repricing waits for Pro at $99, and price updates run at most twice a day even on Enterprise.",
   "best": "E-commerce sellers monitoring competitor prices and repricing catalogs up to ~25,000 SKUs on rules or autopilot."
  },
@@ -6248,7 +6248,7 @@
   ],
   "price": "$39",
   "price_note": "from · per month, monthly only (drops on annual billing)",
-  "verified": "2026-10-27",
+  "verified": "2026-11-16",
   "catch": "Smartli bundles nine AI tools (copy, SEO, images, logos) into one suite, and that breadth is also the honest catch: each individual tool is competent rather than the best at its job, so a team that leans hard on one job may outgrow it toward a specialist.",
   "best": "E-commerce sellers who want an affordable AI suite to draft product listings, ad copy, SEO text and basic brand assets in one place."
  },
@@ -6262,7 +6262,7 @@
   ],
   "price": "$15",
   "price_note": "Team, per seat · per seat per month billed annually, with a minimum of 3 billable users",
-  "verified": "2026-10-02",
+  "verified": "2026-11-16",
   "catch": "It's a broad, do-everything work-management platform, so the power comes with a learning curve and a per-seat cost that adds up for bigger teams: a single source of truth if you commit, overkill if you just need a task list.",
   "best": "Teams consolidating projects, CRM and operations into one flexible, database-driven work-management platform."
  },
@@ -10999,5 +10999,10 @@
   "verified": "2026-11-16",
   "catch": "Dynamic QR codes you can edit after printing; free plan, paid from $9.99.",
   "best": "Small businesses and local campaigns that print QR codes on menus, flyers, posters or packaging and want to change the destination later without reprinting."
+ },
+ "PayRewards": {
+  "verified": "2026-11-16",
+  "catch": "Pay vendors by card, earn points; 1.75% fee, no subscription.",
+  "best": "US small businesses that pay many vendor bills and want to put them on a credit card or earn travel points even when the vendor only takes ACH or a check."
  }
 }

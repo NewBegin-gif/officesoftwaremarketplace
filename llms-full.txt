@@ -1,6 +1,6 @@
 # Office Software Marketplace — Full Review Catalog
 
-> All 195 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-16.
+> All 196 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-16.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -732,6 +732,12 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Verdict: Parim: One number is published and the rest is not. Unlimited users sounds like the generous part, and it is, until you notice what replaces per-seat pricing.
 - Price: (re-read 2026-09-17 and again on 2026-10-05 on parim.co/pricing; unchanged since 20 August 2026) One number is published and the rest is not. The page says pricing starts from £47 per month with unlimited users on every plan, but each of the three tiers — Starter, Pro, Premium — carries a ‘Request Pricing’ button rather than a figure.
 
+## PayRewards
+- Review: https://officesoftwaremarketplace.com/payrewards-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Verdict: PayRewards: Delivery fees are $16 per wire transfer and $5 per paper check. Every payment carries a percentage fee, 1.75% to 3.25% plus 2.9% on cards.
+- Price: (read 2026-11-16 on payrewards.com/pricing, US dollars) No subscription; sign-up is free. Each bill pays a platform and rewards fee: Core 1.75% per transaction with 1 point per $1, Plus 3.25% per transaction with 2 points per $1.
+
 ## pCloud
 - Review: https://officesoftwaremarketplace.com/pcloud-review.html
 - Hands-on: tested by us on 2026-11-02. Measured 2026-11-02: The free account started at 2 GB of storage and became 3 GB after our first upload: one extra gigabyte added by that action. The homepage says you can reach up to 10 GB; we only saw the first step.
@@ -951,8 +957,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## SmartSuite
 - Review: https://officesoftwaremarketplace.com/smartsuite-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: SmartSuite: No free plan, a 14-day trial of Professional with no credit card. One gate comes before all of that.
-- Price: (re-verified 2026-10-02 on their own pricing page, USD; unchanged since our August reading) No free plan — a 14-day trial of Professional with no credit card, and the page states there is no auto-charge when it ends. Team is $15 per seat a month billed annually, or $20 billed monthly, with a minimum of 3 billable users, 5,000 records per solution, 50GB of storage and a 30-day recycle bin.
+- Verdict: SmartSuite, No free plan: a 14-day trial of Professional with no credit card. One gate comes before all of that.
+- Price: (re-verified 2026-11-16 on their own pricing page and FAQ, USD; seat prices unchanged since our August reading) No free plan: a 14-day trial of Professional with no credit card, and the page states there is no automatic charge when it ends. Team is $15 per seat a month billed annually, or $20 billed monthly, with a minimum of 3 billable users, 5,000 records per solution, 50GB of storage and a 30-day recycle bin.
 
 ## SMTP.com
 - Review: https://officesoftwaremarketplace.com/smtp-com-review.html
