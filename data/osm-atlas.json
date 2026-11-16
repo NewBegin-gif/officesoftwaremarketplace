@@ -1501,7 +1501,7 @@
    "entry_price": "$14",
    "entry_price_terms": "a month per worker for Find talent (hiring)",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-09; the figures are unchanged since 2026-08-17) Pricing is per worker and demo-led, and each product is priced separately. Find talent (sourcing, screening and onboarding candidates) is $14 per worker a month. Contractor management is $49 per contractor a month, or $325 per month per Contractor of Record if you want Deel to carry the compliance risk. US PEO starts at $125 per employee a month. And EOR, where Deel employs your international hire, starts at $599 per employee a month. The pricing FAQ says pricing is month to month with no long-term commitment, and Deel's Contractor of Record page adds that each Contractor of Record contract requires a deposit of one month of the contractor's payment. There is a free demo and final quotes come through sales. The spread is the point: the same headcount costs $14 or $599 a month depending on which relationship you need, so identify the employment model before comparing vendors.",
+   "price_note": "(re-verified 2026-10-09 and again 2026-11-16; the figures are unchanged since 2026-08-17) Pricing is per worker and demo-led, and each product is priced separately. Find talent (sourcing, screening and onboarding candidates) is $14 per worker a month. Contractor management is $49 per contractor a month, or $325 per month per Contractor of Record if you want Deel to carry the compliance risk. US PEO starts at $125 per employee a month. And EOR, where Deel employs your international hire, starts at $599 per employee a month. The pricing FAQ says pricing is month to month with no long-term commitment, and Deel's Contractor of Record page adds that each Contractor of Record contract requires a deposit of one month of the contractor's payment. There is a free demo and final quotes come through sales. The spread is the point: the same headcount costs $14 or $599 a month depending on which relationship you need, so identify the employment model before comparing vendors.",
    "flags": [
     {
      "flag": "per_seat",
@@ -1509,19 +1509,19 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-09"
+     "verified_at": "2026-11-16"
     },
     {
      "flag": "addons_extra",
-     "evidence": "(re-verified 2026-10-09; the figures are unchanged since 2026-08-17) Pricing is per worker and demo-led, and each product is priced separately.",
+     "evidence": "(re-verified 2026-10-09 and again 2026-11-16; the figures are unchanged since 2026-08-17) Pricing is per worker and demo-led, and each product is priced separately.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-09"
+     "verified_at": "2026-11-16"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-09",
+   "price_verified_at": "2026-11-16",
    "first_observed_at": "2026-10-09"
   },
   {
@@ -1605,7 +1605,7 @@
    "entry_price": "$16",
    "entry_price_terms": "per person a month billed annually, $24 billed monthly",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-08-17 and again 2026-10-01) Free plan with 60 minutes a month and watermarked 720p exports. Paid, per person per month, annual against monthly: Hobbyist $16 / $24, Creator $24 / $35, Business $50 / $65, with annual billing saving up to 35%. Media hours and AI credits are capped per tier: roughly 10, 30 and 40 hours a month, and 400 to 1,500 credits. So the meter that matters is footage rather than seats — a weekly podcast can outgrow Hobbyist on hours long before it needs the features above it.",
+   "price_note": "(re-verified 2026-08-17, 2026-10-01 and again 2026-11-16) Free plan with 60 minutes a month and watermarked 720p exports. Paid, per person per month, annual against monthly: Hobbyist $16 / $24, Creator $24 / $35, Business $50 / $65, with annual billing advertised as \"Saving up to 35%\"; worked out from the listed prices the saving is 33% on Hobbyist, 31% on Creator and 23% on Business. Media hours and AI credits are capped per tier: roughly 10, 30 and 40 hours a month, and 400 to 1,500 credits. So the meter that matters is footage rather than seats — a weekly podcast can outgrow Hobbyist on hours long before it needs the features above it.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -1613,27 +1613,27 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-01"
+     "verified_at": "2026-11-16"
     },
     {
      "flag": "annual_lock",
-     "evidence": "Paid, per person per month, annual against monthly: Hobbyist $16 / $24, Creator $24 / $35, Business $50 / $65, with annual billing saving up to 35%.",
-     "evidence_excerpt": null,
+     "evidence": "Paid, per person per month, annual against monthly: Hobbyist $16 / $24, Creator $24 / $35, Business $50 / $65, with annual billing advertised as \"Saving up to 35%\"; worked out from the listed prices the saving is 33% on Hobbyist, 31% on Creator and 23% on Business.",
+     "evidence_excerpt": "Paid, per person per month, annual against monthly: Hobbyist $16 / $24, Creator $24 / $35, Business $50 / $65, with annual billing advertised as \"Saving up to 35%\"; worked out from the listed prices …",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-01"
+     "verified_at": "2026-11-16"
     },
     {
      "flag": "free_tier",
-     "evidence": "(re-verified 2026-08-17 and again 2026-10-01) Free plan with 60 minutes a month and watermarked 720p exports.",
+     "evidence": "(re-verified 2026-08-17, 2026-10-01 and again 2026-11-16) Free plan with 60 minutes a month and watermarked 720p exports.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-01"
+     "verified_at": "2026-11-16"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-01",
+   "price_verified_at": "2026-11-16",
    "first_observed_at": "2026-08-17"
   },
   {
@@ -1987,7 +1987,7 @@
    "entry_price": "$250",
    "entry_price_terms": "a month (page markup also shows an unlabeled alternate $8 figure)",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-08-21 and again unchanged on 2026-09-28, read on their own pricing page) The prices are published, despite the consultative first impression, and the report figures have not moved since our 12 August reading. An Elevate Insight Report is $500, a bundle of three is $1,350 at a 10% discount, and the Elevate Studio tiers render at $250, $500 and $750 a month. Those three are Elevate Strategy, Elevate Execution and Business Enablement, the last still marked coming soon. A report is scoped to one focus area you choose, delivered within five business days of submission, with up to two rounds of feedback-based adjustments and a review consultation included. Treat the monthly figures as provisional: each price sits in a pair of spans whose second value reads $1,500 per report. For the three monthly tiers those second values are $8, $16 and $149. The page carries no visible label for either state, so which figure a given buyer is shown cannot be settled from the markup. Re-read on 21 October 2026: the same $500, $1,350 and $250, $500 and $750 figures, with Business Enablement still coming soon. One detail moved in the markup: the Single Insight and Bundled Package cards lower down now pair their $500 and $1,350 with a second value of $149 a month instead of $1,500, while the report card at the top still pairs $500 with $1,500.",
+   "price_note": "(re-verified 2026-08-21 and again unchanged on 2026-09-28, read on their own pricing page) The prices are published, despite the consultative first impression, and the report figures have not moved since our 12 August reading. An Elevate Insight Report is $500, a bundle of three is $1,350 at a 10% discount, and the Elevate Studio tiers render at $250, $500 and $750 a month. Those three are Elevate Strategy, Elevate Execution and Business Enablement, the last still marked coming soon. A report is scoped to one focus area you choose, delivered within five business days of submission, with up to two rounds of feedback-based adjustments and a review consultation included. Treat the monthly figures as provisional: each price sits in a pair of spans whose second value reads $1,500 per report. For the three monthly tiers those second values are $8, $16 and $149. The page carries no visible label for either state, so which figure a given buyer is shown cannot be settled from the markup. Re-read on 21 October 2026: the same $500, $1,350 and $250, $500 and $750 figures, with Business Enablement still coming soon. One detail moved in the markup: the Single Insight and Bundled Package cards lower down now pair their $500 and $1,350 with a second value of $149 a month instead of $1,500, while the report card at the top still pairs $500 with $1,500. Read again on 16 November 2026: unchanged, the same paired values on every card and Business Enablement still coming soon.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -1995,11 +1995,11 @@
      "evidence_excerpt": "Its privacy section says report-related data is retained for internal reference and refinement unless you ask for deletion, the terms provide the application 'as-is' with no uptime guarantee, liabili…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-21"
+     "verified_at": "2026-11-16"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-21",
+   "price_verified_at": "2026-11-16",
    "first_observed_at": "2026-08-21"
   },
   {
