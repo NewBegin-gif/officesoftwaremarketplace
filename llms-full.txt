@@ -1,6 +1,6 @@
 # Office Software Marketplace — Full Review Catalog
 
-> All 191 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-15.
+> All 193 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-16.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -339,8 +339,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## doola
 - Review: https://officesoftwaremarketplace.com/doola-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: doola: State filing fees run $50 to $500 depending on the state. Convenient especially for non-US founders.
-- Price: (re-verified 1 October 2026 on doola.com/pricing) These are the list prices. Starter is $297 a year plus state fees and covers LLC or C-Corp formation, EIN, a registered agent and a US address; state filing fees run $50 to $500 depending on the state, and they are yours, not doola's.
+- Verdict: doola: $2,999 a year saves $949, about 24%. Formation is the cheap part; the recurring bookkeeping and tax tiers are where the real cost sits.
+- Price: (re-verified 15 November 2026 on doola.com/pricing; list prices unchanged since our July 2026 captures) These are the list prices. Starter is $297 a year plus state fees and covers LLC or C-Corp formation, EIN, a registered agent and a US address; state filing fees run $50 to $500 depending on the state, and they are yours, not doola's.
 
 ## Dryground AI
 - Review: https://officesoftwaremarketplace.com/dryground-ai-review.html
@@ -371,6 +371,12 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Employment Hero: EVERY PRICE ON THAT PAGE IS AUD EXCLUDING GST; the page states it in its own disclaimer. Payroll no longer carries its own price at all.
 - Price: (2026-08-28, read on their own pricing page at employmenthero.com/pricing/; re-verified 2026-10-06) EVERY PRICE ON THAT PAGE IS AUD EXCLUDING GST — the page states it in its own disclaimer. It is the Australian page; separate pages exist for the UK, New Zealand, Singapore, Malaysia and Canada, and there is no US one.
+
+## Evolve
+- Review: https://officesoftwaremarketplace.com/evolve-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Verdict: Evolve: No public price list; there is no /pricing page and the call to action across the site is 'Book an intro'. It's built for large organizations.
+- Price: (re-verified 2026-09-22 on evolveplatform.ai) No public price list -- there is no /pricing page and the call to action across the site is 'Book an intro'. The platform is modular by design and the quote is built from which modules you contract and how many seats: Evolve Learning, Course Generate, Evolve Studio course builder, Assessment Center, Knowledge base and Simulations -- six independent but connected…
 
 ## ExpertEx
 - Review: https://officesoftwaremarketplace.com/expertex-review.html
@@ -407,6 +413,12 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Hands-on: tested by us on 2026-10-20. Measured 2026-10-20: Ten questions saved. The form for an eleventh opened normally, and only on Save did FlexiQuiz say 'There is a maximum of 10 questions on the free plan. Upgrade to add more questions'; the eleventh was not…
 - Verdict: FlexiQuiz: Essentials $25/mo billed monthly or $17/mo billed yearly ($204/yr), 500 responses a month. The monthly response caps are the business model.
 - Price: (re-verified 2026-10-30 on flexiquiz.com/Home/Plans, every amount unchanged since 22 September; the monthly-billed rates were read from the page's own billing-toggle script, the yearly rates from the rendered cards) Free: 20 responses a month, no card required; in our test on 20 October 2026 a free quiz also stopped at 10 questions ('There is a maximum of 10 questions on the free plan'). Essentials $25/mo billed…
+
+## Flippa
+- Review: https://officesoftwaremarketplace.com/flippa-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Verdict: Flippa: From $50K it is $129, $399 or $699. The real cost is the success fee, and it's a flat bracket rate on the whole sale price, not marginal.
+- Price: (re-verified 2026-09-03 on their own pricing page, USD, and unchanged band by band on 2026-09-29) Sellers pay an upfront listing fee plus a success fee when the business sells, and BOTH change with the asking-price band. The success fee is 10% on every band up to $499.9K, then 9% from $500K, 8% from $1M, 7% from $5M, 6% from $10M and 5% at $50M+.
 
 ## Forwardly
 - Review: https://officesoftwaremarketplace.com/forwardly-review.html
