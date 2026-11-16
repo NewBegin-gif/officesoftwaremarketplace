@@ -4908,6 +4908,14 @@
   "replaces": "Uniqode"
  },
  {
+  "name": "Essential Cart Drawer",
+  "category": "E-commerce",
+  "domain": "essential-apps.com",
+  "desc": "Shopify slide-out cart drawer with in-cart upsells, a free-shipping reward bar, countdown timer, announcement bar and sticky add-to-cart bar; every plan has every feature, with plans tiered by monthly drawer orders.",
+  "link": "https://platform.shoffi.app/r/rl_wxvqbt21",
+  "platform": "shopify"
+ },
+ {
   "name": "PayRewards",
   "category": "Financial Operations",
   "domain": "payrewards.com",
