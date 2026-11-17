@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 253,
-  "flags": 399,
+  "flags": 400,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on officesoftwaremarketplace.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -4489,19 +4489,19 @@
    "entry_price": "$20",
    "entry_price_terms": "per user per year up to 20 people",
    "pricing_status": "public",
-   "price_note": "(re-verified 30 September 2026 on passpack.com/plans/ and passpack.com/llms.txt, which agree; unchanged since our 25 August, 2, 3 and 6 September readings) Teams is $20 per user per year, paid annually, for teams of up to 20 people. Business is $4.50 per user per month, paid annually, includes everything in Teams and has a monthly option. Enterprise is a custom quote, and both paid plans carry a 28-day free trial. The gap between those two matters more than either number: Teams works out at about $1.67 a user a month, while Business at $4.50 sits inside the $3 to $8 range the mainstream managers charge. The saving is real on Teams and largely gone above twenty people. What changed between 3 and 6 September 2026 is the feature table rather than the price: the plans page now lists TOTP and 'Mobile app for iOS' under Admin & User Functionality, the section that carries no plan exclusions, so both apply to all three plans.",
+   "price_note": "(re-verified 30 September 2026 on passpack.com/plans/ and passpack.com/llms.txt, which agree, and again on 17 November 2026 on passpack.com/plans/, when llms.txt returned 404; unchanged since our 25 August, 2, 3 and 6 September readings) Teams is $20 per user per year, paid annually, for teams of up to 20 people. Business is $4.50 per user per month, paid annually, includes everything in Teams and has a monthly option. Enterprise is a custom quote, and both paid plans carry a 28-day free trial. The gap between those two matters more than either number: Teams works out at about $1.67 a user a month, while Business at $4.50 sits inside the $3 to $8 range the mainstream managers charge. The saving is real on Teams and largely gone above twenty people. What changed between 3 and 6 September 2026 is the feature table rather than the price: the plans page now lists TOTP and 'Mobile app for iOS' under Admin & User Functionality, the section that carries no plan exclusions, so both apply to all three plans. On 17 November 2026 the plans page printed Teams as '$1.66 per user/monthly, paid annually. For teams up to 20 people', which is $19.92 a year: the same plan as the $20 per user per year in our earlier readings, shown per month. Business was unchanged at $4.50 per user/month, paid annually, with a monthly plan available; Enterprise is still a custom quote and the trial is still 28 days. The plans table still names only 'Mobile app for iOS', but the site's Downloads menu now links an Android app: Passpack Password Manager from Passpack, Inc. on Google Play (last updated 16 October 2026, 10+ downloads when we read the listing on 17 November 2026).",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "(re-verified 30 September 2026 on passpack.com/plans/ and passpack.com/llms.txt, which agree; unchanged since our 25 August, 2, 3 and 6 September readings) Teams is $20 per user per year, paid annually, for teams of up to 20 people.",
-     "evidence_excerpt": "(re-verified 30 September 2026 on passpack.com/plans/ and passpack.com/llms.txt, which agree; unchanged since our 25 August, 2, 3 and 6 September readings) Teams is $20 per user per year, paid annual…",
+     "evidence": "(re-verified 30 September 2026 on passpack.com/plans/ and passpack.com/llms.txt, which agree, and again on 17 November 2026 on passpack.com/plans/, when llms.txt returned 404; unchanged since our 25 August, 2, 3 and 6 September readings) Teams is $20 per user per year, paid annually, for teams of up to 20 people.",
+     "evidence_excerpt": "(re-verified 30 September 2026 on passpack.com/plans/ and passpack.com/llms.txt, which agree, and again on 17 November 2026 on passpack.com/plans/, when llms.txt returned 404; unchanged since our 25 …",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-30"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-30",
+   "price_verified_at": "2026-11-17",
    "first_observed_at": null
   },
   {
@@ -4847,7 +4847,7 @@
    "entry_price": "$3.99",
    "entry_price_terms": "per month for 200GB (20% off $4.99), billed $47.88 a year",
    "pricing_status": "public",
-   "price_note": "(read 2026-08-26 over a US connection and re-read 2026-10-16 with USD selected, on proton.me/drive/pricing, Individuals view with yearly billing) Proton Free gives 5 GB. Drive Plus is $3.99 a month for 200 GB, marked 20% off $4.99 and billed at $47.88 every twelve months. Proton Unlimited is $9.99 for 500 GB and folds in the VPN, Mail and Calendar, billed at $119.88 a year. Proton Duo is $14.99 for 2 TB across two users at $179.88 a year, and Proton Family $23.99 for 3 TB and up to six. Teams get Drive Professional at $7.99 per user a month for 1 TB each. The page carries its own currency selector with CHF, EUR and USD, so these are the US default rather than a conversion. The thing worth seeing in that ladder: Drive Plus is the only tier that is storage on its own — every step above it bundles the rest of Proton, so you are buying a suite the moment you need more than 200 GB.",
+   "price_note": "(read 2026-08-26 over a US connection and re-read 2026-10-16 with USD selected, on proton.me/drive/pricing, Individuals view with yearly billing) Proton Free gives 5 GB. Drive Plus is $3.99 a month for 200 GB, marked 20% off $4.99 and billed at $47.88 every twelve months. Proton Unlimited is $9.99 for 500 GB and folds in the VPN, Mail and Calendar, billed at $119.88 a year. Proton Duo is $14.99 for 2 TB across two users at $179.88 a year, and Proton Family $23.99 for 3 TB and up to six. Teams get Drive Professional at $7.99 per user a month for 1 TB each. The page carries its own currency selector with CHF, EUR and USD, so these are the US default rather than a conversion. The thing worth seeing in that ladder: Drive Plus is the only tier that is storage on its own — every step above it bundles the rest of Proton, so you are buying a suite the moment you need more than 200 GB. Re-read 2026-11-17 in USD: the renewal prices are unchanged, but the first year is discounted. Drive Plus shows $2.49 a month, 'Billed at $29.88 for the first 12 months, then renews at $47.88 every 12 months'; Proton Unlimited shows $6.49, billed at $77.88 for the first 12 months, then $119.88. Duo ($14.99, $179.88 every 12 months), Family ($23.99) and Drive Professional ($7.99 per user) carry no first-year cut. The 'Save $30' on Drive Plus is measured against twelve months at the $4.99 monthly price; against the $47.88 renewal the first year saves $18. The page did not say when the offer ends.",
    "flags": [
     {
      "flag": "per_seat",
@@ -4855,7 +4855,15 @@
      "evidence_excerpt": null,
      "source_url": "https://proton.me/drive/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-16"
+     "verified_at": "2026-11-17"
+    },
+    {
+     "flag": "renewal_jump",
+     "evidence": "Drive Plus shows $2.49 a month, 'Billed at $29.88 for the first 12 months, then renews at $47.88 every 12 months'; Proton Unlimited shows $6.49, billed at $77.88 for the first 12 months, then $119.88.",
+     "evidence_excerpt": null,
+     "source_url": "https://proton.me/drive/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-17"
     },
     {
      "flag": "free_tier",
@@ -4863,11 +4871,11 @@
      "evidence_excerpt": null,
      "source_url": "https://proton.me/drive/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-16"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-16",
+   "price_verified_at": "2026-11-17",
    "first_observed_at": "2026-08-26"
   },
   {
