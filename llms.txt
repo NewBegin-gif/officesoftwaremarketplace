@@ -1,6 +1,6 @@
 # Office Software Marketplace
 
-> Independent reviews of office, finance, HR and IT software for small and mid-sized teams. 196 full reviews live here as the canonical version, 60 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-16.
+> Independent reviews of office, finance, HR and IT software for small and mid-sized teams. 198 full reviews live here as the canonical version, 60 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-17.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -93,7 +93,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [FreshBooks](https://officesoftwaremarketplace.com/freshbooks-review.html): tested 2026-09-07
 - [Glide](https://officesoftwaremarketplace.com/glide-review.html): tested 2026-09-07
 
-## Reviews (196) — canonical versions
+## Reviews (198) — canonical versions
 - [1Password Review (2026): No Free Tier, From $3.99/mo Yearly](https://officesoftwaremarketplace.com/1password-review.html): 1Password: Business about $8.99/user/mo (billed annually, $10.99 month-to-month), plus custom Enterprise. For a business, that's usually worth it.
 - [accessiBe Review (2026): Widget Pricing, Free Scanner Tested](https://officesoftwaremarketplace.com/accessibe-review.html) (tested hands-on): accessiBe: $490 is the first figure a visitor sees. The thing you most need to know about this product is not on its pricing page, it is on the FTC’s.
 - [AccuWeb Hosting Review (2026): Cheap VPS That Renews at 2-4x](https://officesoftwaremarketplace.com/accuweb-hosting-review.html): AccuWeb Hosting: VPS Edge is €4.42 a month and renews at €8.91. The money-back guarantee is 7 days, shorter than many hosts offer.
@@ -190,6 +190,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [Jibble Review (Tested 2026): Free Forever, Unlimited Users](https://officesoftwaremarketplace.com/jibble-review.html) (tested hands-on): Jibble: Growth €3.79 annually or €4.99 monthly. Free forever with unlimited users holds up: the plan a new account lands on is Free, €0, with no card.
 - [Joiin Review (Tested): Core, Pro and Max from $28 a Month](https://officesoftwaremarketplace.com/joiin-review.html) (tested hands-on): Joiin: $35 / $42 / $49 for one company, $122 / $130 / $144 for ten and $350 / $371 / $406 for a hundred. The headline now hides a three-way split.
 - [Jubilee Review (2026): $95 a Case or $995 a Year](https://officesoftwaremarketplace.com/jubilee-review.html): Jubilee: Pay As You Go is $95 per case. The case-count tiers are the thing to size correctly: pick 36 vs 300 by your real annual filing volume.
+- [Kinsta Review (2026): Usage-Metered, Checked Oct 2026](https://officesoftwaremarketplace.com/kinsta-review.html): Kinsta: Managed WordPress hosting from $35/mo for a single site, or $30/mo billed annually at $350 a year, with the first month free on top.
 - [Krystal Review (2026): Hosting From £7/mo + VAT, No Teaser Rate](https://officesoftwaremarketplace.com/krystal-review.html): Krystal, All prices below are in pounds and exclude VAT: the site's Include VAT switch is off by default. Krystal does not win on sticker price.
 - [Leavo Review (2026): From $2.50/mo, Tested Oct 2026](https://officesoftwaremarketplace.com/leavo-review.html) (tested hands-on): Leavo: Professional $2.50/user/mo billed yearly ($450 a year for 15 members) or $3/user/mo billed monthly. The tidy per-user numbers are annual-billed
 - [Liltio Review (2026): Local Mac Dictation, $49 Once](https://officesoftwaremarketplace.com/liltio-review.html): Liltio: $49 standard price, with no recurring subscription. Speech recognition is local, but if you switch on a configured remote AI for text transfor
@@ -209,6 +210,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [Ngram Review (Tested 2026): 3,000 Credits Is Five Minutes](https://officesoftwaremarketplace.com/ngram-review.html) (tested hands-on): Ngram: Credit-based, three published tiers plus a quote-only Enterprise, with annual billing 20% off. Premium AI generation runs from 10 credits a sec
 - [Niural AI Review (2026): $100 Platform Fee Plus $20 a Head](https://officesoftwaremarketplace.com/niural-ai-review.html): Niural AI: Eight products, each priced separately. At five employees that is $200 a month, or $40 an employee: double the headline rate.
 - [NordPass Review (2026): €3.99 a Seat, Teams Only in 10-Packs](https://officesoftwaremarketplace.com/nordpass-review.html): NordPass: The Free plan has autosave, autofill and secure storage. Teams is sold only as a 10-user pack and Business and Enterprise have a 5-user mini
+- [NordVPN Review (2026): €3.49/mo, Then €139 on Renewal](https://officesoftwaremarketplace.com/nordvpn-review.html): NordVPN, Read the renewal line before you buy: those same plans renew at €139.08, €219.48 and €338.28 a year. The €3.49 is a two-year introductory rat
 - [Nouswise Review (Tested Nov 2026): Two Prices on One Website](https://officesoftwaremarketplace.com/nouswise-review.html) (tested hands-on): Nouswise: Four tiers, billed monthly. Their own site does not agree with itself about what this costs, and we have now checked that twice.
 - [Oyster Review (2026): Two Costs Have No Figure](https://officesoftwaremarketplace.com/oyster-review.html): Oyster: Employer of Record USD 699 per employee per month, with annual discounts available. The two numbers that decide your bill are not on the price
 - [Pagely Review (2026): Managed WordPress Hosting From $99 a Month](https://officesoftwaremarketplace.com/pagely-review.html): Pagely: StartPress costs $99 a month for 5 WordPress sites, 30 GB SSD storage, 50 GB bandwidth and 150 GB of PressCDN.
