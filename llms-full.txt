@@ -879,8 +879,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Sendcloud
 - Review: https://officesoftwaremarketplace.com/sendcloud-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Sendcloud, Free plan €0/mo: up to 20 parcels a month, no courier contract, no subscription, €0.50 a label beyond that.
-- Price: (price re-verified 2026-09-22 against the vendor's own pricing page, read from a Dutch exit; every subscription, label fee and cap identical to the 31 Aug 2026 reading) Free plan €0/mo: up to 20 parcels a month, no courier contract, no subscription, €0.50 a label beyond that. Paid tiers at the monthly rate: Lite €28/mo + €0.10 per label, Growth €87/mo + €0.09, Premium €175/mo + €0.08, Pro €639/mo + €0.07.
+- Verdict: Sendcloud, Paid tiers at the monthly rate: Lite €28/mo + €0.10 per label, Growth €87/mo + €0.09, Premium €175/mo + €0.08, Pro €639/mo + €0.07.
+- Price: (price re-verified 2026-11-17 against the vendor's own pricing page, read from our EU server, after 2026-09-22 from a Dutch exit; subscriptions, label fees, caps, users and integrations identical to the 31 Aug and 22 Sep 2026 readings; three carrier rates moved, see below) Free plan €0/mo: up to 20 parcels a month, no courier contract, no subscription; on 22 Sep 2026 the comparison table gave €0.50 a label beyond…
 
 ## Sentaro
 - Review: https://officesoftwaremarketplace.com/sentaro-review.html
