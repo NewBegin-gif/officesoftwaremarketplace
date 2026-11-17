@@ -626,7 +626,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## MigrationPro
 - Review: https://officesoftwaremarketplace.com/migrationpro-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "Free to install. Additional charges may apply". What we saw: The listing says free to install with additional charges, the install needed no payment and the free demo migration of 2…
 - Verdict: MigrationPro: The homepage puts a typical store at $49 to $299 on actual record counts. Start with what is no longer there.
 - Price: (re-read 2026-10-05 on apps.shopify.com/migrationpro-shopify-migration-app and migrationpro.io/pricing/) The App Store listing has gone. Read on 5 October 2026 it says “This app is not currently available on the Shopify App Store.
 

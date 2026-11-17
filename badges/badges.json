@@ -406,6 +406,22 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/mera-work-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/mera-work.svg\" width=\"340\" height=\"115\" alt=\"Mera Work hands-on test by Office Software Marketplace, 17 Nov 2026: Vendor claims checked 8; 1 confirmed · 1 contradicted · 1 not comparable · 5 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "migrationpro",
+  "name": "MigrationPro",
+  "review_url": "https://officesoftwaremarketplace.com/migrationpro-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/migrationpro.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#migrationpro",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 6",
+   "2 confirmed · 1 not comparable · 2 not testable · 1 out of date",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "MigrationPro hands-on test by Office Software Marketplace, 17 Nov 2026: Vendor claims checked 6; 2 confirmed · 1 not comparable · 2 not testable · 1 out of date; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/migrationpro-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/migrationpro.svg\" width=\"340\" height=\"115\" alt=\"MigrationPro hands-on test by Office Software Marketplace, 17 Nov 2026: Vendor claims checked 6; 2 confirmed · 1 not comparable · 2 not testable · 1 out of date; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "mindstudio",
   "name": "MindStudio",
   "review_url": "https://officesoftwaremarketplace.com/mindstudio-review.html",
