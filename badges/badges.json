@@ -92,6 +92,22 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/bokun-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/bokun.svg\" width=\"340\" height=\"98\" alt=\"Bokun hands-on test by Office Software Marketplace, 23 Oct 2026: Vendor claims checked 1; 1 confirmed\"></a>"
  },
  {
+  "slug": "bookx",
+  "name": "BookX",
+  "review_url": "https://officesoftwaremarketplace.com/bookx-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/bookx.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#bookx",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 10",
+   "7 confirmed · 1 contradicted · 1 not testable · 1 out of date",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "BookX hands-on test by Office Software Marketplace, 17 Nov 2026: Vendor claims checked 10; 7 confirmed · 1 contradicted · 1 not testable · 1 out of date; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/bookx-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/bookx.svg\" width=\"340\" height=\"115\" alt=\"BookX hands-on test by Office Software Marketplace, 17 Nov 2026: Vendor claims checked 10; 7 confirmed · 1 contradicted · 1 not testable · 1 out of date; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "browse-ai",
   "name": "Browse.ai",
   "review_url": "https://officesoftwaremarketplace.com/browse-ai-review.html",

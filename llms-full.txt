@@ -140,7 +140,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## BookX
 - Review: https://officesoftwaremarketplace.com/bookx-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The plan card and the Shopify approval screen for Starter both show a 14 day trial, ending on 1 Dec., with a total of $5,00 due 1 Dec. The sentence about a test charge was not on the screen, a payment…
 - Verdict: BookX: Business is $19.99 or $199.99 a year (17%) for twenty locations and team members. The free plan is a demonstration rather than a plan.
 - Price: (re-verified 2026-11-02 on apps.shopify.com/appointment-booking-bookeasy; first read 2026-09-08) Every paid tier was halved since our earlier readings, which had Starter at $9.99, Growth at $19.99 and Business at $39.99. Four tiers billed in USD every 30 days, and the meter is locations and team members rather than bookings — every tier, the free one included, carries unlimited bookings.
 
