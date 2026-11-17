@@ -620,7 +620,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Mera Work
 - Review: https://officesoftwaremarketplace.com/mera-work-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The plan page shows INR Annual Billing at 3000 rupees per user per year and INR Monthly Billing at 325 rupees per user per month, with GST of 18% on top, and asks for a GST number, so the dollar prices of…
 - Verdict: Mera Work: In US dollars it is $4 per user a month billed monthly or $3 per user a month billed annually. The price is low and the feature list is long.
 - Price: (read 2026-09-30 on mera.work/pricing, INR and USD tabs, and on mera.work/signup) One plan, priced per user, with every feature included: the page states there are no feature restrictions and no add-ons. In US dollars it is $4 per user a month billed monthly or $3 per user a month billed annually, which the page describes as saving $12 per user a year.
 

@@ -390,6 +390,22 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/leavo-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/leavo.svg\" width=\"340\" height=\"115\" alt=\"Leavo hands-on test by Office Software Marketplace, 31 Oct 2026: Vendor claims checked 4; 2 confirmed · 2 not testable; Data export: file opened, re-import not tested\"></a>"
  },
  {
+  "slug": "mera-work",
+  "name": "Mera Work",
+  "review_url": "https://officesoftwaremarketplace.com/mera-work-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/mera-work.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#mera-work",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 8",
+   "1 confirmed · 1 contradicted · 1 not comparable · 5 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Mera Work hands-on test by Office Software Marketplace, 17 Nov 2026: Vendor claims checked 8; 1 confirmed · 1 contradicted · 1 not comparable · 5 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/mera-work-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/mera-work.svg\" width=\"340\" height=\"115\" alt=\"Mera Work hands-on test by Office Software Marketplace, 17 Nov 2026: Vendor claims checked 8; 1 confirmed · 1 contradicted · 1 not comparable · 5 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "mindstudio",
   "name": "MindStudio",
   "review_url": "https://officesoftwaremarketplace.com/mindstudio-review.html",
