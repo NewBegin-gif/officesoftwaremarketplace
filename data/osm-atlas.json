@@ -3699,7 +3699,7 @@
    "entry_price": "$29",
    "entry_price_terms": "Automated app · a one-time payment rather than a subscription, and a floor…",
    "pricing_status": "public",
-   "price_note": "(re-read 2026-10-05 on apps.shopify.com/migrationpro-shopify-migration-app and migrationpro.io/pricing/) The App Store listing has gone. Read on 5 October 2026 it says “This app is not currently available on the Shopify App Store. If you have support questions, contact Migrationpro, LLC directly.” — no plan block, no install button, no review record — and its reviews page answers 404. On 18 September it still showed one plan, free to install, with the line that pricing is tailored to the entities you migrate and no subscription fees, billed in USD. The vendor's own homepage and pricing page are unchanged and still send every install button to that listing. The numbers live on the vendor's own pricing page, which quotes on your product, customer and order counts. Two routes are sold there, both one-time payments rather than subscriptions. The Automated app plan, where you run the migration yourself, starts at $29 based on store size. The Done-for-you plan, where their team handles mapping, testing and go-live with a dedicated specialist, starts at $300 with every add-on included. Both carry a 30-day guarantee, need no credit card, and begin with a free demo of up to 10 products, customers and orders. What has changed since 23 August is the add-on table: each one now carries a price. 301 redirects, order ID preservation, categories mapped to automated collections and content images are $29 each; customer groups to tags and default stock quantity are $19 each; spam customer detection, active products only and tax-inclusive pricing are $39 each; merging short and long descriptions, generating variants from options and resetting the target store are free. The homepage puts a typical store at $49 to $299 on actual record counts, and the FAQ says most stores finish in one to three hours, with 10,000+ products taking longer but still completing the same day. The app is English-only, migrates from WooCommerce, Wix, Squarespace, BigCommerce, Magento, PrestaShop, OpenCart, Shopware, Etsy, Amazon, CSV and Excel among others, and covers products, customers, orders, collections, images, URLs and 301 redirects, with Smart Sync to re-import data changed during the run. Developer Migrationpro, LLC, Dover, Delaware; the app launched 10 May 2022, and on 18 September 2026, the last time the listing was readable, it carried 186 reviews averaging 5.0 — 181 five-star, 4 four-star and one at a single star. Note that migrationpro.io/pricing without the trailing slash now answers 308.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/migrationpro-shopify-migration-app and in our own test the same day; migrationpro.io/pricing/ read 2026-10-05) The self run migration starts at $29 and the done for you plan at $300, both one time payments, and the Shopify App Store listing is live again with an Install button. On 5 October 2026 the listing read “This app is not currently available on the Shopify App Store”, with no install button and a reviews page that answered 404; on 17 November 2026 it showed one plan again, free to install, with the line that pricing is tailored to the entities you migrate and no subscription fees, billed in USD, and 190 reviews averaging 5.0. In our own test that day the app installed normally, and its checkout for a 2 product demo store quoted $29 as a one time payment, by card through Stripe or by PayPal, outside Shopify billing. The numbers live on the vendor's own pricing page, which quotes on your product, customer and order counts. Two routes are sold there, both one-time payments rather than subscriptions. The Automated app plan, where you run the migration yourself, starts at $29 based on store size. The Done-for-you plan, where their team handles mapping, testing and go-live with a dedicated specialist, starts at $300 with every add-on included. Both carry a 30-day guarantee, need no credit card, and begin with a free demo of up to 10 products, customers and orders. What has changed since 23 August is the add-on table: each one now carries a price. 301 redirects, order ID preservation, categories mapped to automated collections and content images are $29 each; customer groups to tags and default stock quantity are $19 each; spam customer detection, active products only and tax-inclusive pricing are $39 each; merging short and long descriptions, generating variants from options and resetting the target store are free. The homepage puts a typical store at $49 to $299 on actual record counts, and the FAQ says most stores finish in one to three hours, with 10,000+ products taking longer but still completing the same day. The app is English-only, migrates from WooCommerce, Wix, Squarespace, BigCommerce, Magento, PrestaShop, OpenCart, Shopware, Etsy, Amazon, CSV and Excel among others, and covers products, customers, orders, collections, images, URLs and 301 redirects, with Smart Sync to re-import data changed during the run. Developer Migrationpro, LLC, Dover, Delaware; the app launched 10 May 2022, and on 18 September 2026 it carried 186 reviews averaging 5.0, 181 five star, 4 four star and one at a single star; on 17 November 2026 it carried 190, 185 of them five star. Note that migrationpro.io/pricing without the trailing slash now answers 308.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -3707,7 +3707,7 @@
      "evidence_excerpt": null,
      "source_url": "https://migrationpro.io/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-05"
+     "verified_at": "2026-11-17"
     },
     {
      "flag": "addons_extra",
@@ -3715,12 +3715,12 @@
      "evidence_excerpt": "The add-on structure used to be the unknowable part, and as of 18 September 2026 it is not: the pricing page lists every add-on with a price, from $19 to $39, and marks all of them included on the ma…",
      "source_url": "https://migrationpro.io/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-05"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-05",
-   "first_observed_at": "2026-10-05"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "MindStudio",
@@ -5681,7 +5681,7 @@
    "entry_price": "$25",
    "entry_price_terms": "per month (50,000 emails, shared IP)",
    "pricing_status": "public",
-   "price_note": "(price re-verified 24 September 2026, unchanged since 5 September) Fixed-volume plans, all billed monthly: Essential $25 (50,000 emails, shared IP), Starter $80 (100,000, dedicated IP begins here), Growth $300 (500,000), Business $500 (1,000,000). Above that, High Volume Senders is quote-only and starts at a minimum of 250 million emails a month, with a dedicated platform instance, dedicated IP and MTA and no shared mail queue. Reputation Defender and Insight Engine are optional add-ons at 20% of plan cost each, available on all plans. No free tier or published trial. The terms (effective 28 July 2025 for new subscribers) add three things the pricing page leaves out: email above the plan's allowance is charged automatically as a usage fee at a rate the page does not publish, unused allowance does not carry over, and cancelling takes 30 days' notice by phone or by email to support@smtp.com. Payment by card or PayPal. The site is operated by J2 Global Canada, a Ziff Davis company.",
+   "price_note": "(price re-verified 17 November 2026, unchanged since 5 September) Fixed-volume plans, all billed monthly: Essential $25 (50,000 emails, shared IP), Starter $80 (100,000, dedicated IP begins here), Growth $300 (500,000), Business $500 (1,000,000). Above that, High Volume Senders is quote-only and starts at a minimum of 250 million emails a month, with a dedicated platform instance, dedicated IP and MTA and no shared mail queue. Reputation Defender and Insight Engine are optional add-ons at 20% of plan cost each, available on all plans. No free tier or published trial. The terms (effective 28 July 2025 for new subscribers) add three things the pricing page leaves out: email above the plan's allowance is charged automatically as a usage fee at a rate the page does not publish, unused allowance does not carry over, and cancelling takes 30 days' notice by phone or by email to support@smtp.com. Payment by card or PayPal. The site is operated by J2 Global Canada, a Ziff Davis company.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -5689,7 +5689,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-24"
+     "verified_at": "2026-11-17"
     },
     {
      "flag": "addons_extra",
@@ -5697,11 +5697,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-24"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-24",
+   "price_verified_at": "2026-11-17",
    "first_observed_at": null
   },
   {
@@ -5713,27 +5713,27 @@
    "entry_price": "$15",
    "entry_price_terms": "per month or $150/yr for 10,000 emails",
    "pricing_status": "public",
-   "price_note": "(read 2026-09-26 on smtp2go.com/pricing with the volume slider walked through all nine stops; the plan cards carry the amounts in their data-rate-monthly and data-rate-annual attributes) Free: 1,000 emails a month, 200 a day, 5 days of reporting, ticket support only (toll-free phone and live chat limited to 14 days), extra emails not permitted. Starter: $15/mo or $150/year for 10,000 (overage $1.20 per thousand); $30/mo or $300/year for 50,000 ($1 per thousand). Professional: $75/$750 for 100,000 ($0.85), $170/$1,700 for 250,000 ($0.70), $280/$2,800 for 500,000 ($0.60), $520/$5,200 for 1,000,000 ($0.50), and it adds a dedicated IP address and email-testing tools. Premier: custom, over 3,000,000 a month. Annual is exactly ten months' money at every step (their 'two months free'). All invoices are billed in US dollars; EUR, GBP, AUD and NZD are shown as approximations. 30-day money-back promise.",
+   "price_note": "(read 2026-09-26 on smtp2go.com/pricing with the volume slider walked through all nine stops; the plan cards carry the amounts in their data-rate-monthly and data-rate-annual attributes; re-read 2026-11-17 from the plan data embedded in the same page, every amount and overage rate unchanged) Free: 1,000 emails a month, 200 a day, 5 days of reporting, ticket support only (toll-free phone and live chat limited to 14 days), extra emails not permitted. Starter: $15/mo or $150/year for 10,000 (overage $1.20 per thousand); $30/mo or $300/year for 50,000 ($1 per thousand). Professional: $75/$750 for 100,000 ($0.85), $170/$1,700 for 250,000 ($0.70), $280/$2,800 for 500,000 ($0.60), $520/$5,200 for 1,000,000 ($0.50), and it adds a dedicated IP address and email-testing tools. Premier: custom, over 3,000,000 a month. Annual is exactly ten months' money at every step (their 'two months free'). All invoices are billed in US dollars; EUR, GBP, AUD and NZD are shown as approximations. 30-day money-back promise.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "Starter: $15/mo or $150/year for 10,000 (overage $1.20 per thousand); $30/mo or $300/year for 50,000 ($1 per thousand).",
-     "evidence_excerpt": null,
+     "evidence": "(read 2026-09-26 on smtp2go.com/pricing with the volume slider walked through all nine stops; the plan cards carry the amounts in their data-rate-monthly and data-rate-annual attributes; re-read 2026-11-17 from the plan data embedded in the same page, every amount and overage rate unchanged) Free: 1,000 emails a month, 200 a day, 5 days of reporting, ticket support only (toll-free phone and live chat limited to 14 days), extra emails not permitted.",
+     "evidence_excerpt": "(read 2026-09-26 on smtp2go.com/pricing with the volume slider walked through all nine stops; the plan cards carry the amounts in their data-rate-monthly and data-rate-annual attributes; re-read 2026…",
      "source_url": "https://www.smtp2go.com/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-26"
+     "verified_at": "2026-11-17"
     },
     {
      "flag": "free_tier",
-     "evidence": "(read 2026-09-26 on smtp2go.com/pricing with the volume slider walked through all nine stops; the plan cards carry the amounts in their data-rate-monthly and data-rate-annual attributes) Free: 1,000 emails a month, 200 a day, 5 days of reporting, ticket support only (toll-free phone and live chat limited to 14 days), extra emails not permitted.",
-     "evidence_excerpt": "(read 2026-09-26 on smtp2go.com/pricing with the volume slider walked through all nine stops; the plan cards carry the amounts in their data-rate-monthly and data-rate-annual attributes) Free: 1,000 …",
+     "evidence": "(read 2026-09-26 on smtp2go.com/pricing with the volume slider walked through all nine stops; the plan cards carry the amounts in their data-rate-monthly and data-rate-annual attributes; re-read 2026-11-17 from the plan data embedded in the same page, every amount and overage rate unchanged) Free: 1,000 emails a month, 200 a day, 5 days of reporting, ticket support only (toll-free phone and live chat limited to 14 days), extra emails not permitted.",
+     "evidence_excerpt": "(read 2026-09-26 on smtp2go.com/pricing with the volume slider walked through all nine stops; the plan cards carry the amounts in their data-rate-monthly and data-rate-annual attributes; re-read 2026…",
      "source_url": "https://www.smtp2go.com/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-26"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-26",
+   "price_verified_at": "2026-11-17",
    "first_observed_at": "2026-09-26"
   },
   {
@@ -5942,19 +5942,19 @@
    "entry_price": "$65",
    "entry_price_terms": "a month month-to-month, or $45 a month billed annually",
    "pricing_status": "public",
-   "price_note": "(read 2026-09-26 on switcherstudio.com/pricing) Studio is $65 a month month-to-month and $45 on annual billing ('Up to 30% Off'). Suite is $99 month-to-month and $79 annually, and both Suite rates carry a limited-time promotion: $79 for the first month ($20 off, renewing at $99) or $71 a month for the first year ($95 off, renewing at $948 a year). The Studio Seasonal tier we read on 8 September ($55 a month on a three-month commitment) is no longer on the page; in its place is a Studio 7-Day Pass, $35 one-time, with all Studio features for a single event. Fourteen-day trial, no free plan. Subscriptions renew automatically unless cancelled at least 24 hours before the cycle ends, and payments for a previous period are nonrefundable. Monetisation carries no revenue share but $0.99 per transaction. The app runs on Mac and iOS; Android phones can be used as cameras, and there is no Windows version.",
+   "price_note": "(read 2026-09-26 on switcherstudio.com/pricing; re-read 2026-11-17, base prices unchanged) Studio is $65 a month month-to-month and $45 on annual billing ('Up to 30% Off'). Suite is $99 month-to-month and $79 annually, and both Suite rates carry a limited-time promotion: $79 for the first month ($20 off, renewing at $99) or $71 a month for the first year ($95 off, renewing at $948 a year). The Studio Seasonal tier we read on 8 September ($55 a month on a three-month commitment) is no longer on the page; in its place is a Studio 7-Day Pass, $35 one-time, with all Studio features for a single event. On 17 November 2026 the page also ran a holiday deal: 50% off the first year of Studio annual with code HOLIDAY50 before December 15, $270 for the first year, renewing at $540 a year. Fourteen-day trial, no free plan. Subscriptions renew automatically unless cancelled at least 24 hours before the cycle ends, and payments for a previous period are nonrefundable. Monetisation carries no revenue share but $0.99 per transaction. The app runs on Mac and iOS; Android phones can be used as cameras, and there is no Windows version.",
    "flags": [
     {
      "flag": "annual_lock",
-     "evidence": "(read 2026-09-26 on switcherstudio.com/pricing) Studio is $65 a month month-to-month and $45 on annual billing ('Up to 30% Off').",
+     "evidence": "(read 2026-09-26 on switcherstudio.com/pricing; re-read 2026-11-17, base prices unchanged) Studio is $65 a month month-to-month and $45 on annual billing ('Up to 30% Off').",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-26"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-26",
+   "price_verified_at": "2026-11-17",
    "first_observed_at": "2026-09-26"
   },
   {

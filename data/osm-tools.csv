@@ -128,7 +128,7 @@ Lindy.ai,Operations & Workflow,lindy.ai,29.99,per_seat|usage_metered,https://aib
 Lovable,IT & Productivity,lovable.dev,,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/lovable-review/,2026-07,,,see_details,2026-09-26
 Melio,Financial Operations,meliopayments.com,20.0,annual_lock|free_tier,https://aibuildermarketplace.com/b2b/melio-review/,2026-07,$20,per month billed annually ($25 monthly),public,2026-10-07
 Mera Work,HR & People,mera.work,4.0,per_seat,https://aibuildermarketplace.com/b2b/mera-work-review/,2026-07,$4,per month,public,2026-09-30
-MigrationPro,Operations & Workflow,migrationpro.io,,usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/migrationpro-review/,2026-07,$29,"Automated app · a one-time payment rather than a subscription, and a floor…",public,2026-10-05
+MigrationPro,Operations & Workflow,migrationpro.io,,usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/migrationpro-review/,2026-07,$29,"Automated app · a one-time payment rather than a subscription, and a floor…",public,2026-11-17
 MindStudio,IT & Productivity,mindstudio.ai,20.0,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/mindstudio-review/,2026-07,$20,a month plus usage ($16 billed yearly),public,2026-10-05
 Miro,Operations & Workflow,miro.com,8.0,per_seat|usage_metered|free_tier,https://aibuildermarketplace.com/b2b/miro-review/,2026-07,$8,"per member a month, billed annually ($10 billed monthly)",public,2026-11-17
 Modge,HR & People,modge.com,4.0,per_seat|addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/modge-review/,2026-07,$4,Basic · per seat a month billed annually ($5 monthly),public,2026-10-16
@@ -181,7 +181,7 @@ Rippling,HR & People,rippling.com,8.0,per_seat,https://aibuildermarketplace.com/
 Runpod,IT & Productivity,runpod.io,,,https://aibuildermarketplace.com/b2b/runpod-review/,2026-07,$0.27,"RTX A5000 pod, Secure… · per hour, billed per second",public,2026-09-24
 Samsara,Business Operations,samsara.com,,quote_only,https://aibuildermarketplace.com/b2b/samsara-review/,2026-07,,,quote_only,2026-10-10
 SaneBox,Operations & Workflow,sanebox.com,,,https://aibuildermarketplace.com/b2b/sanebox-review/,2026-07,$4.54,Snack… · per month on a two-year prepay ($109 every 2 years),public,2026-09-24
-Sendcloud,Operations & Workflow,sendcloud.com,,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/sendcloud-review/,2026-07,€28,Lite · billed monthly,public,2026-09-22
+Sendcloud,Operations & Workflow,sendcloud.com,,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/sendcloud-review/,2026-07,€28,Lite · billed monthly,public,2026-11-17
 Sentaro,IT & Productivity,sentaro.com,6.0,,https://aibuildermarketplace.com/b2b/sentaro-review/,2026-07,$6,a month per protected account (first account free),public,2026-09-24
 ServiceM8,Operations & Workflow,servicem8.com,,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/servicem8-review/,2026-07,,,see_details,2026-09-19
 Shiftie,Operations & Workflow,shiftie.co,,,https://aibuildermarketplace.com/b2b/shiftie-review/,2026-07,£2.75,per employee per month,public,2026-09-24
@@ -198,8 +198,8 @@ SignThis,IT & Productivity,signthis.pro,8.0,per_seat|free_tier,https://aibuilder
 SimplyBook.me,Operations & Workflow,simplybook.me,,usage_metered|addons_extra|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/simplybook-me-review/,2026-07,€11.90,per month billed annually (€13.90 monthly),public,2026-10-20
 Slasify,HR & People,slasify.com,250.0,,https://aibuildermarketplace.com/b2b/slasify-review/,2026-07,$250,"Employer of Record · per month, starting-at price on the pricing page",public,2026-10-31
 SmartSuite,Operations & Workflow,smartsuite.com,15.0,per_seat,https://aibuildermarketplace.com/b2b/smartsuite-review/,2026-07,$15,"Team, per seat · per seat per month billed annually, with a minimum of 3 billable users",public,2026-11-16
-SMTP.com,IT & Productivity,smtp.com,25.0,usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/smtp-com-review/,2026-07,$25,"per month (50,000 emails, shared IP)",public,2026-09-24
-SMTP2GO,IT & Productivity,smtp2go.com,15.0,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/smtp2go-review/,2026-07,$15,"per month or $150/yr for 10,000 emails",public,2026-09-26
+SMTP.com,IT & Productivity,smtp.com,25.0,usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/smtp-com-review/,2026-07,$25,"per month (50,000 emails, shared IP)",public,2026-11-17
+SMTP2GO,IT & Productivity,smtp2go.com,15.0,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/smtp2go-review/,2026-07,$15,"per month or $150/yr for 10,000 emails",public,2026-11-17
 Softr,IT & Productivity,softr.io,19.0,usage_metered|addons_extra|free_tier,https://aibuildermarketplace.com/b2b/softr-review/,2026-07,$19,"per month billed annually (page opens on the Yearly tab, two months off)",public,2026-10-01
 StoreLock,Security,storelock.app,19.0,,https://aibuildermarketplace.com/b2b/storelock-review/,2026-07,$19,"Premium · per month, 3-day free trial",public,2026-11-12
 Sucuri,IT & Productivity,sucuri.net,,,https://aibuildermarketplace.com/b2b/sucuri-review/,2026-07,$229,"Basic Platform · one website, billed yearly",public,2026-10-27
@@ -207,7 +207,7 @@ Sunsama,Operations & Workflow,sunsama.com,17.0,,https://aibuildermarketplace.com
 SurveyMonkey,Operations & Workflow,surveymonkey.com,30.0,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/surveymonkey-review/,2026-07,$30,"per user a month, billed annually",public,2026-11-12
 Survicate,Operations & Workflow,survicate.com,56.0,usage_metered|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/survicate-review/,2026-07,$56,"Growth (100 responses) · per month, billed annually",public,2026-11-11
 SurvIQ,IT & Productivity,surviqapp.com,9.0,usage_metered|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/surviq-review/,2026-07,$9,"Basic · 1,000 responses a month and 1 user",public,2026-11-10
-Switcher Studio,Operations & Workflow,switcherstudio.com,65.0,annual_lock,https://aibuildermarketplace.com/b2b/switcher-studio-review/,2026-07,$65,"a month month-to-month, or $45 a month billed annually",public,2026-09-26
+Switcher Studio,Operations & Workflow,switcherstudio.com,65.0,annual_lock,https://aibuildermarketplace.com/b2b/switcher-studio-review/,2026-07,$65,"a month month-to-month, or $45 a month billed annually",public,2026-11-17
 Synthesia,Operations & Workflow,synthesia.io,19.0,usage_metered|addons_extra|free_tier,https://aibuildermarketplace.com/b2b/synthesia-review/,2026-07,$19,Starter · billed monthly,public,2026-11-13
 Tax1099,Financial Operations,tax1099.com,,usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/tax1099-review/,2026-07,$249,"a year (multi-user access, 250 free TIN matches)",public,2026-10-12
 TaxCycle,Financial Operations,taxcycle.com,,per_seat|addons_extra,https://aibuildermarketplace.com/b2b/taxcycle-review/,2026-07,C$618,a year,public,2026-10-13
