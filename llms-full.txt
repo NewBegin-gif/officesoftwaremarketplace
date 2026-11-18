@@ -164,7 +164,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## BulkCertPDF
 - Review: https://officesoftwaremarketplace.com/bulkcertpdf-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: Text we checked: "Small "Made with BulkCertPDF" line, no watermark". What we saw: The pricing page says the Free plan has a small Made with BulkCertPDF line and no watermark, and the preview shows a small…
 - Verdict: BulkCertPDF has a Free plan, a one-off Batch Pass and a Pro subscription. We did not check how the hosted verification pages handle personal data.
 - Price: (read 2026-11-18 on bulkcertpdf.com/pricing, US dollars; earlier: read 2026-11-11) BulkCertPDF has a Free plan, a one-off Batch Pass and a Pro subscription. Free costs $0, takes an Excel or CSV upload, includes all 8 designs, your logo and signatures, and covers 25 certificates a month.
 
@@ -1028,7 +1028,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## SurvIQ
 - Review: https://officesoftwaremarketplace.com/surviq-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: The Free plan lists 10 question types, while the question type menu in the editor showed 19 types.
 - Verdict: SurvIQ has a Free plan with 50 responses a month, 1 user and up to 3 active surveys. The free plan allows only 50 responses a month and 3 active surveys.
 - Price: (read 2026-11-18 on surviqapp.com/en, US dollars, and in our own test that day; earlier: read 2026-11-10) SurvIQ has a Free plan with 50 responses a month, 1 user and up to 3 active surveys. The page lists 10 question types on Free; in our test the Free editor offered 19.
 
@@ -1118,7 +1118,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## UserHelp.co
 - Review: https://officesoftwaremarketplace.com/userhelp-co-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: The Responses tab on the free plan says that only the 5 oldest responses are shown and offers a one-time payment to see all of them. The dossier says that Free has unlimited responses.
 - Verdict: UserHelp.co, Basic is free forever: unlimited responses, annotated screenshots, response categories.
 - Price: (read 2026-11-18 on userhelp.co/pricing and in our own test that day; earlier: read 2026-10-17 in a browser; the card shows a $ sign without naming the currency) Two plans, and the page says there are no subscriptions and no per-seat fees. Basic is free forever: unlimited responses, annotated screenshots, response categories, localization and one project, with a UserHelp.co watermark.
 

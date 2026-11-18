@@ -156,6 +156,22 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/bugherd-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/bugherd.svg\" width=\"340\" height=\"115\" alt=\"BugHerd hands-on test by Office Software Marketplace, 24 Oct 2026: Vendor claims checked 1; 1 confirmed; Data export: file opened, re-import not tested\"></a>"
  },
  {
+  "slug": "bulkcertpdf",
+  "name": "BulkCertPDF",
+  "review_url": "https://officesoftwaremarketplace.com/bulkcertpdf-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/bulkcertpdf.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#bulkcertpdf",
+  "tested_on": "2026-11-18",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 5",
+   "1 confirmed · 1 contradicted · 3 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "BulkCertPDF hands-on test by Office Software Marketplace, 18 Nov 2026: Vendor claims checked 5; 1 confirmed · 1 contradicted · 3 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/bulkcertpdf-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/bulkcertpdf.svg\" width=\"340\" height=\"115\" alt=\"BulkCertPDF hands-on test by Office Software Marketplace, 18 Nov 2026: Vendor claims checked 5; 1 confirmed · 1 contradicted · 3 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "claude",
   "name": "Claude",
   "review_url": "https://officesoftwaremarketplace.com/claude-review.html",
@@ -749,6 +765,22 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/surveymonkey-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/surveymonkey.svg\" width=\"340\" height=\"115\" alt=\"SurveyMonkey hands-on test by Office Software Marketplace, 5 Nov 2026: Vendor claims checked 8; 7 confirmed · 1 contradicted; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "surviq",
+  "name": "SurvIQ",
+  "review_url": "https://officesoftwaremarketplace.com/surviq-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/surviq.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#surviq",
+  "tested_on": "2026-11-18",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 6",
+   "1 confirmed · 2 contradicted · 1 not comparable · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "SurvIQ hands-on test by Office Software Marketplace, 18 Nov 2026: Vendor claims checked 6; 1 confirmed · 2 contradicted · 1 not comparable · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/surviq-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/surviq.svg\" width=\"340\" height=\"115\" alt=\"SurvIQ hands-on test by Office Software Marketplace, 18 Nov 2026: Vendor claims checked 6; 1 confirmed · 2 contradicted · 1 not comparable · 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "todoist",
   "name": "Todoist",
   "review_url": "https://officesoftwaremarketplace.com/todoist-review.html",
@@ -793,6 +825,22 @@
   ],
   "alt": "Unleashed Software hands-on test by Office Software Marketplace, 5 Nov 2026: Vendor claims checked 6; 5 confirmed · 1 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/unleashed-software-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/unleashed-software.svg\" width=\"340\" height=\"115\" alt=\"Unleashed Software hands-on test by Office Software Marketplace, 5 Nov 2026: Vendor claims checked 6; 5 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "userhelp-co",
+  "name": "UserHelp.co",
+  "review_url": "https://officesoftwaremarketplace.com/userhelp-co-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/userhelp-co.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#userhelp-co",
+  "tested_on": "2026-11-18",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 6",
+   "3 contradicted · 1 not comparable · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "UserHelp.co hands-on test by Office Software Marketplace, 18 Nov 2026: Vendor claims checked 6; 3 contradicted · 1 not comparable · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/userhelp-co-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/userhelp-co.svg\" width=\"340\" height=\"115\" alt=\"UserHelp.co hands-on test by Office Software Marketplace, 18 Nov 2026: Vendor claims checked 6; 3 contradicted · 1 not comparable · 2 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "videoscribe",
