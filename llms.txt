@@ -1,6 +1,6 @@
 # Office Software Marketplace
 
-> Independent reviews of office, finance, HR and IT software for small and mid-sized teams. 201 full reviews live here as the canonical version, 68 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-18.
+> Independent reviews of office, finance, HR and IT software for small and mid-sized teams. 202 full reviews live here as the canonical version, 68 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-18.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -101,7 +101,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [FreshBooks](https://officesoftwaremarketplace.com/freshbooks-review.html): tested 2026-09-07
 - [Glide](https://officesoftwaremarketplace.com/glide-review.html): tested 2026-09-07
 
-## Reviews (201) — canonical versions
+## Reviews (202) — canonical versions
 - [1Password Review (2026): No Free Tier, From $3.99/mo Yearly](https://officesoftwaremarketplace.com/1password-review.html): 1Password: Business about $8.99/user/mo (billed annually, $10.99 month-to-month), plus custom Enterprise. For a business, that's usually worth it.
 - [accessiBe Review (2026): Widget Pricing, Free Scanner Tested](https://officesoftwaremarketplace.com/accessibe-review.html) (tested hands-on): accessiBe: $490 is the first figure a visitor sees. The thing you most need to know about this product is not on its pricing page, it is on the FTC’s.
 - [AccuWeb Hosting Review (2026): Cheap VPS That Renews at 2-4x](https://officesoftwaremarketplace.com/accuweb-hosting-review.html): AccuWeb Hosting: VPS Edge is €4.42 a month and renews at €8.91. The money-back guarantee is 7 days, shorter than many hosts offer.
@@ -257,6 +257,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [Shippo Review (2026): Pro Is Six Price Bands, Not One](https://officesoftwaremarketplace.com/shippo-review.html): Shippo, Pro is banded by monthly label volume, priced monthly or annually: 1-200 labels $19/mo or $205/yr. The pricing is honest but layered.
 - [Shoeboxed Review (2026): Two Plans Yearly, Two Monthly](https://officesoftwaremarketplace.com/shoeboxed-review.html): Shoeboxed: Starter $97/yr or $9/mo (50 digital scans/mo, 20 paper scans/yr, 1 Magic Envelope/yr, 3 users, 3 years of digital scan storage).
 - [Shopmonkey Review (2026): $215-$449/mo, Payment Fees Unlisted](https://officesoftwaremarketplace.com/shopmonkey-review.html): Shopmonkey, Billed annually, which the page says saves up to 10%: Basic $215 a month, Clever $359, Genius $449. Card processing is part of the product
+- [ShopRaise Workplace Giving Review (2026): Pricing Notes](https://officesoftwaremarketplace.com/shopraise-workplace-giving-review.html): ShopRaise Workplace Giving: ShopRaise sells a single package called All-In at $2 per employee per month. We could not read ShopRaise's own pricing pag
 - [Shore Review (2026): Five Packages, Card Fees Now on Quote](https://officesoftwaremarketplace.com/shore-review.html): Shore: Five packages on two product lines, each with a yearly-billing and a monthly-billing rate a flat EUR 10 apart ('Yearly (Save EUR 120)').
 - [Shortcut Chat Review (2026): Multi-Model AI Chat From $20/mo](https://officesoftwaremarketplace.com/shortcut-chat-review.html): Shortcut Chat: Pro is $20 a month or $216 a year, Pro+ is $40 a month or $432 a year. The usage allowance is the unknown.
 - [ShortlistIQ Review (2026): AI Interviewer From $49 a Month](https://officesoftwaremarketplace.com/shortlistiq-review.html): ShortlistIQ: Every account starts on a free plan for up to 10 applicants, with no credit card.
