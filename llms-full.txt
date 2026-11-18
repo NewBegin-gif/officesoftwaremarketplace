@@ -80,7 +80,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## BackupMaster
 - Review: https://officesoftwaremarketplace.com/backupmaster-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "Exclusively for agencies and developers with partner development stores". What we saw: The Agency Plan says it is exclusively for agencies and developers with partner development stores…
 - Verdict: BackupMaster: Essentials $19 a month or $205.20 a year, a 10% saving, covers stores up to 300 orders a month. The listing header says free to install.
 - Price: (read 2026-08-22 on apps.shopify.com/backup-master) Four tiers, each paid one with a 7-day free trial. Agency is free to install but only for Shopify Partner development stores before they are transferred to a client, with all features enabled for three months.
 
@@ -165,8 +165,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## BulkCertPDF
 - Review: https://officesoftwaremarketplace.com/bulkcertpdf-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: BulkCertPDF has a Free plan, a one-off Batch Pass and a Pro subscription. The free plan adds a watermark and stops at 25 certificates a month.
-- Price: (read 2026-11-11 on bulkcertpdf.com/pricing, US dollars) BulkCertPDF has a Free plan, a one-off Batch Pass and a Pro subscription. Free costs $0, takes an Excel or CSV upload, includes all 8 designs, your logo and signatures, and covers 25 certificates a month with a watermark.
+- Verdict: BulkCertPDF has a Free plan, a one-off Batch Pass and a Pro subscription. We did not check how the hosted verification pages handle personal data.
+- Price: (read 2026-11-18 on bulkcertpdf.com/pricing, US dollars; earlier: read 2026-11-11) BulkCertPDF has a Free plan, a one-off Batch Pass and a Pro subscription. Free costs $0, takes an Excel or CSV upload, includes all 8 designs, your logo and signatures, and covers 25 certificates a month.
 
 ## Bybit
 - Review: https://officesoftwaremarketplace.com/bybit-review.html
@@ -1024,7 +1024,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/surviq-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: SurvIQ has a Free plan with 50 responses a month, 1 user and up to 3 active surveys. The free plan allows only 50 responses a month and 3 active surveys.
-- Price: (read 2026-11-10 on surviqapp.com/en, US dollars) SurvIQ has a Free plan with 50 responses a month, 1 user and up to 3 active surveys. Basic costs $9 a month for 1,000 responses and 1 user, Pro costs $29 a month for 5,000 responses and 3 users, and Business costs $79 a month for 25,000 responses and 10 users.
+- Price: (read 2026-11-18 on surviqapp.com/en, US dollars, and in our own test that day; earlier: read 2026-11-10) SurvIQ has a Free plan with 50 responses a month, 1 user and up to 3 active surveys. The page lists 10 question types on Free; in our test the Free editor offered 19.
 
 ## Switcher Studio
 - Review: https://officesoftwaremarketplace.com/switcher-studio-review.html
@@ -1113,8 +1113,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## UserHelp.co
 - Review: https://officesoftwaremarketplace.com/userhelp-co-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: UserHelp.co, Basic is free forever: unlimited responses, one project, categories. Basic is limited to one project and shows a watermark.
-- Price: (read 2026-10-17 in a browser on userhelp.co/pricing; the card shows a $ sign without naming the currency) Two plans. Basic is free forever: unlimited responses, one project, categories, annotated screenshots and translation into several languages, with a UserHelp.co watermark.
+- Verdict: UserHelp.co, Basic is free forever: unlimited responses, annotated screenshots, response categories.
+- Price: (read 2026-11-18 on userhelp.co/pricing and in our own test that day; earlier: read 2026-10-17 in a browser; the card shows a $ sign without naming the currency) Two plans, and the page says there are no subscriptions and no per-seat fees. Basic is free forever: unlimited responses, annotated screenshots, response categories, localization and one project, with a UserHelp.co watermark.
 
 ## Velora
 - Review: https://officesoftwaremarketplace.com/velora-review.html
