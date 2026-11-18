@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for office, finance and HR software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 255,
-  "flags": 405,
+  "tools": 257,
+  "flags": 408,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on officesoftwaremarketplace.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -1827,6 +1827,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-19",
    "first_observed_at": "2026-08-19"
+  },
+  {
+   "name": "DocHub",
+   "category": "IT & Productivity",
+   "domain": "dochub.com",
+   "review_url": null,
+   "from_price_usd_mo": null,
+   "entry_price": "€8",
+   "entry_price_terms": "Basic · per month, Basic billed yearly, before tax, as the page showed it from a European…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-18 on dochub.com/pricing in a browser and in our own test the same day; from our European connection the page showed euros, and prices are before tax) DocHub has four plans. Free costs €0. Its core features, which are editing existing text, self sign, sending sign requests, templates, envelopes and sharing by link, all draw on one limit of 3 uses a month, next to basic PDF tools, the AI Assistant and the mobile apps; the comparison table also caps Free at 3 folders. Basic is €8 a month billed yearly or €11 billed monthly. It makes self sign, PDF downloads, templates and folders unlimited and adds advanced fillable fields and document attachments, but editing existing text, sign requests and envelopes stay inside the limit of 3 uses a month. Pro is €12 a month billed yearly or €16 billed monthly and makes PDF editing, sign requests and envelopes unlimited, with bulk send, in-person signing and the DocHub Intelligence tools on top. Site License is priced through sales and adds unlimited users, single sign-on, and HIPAA with a BAA available. The yearly switch says it saves 25%, and in an organization each member who needs Pro features is paid for. Pro has a 30-day free trial. At checkout on 18 November 2026 it asked for a card through Stripe and said the first payment of €16.00 would be due on 18 December 2026, plus taxes, unless the trial is cancelled before that date; the yearly Pro checkout showed €12 a month billed as €144 a year. We could not read US dollar prices.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "The free plan's 3 uses a month are shared by editing, self-signing and sign requests, and our test could not show which actions counted.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.dochub.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-18"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-18",
+   "first_observed_at": "2026-11-18"
   },
   {
    "name": "DocSend",
@@ -5459,6 +5483,38 @@
    "first_observed_at": "2026-10-11"
   },
   {
+   "name": "ShopRaise Workplace Giving",
+   "category": "HR & People",
+   "domain": "shopraise.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/shopraise-workplace-giving-review/",
+   "from_price_usd_mo": 2.0,
+   "entry_price": "$2",
+   "entry_price_terms": "per employee per month",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-18 on the G2 pricing tab for ShopRaise Workplace Giving; the listing says the pricing is provided by ShopRaise; prices in US dollars) ShopRaise sells a single package called All-In at $2 per employee per month. G2 says employers pay a per-employee, per-month fee for one all-inclusive package with no separate tiers, add-ons or implementation fees, and that ShopRaise also offers a free trial. G2 also says ShopRaise does not require a company-funded rewards or donation budget, and that final cost negotiations must be conducted with the seller. ShopRaise's own site (wpgiving.shopraise.com) returned a country block from Amazon CloudFront when we tried it, so we could not check the figure on the vendor's own pricing page.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "(read 2026-11-18 on the G2 pricing tab for ShopRaise Workplace Giving; the listing says the pricing is provided by ShopRaise; prices in US dollars) ShopRaise sells a single package called All-In at $2 per employee per month.",
+     "evidence_excerpt": "(read 2026-11-18 on the G2 pricing tab for ShopRaise Workplace Giving; the listing says the pricing is provided by ShopRaise; prices in US dollars) ShopRaise sells a single package called All-In at $…",
+     "source_url": "https://www.g2.com/products/shopraise-workplace-giving/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-18"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "G2 says employers pay a per-employee, per-month fee for one all-inclusive package with no separate tiers, add-ons or implementation fees, and that ShopRaise also offers a free trial.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.g2.com/products/shopraise-workplace-giving/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-18"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-18",
+   "first_observed_at": "2026-11-18"
+  },
+  {
    "name": "Shore",
    "category": "Operations & Workflow",
    "domain": "shore.com",
@@ -6897,14 +6953,14 @@
    "domain": "pdf.wondershare.com",
    "review_url": "https://aibuildermarketplace.com/b2b/wondershare-pdfelement-review/",
    "from_price_usd_mo": null,
-   "entry_price": "$79.99",
-   "entry_price_terms": "Yearly Plan… · per year, V13 launch discount, struck-through price US$129",
+   "entry_price": "$63.99",
+   "entry_price_terms": "Yearly Plan… · per year, Black Friday sale price, struck-through price US$129",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-09 in a browser render of pdf.wondershare.com/store/windows-individuals.html, USD, Windows, individuals, single-platform tab) All three prices are shown as a PDFelement 13 launch discount next to a struck-through list price. The Yearly Plan is US$79.99 a year (list US$129) and renews automatically. The 2-Year Plan is US$109.99 (list US$149) and renews manually. The Perpetual Plan is US$129.99 once (list US$159) for perpetual access to PDFelement 13. Each paid plan includes 20 GB of PDFelement Cloud storage, no watermark and tech support; the yearly and 2-year plans include updates for their term. The comparison table gives every paid plan 50 'trial uses' of the PDF AI and 3 eSign requests; the FAQ has a question about extra charges for AI that we could not read in the render. The free trial without an account allows only create, view, protect and organise and adds a watermark; a registered 14-day trial without a card includes nearly all features but still watermarks saved files. There is a 30-day money-back guarantee. On the same store, the cross-platform individual licences (desktop plus iOS, Android and web) were US$89.99 a year (list US$305), US$119.99 for two years (list US$510) and US$139.99 once (list US$695), with 100 GB of cloud storage instead of 20 GB; on the perpetual licence, mobile and web access is for a limited time. Mac single-platform, team and education prices were not read.",
+   "price_note": "(read 2026-11-18 in a browser on pdf.wondershare.com/store/windows-individuals.html, USD, Windows, individuals, single-platform tab, under a Black Friday banner 'UP TO 84% OFF') All three prices are shown as a sale price next to a struck-through list price. The Yearly Plan is US$63.99 a year (list US$129) and renews automatically. The 2-Year Plan is US$109.99 (list US$149) and renews manually. The Perpetual Plan is US$103.99 once (list US$159) for perpetual access to PDFelement 13. On 9 October 2026 the same tab showed launch prices of US$79.99, US$109.99 and US$129.99, so the Black Friday prices are likely temporary. Each paid plan includes 20 GB of PDFelement Cloud storage, no watermark and tech support; the yearly and 2-year plans include updates for their term. The comparison table gives every paid plan 50 'trial uses' of the PDF AI and 3 eSign requests; the FAQ has a question about extra charges for AI that we could not read in the render. The free trial without an account allows only create, view, protect and organise and adds a watermark; a registered 14-day trial without a card includes nearly all features but still watermarks saved files. There is a 30-day money-back guarantee. On 9 October 2026, the cross-platform individual licences (desktop plus iOS, Android and web) were US$89.99 a year (list US$305), US$119.99 for two years (list US$510) and US$139.99 once (list US$695), with 100 GB of cloud storage instead of 20 GB; on the perpetual licence, mobile and web access is for a limited time. Mac single-platform, team and education prices were not read.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-09",
-   "first_observed_at": "2026-10-09"
+   "price_verified_at": "2026-11-18",
+   "first_observed_at": "2026-11-18"
   },
   {
    "name": "WordPerfect Office",
