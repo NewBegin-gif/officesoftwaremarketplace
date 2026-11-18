@@ -7209,7 +7209,7 @@
    "entry_price": "£166",
    "entry_price_terms": "per month, billed annually",
    "pricing_status": "public",
-   "price_note": "(price re-verified 2026-09-09, re-read unchanged 2026-09-27 and again 2026-10-20 against zedonk.co.uk/pricing; unchanged since our August reading) Modular fashion-ERP, priced per building block and billed annually, all listed as 'prices starting from': PLM £166/mo, ERP Essential £166/mo, B2C £250/mo and B2B £332/mo. The two upper cards read 'All ERP Essential Features PLUS' — Shopify integration and barcode generation on B2C, the B2B digital showroom on B2B — so those tiers contain the ERP rather than sitting on top of it. No self-serve signup: every tier goes through a demo, and the FAQ states the displayed plans are 'merely examples' and that a plan can be changed at any time. Onboarding and training are included in every plan; the FAQ puts implementation cost (customisation, data migration, integrations) in a separate figure quoted in a consultation. The general FAQ puts the floor as 'from as little as £1990 per year', which is the £166 card times twelve, rounded.",
+   "price_note": "(price re-verified 2026-09-09, re-read unchanged 2026-09-27, 2026-10-20 and 2026-11-18 against zedonk.co.uk/pricing; unchanged since our August reading) Modular fashion-ERP, priced per building block and billed annually, all listed as 'prices starting from': PLM £166/mo, ERP Essential £166/mo, B2C £250/mo and B2B £332/mo. The two upper cards read 'All ERP Essential Features PLUS' — Shopify integration and barcode generation on B2C, the B2B digital showroom on B2B — so those tiers contain the ERP rather than sitting on top of it. No self-serve signup: every tier goes through a demo, and the FAQ states the displayed plans are 'merely examples' and that a plan can be changed at any time. Onboarding and training are included in every plan; the FAQ puts implementation cost (customisation, data migration, integrations) in a separate figure quoted in a consultation. The general FAQ puts the floor as 'from as little as £1990 per year', which is the £166 card times twelve, rounded.",
    "flags": [
     {
      "flag": "addons_extra",
@@ -7217,11 +7217,11 @@
      "evidence_excerpt": "The 'starting from' wording is doing real work: £166/mo is the floor of the cheapest module, billed annually, so a working setup for a brand that sells wholesale quickly stacks toward £332/mo and bey…",
      "source_url": "https://zedonk.co.uk/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-20"
+     "verified_at": "2026-11-18"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-20",
+   "price_verified_at": "2026-11-18",
    "first_observed_at": "2026-09-09"
   },
   {
