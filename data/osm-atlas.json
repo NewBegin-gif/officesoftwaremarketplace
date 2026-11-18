@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for office, finance and HR software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 253,
-  "flags": 401,
+  "tools": 255,
+  "flags": 405,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on officesoftwaremarketplace.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -947,20 +947,20 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "see_details",
-   "price_note": "(read 2026-11-11 on bulkcertpdf.com/pricing, US dollars) BulkCertPDF has a Free plan, a one-off Batch Pass and a Pro subscription. Free costs $0, takes an Excel or CSV upload, includes all 8 designs, your logo and signatures, and covers 25 certificates a month with a watermark. The Batch Pass costs $19 once and covers up to 500 certificates without a watermark; it gives 7 days of access and is not a subscription. Pro costs $29 a month or $199 a year, shown as $16.58 a month and a 43% saving, and allows unlimited certificates and batches without a watermark; the page says you can cancel any time. The page shows a 14-day money-back guarantee and secure checkout by Lemon Squeezy, and says taxes are calculated at checkout where they apply.",
+   "price_note": "(read 2026-11-18 on bulkcertpdf.com/pricing, US dollars; earlier: read 2026-11-11) BulkCertPDF has a Free plan, a one-off Batch Pass and a Pro subscription. Free costs $0, takes an Excel or CSV upload, includes all 8 designs, your logo and signatures, and covers 25 certificates a month. Free certificates carry a small 'Made with BulkCertPDF' line, which the page says is not a watermark; lists bigger than your remaining allowance show a watermarked preview until you buy a pass. The Batch Pass costs $19 once and covers up to 500 certificates without a watermark; it gives 7 days of access and is not a subscription. Pro costs $29 a month or $199 a year, shown as $16.58 a month and a 43% saving, and allows unlimited certificates and batches without a watermark; the page says you can cancel any time. The page shows a 14-day money-back guarantee and secure checkout by Lemon Squeezy, and says taxes are calculated at checkout where they apply.",
    "flags": [
     {
      "flag": "free_tier",
-     "evidence": "(read 2026-11-11 on bulkcertpdf.com/pricing, US dollars) BulkCertPDF has a Free plan, a one-off Batch Pass and a Pro subscription.",
+     "evidence": "(read 2026-11-18 on bulkcertpdf.com/pricing, US dollars; earlier: read 2026-11-11) BulkCertPDF has a Free plan, a one-off Batch Pass and a Pro subscription.",
      "evidence_excerpt": null,
      "source_url": "https://bulkcertpdf.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-11"
+     "verified_at": "2026-11-18"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-11",
-   "first_observed_at": "2026-11-11"
+   "price_verified_at": "2026-11-18",
+   "first_observed_at": "2026-11-18"
   },
   {
    "name": "Bybit",
@@ -2974,6 +2974,46 @@
    "first_observed_at": "2026-10-18"
   },
   {
+   "name": "HOL Guard",
+   "category": "Security",
+   "domain": "hol.org",
+   "review_url": "https://aibuildermarketplace.com/b2b/hol-guard-review/",
+   "from_price_usd_mo": 4.99,
+   "entry_price": "$4.99",
+   "entry_price_terms": "Solo · per month",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-18 on hol.org/guard/pricing, US dollars, monthly view; annual billing is shown as 2 months free) Free: $0 forever, local protection, no account or card. Solo: $4.99 a month, 2 cloud devices, 30 days retention, 1 GB. Pro: $15 a month, 5 devices, 180 days, 5 GB, real-time alerts. Team: $30 per seat a month, up to 25 devices, 365 days. Enterprise: contact sales. We have not paid for a plan.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "Team: $30 per seat a month, up to 25 devices, 365 days.",
+     "evidence_excerpt": null,
+     "source_url": "https://hol.org/guard/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-18"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "(read 2026-11-18 on hol.org/guard/pricing, US dollars, monthly view; annual billing is shown as 2 months free) Free: $0 forever, local protection, no account or card.",
+     "evidence_excerpt": null,
+     "source_url": "https://hol.org/guard/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-18"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "(read 2026-11-18 on hol.org/guard/pricing, US dollars, monthly view; annual billing is shown as 2 months free) Free: $0 forever, local protection, no account or card.",
+     "evidence_excerpt": null,
+     "source_url": "https://hol.org/guard/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-18"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-18",
+   "first_observed_at": "2026-11-18"
+  },
+  {
    "name": "Hopp",
    "category": "IT & Productivity",
    "domain": "gethopp.com",
@@ -3633,6 +3673,38 @@
    "researched": "2026-07",
    "price_verified_at": "2026-09-26",
    "first_observed_at": "2026-09-26"
+  },
+  {
+   "name": "Make",
+   "category": "Operations & Workflow",
+   "domain": "make.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/make-review/",
+   "from_price_usd_mo": 15.0,
+   "entry_price": "$15",
+   "entry_price_terms": "Core · per month at 10,000 credits",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-18 on make.com/pricing, US dollars a month, credit slider at 10,000 credits) Free: $0, 1,000 credits a month, 15-minute minimum interval. Core: $15 ($11 a month billed yearly). Pro: $26 ($20 billed yearly). Teams: $47 ($36 billed yearly). Enterprise: custom. Prices change with the credit slider. We have not paid for a plan.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "(read 2026-11-18 on make.com/pricing, US dollars a month, credit slider at 10,000 credits) Free: $0, 1,000 credits a month, 15-minute minimum interval.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.make.com/en/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-18"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "(read 2026-11-18 on make.com/pricing, US dollars a month, credit slider at 10,000 credits) Free: $0, 1,000 credits a month, 15-minute minimum interval.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.make.com/en/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-18"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-18",
+   "first_observed_at": "2026-11-18"
   },
   {
    "name": "Melio",
@@ -5007,23 +5079,15 @@
    "entry_price": "$10",
    "entry_price_terms": "per seat a month billed yearly ($12 monthly)",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-03 on their own pricing page, USD) Four levels, and the page keeps both billing terms in the markup rather than recomputing them. Lite is free forever for a single user. Billed yearly the seats are Starter $10, Business $15 and Enterprise $22 per seat a month; billed monthly Starter is $12 and Business $18, and the monthly column prints no Enterprise figure at all. Enterprise carrying a list price is new here — we described it as quote-only until this reading, and Business had no number in our dossier at all. Seats are capped by tier rather than open: 1 user on Lite, up to 10 on Starter, up to 100 on Business and over 100 on Enterprise, with the AI-agent allowance per seat stepping 5, 10, 100 and unlimited beside them. The mechanism most reviews miss is Attendee Units, and it survives this redesign even though the plan cards no longer mention it. AUs are attendees without a paid Reclaim seat in Smart Meetings of 3 or more people (two-person meetings do not need them), and they accumulate across a team account. Extra AUs are bought in packs on top of the seat, and the packs follow the same two terms. On yearly billing Starter packs run $8 for 3, $16 for 6, $24 for 9 and $32 for 12, and Business $12 for 6, $24 for 12, $36 for 18 and $48 for 24; billed monthly those become $10/$20/$30/$40 and $15/$30/$45/$60. Enterprise packs are $18 for 10, $36 for 20, $54 for 30 and $72 for 40 on either term. Each extra pack also includes a free seat of the same tier to assign to a team member: a Starter seat with every 3-pack, a Business seat with every 6-pack and an Enterprise seat with every 10-pack. If you schedule across people who do not have seats, the AU packs rather than the seat price are what determines your bill. One caveat on that arithmetic: the page still carries a launch-promo line saying AUs are 100% free through July 31st, a date that has passed, so confirm at checkout whether the packs are billing yet. Discount codes appear periodically; on 14 September a banner offered 30% off Starter and Business to new users, and on 3 October 2026 it read \"20% off with code MEETINGS\".",
+   "price_note": "(read 2026-11-18 on reclaim.ai/pricing, USD, and in our own test that day; earlier: re-verified 2026-10-03) Four levels, and the page keeps both billing terms in the markup rather than recomputing them. Lite is free forever for a single user. Billed yearly the seats are Starter $10, Business $15 and Enterprise $22 per seat a month; billed monthly Starter is $12 and Business $18, and the monthly column marks Enterprise 'Unavailable on monthly plans'. Seats are capped by tier rather than open: 1 user on Lite, up to 10 on Starter, up to 100 on Business and over 100 on Enterprise, with the AI-agent allowance per seat stepping 5, 10, 100 and unlimited beside them. Calendar Syncs are counted per plan: 1 on Lite, 3 on Starter and unlimited from Business. In our test on 18 November 2026 the app showed Unlimited Calendar Syncs on Starter, and on Lite the 'Add a sync' button carried a STARTER label, so check the count in your own account. The Attendee Unit packs are no longer shown: on 18 November 2026 the page showed neither the AU packs nor the '20% off with code MEETINGS' banner. Both are still in the page code but hidden, so we no longer count either as part of the price. Our October reading listed AU packs from $8 for 3 on Starter, for attendees without a paid seat in Smart Meetings of 3 or more. The page now lists four discounts you apply for: Student 50% for 12 months (students, educators and faculty), Nonprofit 20% for 3 years, Startup 20% for 3 years, and Switching Providers 20% for 6 months when you move from Clockwise, Motion or Calendly. The site now carries a Dropbox Reclaim logo (alt text 'Reclaim.ai from Dropbox').",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "Billed yearly the seats are Starter $10, Business $15 and Enterprise $22 per seat a month; billed monthly Starter is $12 and Business $18, and the monthly column prints no Enterprise figure at all.",
-     "evidence_excerpt": null,
+     "evidence": "Billed yearly the seats are Starter $10, Business $15 and Enterprise $22 per seat a month; billed monthly Starter is $12 and Business $18, and the monthly column marks Enterprise 'Unavailable on monthly plans'.",
+     "evidence_excerpt": "Billed yearly the seats are Starter $10, Business $15 and Enterprise $22 per seat a month; billed monthly Starter is $12 and Business $18, and the monthly column marks Enterprise 'Unavailable on mont…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-03"
-    },
-    {
-     "flag": "addons_extra",
-     "evidence": "Extra AUs are bought in packs on top of the seat, and the packs follow the same two terms.",
-     "evidence_excerpt": null,
-     "source_url": null,
-     "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-03"
+     "verified_at": "2026-11-18"
     },
     {
      "flag": "free_tier",
@@ -5031,12 +5095,12 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-03"
+     "verified_at": "2026-11-18"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-03",
-   "first_observed_at": "2026-10-03"
+   "price_verified_at": "2026-11-18",
+   "first_observed_at": "2026-11-18"
   },
   {
    "name": "Recruit CRM",
@@ -5911,7 +5975,7 @@
    "entry_price": "$9",
    "entry_price_terms": "Basic · 1,000 responses a month and 1 user",
    "pricing_status": "public",
-   "price_note": "(read 2026-11-10 on surviqapp.com/en, US dollars) SurvIQ has a Free plan with 50 responses a month, 1 user and up to 3 active surveys. Basic costs $9 a month for 1,000 responses and 1 user, Pro costs $29 a month for 5,000 responses and 3 users, and Business costs $79 a month for 25,000 responses and 10 users. Until 31 December the page shows 33% off the monthly plans for the first 3 months ($6.03, $19.43 and $52.93), applied at checkout with no code; those are introductory prices, so plan on the full monthly price after that. The page also advertises 2 months free on annual billing, but we did not see the annual amounts. If you do not want a subscription, prepaid credits run from $5 for 100 responses to $79 for 5,000 responses and never expire, and you can buy a tier once: Basic for $45 or Pro for $145, each with a monthly response quota. A Thesis Pass costs US$19, shown at US$9.50 until 31 December, for 12 months and one project. The page says you can try Pro free for 7 days. We did not open checkout, so the tax added is not known.",
+   "price_note": "(read 2026-11-18 on surviqapp.com/en, US dollars, and in our own test that day; earlier: read 2026-11-10) SurvIQ has a Free plan with 50 responses a month, 1 user and up to 3 active surveys. The page lists 10 question types on Free; in our test the Free editor offered 19. Basic costs $9 a month ($7 a month billed yearly) for 1,000 responses and 1 user, Pro costs $29 a month ($23 billed yearly) for 5,000 responses and 3 users, and Business costs $79 a month ($63 billed yearly) for 25,000 responses and 10 users. The yearly figures are what the page shows behind its Annual toggle ('2 months free'). Business carries a Contact sales button rather than a checkout, and in our test on 18 November 2026 the app marked it Coming soon. Until 31 December the page shows 33% off the monthly plans for the first 3 months ($6.03, $19.43 and $52.93), applied at checkout with no code; those are introductory prices, so plan on the full monthly price after that. If you do not want a subscription, prepaid credits run from $5 for 100 responses to $79 for 5,000 responses and never expire, and you can buy a tier once: Basic for $45 or Pro for $145, each with a monthly response quota. A Thesis Pass costs US$19, shown at US$9.50 until 31 December, for 12 months and one project. The page says you can try Pro free for 7 days. We did not open checkout, so the tax added is not known.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -5919,28 +5983,20 @@
      "evidence_excerpt": "If you do not want a subscription, prepaid credits run from $5 for 100 responses to $79 for 5,000 responses and never expire, and you can buy a tier once: Basic for $45 or Pro for $145, each with a m…",
      "source_url": "https://surviqapp.com/en",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-10"
-    },
-    {
-     "flag": "annual_lock",
-     "evidence": "The page also advertises 2 months free on annual billing, but we did not see the annual amounts.",
-     "evidence_excerpt": null,
-     "source_url": "https://surviqapp.com/en",
-     "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-10"
+     "verified_at": "2026-11-18"
     },
     {
      "flag": "free_tier",
-     "evidence": "(read 2026-11-10 on surviqapp.com/en, US dollars) SurvIQ has a Free plan with 50 responses a month, 1 user and up to 3 active surveys.",
+     "evidence": "(read 2026-11-18 on surviqapp.com/en, US dollars, and in our own test that day; earlier: read 2026-11-10) SurvIQ has a Free plan with 50 responses a month, 1 user and up to 3 active surveys.",
      "evidence_excerpt": null,
      "source_url": "https://surviqapp.com/en",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-10"
+     "verified_at": "2026-11-18"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-10",
-   "first_observed_at": "2026-11-10"
+   "price_verified_at": "2026-11-18",
+   "first_observed_at": "2026-11-18"
   },
   {
    "name": "Switcher Studio",
@@ -6685,20 +6741,28 @@
    "entry_price": "$59",
    "entry_price_terms": "Pro · one-time payment, use on as many sites as you need, no watermark",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-17 in a browser on userhelp.co/pricing; the card shows a $ sign without naming the currency) Two plans. Basic is free forever: unlimited responses, one project, categories, annotated screenshots and translation into several languages, with a UserHelp.co watermark. Pro is $59 one-time: use on as many sites as you need, no watermark, team collaboration, error-log inspection, the browser's technical details, email chat with users, public discussion forums and recording and replaying user sessions. The pricing page does not say how many team members Pro includes, how long session recordings are kept, or how long one-time access lasts, and neither it nor the terms of service (dated 4 April 2024) state a refund rule.",
+   "price_note": "(read 2026-11-18 on userhelp.co/pricing and in our own test that day; earlier: read 2026-10-17 in a browser; the card shows a $ sign without naming the currency) Two plans, and the page says there are no subscriptions and no per-seat fees. Basic is free forever: unlimited responses, annotated screenshots, response categories, localization and one project, with a UserHelp.co watermark. Pro is $59 one-time: use on as many sites as you need, no watermark, team collaboration, error logs, the browser's technical details, email replies to users, public forums and session recordings. The pricing page does not say how many team members Pro includes, how long session recordings are kept, or how long one-time access lasts, and neither it nor the terms of service (dated 4 April 2024, read in October) state a refund rule. In our test on 18 November 2026 the free plan showed only the 5 oldest responses ('Only the 5 oldest responses are shown'), so Basic collects responses without showing them all; the app also treated categories as a Pro feature although the pricing page lists them on Basic, and it offered an Email add-on with no price shown.",
    "flags": [
     {
+     "flag": "addons_extra",
+     "evidence": "In our test on 18 November 2026 the free plan showed only the 5 oldest responses ('Only the 5 oldest responses are shown'), so Basic collects responses without showing them all; the app also treated categories as a Pro feature although the pricing page lists them on Basic, and it offered an Email add-on with no price shown.",
+     "evidence_excerpt": "In our test on 18 November 2026 the free plan showed only the 5 oldest responses ('Only the 5 oldest responses are shown'), so Basic collects responses without showing them all; the app also treated …",
+     "source_url": "https://www.userhelp.co/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-18"
+    },
+    {
      "flag": "free_tier",
-     "evidence": "Basic is free forever: unlimited responses, one project, categories, annotated screenshots and translation into several languages, with a UserHelp.co watermark.",
+     "evidence": "Basic is free forever: unlimited responses, annotated screenshots, response categories, localization and one project, with a UserHelp.co watermark.",
      "evidence_excerpt": null,
      "source_url": "https://www.userhelp.co/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-17"
+     "verified_at": "2026-11-18"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-17",
-   "first_observed_at": "2026-10-17"
+   "price_verified_at": "2026-11-18",
+   "first_observed_at": "2026-11-18"
   },
   {
    "name": "VEA",
