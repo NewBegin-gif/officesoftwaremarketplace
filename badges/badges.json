@@ -594,6 +594,22 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/pdfdodo-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/pdfdodo.svg\" width=\"340\" height=\"115\" alt=\"Pdfdodo hands-on test by Office Software Marketplace, 6 Nov 2026: Vendor claims checked 11; 10 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "petty-cash-manager",
+  "name": "Petty Cash Manager",
+  "review_url": "https://officesoftwaremarketplace.com/petty-cash-manager-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/petty-cash-manager.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#petty-cash-manager",
+  "tested_on": "2026-11-18",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 15",
+   "7 confirmed · 1 contradicted · 7 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Petty Cash Manager hands-on test by Office Software Marketplace, 18 Nov 2026: Vendor claims checked 15; 7 confirmed · 1 contradicted · 7 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/petty-cash-manager-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/petty-cash-manager.svg\" width=\"340\" height=\"115\" alt=\"Petty Cash Manager hands-on test by Office Software Marketplace, 18 Nov 2026: Vendor claims checked 15; 7 confirmed · 1 contradicted · 7 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "planday",
   "name": "Planday",
   "review_url": "https://officesoftwaremarketplace.com/planday-review.html",
@@ -903,5 +919,37 @@
   ],
   "alt": "xTiles hands-on test by Office Software Marketplace, 21 Oct 2026: No claim or export checks recorded",
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/xtiles-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/xtiles.svg\" width=\"340\" height=\"81\" alt=\"xTiles hands-on test by Office Software Marketplace, 21 Oct 2026: No claim or export checks recorded\"></a>"
+ },
+ {
+  "slug": "zapier",
+  "name": "Zapier",
+  "review_url": "https://officesoftwaremarketplace.com/zapier-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/zapier.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#zapier",
+  "tested_on": "2026-11-18",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 14",
+   "6 confirmed · 1 contradicted · 3 not comparable · 4 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Zapier hands-on test by Office Software Marketplace, 18 Nov 2026: Vendor claims checked 14; 6 confirmed · 1 contradicted · 3 not comparable · 4 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/zapier-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/zapier.svg\" width=\"340\" height=\"115\" alt=\"Zapier hands-on test by Office Software Marketplace, 18 Nov 2026: Vendor claims checked 14; 6 confirmed · 1 contradicted · 3 not comparable · 4 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "zastech",
+  "name": "zastech",
+  "review_url": "https://officesoftwaremarketplace.com/zastech-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/zastech.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#zastech",
+  "tested_on": "2026-11-18",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 13",
+   "6 confirmed · 1 not comparable · 6 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "zastech hands-on test by Office Software Marketplace, 18 Nov 2026: Vendor claims checked 13; 6 confirmed · 1 not comparable · 6 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/zastech-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/zastech.svg\" width=\"340\" height=\"115\" alt=\"zastech hands-on test by Office Software Marketplace, 18 Nov 2026: Vendor claims checked 13; 6 confirmed · 1 not comparable · 6 not testable; Data export: route checked, file not opened\"></a>"
  }
 ]

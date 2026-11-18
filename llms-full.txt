@@ -794,7 +794,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Petty Cash Manager
 - Review: https://officesoftwaremarketplace.com/petty-cash-manager-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: The app opened with Free trial: 14 days left and no card, account or e-mail address was asked; the setup form and sample data came straight after.
 - Verdict: Petty Cash Manager: 3 months is $16.99 ($5.66 a month) on 3 devices. Without the Cloud sync add-on, your records live in the browser on each device.
 - Price: (read 2026-11-02 on pettycash.getdailytools.com, pricing section and FAQ; the page says prices are in US dollars, with VAT or GST added at checkout where your country requires it) Petty Cash Manager has one app and four ways to pay, and every plan includes every feature. The difference is the billing term and the number of devices: Monthly is $7 a month on 2 devices; 3 months is $16.99 ($5.66 a month) on 3…
 
@@ -1202,13 +1202,13 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Zapier
 - Review: https://officesoftwaremarketplace.com/zapier-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: The Copilot said the form was titled with three required fields but only set the title. The fields name, email and type were added by hand, about 12 clicks with a few failed tries, because the label was…
 - Verdict: Zapier: Free costs $0 and includes unlimited Zaps, Tables and Forms, two-step Zaps and 100 tasks a month. Free allows only two-step Zaps.
 - Price: (read 2026-11-16 on zapier.com/pricing, US dollars a month) Zapier connects apps with automations called Zaps. Free costs $0 and includes unlimited Zaps, Tables and Forms, two-step Zaps and 100 tasks a month.
 
 ## zastech
 - Review: https://officesoftwaremarketplace.com/zastech-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: Text we checked: "No account required". What we saw: Both the Invoice Maker and the PDF Redactor ran in the browser without signing in; no e-mail address, phone number, password or card was asked at any…
 - Verdict: zastech: Invoice Maker, Proposal Builder and Client Report Builder are free forever with a small zastech footer.
 - Price: (read 2026-11-15 on zastech.dev/pricing, US dollars) zastech sells small browser tools and developer APIs. Invoice Maker, Proposal Builder and Client Report Builder are free forever with a small zastech footer, and removing it costs a one-time $9, $15 and $19.
 
