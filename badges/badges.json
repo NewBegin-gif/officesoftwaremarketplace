@@ -482,6 +482,22 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/nouswise-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/nouswise.svg\" width=\"340\" height=\"115\" alt=\"Nouswise hands-on test by Office Software Marketplace, 13 Nov 2026: Vendor claims checked 4; 2 confirmed · 1 contradicted · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "passpack",
+  "name": "Passpack",
+  "review_url": "https://officesoftwaremarketplace.com/passpack-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/passpack.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#passpack",
+  "tested_on": "2026-11-13",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 3",
+   "1 confirmed · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Passpack hands-on test by Office Software Marketplace, 13 Nov 2026: Vendor claims checked 3; 1 confirmed · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/passpack-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/passpack.svg\" width=\"340\" height=\"115\" alt=\"Passpack hands-on test by Office Software Marketplace, 13 Nov 2026: Vendor claims checked 3; 1 confirmed · 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "pcloud",
   "name": "pCloud",
   "review_url": "https://officesoftwaremarketplace.com/pcloud-review.html",
