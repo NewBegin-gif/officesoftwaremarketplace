@@ -224,7 +224,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Clutch
 - Review: https://officesoftwaremarketplace.com/clutch-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: The Featured cards ignore the hourly rate filter: the first card, Funnel Boost Media, shows $50 - $99 / hr under the filter $25 - $49. The dossier does not say that Featured cards skip the filters.
 - Verdict: Clutch's help centre describes the Project Brief as the buyer's route in. Your brief goes straight to agencies who will reach out to pitch you.
 - Price: (re-verified 2026-10-02 and again on 2026-10-06, read in their own help centre) Free for buyers. Clutch's help centre describes the Project Brief as the buyer's route in, and the article on sending one states that Clutch recommends up to 9 service providers that best match your project requirements, with no fee named anywhere in that flow.
 
@@ -422,7 +422,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Flippa
 - Review: https://officesoftwaremarketplace.com/flippa-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: Text we checked: "Entry $29". What we saw: The pricing page shows Entry at $29 for a sub-$10K asset with a 10% success fee. The term line was partly covered by the cookie banner and only the end of the…
 - Verdict: Flippa: From $50K it is $129, $399 or $699. The real cost is the success fee, and it's a flat bracket rate on the whole sale price, not marginal.
 - Price: (re-verified 2026-09-03 on their own pricing page, USD, and unchanged band by band on 2026-09-29) Sellers pay an upfront listing fee plus a success fee when the business sells, and BOTH change with the asking-price band. The success fee is 10% on every band up to $499.9K, then 9% from $500K, 8% from $1M, 7% from $5M, 6% from $10M and 5% at $50M+.
 
@@ -627,7 +627,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Melio
 - Review: https://officesoftwaremarketplace.com/melio-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Melio: A free Go plan, $0 forever, with 5 free ACH payments a month and $0.50 for each one after that. The free plan is useful for low bill volume.
+- Verdict: Melio's Go plan is $0 with 5 free ACH payments a month, then $0.50 each. Core is $25/mo ($20 yearly) with 20 free ACH, and card payments cost 2.9%.
 - Price: (re-verified 2026-08-17 and 2026-10-07 on their own pricing page) A free Go plan, $0 forever, with 5 free ACH payments a month and $0.50 for each one after that. Core is $25/mo, or $20 billed annually, with 20 free ACH a month; Boost $55/mo, or $44 annually, with 50 free ACH; Unlimited $80/mo, or $64 annually, with unlimited users.
 
 ## Mera Work
@@ -926,7 +926,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Shiftie
 - Review: https://officesoftwaremarketplace.com/shiftie-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: The dashboard of the trial says You have 28 days left on your trial.
 - Verdict: Shiftie: £2.75 per active employee per month for the first 30, then £1.50 for each employee above 30, the reduced rate is marginal, not retroactive.
 - Price: (price re-verified 24 September 2026, unchanged since 5 September) £2.75 per active employee per month for the first 30, then £1.50 for each employee above 30 — the reduced rate is marginal, not retroactive. Measured on the vendor's own pricing slider: 1 employee £2.75, 5 £13.75, 10 £27.50, 15 £41.25, 30 £82.50, 31 £84.00, 50 £112.50, 100 £187.50, 150 £262.50, 199 £336.00.
 
@@ -1034,7 +1034,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Sunsama
 - Review: https://officesoftwaremarketplace.com/sunsama-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: Settings, Billing shows Sunsama Free Trial, 1 seat, 14 days remaining, and the upgrade page says Your trial ends Thursday, Dec 3.
 - Verdict: Sunsama: The plan card says $17 a month billed yearly, or $22 billed monthly, for the Pro plan, with unlimited usage and integrations.
 - Price: (2026-08-30, re-read on their own pricing page from a US exit) The page gives two different numbers and it is worth knowing both. The plan card says $17 a month billed yearly, or $22 billed monthly, for the Pro plan, with unlimited usage and integrations; Enterprise is quote-only.
 
@@ -1172,7 +1172,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## World Businesses for Sale
 - Review: https://officesoftwaremarketplace.com/world-businesses-for-sale-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: The home page says from GBP 39 a month, but the plan page shows GBP 49 for Basic and 6-Month Plans from GBP 24.50/month. GBP 39 is not a price on the plan page and not in the dossier.
 - Verdict: World Businesses for Sale: Browsing is free for buyers. If you want no commission at all, the pay-as-you-go plans start at £49 a month.
 - Price: (2026, re-verified 2026-11-15 on their own store and selling pages) Browsing is free for buyers. Sellers pick one of two tracks.
 
