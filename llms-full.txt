@@ -231,7 +231,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## CO2 Impact
 - Review: https://officesoftwaremarketplace.com/co2-impact-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: CO2 Impact: Basic is £468 a year (£39.00 a month) for 1 user and 1 operational site. Every licence is a 12-month commitment.
+- Verdict: CO2 Impact: Essentials is £369 a year (£30.75 a month) for 2 users and 2 sites. Every licence is a 12-month commitment.
 - Price: (read 2026-11-19 in the pricing section of co2impact.co.uk's homepage, GBP; the vendor's own llms.txt lists the same three plans) Essentials is £369 a year (£30.75 a month) for 2 users and 2 sites. Professional is £749 a year (£62.42 a month) for 10 users and 5 sites.
 
 ## Compliancely
