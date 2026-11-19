@@ -231,8 +231,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## CO2 Impact
 - Review: https://officesoftwaremarketplace.com/co2-impact-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: CO2 Impact: Essentials is £369 a year (£30.75 a month) for 2 users and 2 sites. Every licence is a 12-month commitment.
-- Price: (read 2026-11-19 in the pricing section of co2impact.co.uk's homepage, GBP; the vendor's own llms.txt lists the same three plans) Essentials is £369 a year (£30.75 a month) for 2 users and 2 sites. Professional is £749 a year (£62.42 a month) for 10 users and 5 sites.
+- Verdict: CO2 Impact: Basic is £348 a year (£29.00 a month) for 1 user and 1 site. Every licence is a 12-month commitment, monthly payment included.
+- Price: (read 2026-11-19 in the pricing section of co2impact.co.uk's homepage, GBP, excluding VAT) Basic is £348 a year (£29.00 a month) for 1 user and 1 site. Professional is £549 a year (£45.75 a month) for 2 users and 5 sites.
 
 ## Compliancely
 - Review: https://officesoftwaremarketplace.com/compliancely-review.html
@@ -434,7 +434,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Foxit
 - Review: https://officesoftwaremarketplace.com/foxit-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: In the web editor the trial offer behind Edit Text has a Free Trial button that opened the desktop downloads page for Foxit PDF Editor+. No trial could be started in the browser, so on the web route the…
 - Verdict: Foxit: PDF Editor+ is $159.99 per user per year or $13.99 per user per month. Foxit's pitch is being the honest fraction of Acrobat's price.
 - Price: (re-verified 2026-09-22 on the Foxit PDF Editor pricing page; every figure identical to the 1 Sep 2026 reading) PDF Editor is $129.99 per user per year, or $10.99 per user per month, with a 14-day free trial that asks for no card. PDF Editor+ is $159.99 per user per year or $13.99 per user per month, and bundles what used to be a second bill: mobile apps for iOS and Android, AI Smart Redact, cloud storage and…
 
