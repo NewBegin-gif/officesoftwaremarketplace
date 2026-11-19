@@ -932,7 +932,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Shippo
 - Review: https://officesoftwaremarketplace.com/shippo-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: Only USPS and UPS rates appeared. The carrier messages said that the account is restricted from using this carrier, and no FedEx or DHL Express rate was shown, while the dossier promises USPS, UPS, FedEx…
 - Verdict: Shippo, Pro is banded by monthly label volume, priced monthly or annually: 1-200 labels $19/mo or $205/yr. The pricing is honest but layered.
 - Price: Read on their own pricing page, re-verified 25 September 2026. Starter is free: up to 30 labels a month, discounted USPS, UPS, FedEx and DHL Express rates, 1 user login, and 5¢ per label if you connect your own carrier account.
 

@@ -720,6 +720,22 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/servicem8-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/servicem8.svg\" width=\"340\" height=\"115\" alt=\"ServiceM8 hands-on test by Office Software Marketplace, 30 Oct 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "shippo",
+  "name": "Shippo",
+  "review_url": "https://officesoftwaremarketplace.com/shippo-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/shippo.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#shippo",
+  "tested_on": "2026-11-18",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 11",
+   "6 confirmed · 1 contradicted · 1 not comparable · 3 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Shippo hands-on test by Office Software Marketplace, 18 Nov 2026: Vendor claims checked 11; 6 confirmed · 1 contradicted · 1 not comparable · 3 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/shippo-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/shippo.svg\" width=\"340\" height=\"115\" alt=\"Shippo hands-on test by Office Software Marketplace, 18 Nov 2026: Vendor claims checked 11; 6 confirmed · 1 contradicted · 1 not comparable · 3 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "shortlistiq",
   "name": "ShortlistIQ",
   "review_url": "https://officesoftwaremarketplace.com/shortlistiq-review.html",
