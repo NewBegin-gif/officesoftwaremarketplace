@@ -32,6 +32,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 
 ## Tested hands-on (88): first-hand findings
 We signed up and ran these tools ourselves. The date is the test date; the line is what we measured, not the vendor's claim. All other reviews are researched from the vendor's own pages and buyer reviews, and say so on the page.
+- [Beautiful.ai](https://officesoftwaremarketplace.com/beautiful-ai-review.html): tested 2026-11-19. Measured 2026-11-19: After Cancel plan, Billing said Your workspace will be downgraded at the end of the current billing cycle, Dec 03, 2026, so access stays until the end of the trial.
 - [Contractor Foreman](https://officesoftwaremarketplace.com/contractor-foreman-review.html): tested 2026-11-19. Measured 2026-11-19: Text we checked: "Total Charged Today $0.00". What we saw: The annual Basic trial charged nothing today and showed Charged at End of Trial, as the dossier says for annual plans (30 days free before the…
 - [DigiParser](https://officesoftwaremarketplace.com/digiparser-review.html): tested 2026-11-19. Measured 2026-11-19: Text we checked: "Your data is ready. We've extracted the fields from your first document". What we saw: The pdf was uploaded and created at 07:58:22; the document showed Approved with all fields filled at…
 - [Foxit](https://officesoftwaremarketplace.com/foxit-review.html): tested 2026-11-19. Measured 2026-11-19: In the web editor the trial offer behind Edit Text has a Free Trial button that opened the desktop downloads page for Foxit PDF Editor+. No trial could be started in the browser, so on the web route the…
@@ -112,7 +113,6 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [Synthesia](https://officesoftwaremarketplace.com/synthesia-review.html): tested 2026-10-01
 - [Descript](https://officesoftwaremarketplace.com/descript-review.html): tested 2026-09-30
 - [Ngram](https://officesoftwaremarketplace.com/ngram-review.html): tested 2026-09-30
-- [Beautiful.ai](https://officesoftwaremarketplace.com/beautiful-ai-review.html): tested 2026-09-28
 - [Emergent](https://officesoftwaremarketplace.com/emergent-review.html): tested 2026-09-26
 - [Lovable](https://officesoftwaremarketplace.com/lovable-review.html): tested 2026-09-26
 - [Replit](https://officesoftwaremarketplace.com/replit-review.html): tested 2026-09-26
@@ -136,7 +136,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [Atto Review (2026): From $6.95/mo, Tested Oct 2026](https://officesoftwaremarketplace.com/atto-review.html) (tested hands-on): Atto: Billed monthly the same tiers are $6.95, $9.95, $12.95 and $19.95. Roll it out as 'accurate paychecks and fewer timesheet fights', involve the t
 - [BackupMaster Review (2026): From $19/mo, Tested Nov 2026](https://officesoftwaremarketplace.com/backupmaster-review.html) (tested hands-on): BackupMaster: Essentials $19 a month or $205.20 a year, a 10% saving, covers stores up to 300 orders a month. The listing header says free to install.
 - [Barcodes Talk Review (Tested): Part Published, Part on Quote](https://officesoftwaremarketplace.com/barcodes-talk-review.html) (tested hands-on): Barcodes Talk, The full published ladder runs eighteen rungs: 1 barcode $5.00; 5 for $10.00 ($2.00 each). The honest caveat is about fit, not the code
-- [Beautiful.ai Review (2026): From $14.50/mo, Tested Sep 2026](https://officesoftwaremarketplace.com/beautiful-ai-review.html) (tested hands-on): Beautiful.ai: Team about $40/user/mo annual ($50 monthly) with brand controls and shared libraries. The smart-template engine is the feature and the f
+- [Beautiful.ai Review (2026): From $14.50/mo, Tested Nov 2026](https://officesoftwaremarketplace.com/beautiful-ai-review.html) (tested hands-on): Beautiful.ai: Team about $40/user/mo annual ($50 monthly) with brand controls and shared libraries. The smart-template engine is the feature and the f
 - [Bill.com Review (2026): From $49/user Plus Per-Payment Fees](https://officesoftwaremarketplace.com/bill-com-review.html): Bill.com: Essentials $49, Team $65 and Corporate $89 per user per month, plus a quote-only Enterprise - the same four cards as on 15 August 2026.
 - [BillingNow Review (Tested): $9.99/mo Flat, Three-Day Trial](https://officesoftwaremarketplace.com/billingnow-review.html) (tested hands-on): BillingNow: $9.99 a month, or $99.90 a year which the page itself works out to $8.33 a month and labels 'Save 17%'.
 - [Bitvavo Review (2026): MiCA-Regulated, 0.25% Taker Fee](https://officesoftwaremarketplace.com/bitvavo-review.html): Bitvavo, Above that: 0.03%/0.12% from €2,500,000, 0.01%/0.10% from €5,000,000. The honest caveats are crypto-wide, not Bitvavo-specific.

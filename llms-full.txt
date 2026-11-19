@@ -92,7 +92,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Beautiful.ai
 - Review: https://officesoftwaremarketplace.com/beautiful-ai-review.html
-- Hands-on: tested by us on 2026-09-28
+- Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: After Cancel plan, Billing said Your workspace will be downgraded at the end of the current billing cycle, Dec 03, 2026, so access stays until the end of the trial.
 - Verdict: Beautiful.ai: Team about $40/user/mo annual ($50 monthly) with brand controls and shared libraries. The smart-template engine is the feature and the fence.
 - Price: (re-verified 2026-09-02 on the vendor's own pricing page, amounts unchanged on 2026-09-29) Pro is $14.50/mo billed annually, up from $12 in our July and August 2026 captures ($45 for a one-off month); Team about $40/user/mo annual ($50 monthly) with brand controls and shared libraries; Enterprise custom for 20+ seats. A single one-off presentation can be bought for ~$45; 14-day trial.
 

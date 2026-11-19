@@ -96,6 +96,22 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/barcodes-talk-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/barcodes-talk.svg\" width=\"340\" height=\"115\" alt=\"Barcodes Talk hands-on test by Office Software Marketplace, 18 Nov 2026: Vendor claims checked 11; 6 confirmed · 4 not testable · 1 out of date; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "beautiful-ai",
+  "name": "Beautiful.ai",
+  "review_url": "https://officesoftwaremarketplace.com/beautiful-ai-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/beautiful-ai.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#beautiful-ai",
+  "tested_on": "2026-11-19",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 4",
+   "2 confirmed · 1 contradicted · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Beautiful.ai hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 4; 2 confirmed · 1 contradicted · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/beautiful-ai-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/beautiful-ai.svg\" width=\"340\" height=\"115\" alt=\"Beautiful.ai hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 4; 2 confirmed · 1 contradicted · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "billingnow",
   "name": "BillingNow",
   "review_url": "https://officesoftwaremarketplace.com/billingnow-review.html",
