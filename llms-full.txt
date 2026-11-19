@@ -656,7 +656,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Modge
 - Review: https://officesoftwaremarketplace.com/modge-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: Edit Plan offered Basic on an Annual cycle at $3.00 a user a month, $36.00 a year; the public pricing page and the dossier give $4 on annual billing.
 - Verdict: Modge: Basic is $5 per seat per month billed monthly or $4 billed annually. The numbers on Modge's own pages do not agree with each other.
 - Price: (read 2026-09-03 and re-verified 2026-10-16 on modge.com/pricing, both billing toggles and the comparison table; every amount unchanged) Per-seat plans with a full-feature 14-day trial. Our sign-up on 19 November 2026 asked for a card at step 5 of 5 before the app opened, with Due today $0.00.
 
@@ -680,7 +680,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Navan
 - Review: https://officesoftwaremarketplace.com/navan-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: Text we checked: "Navan Business, For companies up to 300 employees, Free". What we saw: The public pricing page and the account Pricing page both say travel costs nothing for companies with 300 or fewer…
 - Verdict: Navan Expense is free for the first 5 monthly expensing users and then $15 per user per month. 'Free' is real but has a mechanism.
 - Price: (read 24 September 2026 on navan.com/pricing) Navan Business is free for companies of up to 300 employees, with no limit on trips, and Navan Expense is free for the first 5 monthly expensing users and then $15 per user per month. Above 300 employees the plan is Navan Enterprise, priced by quote.
 

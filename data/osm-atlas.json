@@ -2917,7 +2917,7 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "quote_only",
-   "price_note": "Quote-only, and re-verified as such on 2026-08-17 and again on 2026-09-28: HiBob publishes no price list. Its machine-readable site index (llms.txt) now lists pricing-plans and pricing-packages pages, but both describe custom pricing without an amount, hibob.com/pricing leads to a demo-request form, and neither our July nor our August 2026 capture retrieved an amount. HiBob's own pricing FAQ confirms the model: generally per employee, Core HR in every plan with modules added on, and pricing that 'may vary slightly by region'. Pricing is per employee per month with modules bolted on, and third-party estimates cluster in the mid-teens per employee per month, plus a one-off implementation fee of roughly 10-20% of the annual contract. Those are estimates, not HiBob's numbers, and the whole thing is negotiated. Get it in writing, including what happens to the per-employee rate as headcount changes mid-term.",
+   "price_note": "Quote-only, and re-verified as such on 2026-08-17, 2026-09-28 and 2026-11-19: HiBob publishes no price list. Its machine-readable site index (llms.txt) now lists pricing-plans and pricing-packages pages, but both describe custom pricing without an amount, hibob.com/pricing leads to a demo-request form, and neither our July nor our August 2026 capture retrieved an amount. HiBob's own pricing FAQ confirms the model: generally per employee, Core HR in every plan with modules added on, and pricing that 'may vary slightly by region'. Pricing is per employee per month with modules bolted on, and third-party estimates cluster in the mid-teens per employee per month, plus a one-off implementation fee of roughly 10-20% of the annual contract. Those are estimates, not HiBob's numbers, and the whole thing is negotiated. Get it in writing, including what happens to the per-employee rate as headcount changes mid-term.",
    "flags": [
     {
      "flag": "quote_only",
@@ -2925,7 +2925,7 @@
      "evidence_excerpt": "Its machine-readable site index (llms.txt) now lists pricing-plans and pricing-packages pages, but both describe custom pricing without an amount, hibob.com/pricing leads to a demo-request form, and …",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-28"
+     "verified_at": "2026-11-19"
     },
     {
      "flag": "per_seat",
@@ -2933,7 +2933,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-28"
+     "verified_at": "2026-11-19"
     },
     {
      "flag": "annual_lock",
@@ -2941,11 +2941,11 @@
      "evidence_excerpt": "Pricing is per employee per month with modules bolted on, and third-party estimates cluster in the mid-teens per employee per month, plus a one-off implementation fee of roughly 10-20% of the annual …",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-28"
+     "verified_at": "2026-11-19"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-28",
+   "price_verified_at": "2026-11-19",
    "first_observed_at": null
   },
   {

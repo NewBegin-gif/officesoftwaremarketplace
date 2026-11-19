@@ -653,15 +653,14 @@
   "badge_svg": "https://officesoftwaremarketplace.com/badges/modge.svg",
   "badge_page": "https://officesoftwaremarketplace.com/badges/#modge",
   "tested_on": "2026-11-19",
-  "signup_blocked": true,
+  "signup_blocked": false,
   "lines": [
-   "Stopped at sign-up; details in the review",
-   "Vendor claims checked: 7",
-   "4 confirmed · 1 contradicted · 2 not testable",
+   "Vendor claims checked: 5",
+   "2 confirmed · 2 contradicted · 1 not testable",
    "Data export: route checked, file not opened"
   ],
-  "alt": "Modge sign-up attempt by Office Software Marketplace, 19 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 7; 4 confirmed · 1 contradicted · 2 not testable; Data export: route checked, file not opened",
-  "snippet": "<a href=\"https://officesoftwaremarketplace.com/modge-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/modge.svg\" width=\"340\" height=\"132\" alt=\"Modge sign-up attempt by Office Software Marketplace, 19 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 7; 4 confirmed · 1 contradicted · 2 not testable; Data export: route checked, file not opened\"></a>"
+  "alt": "Modge hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 5; 2 confirmed · 2 contradicted · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/modge-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/modge.svg\" width=\"340\" height=\"115\" alt=\"Modge hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 5; 2 confirmed · 2 contradicted · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "murf",
@@ -676,6 +675,22 @@
   ],
   "alt": "Murf hands-on test by Office Software Marketplace, 20 Oct 2026: No claim or export checks recorded",
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/murf-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/murf.svg\" width=\"340\" height=\"81\" alt=\"Murf hands-on test by Office Software Marketplace, 20 Oct 2026: No claim or export checks recorded\"></a>"
+ },
+ {
+  "slug": "navan",
+  "name": "Navan",
+  "review_url": "https://officesoftwaremarketplace.com/navan-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/navan.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#navan",
+  "tested_on": "2026-11-19",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 4",
+   "3 confirmed · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Navan hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 4; 3 confirmed · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/navan-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/navan.svg\" width=\"340\" height=\"115\" alt=\"Navan hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 4; 3 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "nouswise",
