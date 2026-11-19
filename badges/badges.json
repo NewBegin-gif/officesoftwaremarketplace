@@ -672,6 +672,22 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/proton-drive-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/proton-drive.svg\" width=\"340\" height=\"81\" alt=\"Proton Drive hands-on test by Office Software Marketplace, 23 Oct 2026: Data export: file opened, re-import not tested\"></a>"
  },
  {
+  "slug": "reclaim-ai",
+  "name": "Reclaim.ai",
+  "review_url": "https://officesoftwaremarketplace.com/reclaim-ai-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/reclaim-ai.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#reclaim-ai",
+  "tested_on": "2026-11-18",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 12",
+   "1 confirmed · 3 contradicted · 4 not comparable · 2 not testable · 2 out of date",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Reclaim.ai hands-on test by Office Software Marketplace, 18 Nov 2026: Vendor claims checked 12; 1 confirmed · 3 contradicted · 4 not comparable · 2 not testable · 2 out of date; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/reclaim-ai-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/reclaim-ai.svg\" width=\"340\" height=\"115\" alt=\"Reclaim.ai hands-on test by Office Software Marketplace, 18 Nov 2026: Vendor claims checked 12; 1 confirmed · 3 contradicted · 4 not comparable · 2 not testable · 2 out of date; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "recruit-crm",
   "name": "Recruit CRM",
   "review_url": "https://officesoftwaremarketplace.com/recruit-crm-review.html",

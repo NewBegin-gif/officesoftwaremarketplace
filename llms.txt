@@ -1,6 +1,6 @@
 # Office Software Marketplace
 
-> Independent reviews of office, finance, HR and IT software for small and mid-sized teams. 202 full reviews live here as the canonical version, 73 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-18.
+> Independent reviews of office, finance, HR and IT software for small and mid-sized teams. 205 full reviews live here as the canonical version, 75 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-19.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -30,12 +30,14 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [The Best WP Engine Alternatives (2026)](https://officesoftwaremarketplace.com/best-wp-engine-alternatives.html): WP Engine alternatives compared on the numbers we read ourselves: what each host really costs, where the meter is, and who each one is actua
 - [How to Set Up Your Business Finance Stack (2026)](https://officesoftwaremarketplace.com/build-business-finance-stack.html): A blueprint for your money operations: a business account, paying bills, bookkeeping, payroll and tax — the exact stack, what each tool does
 
-## Tested hands-on (73): first-hand findings
+## Tested hands-on (75): first-hand findings
 We signed up and ran these tools ourselves. The date is the test date; the line is what we measured, not the vendor's claim. All other reviews are researched from the vendor's own pages and buyer reviews, and say so on the page.
 - [Barcodes Talk](https://officesoftwaremarketplace.com/barcodes-talk-review.html): tested 2026-11-18. Measured 2026-11-18: Text we checked: "No account required". What we saw: The quantity calculator and the FNSKU label generator both worked without signing in; no e-mail address, phone number, password or card was asked.
 - [BulkCertPDF](https://officesoftwaremarketplace.com/bulkcertpdf-review.html): tested 2026-11-18. Measured 2026-11-18: Text we checked: "Small "Made with BulkCertPDF" line, no watermark". What we saw: The pricing page says the Free plan has a small Made with BulkCertPDF line and no watermark, and the preview shows a small…
+- [DocHub](https://officesoftwaremarketplace.com/dochub-review.html): tested 2026-11-18. Measured 2026-11-18: Import a Document took our 2-page test PDF of 2.2 kB and opened it in the editor once its status read Ready. We skipped the welcome tour and answered Not now when DocHub offered to add fillable fields…
 - [Make](https://officesoftwaremarketplace.com/make-review.html): tested 2026-11-18. Measured 2026-11-18: Schedule settings with At regular intervals says Must be higher than or equal to 15. The webhook scenario ran Immediately as data arrives, five runs between 13:50:23 and 13:50:32, so the 15 minutes apply…
 - [Petty Cash Manager](https://officesoftwaremarketplace.com/petty-cash-manager-review.html): tested 2026-11-18. Measured 2026-11-18: The app opened with Free trial: 14 days left and no card, account or e-mail address was asked; the setup form and sample data came straight after.
+- [Reclaim.ai](https://officesoftwaremarketplace.com/reclaim-ai-review.html): tested 2026-11-18. Measured 2026-11-18: The in-app plan card of Starter lists Unlimited Calendar Syncs, while the public pricing page says 3 Calendar Syncs for Starter. Neither number was exercised.
 - [SurvIQ](https://officesoftwaremarketplace.com/surviq-review.html): tested 2026-11-18. Measured 2026-11-18: The Free plan lists 10 question types, while the question type menu in the editor showed 19 types.
 - [UserHelp.co](https://officesoftwaremarketplace.com/userhelp-co-review.html): tested 2026-11-18. Measured 2026-11-18: The Responses tab on the free plan says that only the 5 oldest responses are shown and offers a one-time payment to see all of them. The dossier says that Free has unlimited responses.
 - [Zapier](https://officesoftwaremarketplace.com/zapier-review.html): tested 2026-11-18. Measured 2026-11-18: The Copilot said the form was titled with three required fields but only set the title. The fields name, email and type were added by hand, about 12 clicks with a few failed tries, because the label was…
@@ -106,7 +108,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [FreshBooks](https://officesoftwaremarketplace.com/freshbooks-review.html): tested 2026-09-07
 - [Glide](https://officesoftwaremarketplace.com/glide-review.html): tested 2026-09-07
 
-## Reviews (202) — canonical versions
+## Reviews (205) — canonical versions
 - [1Password Review (2026): No Free Tier, From $3.99/mo Yearly](https://officesoftwaremarketplace.com/1password-review.html): 1Password: Business about $8.99/user/mo (billed annually, $10.99 month-to-month), plus custom Enterprise. For a business, that's usually worth it.
 - [accessiBe Review (2026): Widget Pricing, Free Scanner Tested](https://officesoftwaremarketplace.com/accessibe-review.html) (tested hands-on): accessiBe: $490 is the first figure a visitor sees. The thing you most need to know about this product is not on its pricing page, it is on the FTC’s.
 - [AccuWeb Hosting Review (2026): Cheap VPS That Renews at 2-4x](https://officesoftwaremarketplace.com/accuweb-hosting-review.html): AccuWeb Hosting: VPS Edge is €4.42 a month and renews at €8.91. The money-back guarantee is 7 days, shorter than many hosts offer.
@@ -161,6 +163,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [DigiParser Review (2026): From $49/mo, Billed per Page](https://officesoftwaremarketplace.com/digiparser-review.html): DigiParser: Starter is $69 a month billed monthly, or $49 a month billed yearly ($588 a year). Billing is per page, not per document.
 - [Digit Review (2026): From $400/mo, Checked Oct 2026](https://officesoftwaremarketplace.com/digit-review.html): Digit: Starter $400/month including 5 users, Growth $750 including 10, Professional $1,300 including 15. The tier price is a floor, not a ceiling.
 - [Disputifier Review (2026): 20% Commission, No Subscription](https://officesoftwaremarketplace.com/disputifier-review.html): Disputifier: The 20% recovery fee, the $250 cap and the $17-$27.50 alert band are unchanged. Free to install is doing a lot of work here.
+- [DocHub Review (2026): Free Plan Has 3 Uses, Tested Nov 2026](https://officesoftwaremarketplace.com/dochub-review.html) (tested hands-on): DocHub: Basic is €8 a month billed yearly or €11 billed monthly. The free plan's 3 uses a month are shared by editing, self-signing and sign requests.
 - [DocSend Review (2026): $10 to Share, $150 for a Data Room](https://officesoftwaremarketplace.com/docsend-review.html): DocSend: Personal is $10 per user a month billed yearly or $15 billed monthly, one user. The cheap plan is not the product people buy DocSend for.
 - [doola Review (2026): $297/yr Plus State Fees](https://officesoftwaremarketplace.com/doola-review.html): doola: $2,999 a year saves $949, about 24%. Formation is the cheap part; the recurring bookkeeping and tax tiers are where the real cost sits.
 - [Dryground AI Review (2026): Quoted Consulting, $99 CompanyClaw](https://officesoftwaremarketplace.com/dryground-ai-review.html): Dryground AI: Core $99, Pro $297 and Enterprise $1,497 a month, each plus usage from a prepaid token wallet. Read the headline numbers carefully too.
@@ -249,6 +252,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [Qoyod Review (2026): Basic Stops at ZATCA Phase 1](https://officesoftwaremarketplace.com/qoyod-review.html): Qoyod: Billed in Saudi riyal, which is pegged to the dollar at 3.75. The entry tier does not do the thing the product is sold on.
 - [QuickBooks UK Review (2026): The 90% Offer Ends at Month Six](https://officesoftwaremarketplace.com/quickbooks-uk-review.html): QuickBooks UK: Sole Trader Plus £10, Simple Start £16, Essentials £38 for three users, Plus £56 for five and Advanced £123 for twenty-five.
 - [QuillBot Review (2026): Annual Billing, Tested Oct 2026](https://officesoftwaremarketplace.com/quillbot-review.html) (tested hands-on): QuillBot: Premium is $19.95 a month month-to-month, or $8.33 a month billed annually ($99.95 a year). The free tier is deliberately narrow.
+- [Reclaim.ai Review (Tested): From $10 a Seat, Free Lite Plan](https://officesoftwaremarketplace.com/reclaim-ai-review.html) (tested hands-on): Reclaim.ai: Lite is free forever for a single user. The magic only works on a calendar it can write to.
 - [Recruit CRM Review (2026): Agency ATS and CRM, From €79 a User](https://officesoftwaremarketplace.com/recruit-crm-review.html) (tested hands-on): Recruit CRM: Pro is €79 per user a month billed annually or €95 monthly, with 100 credits per user a month. The headline seat price is not the whole b
 - [Remote People Review (2026): EOR $499, $199 in Select Countries](https://officesoftwaremarketplace.com/remote-people-review.html): Remote People, Employer of Record: EOR Global from $499 per employee a month. The monthly rates are the cheapest we have on file for this category.
 - [Replit Review (Tested 2026): Part Published, Part on Quote](https://officesoftwaremarketplace.com/replit-review.html) (tested hands-on): Replit: Core is $20/month, or $18/month billed annually. The subscription price is fixed; the paid Agent work is not.
@@ -308,6 +312,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [Your Company Formations Review (2026): UK Company From £2.48](https://officesoftwaremarketplace.com/your-company-formations-review.html): Your Company Formations: One-off packages for forming a UK limited company, each plus the £100 Companies House incorporation fee, which is added separ
 - [Zapier Review (Tested): App Automation From $19.99 a Month](https://officesoftwaremarketplace.com/zapier-review.html) (tested hands-on): Zapier: Free costs $0 and includes unlimited Zaps, Tables and Forms, two-step Zaps and 100 tasks a month. Free allows only two-step Zaps.
 - [zastech Review (Tested): Pay-Once Business Tools From $15](https://officesoftwaremarketplace.com/zastech-review.html) (tested hands-on): zastech: Invoice Maker, Proposal Builder and Client Report Builder are free forever with a small zastech footer.
+- [Zeffy Review (2026): $0, Funded by Donor Tips](https://officesoftwaremarketplace.com/zeffy-review.html): Zeffy: Still genuinely $0 for nonprofits. The honest scrutiny of 'free': the tip prompt is shown to YOUR donors, with suggested percentages.
 - [Zenind Review (2026): $0 LLC Filing, but the Extras Add Up](https://officesoftwaremarketplace.com/zenind-review.html): Zenind: Three US company formation packages, each a one-time fee plus state filing fees. The $0 Basic package covers filing only.
 
 ## Free calculators (12)
