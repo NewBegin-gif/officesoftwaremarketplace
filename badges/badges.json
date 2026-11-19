@@ -393,6 +393,22 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/disputifier-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/disputifier.svg\" width=\"340\" height=\"132\" alt=\"Disputifier sign-up attempt by Office Software Marketplace, 19 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 9; 5 confirmed · 4 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "dochub",
+  "name": "DocHub",
+  "review_url": "https://officesoftwaremarketplace.com/dochub-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/dochub.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#dochub",
+  "tested_on": "2026-11-19",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 4",
+   "2 confirmed · 1 contradicted · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "DocHub hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 4; 2 confirmed · 1 contradicted · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/dochub-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/dochub.svg\" width=\"340\" height=\"115\" alt=\"DocHub hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 4; 2 confirmed · 1 contradicted · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "ebillity",
   "name": "eBillity",
   "review_url": "https://officesoftwaremarketplace.com/ebillity-review.html",

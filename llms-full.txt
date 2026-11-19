@@ -332,7 +332,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## DocHub
 - Review: https://officesoftwaremarketplace.com/dochub-review.html
-- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: Import a Document took our 2-page test PDF of 2.2 kB and opened it in the editor once its status read Ready. We skipped the welcome tour and answered Not now when DocHub offered to add fillable fields…
+- Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: The Pro checkout preselected yearly billing at EUR144.00, while the dossier knock says the trial becomes a EUR 16 monthly charge; monthly is still available at EUR16 a month.
 - Verdict: DocHub: Basic is €8 a month billed yearly or €11 billed monthly. The free plan's 3 uses a month are shared by editing, self-signing and sign requests.
 - Price: (read 2026-11-18 on dochub.com/pricing in a browser and in our own test the same day; from our European connection the page showed euros, and prices are before tax) DocHub has four plans. Free costs €0.
 
