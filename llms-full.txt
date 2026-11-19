@@ -136,7 +136,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/bolt-business-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Bolt Business: One line the marketing does not carry. The honest boundary is geography: Bolt's network is Europe/Africa-centric across 600+ cities.
-- Price: No subscription and, in the words of Bolt's business page, no upfront fees (re-verified 2026-10-09; on 2026-08-20 the page also said no minimum commitment): you pay per ride or rental taken, with consolidated monthly billing, spend limits and policy controls included. One line the marketing does not carry, but Bolt's own support pages do: Bolt charges a service fee on every trip made with the business payment…
+- Price: No subscription and, in the words of Bolt's business page, no upfront fees (re-verified 2026-10-09 and 2026-11-19; on 2026-08-20 the page also said no minimum commitment): you pay per ride or rental taken, with consolidated monthly billing, spend limits and policy controls included. One line the marketing does not carry, but Bolt's own support pages do: Bolt charges a service fee on every trip made with the…
 
 ## BookX
 - Review: https://officesoftwaremarketplace.com/bookx-review.html
@@ -1035,8 +1035,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Sunsama
 - Review: https://officesoftwaremarketplace.com/sunsama-review.html
 - Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: Settings, Billing shows Sunsama Free Trial, 1 seat, 14 days remaining, and the upgrade page says Your trial ends Thursday, Dec 3.
-- Verdict: Sunsama: The plan card says $17 a month billed yearly, or $22 billed monthly, for the Pro plan, with unlimited usage and integrations.
-- Price: (2026-08-30, re-read on their own pricing page from a US exit) The page gives two different numbers and it is worth knowing both. The plan card says $17 a month billed yearly, or $22 billed monthly, for the Pro plan, with unlimited usage and integrations; Enterprise is quote-only.
+- Verdict: Sunsama: Pro costs $22 a month per person billed monthly, or $17 a month billed yearly ($204 a year), with unlimited usage and integrations.
+- Price: (re-read 19 November 2026 on sunsama.com/pricing and sunsama.com/llms.txt) Pro costs $22 a month per person billed monthly, or $17 a month billed yearly ($204 a year), with unlimited usage and integrations; Enterprise is quote-only. There is a 14-day free trial with no card required and no free plan after it.
 
 ## SurveyMonkey
 - Review: https://officesoftwaremarketplace.com/surveymonkey-review.html
