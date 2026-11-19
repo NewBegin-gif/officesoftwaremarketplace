@@ -1359,16 +1359,6 @@ One structural note: the plans changed between our October and November readings
     </video:video>
   </url>
   <url>
-    <loc>https://officesoftwaremarketplace.com/signnow-review.html</loc>
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/8nQhNVJKSak/hqdefault.jpg</video:thumbnail_loc>
-      <video:title>SignNow Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>It&#x27;s built for straightforward everyday signing, if you need deep contract-lifecycle (CLM) features, a heavier platform fits better.</video:description>
-      <video:player_loc>https://www.youtube-nocookie.com/embed/8nQhNVJKSak</video:player_loc>
-    <video:publication_date>2026-07-20T00:00:00+00:00</video:publication_date>
-    </video:video>
-  </url>
-  <url>
     <loc>https://officesoftwaremarketplace.com/signable-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/nJ3hDM-IYwo/hqdefault.jpg</video:thumbnail_loc>
@@ -1406,6 +1396,16 @@ One structural note: the plans changed between our October and November readings
       <video:description>Builder seats are billed on top of the plan, and pricing counts builders and app users separately, so a public-facing app with a lot of end users gets expensive fast. Watch the overage rate as well as the plan: extra app users are $1 a month on Pro but $2 on Business, so the dearer plan meters growth at double the rate. It fits internal tools and client portals with a known audience, not an open signup. In our test on 21 October 2026 a new account started on a 7-day Business trial that drops back to Free on its own, and two articles we added did not appear in the template&#x27;s &#x27;Latest articles&#x27; list, although they did appear in their collection and in search.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/ruZtB1BX2G8</video:player_loc>
     <video:publication_date>2026-07-27T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://officesoftwaremarketplace.com/sucuri-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/iCMFDhXGPls/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Sucuri Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Pricing is per site, so costs climb quickly for agencies, and plans for 10 or more sites have no published price. The cleanup times in the pricing table are described as estimated response times, not a guaranteed fix time. The refund rules disagree with each other: the terms tie the refund to not having submitted a malware removal request, while the help article ties it to no request having been completed. Cancelling needs a support ticket, not a button.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/iCMFDhXGPls</video:player_loc>
+    <video:publication_date>2026-11-19T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
