@@ -265,6 +265,22 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/clutch-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/clutch.svg\" width=\"340\" height=\"115\" alt=\"Clutch hands-on test by Office Software Marketplace, 18 Nov 2026: Vendor claims checked 11; 6 confirmed · 1 contradicted · 2 not comparable · 2 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "contractor-foreman",
+  "name": "Contractor Foreman",
+  "review_url": "https://officesoftwaremarketplace.com/contractor-foreman-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/contractor-foreman.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#contractor-foreman",
+  "tested_on": "2026-11-19",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 5",
+   "3 confirmed · 1 not comparable · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Contractor Foreman hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 5; 3 confirmed · 1 not comparable · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/contractor-foreman-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/contractor-foreman.svg\" width=\"340\" height=\"115\" alt=\"Contractor Foreman hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 5; 3 confirmed · 1 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "deputy",
   "name": "Deputy",
   "review_url": "https://officesoftwaremarketplace.com/deputy-review.html",
