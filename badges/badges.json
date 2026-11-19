@@ -1167,6 +1167,22 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/top-echelon-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/top-echelon.svg\" width=\"340\" height=\"115\" alt=\"Top Echelon hands-on test by Office Software Marketplace, 31 Oct 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: file opened, re-import not tested\"></a>"
  },
  {
+  "slug": "tresorit",
+  "name": "Tresorit",
+  "review_url": "https://officesoftwaremarketplace.com/tresorit-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/tresorit.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#tresorit",
+  "tested_on": "2026-11-19",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 4",
+   "2 confirmed · 1 not comparable · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Tresorit hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 4; 2 confirmed · 1 not comparable · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/tresorit-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/tresorit.svg\" width=\"340\" height=\"115\" alt=\"Tresorit hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 4; 2 confirmed · 1 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "unleashed-software",
   "name": "Unleashed Software",
   "review_url": "https://officesoftwaremarketplace.com/unleashed-software-review.html",

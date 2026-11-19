@@ -1106,7 +1106,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Tresorit
 - Review: https://officesoftwaremarketplace.com/tresorit-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: A share link with a password, an open limit of 10, expiry after 30 days and access logs was set up in about 3 minutes; the link was not opened by an outside recipient.
 - Verdict: Tresorit: €28.80, €19.20 and €24 on yearly. For regulated teams that's exactly the deal; for casual storage it's over-engineering.
 - Price: (re-verified 2026-11-05 on tresorit.com/pricing/business, /personal, /tresorit-engage and /file-sharing in a browser, both billing toggles; Tresorit announced a price increase to partners on 5 November 2026) There are three business plans: Professional for 1 user, Business from 3 users and Business Pro from 5 users. Priced from our location in euros, they run €36, €24 and €30 per user per month on monthly…
 
