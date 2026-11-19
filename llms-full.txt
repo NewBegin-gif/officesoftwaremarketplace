@@ -232,7 +232,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/co2-impact-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: CO2 Impact: Basic is £468 a year (£39.00 a month) for 1 user and 1 operational site. Every licence is a 12-month commitment.
-- Price: (read 2026-10-09 in a browser render of the pricing table on co2impact.co.uk's homepage; re-verified 2026-10-22 on the redesigned table, GBP, all prices exclude VAT) Every licence runs for 12 months: annual payment is charged upfront, monthly payment is spread over the 12-month licence. Basic is £468 a year (£39.00 a month) for 1 user and 1 operational site.
+- Price: (read 2026-11-19 in the pricing section of co2impact.co.uk's homepage, GBP; the vendor's own llms.txt lists the same three plans) Essentials is £369 a year (£30.75 a month) for 2 users and 2 sites. Professional is £749 a year (£62.42 a month) for 10 users and 5 sites.
 
 ## Compliancely
 - Review: https://officesoftwaremarketplace.com/compliancely-review.html
@@ -489,8 +489,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Gymcatch
 - Review: https://officesoftwaremarketplace.com/gymcatch-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Gymcatch is booking and customer management software for fitness and wellness businesses. We found no dated changelog and have not used the product ourselves.
-- Price: (read 2026-11-16 on gymcatch.com/pricing, British pounds a month) Gymcatch is booking and customer management software for fitness and wellness businesses. It costs from £10 + VAT a month with the first month free and no credit card required.
+- Verdict: Gymcatch: The pricing page says no credit card is required. Card processing fees are charged on top of the subscription and we could not find the rates.
+- Price: (read 2026-11-16 on gymcatch.com/pricing, British pounds a month) Gymcatch is booking and customer management software for fitness and wellness businesses. It costs from £10 + VAT a month with the first month free.
 
 ## Harbor Compliance
 - Review: https://officesoftwaremarketplace.com/harbor-compliance-review.html
@@ -658,7 +658,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/modge-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Modge: Basic is $5 per seat per month billed monthly or $4 billed annually. The numbers on Modge's own pages do not agree with each other.
-- Price: (read 2026-09-03 and re-verified 2026-10-16 on modge.com/pricing, both billing toggles and the comparison table; every amount unchanged) Per-seat plans with a full-feature 14-day trial and no card. Basic is $5 per seat per month billed monthly or $4 billed annually: app and URL tracking with AI productivity classification, workforce dashboards, automatic time tracking with optional screenshots, timesheets,…
+- Price: (read 2026-09-03 and re-verified 2026-10-16 on modge.com/pricing, both billing toggles and the comparison table; every amount unchanged) Per-seat plans with a full-feature 14-day trial. Our sign-up on 19 November 2026 asked for a card at step 5 of 5 before the app opened, with Due today $0.00.
 
 ## Momence
 - Review: https://officesoftwaremarketplace.com/momence-review.html
@@ -1016,7 +1016,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## SMTP2GO
 - Review: https://officesoftwaremarketplace.com/smtp2go-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: Text we checked: ""succeeded":1,"failed":0". What we saw: The API answered with this after the curl at 08:06:16. The report showed Processed at 8:06:18 AM and Delivered at 8:06:27 AM, 11 seconds after the…
 - Verdict: SMTP2GO, Starter: $15/mo or $150/year for 10,000 (overage $1.20 per thousand). Check the overage rate for your tier before you size up.
 - Price: (read 2026-09-26 on smtp2go.com/pricing with the volume slider walked through all nine stops; the plan cards carry the amounts in their data-rate-monthly and data-rate-annual attributes; re-read 2026-11-17 from the plan data embedded in the same page, every amount and overage rate unchanged) Free: 1,000 emails a month, 200 a day, 5 days of reporting, ticket support only (toll-free phone and live chat limited to…
 
@@ -1076,7 +1076,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## TestGorilla
 - Review: https://officesoftwaremarketplace.com/testgorilla-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: The start screen said Free plan active and Includes 10 credits per month, and Account, Plan & billing showed 10 credits remaining, 0 of 10 credits used and Next reset: Dec 1. No card was asked during the…
 - Verdict: TestGorilla: Free $0 (browse and preview only, no invites). Core starts from $77 a month billed annually or from $287 billed monthly.
 - Price: (re-verified 2026-10-07 in a browser render of testgorilla.com/pricing with the currency set to USD; the page defaults to euros from a European connection; re-verified unchanged 2026-10-15 on both billing toggles) TestGorilla now sells two products that you can buy on their own or together. Gorilla Sourcing, a candidate-search product priced per Sourcing seat: Free $0 (browse and preview only, no invites); Core…
 

@@ -424,6 +424,23 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/goflow-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/goflow.svg\" width=\"340\" height=\"115\" alt=\"Goflow hands-on test by Office Software Marketplace, 24 Oct 2026: Vendor claims checked 1; 1 not testable; Data export: file opened, re-import tested\"></a>"
  },
  {
+  "slug": "gymcatch",
+  "name": "Gymcatch",
+  "review_url": "https://officesoftwaremarketplace.com/gymcatch-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/gymcatch.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#gymcatch",
+  "tested_on": "2026-11-19",
+  "signup_blocked": true,
+  "lines": [
+   "Stopped at sign-up; details in the review",
+   "Vendor claims checked: 7",
+   "2 confirmed · 1 contradicted · 1 not comparable · 3 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Gymcatch sign-up attempt by Office Software Marketplace, 19 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 7; 2 confirmed · 1 contradicted · 1 not comparable · 3 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/gymcatch-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/gymcatch.svg\" width=\"340\" height=\"132\" alt=\"Gymcatch sign-up attempt by Office Software Marketplace, 19 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 7; 2 confirmed · 1 contradicted · 1 not comparable · 3 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "hive",
   "name": "Hive",
   "review_url": "https://officesoftwaremarketplace.com/hive-review.html",
@@ -596,6 +613,23 @@
   ],
   "alt": "Miro hands-on test by Office Software Marketplace, 20 Oct 2026: Vendor claims checked 1; 1 confirmed",
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/miro-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/miro.svg\" width=\"340\" height=\"98\" alt=\"Miro hands-on test by Office Software Marketplace, 20 Oct 2026: Vendor claims checked 1; 1 confirmed\"></a>"
+ },
+ {
+  "slug": "modge",
+  "name": "Modge",
+  "review_url": "https://officesoftwaremarketplace.com/modge-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/modge.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#modge",
+  "tested_on": "2026-11-19",
+  "signup_blocked": true,
+  "lines": [
+   "Stopped at sign-up; details in the review",
+   "Vendor claims checked: 7",
+   "4 confirmed · 1 contradicted · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Modge sign-up attempt by Office Software Marketplace, 19 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 7; 4 confirmed · 1 contradicted · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/modge-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/modge.svg\" width=\"340\" height=\"132\" alt=\"Modge sign-up attempt by Office Software Marketplace, 19 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 7; 4 confirmed · 1 contradicted · 2 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "murf",
@@ -851,6 +885,23 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/shortlistiq-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/shortlistiq.svg\" width=\"340\" height=\"132\" alt=\"ShortlistIQ sign-up attempt by Office Software Marketplace, 2 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 2; 1 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "signable",
+  "name": "Signable",
+  "review_url": "https://officesoftwaremarketplace.com/signable-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/signable.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#signable",
+  "tested_on": "2026-11-19",
+  "signup_blocked": true,
+  "lines": [
+   "Stopped at sign-up; details in the review",
+   "Vendor claims checked: 7",
+   "2 confirmed · 1 not comparable · 4 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Signable sign-up attempt by Office Software Marketplace, 19 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 7; 2 confirmed · 1 not comparable · 4 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/signable-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/signable.svg\" width=\"340\" height=\"132\" alt=\"Signable sign-up attempt by Office Software Marketplace, 19 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 7; 2 confirmed · 1 not comparable · 4 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "signnow",
   "name": "SignNow",
   "review_url": "https://officesoftwaremarketplace.com/signnow-review.html",
@@ -913,6 +964,22 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/smartsuite-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/smartsuite.svg\" width=\"340\" height=\"81\" alt=\"SmartSuite sign-up attempt by Office Software Marketplace, 21 Oct 2026: Stopped at sign-up; details in the review\"></a>"
  },
  {
+  "slug": "smtp2go",
+  "name": "SMTP2GO",
+  "review_url": "https://officesoftwaremarketplace.com/smtp2go-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/smtp2go.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#smtp2go",
+  "tested_on": "2026-11-19",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 12",
+   "4 confirmed · 8 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "SMTP2GO hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 12; 4 confirmed · 8 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/smtp2go-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/smtp2go.svg\" width=\"340\" height=\"115\" alt=\"SMTP2GO hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 12; 4 confirmed · 8 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "softr",
   "name": "Softr",
   "review_url": "https://officesoftwaremarketplace.com/softr-review.html",
@@ -973,6 +1040,22 @@
   ],
   "alt": "SurvIQ hands-on test by Office Software Marketplace, 18 Nov 2026: Vendor claims checked 6; 1 confirmed · 2 contradicted · 1 not comparable · 2 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/surviq-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/surviq.svg\" width=\"340\" height=\"115\" alt=\"SurvIQ hands-on test by Office Software Marketplace, 18 Nov 2026: Vendor claims checked 6; 1 confirmed · 2 contradicted · 1 not comparable · 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "testgorilla",
+  "name": "TestGorilla",
+  "review_url": "https://officesoftwaremarketplace.com/testgorilla-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/testgorilla.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#testgorilla",
+  "tested_on": "2026-11-19",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 9",
+   "4 confirmed · 3 not testable · 2 out of date",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "TestGorilla hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 9; 4 confirmed · 3 not testable · 2 out of date; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/testgorilla-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/testgorilla.svg\" width=\"340\" height=\"115\" alt=\"TestGorilla hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 9; 4 confirmed · 3 not testable · 2 out of date; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "todoist",
