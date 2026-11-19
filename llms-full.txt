@@ -314,7 +314,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## DigiParser
 - Review: https://officesoftwaremarketplace.com/digiparser-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: Text we checked: "Your data is ready. We've extracted the fields from your first document". What we saw: The pdf was uploaded and created at 07:58:22; the document showed Approved with all fields filled at…
 - Verdict: DigiParser: Starter is $69 a month billed monthly, or $49 a month billed yearly ($588 a year). Billing is per page, not per document.
 - Price: (read 2026-10-13 in a live browser on digiparser.com/pricing in both the monthly and the yearly view, with the FAQ opened, and on the home page) Three self-serve plans, priced by pages processed per month, each with a 7-day free trial that needs no card. Starter is $69 a month billed monthly, or $49 a month billed yearly ($588 a year): 500 pages a month, 5 parsers and 3 team members, table and field extraction,…
 

@@ -1,6 +1,6 @@
 # Office Software Marketplace
 
-> Independent reviews of office, finance, HR and IT software for small and mid-sized teams. 205 full reviews live here as the canonical version, 81 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-19.
+> Independent reviews of office, finance, HR and IT software for small and mid-sized teams. 205 full reviews live here as the canonical version, 82 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-19.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -30,8 +30,9 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [The Best WP Engine Alternatives (2026)](https://officesoftwaremarketplace.com/best-wp-engine-alternatives.html): WP Engine alternatives compared on the numbers we read ourselves: what each host really costs, where the meter is, and who each one is actua
 - [How to Set Up Your Business Finance Stack (2026)](https://officesoftwaremarketplace.com/build-business-finance-stack.html): A blueprint for your money operations: a business account, paying bills, bookkeeping, payroll and tax — the exact stack, what each tool does
 
-## Tested hands-on (81): first-hand findings
+## Tested hands-on (82): first-hand findings
 We signed up and ran these tools ourselves. The date is the test date; the line is what we measured, not the vendor's claim. All other reviews are researched from the vendor's own pages and buyer reviews, and say so on the page.
+- [DigiParser](https://officesoftwaremarketplace.com/digiparser-review.html): tested 2026-11-19. Measured 2026-11-19: Text we checked: "Your data is ready. We've extracted the fields from your first document". What we saw: The pdf was uploaded and created at 07:58:22; the document showed Approved with all fields filled at…
 - [Barcodes Talk](https://officesoftwaremarketplace.com/barcodes-talk-review.html): tested 2026-11-18. Measured 2026-11-18: Text we checked: "No account required". What we saw: The quantity calculator and the FNSKU label generator both worked without signing in; no e-mail address, phone number, password or card was asked.
 - [BulkCertPDF](https://officesoftwaremarketplace.com/bulkcertpdf-review.html): tested 2026-11-18. Measured 2026-11-18: Text we checked: "Small "Made with BulkCertPDF" line, no watermark". What we saw: The pricing page says the Free plan has a small Made with BulkCertPDF line and no watermark, and the preview shows a small…
 - [Clutch](https://officesoftwaremarketplace.com/clutch-review.html): tested 2026-11-18. Measured 2026-11-18: The Featured cards ignore the hourly rate filter: the first card, Funnel Boost Media, shows $50 - $99 / hr under the filter $25 - $49. The dossier does not say that Featured cards skip the filters.
@@ -166,7 +167,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [Devs.ai Review (2026): From $15/mo, Tested Nov 2026](https://officesoftwaremarketplace.com/devs-ai-review.html) (tested hands-on): Devs.ai: Personal is $15 per seat / month billed annually or $18 billed monthly. The seat price is the smaller half of the bill.
 - [Dext Review (Tested Oct 2026): From $25/mo for 250 Documents](https://officesoftwaremarketplace.com/dext-review.html) (tested hands-on): Dext has moved off named tiers. Extraction accuracy varies and sometimes needs manual fixes, the UI is tricky for beginners.
 - [Dify Review (2026): From $59/mo, Tested Nov 2026](https://officesoftwaremarketplace.com/dify-review.html) (tested hands-on): Dify: Source-available and free of a software fee to self-host. 'Free' self-hosting isn't free: you own the servers, updates and reliability.
-- [DigiParser Review (2026): From $49/mo, Billed per Page](https://officesoftwaremarketplace.com/digiparser-review.html): DigiParser: Starter is $69 a month billed monthly, or $49 a month billed yearly ($588 a year). Billing is per page, not per document.
+- [DigiParser Review (Tested): From $49/mo, Billed per Page](https://officesoftwaremarketplace.com/digiparser-review.html) (tested hands-on): DigiParser: Starter is $69 a month billed monthly, or $49 a month billed yearly ($588 a year). Billing is per page, not per document.
 - [Digit Review (2026): From $400/mo, Checked Oct 2026](https://officesoftwaremarketplace.com/digit-review.html): Digit: Starter $400/month including 5 users, Growth $750 including 10, Professional $1,300 including 15. The tier price is a floor, not a ceiling.
 - [Disputifier Review (2026): 20% Commission, No Subscription](https://officesoftwaremarketplace.com/disputifier-review.html): Disputifier: The 20% recovery fee, the $250 cap and the $17-$27.50 alert band are unchanged. Free to install is doing a lot of work here.
 - [DocHub Review (2026): Free Plan Has 3 Uses, Tested Nov 2026](https://officesoftwaremarketplace.com/dochub-review.html) (tested hands-on): DocHub: Basic is €8 a month billed yearly or €11 billed monthly. The free plan's 3 uses a month are shared by editing, self-signing and sign requests.

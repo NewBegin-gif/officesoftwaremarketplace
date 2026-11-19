@@ -1,5 +1,22 @@
 [
  {
+  "slug": "aml-watcher",
+  "name": "AML Watcher",
+  "review_url": "https://officesoftwaremarketplace.com/aml-watcher-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/aml-watcher.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#aml-watcher",
+  "tested_on": "2026-11-18",
+  "signup_blocked": true,
+  "lines": [
+   "Stopped at sign-up; details in the review",
+   "Vendor claims checked: 8",
+   "1 confirmed · 6 not testable · 1 out of date",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "AML Watcher sign-up attempt by Office Software Marketplace, 18 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 8; 1 confirmed · 6 not testable · 1 out of date; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/aml-watcher-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/aml-watcher.svg\" width=\"340\" height=\"132\" alt=\"AML Watcher sign-up attempt by Office Software Marketplace, 18 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 8; 1 confirmed · 6 not testable · 1 out of date; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "aplos",
   "name": "Aplos",
   "review_url": "https://officesoftwaremarketplace.com/aplos-review.html",
@@ -309,6 +326,39 @@
   ],
   "alt": "Dify hands-on test by Office Software Marketplace, 13 Nov 2026: Vendor claims checked 2; 1 confirmed · 1 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/dify-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/dify.svg\" width=\"340\" height=\"115\" alt=\"Dify hands-on test by Office Software Marketplace, 13 Nov 2026: Vendor claims checked 2; 1 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "digiparser",
+  "name": "DigiParser",
+  "review_url": "https://officesoftwaremarketplace.com/digiparser-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/digiparser.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#digiparser",
+  "tested_on": "2026-11-19",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 12",
+   "7 confirmed · 1 not comparable · 4 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "DigiParser hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 12; 7 confirmed · 1 not comparable · 4 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/digiparser-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/digiparser.svg\" width=\"340\" height=\"115\" alt=\"DigiParser hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 12; 7 confirmed · 1 not comparable · 4 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "disputifier",
+  "name": "Disputifier",
+  "review_url": "https://officesoftwaremarketplace.com/disputifier-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/disputifier.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#disputifier",
+  "tested_on": "2026-11-19",
+  "signup_blocked": true,
+  "lines": [
+   "Stopped at sign-up; details in the review",
+   "Vendor claims checked: 9",
+   "5 confirmed · 4 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Disputifier sign-up attempt by Office Software Marketplace, 19 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 9; 5 confirmed · 4 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/disputifier-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/disputifier.svg\" width=\"340\" height=\"132\" alt=\"Disputifier sign-up attempt by Office Software Marketplace, 19 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 9; 5 confirmed · 4 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "ebillity",
