@@ -381,8 +381,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Employment Hero
 - Review: https://officesoftwaremarketplace.com/employment-hero-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Employment Hero: EVERY PRICE ON THAT PAGE IS AUD EXCLUDING GST; the page states it in its own disclaimer. Payroll no longer carries its own price at all.
-- Price: (2026-08-28, read on their own pricing page at employmenthero.com/pricing/; re-verified 2026-10-06) EVERY PRICE ON THAT PAGE IS AUD EXCLUDING GST — the page states it in its own disclaimer. It is the Australian page; separate pages exist for the UK, New Zealand, Singapore, Malaysia and Canada, and there is no US one.
+- Verdict: Employment Hero: HR Essentials A$11 and HR Engage A$15 per employee per month. Payroll is back as its own plan at A$10 (read 20 November 2026).
+- Price: (read 20 November 2026 on employmenthero.com/pricing/, the Australian page (hreflang en-au); first read 28 August 2026, re-verified 6 October 2026) The page's disclaimer reads 'All prices AUD ex. GST'.
 
 ## Evolve
 - Review: https://officesoftwaremarketplace.com/evolve-review.html

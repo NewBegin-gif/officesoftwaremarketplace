@@ -3,7 +3,7 @@ name,category,domain,from_price_usd_mo,flags,review_url,researched,entry_price,e
 accessiBe,IT & Productivity,accessibe.com,59.0,,https://aibuildermarketplace.com/b2b/accessibe-review/,2026-07,$59,"Micro · per month for up to 5,000 monthly visits",public,2026-10-25
 AccuWeb Hosting,IT & Productivity,accuwebhosting.com,,renewal_jump,https://aibuildermarketplace.com/b2b/accuweb-hosting-review/,2026-07,€4.42,"VPS Edge · per month on a 24-month term, New York location",public,2026-10-07
 Acronis,IT & Productivity,acronis.com,,addons_extra,https://aibuildermarketplace.com/b2b/acronis-review/,2026-07,€49.99,"Essentials · per year, one-year subscription for 1 computer, local backup only",public,2026-11-14
-ADP,HR & People,adp.com,,quote_only|per_seat,https://aibuildermarketplace.com/b2b/adp-review/,2026-07,,,quote_only,2026-11-12
+ADP,HR & People,adp.com,,quote_only|per_seat,https://aibuildermarketplace.com/b2b/adp-review/,2026-07,,,quote_only,2026-11-20
 Airia,IT & Productivity,airia.com,,quote_only,https://aibuildermarketplace.com/b2b/airia-review/,2026-07,,,quote_only,2026-10-10
 Airwallex,Finance,airwallex.com,12.0,usage_metered,https://aibuildermarketplace.com/b2b/airwallex-review/,2026-07,$12,a month per active Spend user plus a team-size platform fee,public,2026-11-19
 Alohi,Operations & Workflow,alohi.com,6.99,per_seat|usage_metered|addons_extra|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/alohi-review/,2026-07,$6.99,a month billed annually ($83.99/yr),public,2026-11-19
@@ -49,7 +49,7 @@ Connecteam,Operations & Workflow,connecteam.com,29.0,per_seat|annual_lock|free_t
 Consensus,IT & Productivity,consensus.app,12.0,per_seat|free_tier,https://aibuildermarketplace.com/b2b/consensus-review/,2026-07,$12,"a month, billed annually ($20 billed monthly)",public,2026-09-28
 Contractor Foreman,Operations & Workflow,contractorforeman.com,49.0,annual_lock,https://aibuildermarketplace.com/b2b/contractor-foreman-review/,2026-07,$49,Basic · per month billed annually for the whole company with 1 user,public,2026-11-20
 Credit Repair Cloud,Financial Operations,creditrepaircloud.com,49.0,addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/credit-repair-cloud-review/,2026-07,$49,a month for one user,public,2026-10-10
-CrowdStrike,Security,crowdstrike.com,,,https://aibuildermarketplace.com/b2b/crowdstrike-review/,2026-07,$7.99,"Falcon Go · per device per month, or $59.99 per device a year",public,2026-09-22
+CrowdStrike,Security,crowdstrike.com,,,https://aibuildermarketplace.com/b2b/crowdstrike-review/,2026-07,$7.99,"Falcon Go · per device per month, or $59.99 per device a year",public,2026-11-20
 Database Mart,IT & Productivity,databasemart.com,2.88,addons_extra,https://aibuildermarketplace.com/b2b/database-mart-review/,2026-07,$2.88,"Express Linux VPS · per month, 2 CPU cores, 4GB RAM, 60GB SSD, marked save 51%",public,2026-10-06
 Databox,Operations & Workflow,databox.com,399.0,usage_metered|addons_extra|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/databox-review/,2026-07,$399,per month billed annually ($499 monthly),public,2026-11-12
 Datarails,Financial Operations,datarails.com,,quote_only|addons_extra,https://aibuildermarketplace.com/b2b/datarails-review/,2026-07,,,quote_only,2026-11-20
@@ -72,7 +72,7 @@ EasyDMARC,Security,easydmarc.com,35.99,addons_extra|annual_lock,https://aibuilde
 eBillity,Finance & Accounting,ebillity.com,8.0,per_seat|annual_lock,https://aibuildermarketplace.com/b2b/ebillity-review/,2026-07,$8,"Time Tracker Billing · per user a month, billed annually and paid in full at activation, no…",public,2026-10-15
 ElevateForward,Operations & Workflow,elevateforward.ai,250.0,usage_metered,https://aibuildermarketplace.com/b2b/elevateforward-review/,2026-07,$250,a month (page markup also shows an unlabeled alternate $8 figure),public,2026-11-16
 Emergent,IT & Productivity,emergent.sh,20.0,usage_metered|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/emergent-review/,2026-07,$20,per month ($17 yearly) for 100 credits,public,2026-10-17
-Employment Hero,HR & People,employmenthero.com,,per_seat|usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/employment-hero-review/,2026-07,A$10,HR Essentials · per employee per month excluding GST on the Australian pricing page…,public,2026-10-06
+Employment Hero,HR & People,employmenthero.com,,per_seat|usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/employment-hero-review/,2026-07,A$11,HR Essentials · per employee per month excluding GST on the Australian pricing page…,public,2026-11-20
 Envoy,Business Operations,envoy.com,362.0,per_seat|usage_metered,https://aibuildermarketplace.com/b2b/envoy-review/,2026-07,$362,"Visitors Premium · per location per month, billed annually",public,2026-10-04
 Evolve,Operations & Workflow,evolveplatform.ai,,quote_only,https://aibuildermarketplace.com/b2b/evolve-review/,2026-07,,,quote_only,2026-09-22
 ExpertEx,IT & Productivity,expertex.ai,10.0,per_seat|usage_metered|free_tier,https://aibuildermarketplace.com/b2b/expertex-review/,2026-07,$10,"a month, or $7 billed yearly, for 1,000 credits",public,2026-10-10
