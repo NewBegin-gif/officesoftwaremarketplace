@@ -1325,7 +1325,7 @@
    "entry_price": "$49",
    "entry_price_terms": "Basic · per month billed annually for the whole company with 1 user",
    "pricing_status": "public",
-   "price_note": "(re-verified 11 Oct 2026 on their own pricing page: annual prices unchanged since 1 Aug 2026; the quarterly option recorded on 28 Aug 2026 has been replaced by monthly billing) Priced for the company rather than per seat, with unlimited projects on every tier, and annual plans open with 30 days free before the first bill; monthly plans are charged at sign-up. Annual: Basic $49/month ($588 a year, 1 user), Standard $105 ($1,264, 3 users), Plus $166 ($1,997, 8 users), Pro $221 ($2,654, 15 users), Unlimited $332 ($3,984, unlimited users). Monthly billing costs more for the same plans: Standard $139, Plus $199, Pro $279, Unlimited $399 a month; Basic is 'Available for Annual' only. The page's 'Save' figures match twelve monthly payments against the annual total: $404, $391, $694 and $804. Their own wording: the fee listed is the fee for the company as a whole. Card payments taken through the built-in Stripe integration are billed separately at 2.9% + $0.30 a transaction (3.9% + $0.30 for Amex, 1% + $0.30 capped at $10.00 for ACH).",
+   "price_note": "(re-verified 20 Nov 2026 on their own pricing page: annual and monthly prices unchanged since 11 Oct 2026, annual prices unchanged since 1 Aug 2026; the quarterly option recorded on 28 Aug 2026 has been replaced by monthly billing) Priced for the company rather than per seat, with unlimited projects on every tier, and annual plans open with 30 days free before the first bill; monthly plans are charged at sign-up. Annual: Basic $49/month ($588 a year, 1 user), Standard $105 ($1,264, 3 users), Plus $166 ($1,997, 8 users), Pro $221 ($2,654, 15 users), Unlimited $332 ($3,984, unlimited users). Monthly billing costs more for the same plans: Standard $139, Plus $199, Pro $279, Unlimited $399 a month; Basic is 'Available for Annual' only. The page's 'Save' figures match twelve monthly payments against the annual total: $404, $391, $694 and $804. Their own wording: the fee listed is the fee for the company as a whole. Card payments taken through the built-in Stripe integration are billed separately at 2.9% + $0.30 a transaction (3.9% + $0.30 for Amex, 1% + $0.30 capped at $10.00 for ACH).",
    "flags": [
     {
      "flag": "annual_lock",
@@ -1333,11 +1333,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-11"
+     "verified_at": "2026-11-20"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-11",
+   "price_verified_at": "2026-11-20",
    "first_observed_at": null
   },
   {
@@ -1468,15 +1468,15 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "quote_only",
-   "price_note": "(read 2026-08-25 on www.datarails.com/pricing) There is no public price. Datarails publishes three plans — Professional, Premium and Expert — and every one of them carries a Request Quote button where the number would be. The page frames that as a feature: “Get a custom quote tailored to your needs. Complete cost transparency, with no consultant fees—ever.”\n\nWhat the page does publish is the shape of the ladder, and it is unusually explicit about what changes between tiers. The comparison table lists the same feature set on all three plans: reporting, planning, dashboards, Data Mapper, Lookups, Workflows, Submit Button, File Boxes, Filters, version control, the Datarails AI Suite, the FinanceOS AI Connector and permissions. Only two rows differ. Professional gives 1 integration and 2 users with standard support. Premium, marked most popular, gives 2 integrations and 5 users with premium support, and adds AI Storyboards, described as board decks in one click. In August 2026 Expert gave 3 integrations and 15 users with premium support plus one “additional product included”. Re-read on 10 October 2026 the cards are more specific: Premium bundles Datarails Spend (cards, bill pay, contracts), and Expert bundles Cash Management, Month-End Close, Receivables and Desk, with 15 users plus 50 viewers and 3 integrations. The same page also calls Cash, Month-End Close, Spend and Desk modules “you can layer onto any plan”, without a price.\n\nSo the meter is seats and connected systems, not features. The page states no currency, no billing period, no minimum term and does not say whether a quote is annual, and there is no free plan, no free trial and no self-serve signup: the only entry point on every page of the site is Request Demo or Request Quote. Treat any Datarails figure you have seen quoted elsewhere as unverified — on 25 August 2026 the vendor's own pricing page contains no amount at all.\n\nOne of those unpublished terms the vendor will answer if you ask. On 31 August 2026, through its partner team, Datarails told us that customers typically commit to an annual term, that billing can run monthly across that year, that users can be added as a team grows, and that adding modules or capabilities beyond the core platform can carry an extra cost that depends on the scope of the expansion. That is the vendor's own account rather than a published rate, so it belongs in your quote in writing — but it does answer the term question the pricing page leaves open.",
+   "price_note": "(read 2026-08-25 on www.datarails.com/pricing) There is no public price. Datarails publishes three plans — Professional, Premium and Expert — and every one of them carries a Request Quote button where the number would be. The page frames that as a feature: “Get a custom quote tailored to your needs. Complete cost transparency, with no consultant fees—ever.”\n\nWhat the page does publish is the shape of the ladder, and it is unusually explicit about what changes between tiers. The comparison table lists the same feature set on all three plans: reporting, planning, dashboards, Data Mapper, Lookups, Workflows, Submit Button, File Boxes, Filters, version control, the Datarails AI Suite, the FinanceOS AI Connector and permissions. Only two rows differ. Professional gives 1 integration and 2 users with standard support. Premium, marked most popular, gives 2 integrations and 5 users with premium support, and adds AI Storyboards, described as board decks in one click. In August 2026 Expert gave 3 integrations and 15 users with premium support plus one “additional product included”. Re-read on 10 October 2026 the cards are more specific: Premium bundles Datarails Spend (cards, bill pay, contracts), and Expert bundles Cash Management, Month-End Close, Receivables and Desk, with 15 users plus 50 viewers and 3 integrations. The same page also calls Cash, Month-End Close, Spend and Desk modules “you can layer onto any plan”, without a price.\n\nSo the meter is seats and connected systems, not features. The page states no currency, no billing period, no minimum term and does not say whether a quote is annual, and there is no free plan, no free trial and no self-serve signup: the only entry point on every page of the site is Request Demo or Request Quote. Treat any Datarails figure you have seen quoted elsewhere as unverified — on 25 August 2026 the vendor's own pricing page contains no amount at all.\n\nOne of those unpublished terms the vendor will answer if you ask. On 31 August 2026, through its partner team, Datarails told us that customers typically commit to an annual term, that billing can run monthly across that year, that users can be added as a team grows, and that adding modules or capabilities beyond the core platform can carry an extra cost that depends on the scope of the expansion. That is the vendor's own account rather than a published rate, so it belongs in your quote in writing — but it does answer the term question the pricing page leaves open. Re-read 20 November 2026: still no amount on any plan. The cards now read Professional with 2 users, 1 integration, Datarails AI Agents and the FinanceOS AI Connector on standard support; Premium adds Spend (cards, bill pay, contracts), 5 users and 2 integrations on premium support; Expert adds Cash Management, Month-End Close, Receivables and Desk, with 15 users plus 50 viewers and 3 integrations.",
    "flags": [
     {
      "flag": "quote_only",
-     "evidence": "No published price: Professional, Premium and Expert all route to a Request Quote button, no amount on the page (read 25 Aug 2026)",
+     "evidence": "No published price: Professional, Premium and Expert all route to a Request Quote button, no amount on the page (read 25 Aug 2026, re-read 20 Nov 2026)",
      "evidence_excerpt": null,
      "source_url": "https://www.datarails.com/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-10"
+     "verified_at": "2026-11-20"
     },
     {
      "flag": "addons_extra",
@@ -1484,11 +1484,11 @@
      "evidence_excerpt": "On 31 August 2026, through its partner team, Datarails told us that customers typically commit to an annual term, that billing can run monthly across that year, that users can be added as a team grow…",
      "source_url": "https://www.datarails.com/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-10"
+     "verified_at": "2026-11-20"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-10",
+   "price_verified_at": "2026-11-20",
    "first_observed_at": "2026-08-25"
   },
   {
