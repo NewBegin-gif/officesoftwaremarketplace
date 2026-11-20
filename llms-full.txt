@@ -184,7 +184,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/carbon6-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Carbon6: Entry tools from about $49/mo, PixelMe from about $500/mo with a 6-month minimum. The honest headline here is not pricing but ownership.
-- Price: What we can verify on the vendor’s own pages today (re-checked 10 Oct 2026; unchanged since 26 Aug 2026): carbon6.io/pricing now redirects to the tool list, so there is no suite-level price at all. SoStocked has dropped its two-tier ladder — where on 21 Jul it listed ProfitFlow at $97/mo and ProfitFlow + Inventory at "starting at" $250/mo, it now shows a single Inventory + Profit plan at "starting at" $175/mo…
+- Price: What we can verify on the vendor’s own pages today (re-checked 10 Oct and 20 Nov 2026; unchanged since 26 Aug 2026): carbon6.io/pricing now redirects to the tool list, so there is no suite-level price at all. SoStocked has dropped its two-tier ladder — where on 21 Jul it listed ProfitFlow at $97/mo and ProfitFlow + Inventory at "starting at" $250/mo, it now shows a single Inventory + Profit plan at "starting at"…
 
 ## Checkr
 - Review: https://officesoftwaremarketplace.com/checkr-review.html
@@ -226,7 +226,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/cloudways-review.html
 - Hands-on: tested by us on 2026-10-25. Measured 2026-10-25: The Flexible trial needed no card before launch. The setup screen showed DigitalOcean Premium 4GB at $54.00 a month ($0.0804 an hour) and $0 during the trial, with billing starting only when the account is…
 - Verdict: Cloudways: $0.0208 an hour is the $14 plan. "Fully managed" here means the server, not your site, and that distinction is where the money is.
-- Price: (read 2026-08-26 on cloudways.com/en/pricing.php, DigitalOcean tab) No free tier, but a 3-day free trial with no credit card required. Billing is hourly and post-paid, invoiced in the first week of the following month, with no annual contract — and the hourly figure is the one that decides the bill: every card divides its monthly price by 672 hours, so $0.0208 an hour is the $14 plan.
+- Price: (read 2026-08-26 on cloudways.com/en/pricing.php, DigitalOcean tab) No free tier, but a free trial with no credit card required: 5 days on Flexible, the managed-server product this price list covers, on DigitalOcean, Vultr or Linode only (AWS and Google Cloud are not in the trial), and the trial server is deleted when it ends unless you add a payment method (read 20 November 2026). Billing is hourly and…
 
 ## Clutch
 - Review: https://officesoftwaremarketplace.com/clutch-review.html
