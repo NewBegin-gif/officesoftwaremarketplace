@@ -40,7 +40,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/airia-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Airia used to publish a ladder: a free tier, Individual around $50 a month and Team around $250. As of 20 August 2026 that is over.
-- Price: (re-verified 2026-10-10) Quote-only. Airia used to publish a ladder: a free tier, Individual around $50 a month and Team around $250.
+- Price: (re-verified 2026-11-21) Quote-only. Airia used to publish a ladder: a free tier, Individual around $50 a month and Team around $250.
 
 ## Alvys
 - Review: https://officesoftwaremarketplace.com/alvys-review.html

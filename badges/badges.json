@@ -472,6 +472,22 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/foxit-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/foxit.svg\" width=\"340\" height=\"115\" alt=\"Foxit hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 5; 1 confirmed · 1 contradicted · 2 not testable · 1 out of date; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "getscreen",
+  "name": "Getscreen",
+  "review_url": "https://officesoftwaremarketplace.com/getscreen-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/getscreen.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#getscreen",
+  "tested_on": "2026-11-19",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 5",
+   "2 confirmed · 2 contradicted · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Getscreen hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 5; 2 confirmed · 2 contradicted · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/getscreen-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/getscreen.svg\" width=\"340\" height=\"115\" alt=\"Getscreen hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 5; 2 confirmed · 2 contradicted · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "goflow",
   "name": "Goflow",
   "review_url": "https://officesoftwaremarketplace.com/goflow-review.html",
@@ -599,6 +615,22 @@
   ],
   "alt": "Leavo hands-on test by Office Software Marketplace, 31 Oct 2026: Vendor claims checked 4; 2 confirmed · 2 not testable; Data export: file opened, re-import not tested",
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/leavo-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/leavo.svg\" width=\"340\" height=\"115\" alt=\"Leavo hands-on test by Office Software Marketplace, 31 Oct 2026: Vendor claims checked 4; 2 confirmed · 2 not testable; Data export: file opened, re-import not tested\"></a>"
+ },
+ {
+  "slug": "lindy-ai",
+  "name": "Lindy.ai",
+  "review_url": "https://officesoftwaremarketplace.com/lindy-ai-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/lindy-ai.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#lindy-ai",
+  "tested_on": "2026-10-31",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 3",
+   "1 contradicted · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Lindy.ai hands-on test by Office Software Marketplace, 31 Oct 2026: Vendor claims checked 3; 1 contradicted · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/lindy-ai-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/lindy-ai.svg\" width=\"340\" height=\"115\" alt=\"Lindy.ai hands-on test by Office Software Marketplace, 31 Oct 2026: Vendor claims checked 3; 1 contradicted · 2 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "make",
