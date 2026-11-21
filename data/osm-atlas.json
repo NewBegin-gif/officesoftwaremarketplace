@@ -628,44 +628,44 @@
    "entry_price": "$9.99",
    "entry_price_terms": "Premium, for individuals · billed monthly",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-08-17 and 2026-10-07) Free forever for individuals (2 cards, unlimited QR sharing). For individuals, Premium is $9.99 a month billed monthly or $7.33 billed annually. For teams, Business is $6.99 per user a month billed monthly or $4.99 per user billed annually, with a minimum charge of five cards, adding CRM sync, templates, the admin platform and team analytics; custom reporting sits on Enterprise. Enterprise is custom. Event lead capture is no longer a separate add-on: it is part of Business and billed per lead, 1 credit at $9.99 for each lead captured and enriched (0.75 credit when Blinq adds no email or phone, none for a duplicate), invoiced monthly in arrears on top of the seats; bulk and unlimited lead packages are quote-only. In August 2026 we recorded the add-on as starting around $199 a month (historical). Note the individual plan costs more per person than the team plan — if there are five of you, the team tier is both cheaper per head and more capable.",
+   "price_note": "(corrected 2026-11-21, read on blinq.me/pricing and in two Blinq help-centre articles updated 20 November 2026) Free forever for individuals: two cards, unlimited sharing, unlimited lead capture with email enrichment, and the AI Notetaker with notes from the last 30 days. Premium is $9.99 a month billed monthly or $7.33 billed annually, for up to five custom-branded cards without Blinq branding. A Pro plan for individuals now sits above it at $22.49 a month billed monthly or $16.58 billed annually, adding advanced enrichment with phone numbers, the unlimited AI Notetaker, CSV export, and MCP and API access. Business for teams is $6.99 per card a month billed monthly or $4.99 per card billed annually, from five cards, adding CRM sync, templates, the admin platform and team analytics; custom reporting sits on Enterprise, which is custom. Capturing leads no longer costs anything per lead: the help centre says capture and AI enrichment of captured leads are included, subject to fair use. What is charged is Campaigns, the workspace for one event, at $750 per campaign on pay as you go (75 credits at $10 each), billed monthly in arrears on top of the seats. The pricing page shows Event Lead Capture as an optional add-on 'From $500/event' with a link to volume pricing; the annual event packages behind that are not priced in public. Bulk enrichment of an uploaded list is priced case by case. The page advertises up to 30% off for annual billing; our own arithmetic gives 27% on Premium, 26% on Pro and 29% on Business. Note the individual plans cost more per person than the team plan: if there are five of you, the team tier is both cheaper per head and more capable.",
    "flags": [
     {
-     "flag": "per_seat",
-     "evidence": "For teams, Business is $6.99 per user a month billed monthly or $4.99 per user billed annually, with a minimum charge of five cards, adding CRM sync, templates, the admin platform and team analytics; custom reporting sits on Enterprise.",
-     "evidence_excerpt": "For teams, Business is $6.99 per user a month billed monthly or $4.99 per user billed annually, with a minimum charge of five cards, adding CRM sync, templates, the admin platform and team analytics;…",
-     "source_url": null,
-     "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
-    },
-    {
      "flag": "usage_metered",
-     "evidence": "Event lead capture is no longer a separate add-on: it is part of Business and billed per lead, 1 credit at $9.99 for each lead captured and enriched (0.75 credit when Blinq adds no email or phone, none for a duplicate), invoiced monthly in arrears on top of the seats; bulk and unlimited lead packages are quote-only.",
-     "evidence_excerpt": "Event lead capture is no longer a separate add-on: it is part of Business and billed per lead, 1 credit at $9.99 for each lead captured and enriched (0.75 credit when Blinq adds no email or phone, no…",
+     "evidence": "What is charged is Campaigns, the workspace for one event, at $750 per campaign on pay as you go (75 credits at $10 each), billed monthly in arrears on top of the seats.",
+     "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-11-21"
     },
     {
      "flag": "addons_extra",
-     "evidence": "In August 2026 we recorded the add-on as starting around $199 a month (historical).",
+     "evidence": "The pricing page shows Event Lead Capture as an optional add-on 'From $500/event' with a link to volume pricing; the annual event packages behind that are not priced in public.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-11-21"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "The page advertises up to 30% off for annual billing; our own arithmetic gives 27% on Premium, 26% on Pro and 29% on Business.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-21"
     },
     {
      "flag": "free_tier",
-     "evidence": "(re-verified 2026-08-17 and 2026-10-07) Free forever for individuals (2 cards, unlimited QR sharing).",
-     "evidence_excerpt": null,
+     "evidence": "(corrected 2026-11-21, read on blinq.me/pricing and in two Blinq help-centre articles updated 20 November 2026) Free forever for individuals: two cards, unlimited sharing, unlimited lead capture with email enrichment, and the AI Notetaker with notes from the last 30 days.",
+     "evidence_excerpt": "(corrected 2026-11-21, read on blinq.me/pricing and in two Blinq help-centre articles updated 20 November 2026) Free forever for individuals: two cards, unlimited sharing, unlimited lead capture with…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-11-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-07",
-   "first_observed_at": "2026-08-17"
+   "price_verified_at": "2026-11-21",
+   "first_observed_at": "2026-11-21"
   },
   {
    "name": "Bokun",
