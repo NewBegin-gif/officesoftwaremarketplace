@@ -213,8 +213,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## ClickUp
 - Review: https://officesoftwaremarketplace.com/clickup-review.html
 - Hands-on: tested by us on 2026-10-23. Measured 2026-10-23: The spreadsheet importer (Settings > Imports / Exports) matched all five columns of our CSV to ClickUp fields automatically, then mapped the three status values one to one and previewed 3 valid rows before…
-- Verdict: ClickUp: A Free Forever plan with unlimited tasks but 60MB of storage; Unlimited $7 and Business $12 per user/month billed yearly.
-- Price: (re-verified 2026-08-13, read on their own pricing page with both billing tabs open; every amount unchanged on 2026-09-30) A Free Forever plan with unlimited tasks but 60MB of storage; Unlimited $7 and Business $12 per user/month billed yearly, which are $10 and $19 billed monthly; Enterprise is quote-only. AI is priced on top of the plan: Brain AI $9 and Everything AI $28 per user/month.
+- Verdict: ClickUp: Free Forever stays at $0 with unlimited tasks, unlimited free members and 60MB of storage. The everything-app breadth is also the downside.
+- Price: (corrected 2026-11-21, read on clickup.com/pricing in a rendered browser) ClickUp has rebuilt its plan ladder since our 30 September reading. Free Forever stays at $0 with unlimited tasks, unlimited free members and 60MB of storage.
 
 ## CloudTask
 - Review: https://officesoftwaremarketplace.com/cloudtask-review.html

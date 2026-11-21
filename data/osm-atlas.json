@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 259,
-  "flags": 414,
+  "flags": 413,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on officesoftwaremarketplace.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -17,7 +17,7 @@
    "entry_price": "$3.99",
    "entry_price_terms": "Individual · per month, regular rate billed annually",
    "pricing_status": "public",
-   "price_note": "Teams Starter Pack about $24.95/mo flat for 10 members (billed annually, $29.95 month-to-month), with up to 10 further seats at $4.99 each per month on annual billing; Business about $8.99/user/mo (billed annually, $10.99 month-to-month), plus custom Enterprise. Personal plans Individual $3.99/mo and Families $5.99/mo on annual billing, or $4.99 and $7.99 month-to-month; the $2.99 and $4.49 shown on the cards are a 25% discount for the first 12 months, new customers only. No free tier; 14-day free trial (re-verified 2026-10-01).",
+   "price_note": "Teams Starter Pack about $24.95/mo flat for 10 members (billed annually, $29.95 month-to-month), with up to 10 further seats at $4.99 each per month on annual billing; Business about $8.99/user/mo (billed annually, $10.99 month-to-month), plus custom Enterprise. Personal plans Individual $3.99/mo and Families $5.99/mo on annual billing, or $4.99 and $7.99 month-to-month; the $2.99 and $4.49 shown on the cards are a 25% discount for the first 12 months, new customers only. No free tier; 14-day free trial (re-verified 2026-10-01 and 2026-11-21). On 21 November 2026 1password.com/pricing/personal and /pricing/business, rendered in a browser on both billing tabs, gave the same USD rates: Individual $3.99 ($2.99 first-year promotion, $4.99 monthly), Families $5.99 ($4.49, $7.99), Business $8.99 per user ($10.99 monthly). The Teams Starter Pack card is now shown per user, $2.49 billed yearly or $2.99 monthly with a 10-user minimum and a 20-user maximum, while the business FAQ on the same page still prices the pack at $24.95 a month on annual billing ($299.40 a year) and extra seats at $4.99. Ten seats at the card rate come to $24.90, so the two figures differ by 5 cents.",
    "flags": [
     {
      "flag": "per_seat",
@@ -25,7 +25,7 @@
      "evidence_excerpt": "Teams Starter Pack about $24.95/mo flat for 10 members (billed annually, $29.95 month-to-month), with up to 10 further seats at $4.99 each per month on annual billing; Business about $8.99/user/mo (b…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-01"
+     "verified_at": "2026-11-21"
     },
     {
      "flag": "annual_lock",
@@ -33,11 +33,11 @@
      "evidence_excerpt": "Teams Starter Pack about $24.95/mo flat for 10 members (billed annually, $29.95 month-to-month), with up to 10 further seats at $4.99 each per month on annual billing; Business about $8.99/user/mo (b…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-01"
+     "verified_at": "2026-11-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-01",
+   "price_verified_at": "2026-11-21",
    "first_observed_at": null
   },
   {
@@ -971,7 +971,7 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "see_details",
-   "price_note": "No subscription — per-trade fees, re-verified 2026-10-16 against Bybit's own fee schedule, which still says it was last updated on 2 September 2026; the base VIP table below is unchanged since our 5 September reading. At VIP 0 (non-VIP): spot 0.1000% maker and 0.1000% taker; perpetuals and futures 0.0200% maker and 0.0550% taker; options 0.0200% maker and 0.0300% taker. The VIP ladder cuts those toward zero — at Supreme VIP spot is 0.0300% maker and 0.0450% taker, derivatives 0.0000% maker and 0.0300% taker, options 0.0050% and 0.0150%. Note that the top derivatives maker rate is zero rather than a rebate: we found no negative maker fee in the published table. That base table is not the only one, and the others start higher: fiat-crypto spot pairs cost 0.2000% taker and 0.1500% maker under $100,000 of 30-day volume, the Spot Adventure Zone and xStocks 0.2000% both ways at VIP 0, and Pre-Market Perpetuals and the Innovation Zone 0.0400% maker and 0.1000% taker — so a new account trading the newest listings pays about double the headline rate. Your VIP level is set by your asset balance, your 30-day average net borrowing or your trading volume over the past 30 days, whichever qualifies you higher, and it refreshes daily at 07:00 UTC. Bybit adds that actual rates can vary by region and points you to your own My Fee Rate page.",
+   "price_note": "No subscription — per-trade fees, re-verified 2026-10-16 against Bybit's own fee schedule, which still says it was last updated on 2 September 2026; the base VIP table below is unchanged since our 5 September reading. At VIP 0 (non-VIP): spot 0.1000% maker and 0.1000% taker; perpetuals and futures 0.0200% maker and 0.0550% taker; options 0.0200% maker and 0.0300% taker. The VIP ladder cuts those toward zero — at Supreme VIP spot is 0.0300% maker and 0.0450% taker, derivatives 0.0000% maker and 0.0300% taker, options 0.0050% and 0.0150%. Note that the top derivatives maker rate is zero rather than a rebate: we found no negative maker fee in the published table. That base table is not the only one, and the others start higher: fiat-crypto spot pairs cost 0.2000% taker and 0.1500% maker under $100,000 of 30-day volume, the Spot Adventure Zone and xStocks 0.2000% both ways at VIP 0, Pre-Market Perpetuals 0.0400% maker and 0.1000% taker, and the Innovation Zone 0.0400% maker and 0.1100% taker — so a new account trading the newest listings pays about double the headline rate. Your VIP level is set by your asset balance, your 30-day average net borrowing or your trading volume over the past 30 days, whichever qualifies you higher, and it refreshes daily at 07:00 UTC. Bybit adds that actual rates can vary by region and points you to your own My Fee Rate page.",
    "flags": [],
    "researched": "2026-07",
    "price_verified_at": "2026-10-16",
@@ -1100,48 +1100,40 @@
    "category": "Operations & Workflow",
    "domain": "clickup.com",
    "review_url": "https://aibuildermarketplace.com/b2b/clickup-review/",
-   "from_price_usd_mo": 7.0,
-   "entry_price": "$7",
-   "entry_price_terms": "per user per month billed yearly ($10 monthly)",
+   "from_price_usd_mo": 9.0,
+   "entry_price": "$9",
+   "entry_price_terms": "Core, per user · per month, billed yearly",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-08-13, read on their own pricing page with both billing tabs open; every amount unchanged on 2026-09-30) A Free Forever plan with unlimited tasks but 60MB of storage; Unlimited $7 and Business $12 per user/month billed yearly, which are $10 and $19 billed monthly; Enterprise is quote-only. AI is priced on top of the plan: Brain AI $9 and Everything AI $28 per user/month. On 2026-09-30 the AI section also listed what the AI plans include: Brain AI adds 1,500 AI Super Credits per user a month and Everything AI 5,000, shared across the Workspace, with extra credits at $10 per 10,000.",
+   "price_note": "(corrected 2026-11-21, read on clickup.com/pricing in a rendered browser) ClickUp has rebuilt its plan ladder since our 30 September reading. Free Forever stays at $0 with unlimited tasks, unlimited free members and 60MB of storage. The paid plans are now Core at $9 per user/month billed yearly (the card strikes through a regular price of $12), Business at $17 billed yearly (regular price $25), Enterprise on quote, and a new Max plan at $100 per user/month billed yearly (regular price $120). The page says yearly billing saves up to 33%; the month-to-month figures did not render when we switched the billing tab, so we do not quote them. AI now sits inside the paid plans instead of on top: Core carries a Brain² trial with 1,000 AI credits per user a month, Business 1,500, Enterprise 3,000 and Max 10,000, pooled across the Workspace, with extra credits at $10 per 10,000. An upgrade covers every member of the Workspace, and the refund window is 30 days.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "(re-verified 2026-08-13, read on their own pricing page with both billing tabs open; every amount unchanged on 2026-09-30) A Free Forever plan with unlimited tasks but 60MB of storage; Unlimited $7 and Business $12 per user/month billed yearly, which are $10 and $19 billed monthly; Enterprise is quote-only.",
-     "evidence_excerpt": "(re-verified 2026-08-13, read on their own pricing page with both billing tabs open; every amount unchanged on 2026-09-30) A Free Forever plan with unlimited tasks but 60MB of storage; Unlimited $7 a…",
+     "evidence": "The paid plans are now Core at $9 per user/month billed yearly (the card strikes through a regular price of $12), Business at $17 billed yearly (regular price $25), Enterprise on quote, and a new Max plan at $100 per user/month billed yearly (regular price $120).",
+     "evidence_excerpt": "The paid plans are now Core at $9 per user/month billed yearly (the card strikes through a regular price of $12), Business at $17 billed yearly (regular price $25), Enterprise on quote, and a new Max…",
      "source_url": "https://clickup.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-30"
+     "verified_at": "2026-11-21"
     },
     {
      "flag": "usage_metered",
-     "evidence": "On 2026-09-30 the AI section also listed what the AI plans include: Brain AI adds 1,500 AI Super Credits per user a month and Everything AI 5,000, shared across the Workspace, with extra credits at $10 per 10,000.",
-     "evidence_excerpt": "On 2026-09-30 the AI section also listed what the AI plans include: Brain AI adds 1,500 AI Super Credits per user a month and Everything AI 5,000, shared across the Workspace, with extra credits at $…",
+     "evidence": "AI now sits inside the paid plans instead of on top: Core carries a Brain² trial with 1,000 AI credits per user a month, Business 1,500, Enterprise 3,000 and Max 10,000, pooled across the Workspace, with extra credits at $10 per 10,000.",
+     "evidence_excerpt": "AI now sits inside the paid plans instead of on top: Core carries a Brain² trial with 1,000 AI credits per user a month, Business 1,500, Enterprise 3,000 and Max 10,000, pooled across the Workspace, …",
      "source_url": "https://clickup.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-30"
-    },
-    {
-     "flag": "addons_extra",
-     "evidence": "AI is priced on top of the plan: Brain AI $9 and Everything AI $28 per user/month.",
-     "evidence_excerpt": null,
-     "source_url": "https://clickup.com/pricing",
-     "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-30"
+     "verified_at": "2026-11-21"
     },
     {
      "flag": "free_tier",
-     "evidence": "(re-verified 2026-08-13, read on their own pricing page with both billing tabs open; every amount unchanged on 2026-09-30) A Free Forever plan with unlimited tasks but 60MB of storage; Unlimited $7 and Business $12 per user/month billed yearly, which are $10 and $19 billed monthly; Enterprise is quote-only.",
-     "evidence_excerpt": "(re-verified 2026-08-13, read on their own pricing page with both billing tabs open; every amount unchanged on 2026-09-30) A Free Forever plan with unlimited tasks but 60MB of storage; Unlimited $7 a…",
+     "evidence": "Free Forever stays at $0 with unlimited tasks, unlimited free members and 60MB of storage.",
+     "evidence_excerpt": null,
      "source_url": "https://clickup.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-30"
+     "verified_at": "2026-11-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-30",
-   "first_observed_at": "2026-08-13"
+   "price_verified_at": "2026-11-21",
+   "first_observed_at": "2026-11-21"
   },
   {
    "name": "CloudTask",
@@ -2750,7 +2742,7 @@
    "entry_price": "$59",
    "entry_price_terms": "a year (1 site, standard support)",
    "pricing_status": "public",
-   "price_note": "(price re-verified 2026-09-23 against the vendor's own pricing page) Annual WordPress licences, unchanged since 1 Sep 2026: Basic $59/yr (1 site, standard support), Pro $159/yr (3 sites, standard support), Elite $259/yr (unlimited sites, WordPress Multisite, priority support and every first-party add-on). Which add-on sits where decides the tier as often as the site count: Basic carries the email-marketing and anti-spam add-ons (HubSpot, Mailchimp, ActiveCampaign, Brevo, Kit, reCAPTCHA, Cloudflare Turnstile among them); Pro adds the payment and workflow ones (Stripe, PayPal Checkout, Square, Mollie, Zapier, Slack, Dropbox, Zoho CRM); Elite alone has Webhooks, Salesforce, Google Analytics, Coupons, Partial Entries, Signature, Survey, Quiz, Polls, User Registration, Conversational Forms, Advanced Post Creation and 2Checkout. No trial version, only an online demo. No renewal rate is published on the page. Refund policy: 30 days from each payment, covering original purchases, renewals and upgrades; a refund request deactivates the licence immediately and a deactivated licence cannot be renewed or reactivated; no partial refunds. On WordPress.com the plugin needs the Business plan with a custom domain. The third-party extensions most advanced builds lean on are separate purchases with their own ladders, all re-read 23 Sep 2026 and unchanged: Gravity Perks $59/$169/$299 a year, Gravity Flow $99/$299/$447, and GravityKit $119 for GravityView, $199 for GravityView Pro and $396 for the All Access Pass, the three GravityKit prices still shown with a first-year sale ($79.34, $132.67 and $264.01).",
+   "price_note": "(price re-verified 2026-09-23 against the vendor's own pricing page) Annual WordPress licences, unchanged since 1 Sep 2026: Basic $59/yr (1 site, standard support), Pro $159/yr (3 sites, standard support), Elite $259/yr (unlimited sites, WordPress Multisite, priority support and every first-party add-on). Which add-on sits where decides the tier as often as the site count: Basic carries the email-marketing and anti-spam add-ons (HubSpot, Mailchimp, ActiveCampaign, Brevo, Kit, reCAPTCHA, Cloudflare Turnstile among them); Pro adds the payment and workflow ones (Stripe, PayPal Checkout, Square, Mollie, Zapier, Slack, Dropbox, Zoho CRM); Elite alone has Webhooks, Salesforce, Google Analytics, Coupons, Partial Entries, Signature, Survey, Quiz, Polls, User Registration, Conversational Forms, Advanced Post Creation and 2Checkout. No trial version, only an online demo. No renewal rate is published on the page. Refund policy: 30 days from each payment, covering original purchases, renewals and upgrades; a refund request deactivates the licence immediately and a deactivated licence cannot be renewed or reactivated; no partial refunds. On WordPress.com the plugin needs the Business plan with a custom domain. The third-party extensions most advanced builds lean on are separate purchases with their own ladders, all re-read 23 Sep 2026 and unchanged: Gravity Perks $59/$169/$349 a year (Pro was $299 until our 21 November 2026 reading), Gravity Flow $99/$299/$447, and GravityKit $119 for GravityView, $199 for GravityView Pro and $396 for the All Access Pass, the three GravityKit prices still shown with a first-year sale ($79.34, $132.67 and $264.01).",
    "flags": [
     {
      "flag": "addons_extra",
@@ -5214,7 +5206,7 @@
    "entry_price": "$499",
    "entry_price_terms": "per employee per month (EOR Select from $199 in selected countries and salary ranges)",
    "pricing_status": "public",
-   "price_note": "(read 2026-11-12 on their own pricing page. NEW since our readings of 2026-08-07, 2026-10-06 and 2026-10-09, which showed EOR Flex from $199 and EOR Plus from $399) Priced per service rather than per plan, and every figure is a floor. Employer of Record: EOR Global from $499 per employee a month, and EOR Select from $199 per employee a month for selected countries and qualifying salary ranges (country and salary conditions apply). The page no longer lists EOR Flex or EOR Plus. Our earlier readings had EOR Flex from $199 (billed monthly, no commitment, no setup fee, no minimum headcount) and EOR Plus from $399 (annual commitment, minimum of 5 employees). Contractor of Record from $199 a month including misclassification cover; plain contractor management from $29 per payout. US PEO from $99 per employee a month and US payroll from $29. Global payroll from $25 per employee a month, with volume discounts quoted above 50 employees. Recruitment is charged on salary instead: Recruit + EOR is 2% of annual salary spread over twelve months, Global Recruitment 20% payable on the candidate’s first day, and Executive Search 25%. Legal help is $199 an hour with no retainer. Benefits, equity, incorporation, entity management and visas are all quote-only. The pricing FAQ (read 12 November 2026) says your proposal confirms the applicable security deposit, payroll funding requirements and refund terms, and names no plan that needs no deposit. On 9 October 2026 it said EOR Plus required no security deposit.",
+   "price_note": "(read 2026-11-12 on their own pricing page. NEW since our readings of 2026-08-07, 2026-10-06 and 2026-10-09, which showed EOR Flex from $199 and EOR Plus from $399) Priced per service rather than per plan, and every figure is a floor. Employer of Record: EOR Global from $499 per employee a month, and EOR Select from $199 per employee a month for selected countries and qualifying salary ranges (country and salary conditions apply). The page no longer lists EOR Flex or EOR Plus. Our earlier readings had EOR Flex from $199 (billed monthly, no commitment, no setup fee, no minimum headcount) and EOR Plus from $399 (annual commitment, minimum of 5 employees). Contractor of Record from $199 a month including misclassification cover; plain contractor management from $29 per payout. US PEO from $99 per employee a month and US payroll from $29. Global payroll from $25 per employee a month, with volume discounts quoted above 50 employees. Recruitment is charged on salary instead: Recruit + EOR is 2% of annual salary per month, billed monthly for twelve months (24% of annual salary in total), Global Recruitment 20% payable on the candidate’s first day, and Executive Search 25%. Legal help is $199 an hour with no retainer. Benefits, equity, incorporation, entity management and visas are all quote-only. The pricing FAQ (read 12 November 2026) says your proposal confirms the applicable security deposit, payroll funding requirements and refund terms, and names no plan that needs no deposit. On 9 October 2026 it said EOR Plus required no security deposit.",
    "flags": [
     {
      "flag": "per_seat",
