@@ -1,6 +1,6 @@
 # Office Software Marketplace — Full Review Catalog
 
-> All 207 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-20.
+> All 210 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-21.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -462,6 +462,12 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Verdict: GCheck: Basic is $18.95 per check (it was $19.95 when we first read the page on 29 September) and covers an SSN trace and address history.
 - Price: (re-verified 2026-10-16 on gcheck.com/pricing-packages after GCheck's partner mail announced a lower Basic price, and again on 2026-11-12 with its comparison page; first read 2026-09-29, including its FAQ) Three packages, each priced per background check, with no setup fees, no minimums and no long-term contracts. Basic is $18.95 per check (it was $19.95 when we first read the page on 29 September) and covers an…
 
+## Getscreen
+- Review: https://officesoftwaremarketplace.com/getscreen-review.html
+- Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: The banner, the welcome message and Rate Plan (expiration date 03.12.2026) all show a 14-day trial, started with the account, with no card asked.
+- Verdict: Getscreen: Free plan (2 devices); paid tiers add one-time quick connections (Advanced) and white-label, roles and mass-device management (Enterprise).
+- Price: (price re-verified 2026-09-23) Business rates on getscreen.me/en/pricing/plans/ are quoted on annual payment, which the page marks 16% off. The figures were first read over a US connection on 2026-08-26 as dollars and have not moved since; from a Dutch connection the same numerals print as euros, so the currency symbol follows the visitor region rather than the price.
+
 ## Glide
 - Review: https://officesoftwaremarketplace.com/glide-review.html
 - Hands-on: tested by us on 2026-09-07
@@ -564,6 +570,12 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Verdict: Inbox Zero: Starter is $18 per user a month billed annually or $20 monthly. Pricing is per user, and a second mailbox needs Plus.
 - Price: (read 2026-10-15 in a live browser on getinboxzero.com/pricing with its comparison table and FAQ, the home page, the terms of service dated 16 July 2023 and the privacy policy) Three plans priced per user, plus Enterprise. Starter is $18 per user a month billed annually or $20 monthly: labelling and sorting every email, drafted replies in your voice, a cold-email blocker, bulk unsubscribe and archive, email…
 
+## Insightful
+- Review: https://officesoftwaremarketplace.com/insightful-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Verdict: Insightful, Add-ons: Workspace Security $4/seat/mo, screen recording $4, on-demand screenshots $4, higher-frequency screenshots $3 (up to 120 an hour).
+- Price: (price re-verified 2026-09-09 against the vendor's own pricing page, re-read unchanged 2026-09-26) (2026) Per seat; the rates below are the annual ones. Workforce Analytics $8/seat/mo, Workflow Optimization $12/seat/mo (a beta open to selected customers), or both bundled at $16/seat/mo (saves 20%); Enterprise custom, and that is where audit logs and SSO sit.
+
 ## InVideo
 - Review: https://officesoftwaremarketplace.com/invideo-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
@@ -617,6 +629,12 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Liltio: $49 standard price, with no recurring subscription. Speech recognition is local, but if you switch on a configured remote AI for text transforms.
 - Price: (read 2026-10-23 on liltio.com/#pricing; US dollars, before applicable taxes) Liltio sells one product, Liltio Local, as a one-time lifetime licence: $49 standard price, with no recurring subscription. A founding offer takes it to $29 for the first 100 paid licences, applied automatically while available; on 23 October 2026 the page counted 100 of 100 left and said availability is final at checkout.
+
+## Lindy.ai
+- Review: https://officesoftwaremarketplace.com/lindy-ai-review.html
+- Hands-on: tested by us on 2026-10-31. Measured 2026-10-31: The observed trial-start route required a payment method; we stopped without activating the trial.
+- Verdict: Lindy.ai: 6,000 credits $59.99, 8,000 $79.99, 15,000 $99.99, 20,000 $149.99, 35,000 $199.99, 45,000 $299.99. Cost tracks headcount as well as output.
+- Price: (re-verified 2026-11-08, read on their own pricing page by plain fetch, ten times) Team starts at $29.99/mo per user for 3,000 credits on some fetches of lindy.ai/pricing and at $49.99/mo per user for 5,000 credits on others: the page serves two versions of the entry level, and 7 of 10 pricing-page fetches on 8 November showed $49.99. The plan line-up changed since 2 October: Plus, Pro and Max are gone.
 
 ## Lovable
 - Review: https://officesoftwaremarketplace.com/lovable-review.html
