@@ -1,6 +1,6 @@
 # Office Software Marketplace — Full Review Catalog
 
-> All 210 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-21.
+> All 212 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-21.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -726,6 +726,12 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Verdict: Ngram: Credit-based, three published tiers plus a quote-only Enterprise, with annual billing 20% off. Premium AI generation runs from 10 credits a second.
 - Price: (re-verified 2026-08-17 and 2026-10-07) Credit-based, three published tiers plus a quote-only Enterprise, with annual billing 20% off. Free is a one-time 600-credit allocation capped at 60 seconds of premium AI generation and 720p exports.
 
+## Nifty
+- Review: https://officesoftwaremarketplace.com/nifty-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Verdict: Nifty: Free is $0 forever with unlimited members, 2 active projects, 500 tasks and 100 MB of files. The free limit is easy to miss.
+- Price: (read 2026-11-21 in the Nifty app and on niftypm.com/pricing) Free is $0 forever with unlimited members, 2 active projects, 500 tasks and 100 MB of files. Per member and billed yearly, Pro is $10 and Business $16 a month.
+
 ## Niural AI
 - Review: https://officesoftwaremarketplace.com/niural-ai-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
@@ -1085,6 +1091,12 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Hands-on: tested by us on 2026-10-01
 - Verdict: Synthesia: The public pricing page is geo-priced. The minute caps are tight: Starter's 1,250 credits a month is roughly 10 to 12 minutes of finished video.
 - Price: (re-read 12 and 13 November 2026, unchanged) The public pricing page is geo-priced, and the dollar view has changed since 1 October. In dollars it read Starter $19 a month (first month $9) or $14 a month billed yearly ($168) with 1,250 credits a month, and Pro $89 a month (first month $49) or $59 a month billed yearly ($708) with 6,000 credits a month.
+
+## Tally
+- Review: https://officesoftwaremarketplace.com/tally-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Verdict: Tally: The free plan lists unlimited forms and submissions as long as you stay within the fair usage guidelines. The free forms carry a Made with Tally badge.
+- Price: (read 2026-11-21 on tally.so/pricing and in the Tally app) The free plan lists unlimited forms and submissions as long as you stay within the fair usage guidelines. Pro is EUR 20 a month billed yearly (EUR 250 a year) or EUR 25 a month billed monthly.
 
 ## Tax1099
 - Review: https://officesoftwaremarketplace.com/tax1099-review.html
