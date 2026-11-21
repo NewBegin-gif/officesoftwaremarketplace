@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 257,
-  "flags": 409,
+  "flags": 410,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on officesoftwaremarketplace.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -486,7 +486,7 @@
    "entry_price": "$14.50",
    "entry_price_terms": "Pro · per month billed annually",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-02 on the vendor's own pricing page, amounts unchanged on 2026-09-29) Pro is $14.50/mo billed annually, up from $12 in our July and August 2026 captures ($45 for a one-off month); Team about $40/user/mo annual ($50 monthly) with brand controls and shared libraries; Enterprise custom for 20+ seats. A single one-off presentation can be bought for ~$45; 14-day trial. On 2026-09-29 the Team plan card itself read '$40 /MO (INCLUDES 3 USERS)' and 'Fixed pricing for up to three users', while the same page's summary and FAQ still say $40 per user per month for 2 to 20 seats, so confirm the seat price at checkout. Re-read 19 November 2026 on beautiful.ai/pricing: Pro $14.50 a month billed annually, Team card $50 struck to $40 a month \"includes 3 users\" with \"Fixed pricing for up to three users\", 14-day trial of Pro or Team; unchanged.",
+   "price_note": "(re-verified 2026-09-02 on the vendor's own pricing page, amounts unchanged on 2026-09-29) Pro is $14.50/mo billed annually, up from $12 in our July and August 2026 captures ($45 for a one-off month); Team about $40/user/mo annual ($50 monthly) with brand controls and shared libraries; Enterprise custom for 20+ seats. A single one-off presentation can be bought for ~$45; 14-day trial. On 2026-09-29 the Team plan card itself read '$40 /MO (INCLUDES 3 USERS)' and 'Fixed pricing for up to three users', while the same page's summary and FAQ still say $40 per user per month for 2 to 20 seats, so confirm the seat price at checkout. Re-read 19 November 2026 on beautiful.ai/pricing: Pro $14.50 a month billed annually, Team card $50 struck to $40 a month \"includes 3 users\" with \"Fixed pricing for up to three users\", 14-day trial of Pro or Team; unchanged. Re-read 21 November 2026: Pro $14.50 a month billed annually, the Team card $50 struck through to $40 a month \"includes 3 users\", a one-off month at $45, and the FAQ still saying $40 per user per month billed annually or $50 billed monthly for 2 to 20 seats; unchanged.",
    "flags": [
     {
      "flag": "per_seat",
@@ -494,11 +494,11 @@
      "evidence_excerpt": "(re-verified 2026-09-02 on the vendor's own pricing page, amounts unchanged on 2026-09-29) Pro is $14.50/mo billed annually, up from $12 in our July and August 2026 captures ($45 for a one-off month)…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-19"
+     "verified_at": "2026-11-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-19",
+   "price_verified_at": "2026-11-21",
    "first_observed_at": "2026-09-02"
   },
   {
@@ -4554,7 +4554,7 @@
    "entry_price": "€99.99",
    "entry_price_terms": "Standard · Standard subscription list price per year for one Mac, 8 GB vRAM…",
    "pricing_status": "public",
-   "price_note": "(read 2026-11-08 in a live browser on parallels.com/products/desktop/buy, euros from a Netherlands connection) Parallels Desktop runs Windows, Linux or macOS in a virtual machine on a Mac. Three editions are sold as yearly subscriptions. Standard is €99.99 a year (8 GB virtual RAM and 4 virtual CPUs per machine), Pro is €119.99 a year (128 GB and 32 CPUs, command line tools and developer features) and Business is €149.99 a year (Pro plus central administration, volume licensing and deployment through Mac management tools). On the day we read the page a Black Friday offer cut these to €49.99, €59.99 and €97.49 a year; it is a promotion, so check the number at checkout. Pro and Business can also be bought as a 2-year subscription. The page lists a one-time purchase option for Standard, and the Standard card says subscription only for the latest version features. Each licence covers one Mac, and a Windows licence is not included. All purchases carry a 30-day money-back guarantee; the vendor's help centre says renewal payments are not returnable. Enterprise pricing is by contact.",
+   "price_note": "(read 2026-11-08 in a live browser on parallels.com/products/desktop/buy, euros from a Netherlands connection) Parallels Desktop runs Windows, Linux or macOS in a virtual machine on a Mac. Three editions are sold as yearly subscriptions. Standard is €99.99 a year (8 GB virtual RAM and 4 virtual CPUs per machine), Pro is €119.99 a year (128 GB and 32 CPUs, command line tools and developer features) and Business is €149.99 a year (Pro plus central administration, volume licensing and deployment through Mac management tools). On the day we read the page a Black Friday offer cut these to €49.99, €59.99 and €97.49 a year; it is a promotion, so check the number at checkout. Pro and Business can also be bought as a 2-year subscription. The page lists a one-time purchase option for Standard, and the Standard card says subscription only for the latest version features. Each licence covers one Mac, and a Windows licence is not included. Purchases made directly on parallels.com carry a 30-day money-back guarantee; the vendor's help centre says renewal payments are not returnable. Enterprise pricing is by contact.",
    "flags": [],
    "researched": "2026-07",
    "price_verified_at": "2026-11-08",
@@ -4908,9 +4908,9 @@
    "review_url": "https://aibuildermarketplace.com/b2b/proton-review/",
    "from_price_usd_mo": 3.99,
    "entry_price": "$3.99",
-   "entry_price_terms": "Mail Plus · per month billed yearly ($47.88 a year; $4.99 month to month)",
+   "entry_price_terms": "Mail Plus · per month at the standard yearly rate",
    "pricing_status": "public",
-   "price_note": "(read 2026-08-26 on proton.me/pricing over a US connection, on the Mail tab with yearly billing) Free is $0.00 a month for 1 GB and one address. Mail Plus is $3.99 a month, marked 20% off $4.99 and billed at $47.88 every twelve months, for 15 GB, ten addresses and one custom domain. Unlimited is $9.99 a month, 23% off $12.99, billed at $119.88 a year, for 500 GB, fifteen addresses, three domains and the VPN, password manager and Drive storage. Those are the default figures an American is shown; the page also has a currency selector, and picking euros gives euro amounts rather than a conversion of these. Re-read on 11 October 2026 in euros, on the Mail and business pricing pages with both billing options: the euro page prints the same numbers as the dollar ladder above (Mail Plus 3.99 a month billed at 47.88 a year or 4.99 monthly, Unlimited 9.99 billed at 119.88 a year or 12.99 monthly), and the business per-user prices (see the business paragraph below) are unchanged from our 18 August reading, with a 30-day money-back guarantee.",
+   "price_note": "(read 2026-08-26 on proton.me/pricing over a US connection, on the Mail tab with yearly billing) Free is $0.00 a month for 1 GB and one address. Mail Plus is $3.99 a month, marked 20% off $4.99 and billed at $47.88 every twelve months, for 15 GB, ten addresses and one custom domain. Unlimited is $9.99 a month, 23% off $12.99, billed at $119.88 a year, for 500 GB, fifteen addresses, three domains and the VPN, password manager and Drive storage. Those are the default figures an American is shown; the page also has a currency selector, and picking euros gives euro amounts rather than a conversion of these. Re-read on 11 October 2026 in euros, on the Mail and business pricing pages with both billing options: the euro page prints the same numbers as the dollar ladder above (Mail Plus 3.99 a month billed at 47.88 a year or 4.99 monthly, Unlimited 9.99 billed at 119.88 a year or 12.99 monthly), and the business per-user prices (see the business paragraph below) are unchanged from our 18 August reading, with a 30-day money-back guarantee. Re-read 21 November 2026 on proton.me/pricing (Mail tab, yearly billing, USD): the page now shows a first-year offer marked 50% off. Mail Plus is $2.49 a month, \"Billed at $29.88 for the first 12 months, then renews at $47.88 every 12 months\", and Unlimited is $6.49 a month, billed at $77.88 for the first 12 months and then $119.88. The renewal amounts match the standard yearly prices above, so treat $3.99 and $9.99 a month as the price from year two. The page does not say when the offer ends. Business prices were not re-read on this date.",
    "flags": [
     {
      "flag": "per_seat",
@@ -4918,7 +4918,15 @@
      "evidence_excerpt": "Re-read on 11 October 2026 in euros, on the Mail and business pricing pages with both billing options: the euro page prints the same numbers as the dollar ladder above (Mail Plus 3.99 a month billed …",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-11"
+     "verified_at": "2026-11-21"
+    },
+    {
+     "flag": "renewal_jump",
+     "evidence": "Mail Plus is $2.49 a month, \"Billed at $29.88 for the first 12 months, then renews at $47.88 every 12 months\", and Unlimited is $6.49 a month, billed at $77.88 for the first 12 months and then $119.88.",
+     "evidence_excerpt": "Mail Plus is $2.49 a month, \"Billed at $29.88 for the first 12 months, then renews at $47.88 every 12 months\", and Unlimited is $6.49 a month, billed at $77.88 for the first 12 months and then $119.8…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-21"
     },
     {
      "flag": "free_tier",
@@ -4926,11 +4934,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-11"
+     "verified_at": "2026-11-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-11",
+   "price_verified_at": "2026-11-21",
    "first_observed_at": "2026-08-26"
   },
   {
@@ -6462,7 +6470,7 @@
    "entry_price": "$9",
    "entry_price_terms": "per user a month billed annually, or $12 monthly",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-09 and again 2026-10-01 on toggl.com/track/pricing, which now redirects to toggl.com/pricing) Free is $0 and the page calls it free forever; the pricing FAQ read 22 October 2026 sets its limit at up to 3 users. Starter is $9 per user a month billed annually and $12 monthly; Premium is $16 annually and $24 monthly; Enterprise is quoted. The introductory $14 Premium rate renewing at $18 that we recorded in August is gone — Premium now carries one annual price. The billing toggle advertises 'Annual (Save 33.3%)' and '4 months free', which holds exactly for Premium but not for Starter, where $12 to $9 is 25%. Trial is 30 days; Enterprise adds volume discounts on annual and multiple workspaces under one organisation. Re-read on 22 October 2026 with the same four plans and figures. What is new is the product around them: the pricing page now sells one Toggl that combines time tracking with project planning and capacity management, and notes that Toggl Track and Toggl Plan remain available and supported for existing users. Two paid add-ons sit on top of the paid plans: Time Off Pro at $2 per user a month (approval workflows, accrual balances, custom leave policies) and Capacity Management at $5 per user a month billed annually or $6 monthly (capacity beyond the current month, team roll-ups, draft projects, forecasting).",
+   "price_note": "(re-verified 2026-09-09 and again 2026-10-01 on toggl.com/track/pricing, which now redirects to toggl.com/pricing) Free is $0 and the page calls it free forever; the pricing FAQ read 22 October 2026 sets its limit at up to 3 users. Starter is $9 per user a month billed annually and $12 monthly; Premium is $16 annually and $24 monthly; Enterprise is quoted. The introductory $14 Premium rate renewing at $18 that we recorded in August is gone — Premium now carries one annual price. The billing toggle advertises 'Annual (Save 33.3%)' and '4 months free', which holds exactly for Premium but not for Starter, where $12 to $9 is 25%. Trial is 30 days; Enterprise adds volume discounts on annual and multiple workspaces under one organisation. Re-read on 22 October 2026 with the same four plans and figures. What is new is the product around them: the pricing page now sells one Toggl that combines time tracking with project planning and capacity management, and notes that Toggl Track and Toggl Plan remain available and supported for existing users. Two paid add-ons sit on top of the paid plans: Time Off Management at $2 per user a month (approval workflows, accrual balances, custom leave policies) and Capacity Management at $5 per user a month billed annually or $6 monthly (capacity beyond the current month, team roll-ups, draft projects, forecasting).",
    "flags": [
     {
      "flag": "per_seat",
@@ -6474,8 +6482,8 @@
     },
     {
      "flag": "addons_extra",
-     "evidence": "Two newer cost lines are easy to miss: leave approvals and accruals sit in the $2 Time Off Pro add-on rather than in any plan, and capacity planning beyond the current month is the Capacity Management add-on at $5 to $6 per user, so a team buying Premium for planning should price both.",
-     "evidence_excerpt": "Two newer cost lines are easy to miss: leave approvals and accruals sit in the $2 Time Off Pro add-on rather than in any plan, and capacity planning beyond the current month is the Capacity Managemen…",
+     "evidence": "Two newer cost lines are easy to miss: leave approvals and accruals sit in the $2 Time Off Management add-on rather than in any plan, and capacity planning beyond the current month is the Capacity Management add-on at $5 to $6 per user, so a team buying Premium for planning should price both.",
+     "evidence_excerpt": "Two newer cost lines are easy to miss: leave approvals and accruals sit in the $2 Time Off Management add-on rather than in any plan, and capacity planning beyond the current month is the Capacity Ma…",
      "source_url": "https://toggl.com/track/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
      "verified_at": "2026-10-22"
