@@ -757,6 +757,20 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/navan-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/navan.svg\" width=\"340\" height=\"115\" alt=\"Navan hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 4; 3 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "nifty",
+  "name": "Nifty",
+  "review_url": "https://officesoftwaremarketplace.com/nifty-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/nifty.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#nifty",
+  "tested_on": "2026-11-21",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "Nifty hands-on test by Office Software Marketplace, 21 Nov 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/nifty-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/nifty.svg\" width=\"340\" height=\"81\" alt=\"Nifty hands-on test by Office Software Marketplace, 21 Nov 2026: No claim or export checks recorded\"></a>"
+ },
+ {
   "slug": "nouswise",
   "name": "Nouswise",
   "review_url": "https://officesoftwaremarketplace.com/nouswise-review.html",
@@ -979,6 +993,20 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/shippo-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/shippo.svg\" width=\"340\" height=\"115\" alt=\"Shippo hands-on test by Office Software Marketplace, 18 Nov 2026: Vendor claims checked 11; 6 confirmed · 1 contradicted · 1 not comparable · 3 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "shore",
+  "name": "Shore",
+  "review_url": "https://officesoftwaremarketplace.com/shore-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/shore.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#shore",
+  "tested_on": "2026-11-20",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "Shore hands-on test by Office Software Marketplace, 20 Nov 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/shore-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/shore.svg\" width=\"340\" height=\"81\" alt=\"Shore hands-on test by Office Software Marketplace, 20 Nov 2026: No claim or export checks recorded\"></a>"
+ },
+ {
   "slug": "shortlistiq",
   "name": "ShortlistIQ",
   "review_url": "https://officesoftwaremarketplace.com/shortlistiq-review.html",
@@ -1151,6 +1179,20 @@
   ],
   "alt": "SurvIQ hands-on test by Office Software Marketplace, 18 Nov 2026: Vendor claims checked 6; 1 confirmed · 2 contradicted · 1 not comparable · 2 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/surviq-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/surviq.svg\" width=\"340\" height=\"115\" alt=\"SurvIQ hands-on test by Office Software Marketplace, 18 Nov 2026: Vendor claims checked 6; 1 confirmed · 2 contradicted · 1 not comparable · 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "tally",
+  "name": "Tally",
+  "review_url": "https://officesoftwaremarketplace.com/tally-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/tally.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#tally",
+  "tested_on": "2026-11-21",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "Tally hands-on test by Office Software Marketplace, 21 Nov 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/tally-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/tally.svg\" width=\"340\" height=\"81\" alt=\"Tally hands-on test by Office Software Marketplace, 21 Nov 2026: No claim or export checks recorded\"></a>"
  },
  {
   "slug": "testgorilla",
