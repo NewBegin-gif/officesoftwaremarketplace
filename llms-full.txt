@@ -118,7 +118,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/bitvavo-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Bitvavo, Above that: 0.03%/0.12% from €2,500,000, 0.01%/0.10% from €5,000,000. The honest caveats are crypto-wide, not Bitvavo-specific.
-- Price: (re-verified 2026-10-08, read on their own fees page) No subscription — you pay per trade. EUR markets (Category A) run ten volume tiers.
+- Price: (re-verified 2026-11-22, read on their own fees page; every figure below matches the 8 October 2026 reading) No subscription — you pay per trade. EUR markets (Category A) run ten volume tiers.
 
 ## Bizee
 - Review: https://officesoftwaremarketplace.com/bizee-review.html
@@ -328,7 +328,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/digit-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Digit: Starter $400/month including 5 users, Growth $750 including 10, Professional $1,300 including 15. The tier price is a floor, not a ceiling.
-- Price: (re-read 2026-09-17 in a rendered browser on heysutton.com/pricing, the rebranded site; unchanged from the 5 September reading on digit-software.com) Four tiers with three published: Starter $400/month including 5 users, Growth $750 including 10, Professional $1,300 including 15, and Enterprise on quote. Extra users are $63/month each on every tier.
+- Price: (re-read 2026-11-22 on heysutton.com/pricing, rendered and in the raw HTML; the tier prices have not moved since the 5 September 2026 reading on digit-software.com) Four tiers with three published: Starter $400/month including 5 users, Growth $750 including 10, Professional $1,300 including 15, and Enterprise on quote. On monthly billing every card reads “then $63/mo each” for extra users, and the FAQ says…
 
 ## Disputifier
 - Review: https://officesoftwaremarketplace.com/disputifier-review.html
@@ -514,7 +514,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/heard-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Heard, For solo sole proprietors: Lite is $139 a month billed annually ($1,668 a year) or $159 billed monthly. Mind the fine print between tiers.
-- Price: (re-verified 2026-10-27 in a browser on joinheard.com/pricing and in joinheard.com/llms.txt, which says its prices are for new members starting October 26, 2026; earlier readings on 5 September and 6 October 2026 showed Lite at $129, Essential at $169 and Premium at $255 a month) Heard now prices by practice type, with annual and monthly billing. For solo sole proprietors: Lite is $139 a month billed annually…
+- Price: (re-verified 2026-11-22 on joinheard.com/pricing, rendered, and in joinheard.com/llms.txt; the Lite and Essential prices match the 27 October 2026 reading, when Heard said they apply to new members from 26 October 2026, and a Premium tier is back; earlier readings on 5 September and 6 October 2026 showed Lite at $129, Essential at $169 and Premium at $255 a month) Heard now prices by practice type, with annual…
 
 ## Hive
 - Review: https://officesoftwaremarketplace.com/hive-review.html
