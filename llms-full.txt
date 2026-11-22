@@ -328,7 +328,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/digiparser-review.html
 - Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: Text we checked: "Your data is ready. We've extracted the fields from your first document". What we saw: The pdf was uploaded and created at 07:58:22; the document showed Approved with all fields filled at…
 - Verdict: DigiParser: Starter is $69 a month billed monthly, or $49 a month billed yearly ($588 a year). Billing is per page, not per document.
-- Price: (read 2026-10-13 in a live browser on digiparser.com/pricing in both the monthly and the yearly view, with the FAQ opened, and on the home page) Three self-serve plans, priced by pages processed per month, each with a 7-day free trial that needs no card. Starter is $69 a month billed monthly, or $49 a month billed yearly ($588 a year): 500 pages a month, 5 parsers and 3 team members, table and field extraction,…
+- Price: (re-read 2026-11-22 in a headless browser in both billing views: every plan price below is unchanged. The page also runs a limited-time offer of 50% off the first month on any plan, and the comparison table lists one-time refill packs for extra pages.) (read 2026-10-13 in a live browser on digiparser.com/pricing in both the monthly and the yearly view, with the FAQ opened, and on the home page) Three self-serve…
 
 ## Digit
 - Review: https://officesoftwaremarketplace.com/digit-review.html
@@ -544,7 +544,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/hostpapa-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: HostPapa: Growth renews at $17.99, $15.99, $14.99 or $13.99. The $2.95 is a first-term price on a 3-year term for new customers only.
-- Price: (read 2026-10-12 in a live browser on hostpapa.com/web-hosting-plan and hostpapa.com/renewal-pricing; US site, prices in US dollars excluding taxes) Shared web hosting comes in four cPanel plans, each shown at a promotional price that the page says applies to the first term only, on a 3-year discounted term, for new customers. Essentials is $2.95 a month for 1 website, 25GB NVMe storage and 1x server resources.
+- Price: (re-read 2026-11-22 in a headless browser: the renewal rates below are unchanged. Until 7 December 2026 the plans page runs a Black Friday offer on the 3-year first term for new customers: Essentials $1.25 a month, Growth $3.25, Premium $3.25 and Elite $5.25, each renewing at the regular rate.
 
 ## Housecall Pro
 - Review: https://officesoftwaremarketplace.com/housecall-pro-review.html
@@ -1257,8 +1257,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## xTiles
 - Review: https://officesoftwaremarketplace.com/xtiles-review.html
 - Hands-on: tested by us on 2026-10-21. Measured 2026-10-21: Sign-up runs through a required questionnaire for 'Daily Brief by xTiles' and three 'Your stack' steps that each need a choice; going straight to the workspace sent us back. 'I don't need a daily brief' is…
-- Verdict: xTiles: Plus is $19 a month, or $12.42 a month billed yearly, which the page says saves $79 a year. Pro's headline is AI control of your workspace.
-- Price: (read 2026-10-13 in a live browser on xtiles.app/en/pricing, prices in US dollars, with the comparison table and FAQ) Four plans, priced per user. Free costs nothing and gives unlimited pages and projects, free templates, 3 personal spaces, Google and Outlook calendar, an AI assistant with 1,000 credits and limited AI integrations; the table adds file uploads of up to 5MB, two weeks of planner history (in our…
+- Verdict: xTiles: Plus at $19 or $12.42 and Pro at $35 or $24.92 per user are unchanged. Only annual Plus can be upgraded to Pro with a credit for what you paid.
+- Price: (re-read 2026-11-22 in a headless browser in both billing views: Plus at $19 or $12.42 and Pro at $35 or $24.92 per user are unchanged. The Pro card lists the two onboarding sessions only in the annual view.
 
 ## Your Company Formations
 - Review: https://officesoftwaremarketplace.com/your-company-formations-review.html
