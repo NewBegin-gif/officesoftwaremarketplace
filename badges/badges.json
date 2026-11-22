@@ -1195,6 +1195,22 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/tally-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/tally.svg\" width=\"340\" height=\"81\" alt=\"Tally hands-on test by Office Software Marketplace, 21 Nov 2026: No claim or export checks recorded\"></a>"
  },
  {
+  "slug": "team-pulse",
+  "name": "Team Pulse",
+  "review_url": "https://officesoftwaremarketplace.com/team-pulse-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/team-pulse.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#team-pulse",
+  "tested_on": "2026-11-13",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 3",
+   "3 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Team Pulse hands-on test by Office Software Marketplace, 13 Nov 2026: Vendor claims checked 3; 3 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/team-pulse-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/team-pulse.svg\" width=\"340\" height=\"115\" alt=\"Team Pulse hands-on test by Office Software Marketplace, 13 Nov 2026: Vendor claims checked 3; 3 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "testgorilla",
   "name": "TestGorilla",
   "review_url": "https://officesoftwaremarketplace.com/testgorilla-review.html",
