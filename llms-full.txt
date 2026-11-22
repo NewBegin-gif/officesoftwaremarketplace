@@ -916,7 +916,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/remote-people-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Remote People, Employer of Record: EOR Global from $499 per employee a month. The monthly rates are the cheapest we have on file for this category.
-- Price: (read 2026-11-12 on their own pricing page. NEW since our readings of 2026-08-07, 2026-10-06 and 2026-10-09, which showed EOR Flex from $199 and EOR Plus from $399) Priced per service rather than per plan, and every figure is a floor.
+- Price: (read 2026-11-12 and re-read unchanged 2026-11-22 on their own pricing page. NEW since our readings of 2026-08-07, 2026-10-06 and 2026-10-09, which showed EOR Flex from $199 and EOR Plus from $399) Priced per service rather than per plan, and every figure is a floor.
 
 ## Replit
 - Review: https://officesoftwaremarketplace.com/replit-review.html
@@ -1095,8 +1095,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Synthesia
 - Review: https://officesoftwaremarketplace.com/synthesia-review.html
 - Hands-on: tested by us on 2026-10-01
-- Verdict: Synthesia: The public pricing page is geo-priced. The minute caps are tight: Starter's 1,250 credits a month is roughly 10 to 12 minutes of finished video.
-- Price: (re-read 12 and 13 November 2026, unchanged) The public pricing page is geo-priced, and the dollar view has changed since 1 October. In dollars it read Starter $19 a month (first month $9) or $14 a month billed yearly ($168) with 1,250 credits a month, and Pro $89 a month (first month $49) or $59 a month billed yearly ($708) with 6,000 credits a month.
+- Verdict: Synthesia: The page now also has a 'For business' tab we had not recorded before. A small edit generated again cost us 4 credits rather than the whole video.
+- Price: (re-read 22 November 2026: the dollar Starter and Pro prices below are unchanged.) The page now also has a 'For business' tab we had not recorded before: Business at $99 a month billed monthly or $79 a month billed yearly ($948 a year), with 6,000 credits a month or 72,000 a year, up to 10 team members and team members added at $20 a seat a month. A Black Friday banner on the same day offered new customers and…
 
 ## Tally
 - Review: https://officesoftwaremarketplace.com/tally-review.html
@@ -1161,8 +1161,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Tresorit
 - Review: https://officesoftwaremarketplace.com/tresorit-review.html
 - Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: A share link with a password, an open limit of 10, expiry after 30 days and access logs was set up in about 3 minutes; the link was not opened by an outside recipient.
-- Verdict: Tresorit: €28.80, €19.20 and €24 on yearly. For regulated teams that's exactly the deal; for casual storage it's over-engineering.
-- Price: (re-verified 2026-11-05 on tresorit.com/pricing/business, /personal, /tresorit-engage and /file-sharing in a browser, both billing toggles; Tresorit announced a price increase to partners on 5 November 2026) There are three business plans: Professional for 1 user, Business from 3 users and Business Pro from 5 users. Priced from our location in euros, they run €36, €24 and €30 per user per month on monthly…
+- Verdict: Tresorit: The business prices below are unchanged, €36, €24 and €30 monthly and €28.80, €19.20 and €24 yearly. For regulated teams that's exactly the deal.
+- Price: (re-verified 2026-11-22 on tresorit.com/pricing/business with both billing toggles: the business prices below are unchanged, €36, €24 and €30 monthly and €28.80, €19.20 and €24 yearly, and the page now also shows an Enterprise card at custom pricing, billed annually. The Personal, Engage and FileSharing prices were last read 2026-11-05.) (re-verified 2026-11-05 on tresorit.com/pricing/business, /personal,…
 
 ## UltaHost
 - Review: https://officesoftwaremarketplace.com/ultahost-review.html

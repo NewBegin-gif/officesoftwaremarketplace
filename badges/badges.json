@@ -439,6 +439,20 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/ebillity-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/ebillity.svg\" width=\"340\" height=\"115\" alt=\"eBillity hands-on test by Office Software Marketplace, 31 Oct 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: file opened, re-import not tested\"></a>"
  },
  {
+  "slug": "expertise-ai",
+  "name": "Expertise AI",
+  "review_url": "https://officesoftwaremarketplace.com/expertise-ai-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/expertise-ai.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#expertise-ai",
+  "tested_on": "2026-11-22",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "Expertise AI hands-on test by Office Software Marketplace, 22 Nov 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/expertise-ai-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/expertise-ai.svg\" width=\"340\" height=\"81\" alt=\"Expertise AI hands-on test by Office Software Marketplace, 22 Nov 2026: No claim or export checks recorded\"></a>"
+ },
+ {
   "slug": "flexiquiz",
   "name": "FlexiQuiz",
   "review_url": "https://officesoftwaremarketplace.com/flexiquiz-review.html",
@@ -1239,6 +1253,20 @@
   ],
   "alt": "TestGorilla hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 9; 4 confirmed · 3 not testable · 2 out of date; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/testgorilla-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/testgorilla.svg\" width=\"340\" height=\"115\" alt=\"TestGorilla hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 9; 4 confirmed · 3 not testable · 2 out of date; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "textexpander",
+  "name": "TextExpander",
+  "review_url": "https://officesoftwaremarketplace.com/textexpander-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/textexpander.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#textexpander",
+  "tested_on": "2026-11-22",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "TextExpander hands-on test by Office Software Marketplace, 22 Nov 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/textexpander-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/textexpander.svg\" width=\"340\" height=\"81\" alt=\"TextExpander hands-on test by Office Software Marketplace, 22 Nov 2026: No claim or export checks recorded\"></a>"
  },
  {
   "slug": "todoist",
