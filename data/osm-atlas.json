@@ -1235,14 +1235,14 @@
    "domain": "co2impact.co.uk",
    "review_url": "https://aibuildermarketplace.com/b2b/co2-impact-review/",
    "from_price_usd_mo": null,
-   "entry_price": "£348",
-   "entry_price_terms": "per year (£29/mo) for 1 user and 1 site",
+   "entry_price": "£468",
+   "entry_price_terms": "per year (£39/mo equiv., 2 users, 2 sites)",
    "pricing_status": "public",
-   "price_note": "(read 2026-11-19 in the pricing section of co2impact.co.uk's homepage, GBP, excluding VAT) Basic is £348 a year (£29.00 a month) for 1 user and 1 site. Professional is £549 a year (£45.75 a month) for 2 users and 5 sites. Premium is £948 a year (£79.00 a month) for unlimited users and unlimited sites. Every plan is a 12-month licence: the page says annual payment is charged upfront, monthly payment is spread over the 12-month licence, and prices shown exclude VAT. Every plan lists the web platform (manual or Excel upload), the mobile app, bill and receipt forwarding by email, a ChatGPT plugin, full Scope 1, 2 and 3 reporting, a carbon reduction plan and multiple emission reports by activity; Professional adds SECR reporting and Metrics, and Premium adds manufactured products. The table keeps changing. The vendor's own llms.txt, read the same day, still lists a different set (Essentials £369 a year for 2 users and 2 sites, Professional £749 for 10 users and 5 sites, Enterprise £1,899), an earlier read on 19 November showed that Essentials table on the homepage too, and our reads of 9 and 22 October 2026 showed four plans (Basic £468 a year, Professional £599, Premium £729, Platinum £1,199). We quote the homepage table because that is where you buy. The licence terms (last updated 21 September 2026) add a Usage Token allowance per plan and paid top-ups whose prices are shown only inside the platform.",
+   "price_note": "(read 2026-11-22 in a headless browser on co2impact.co.uk's homepage pricing section, and in the vendor's llms.txt the same day; excluding VAT) The table has changed again. It now has three plans: Essentials for 2 users and 2 sites, Professional for 10 users and 5 sites, and Enterprise for unlimited users and sites. Loaded from outside the UK, the homepage showed euro prices: Essentials €47.00 a month or €564 a year, Professional €95.00 a month or €1,140 a year, and Enterprise €239.00 a month or €2,868 a year. The vendor's llms.txt lists the same three plans in sterling: Essentials £468 per year (£39 a month equivalent), Professional £948 per year (£79 a month equivalent) and Enterprise £2388 per year (£199 a month equivalent). We could not load the sterling table on the homepage itself, so the pound amounts come from llms.txt. Every plan is a 12-month licence: the page says annual payment is charged upfront and monthly payment is over a 12-month licence. Every plan lists the web platform (manual or Excel upload), the mobile app, bill and receipt forwarding by email, a ChatGPT plugin, full Scope 1, 2 and 3 reporting, a carbon reduction plan and multiple emission reports by activity; Professional adds SECR reporting and Metrics, and Enterprise adds manufactured products. The llms.txt also describes a 7-day free trial of the Basic plan with no card, up to 10 entries per activity category and no reports, and still names a plan that the table no longer shows. Earlier reads: on 19 November 2026 the homepage showed Basic £348 a year for 1 user and 1 site, Professional £549 and Premium £948, and on 9 and 22 October 2026 four plans starting with Basic at £468 a year. The licence terms (last updated 21 September 2026) add a Usage Token allowance per plan and paid top-ups whose prices are shown only inside the platform.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-19",
-   "first_observed_at": "2026-11-19"
+   "price_verified_at": "2026-11-22",
+   "first_observed_at": "2026-11-22"
   },
   {
    "name": "Compliancely",
@@ -3355,15 +3355,15 @@
    "entry_price": "€4.99",
    "entry_price_terms": "Essentials · per site per month billed yearly, excl",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-09 on iubenda.com/en/pricing, browser render plus the page source for the monthly and USD figures; prices exclude VAT) All plans are priced per site per month; yearly billing saves 16%. Essentials is €4.99 billed yearly or €5.99 monthly ($5.99 / $6.99) for up to 25K pageviews, a standard privacy and cookie policy with up to 20 clauses, one language, partial branding removal and monthly site scans. Advanced, marked most popular, is €19.99 yearly or €21.99 monthly ($24.99 / $27.99) for up to 50K pageviews, complete legal documents with up to 30 clauses, all languages and geo-targeting. Ultimate is €79.99 yearly or €89.99 monthly ($99.99 / $119.99) for up to 150K pageviews, unlimited clauses, full branding removal, hourly scans, a mobile SDK, detailed analytics and consent recovery. Above the quota every plan pays €0.05 per 1,000 extra pageviews. Forms proof of consent and the newsletter opt-in booster are €5 a month per 1,000 consents. A free plan exists (its limits are not on the pricing page but in the help centre, see below), every paid plan can be tried for 14 days, and agency and enterprise plans are quoted separately. Accessibility plans are a separate product, from €6 per site a month for up to 10K pageviews. Re-read on 24 October 2026 with a plain fetch of the same page: all three plans, quotas, overage and consent-storage prices unchanged. The accessibility plans on that page are Lite at €6 a site a month on either billing ($7) for 10K pageviews, with extra pageviews at €6 per 10K up to a hard ceiling of 80K, and Standard at €50 yearly or €55 monthly ($60 / $65) for 150K pageviews and a ceiling of 1 million; a Custom tier is delivered by AccessiWay. Yearly billing saves 10% on accessibility against 16% on the compliance plans. The free plan's limits, missing from the pricing page, are in iubenda's help article on the free plan (updated 25 August 2026): up to 5,000 pageviews a month, up to 3 third parties or clauses in the policy, one language, no terms and conditions and full iubenda branding.",
+   "price_note": "(re-read 2026-11-22 with a plain fetch of iubenda.com/en/pricing: Essentials, Advanced and Ultimate prices in euros and dollars, the 25K, 50K and 150K pageview quotas and the €0.05 per 1,000 extra pageviews unchanged; every plan now also lists iubenda MCP) (read 2026-10-09 on iubenda.com/en/pricing, browser render plus the page source for the monthly and USD figures; prices exclude VAT) All plans are priced per site per month; yearly billing saves 16%. Essentials is €4.99 billed yearly or €5.99 monthly ($5.99 / $6.99) for up to 25K pageviews, a standard privacy and cookie policy with up to 20 clauses, one language, partial branding removal and monthly site scans. Advanced, marked most popular, is €19.99 yearly or €21.99 monthly ($24.99 / $27.99) for up to 50K pageviews, complete legal documents with up to 30 clauses, all languages and geo-targeting. Ultimate is €79.99 yearly or €89.99 monthly ($99.99 / $119.99) for up to 150K pageviews, unlimited clauses, full branding removal, hourly scans, a mobile SDK, detailed analytics and consent recovery. Above the quota every plan pays €0.05 per 1,000 extra pageviews. Forms proof of consent and the newsletter opt-in booster are €5 a month per 1,000 consents. A free plan exists (its limits are not on the pricing page but in the help centre, see below), every paid plan can be tried for 14 days, and agency and enterprise plans are quoted separately. Accessibility plans are a separate product, from €6 per site a month for up to 10K pageviews. Re-read on 24 October 2026 with a plain fetch of the same page: all three plans, quotas, overage and consent-storage prices unchanged. The accessibility plans on that page are Lite at €6 a site a month on either billing ($7) for 10K pageviews, with extra pageviews at €6 per 10K up to a hard ceiling of 80K, and Standard at €50 yearly or €55 monthly ($60 / $65) for 150K pageviews and a ceiling of 1 million; a Custom tier is delivered by AccessiWay. Yearly billing saves 10% on accessibility against 16% on the compliance plans. The free plan's limits, missing from the pricing page, are in iubenda's help article on the free plan (updated 25 August 2026): up to 5,000 pageviews a month, up to 3 third parties or clauses in the policy, one language, no terms and conditions and full iubenda branding.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "Essentials is €4.99 billed yearly or €5.99 monthly ($5.99 / $6.99) for up to 25K pageviews, a standard privacy and cookie policy with up to 20 clauses, one language, partial branding removal and monthly site scans.",
-     "evidence_excerpt": "Essentials is €4.99 billed yearly or €5.99 monthly ($5.99 / $6.99) for up to 25K pageviews, a standard privacy and cookie policy with up to 20 clauses, one language, partial branding removal and mont…",
+     "evidence": "(re-read 2026-11-22 with a plain fetch of iubenda.com/en/pricing: Essentials, Advanced and Ultimate prices in euros and dollars, the 25K, 50K and 150K pageview quotas and the €0.05 per 1,000 extra pageviews unchanged; every plan now also lists iubenda MCP) (read 2026-10-09 on iubenda.com/en/pricing, browser render plus the page source for the monthly and USD figures; prices exclude VAT) All plans are priced per site per month; yearly billing saves 16%.",
+     "evidence_excerpt": "(re-read 2026-11-22 with a plain fetch of iubenda.com/en/pricing: Essentials, Advanced and Ultimate prices in euros and dollars, the 25K, 50K and 150K pageview quotas and the €0.05 per 1,000 extra pa…",
      "source_url": "https://www.iubenda.com/en/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-24"
+     "verified_at": "2026-11-22"
     },
     {
      "flag": "free_tier",
@@ -3371,12 +3371,12 @@
      "evidence_excerpt": null,
      "source_url": "https://www.iubenda.com/en/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-24"
+     "verified_at": "2026-11-22"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-24",
-   "first_observed_at": "2026-10-09"
+   "price_verified_at": "2026-11-22",
+   "first_observed_at": "2026-11-22"
   },
   {
    "name": "Jane",

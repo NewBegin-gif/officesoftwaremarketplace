@@ -243,8 +243,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## CO2 Impact
 - Review: https://officesoftwaremarketplace.com/co2-impact-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: CO2 Impact: Basic is £348 a year (£29.00 a month) for 1 user and 1 site. Every licence is a 12-month commitment, monthly payment included.
-- Price: (read 2026-11-19 in the pricing section of co2impact.co.uk's homepage, GBP, excluding VAT) Basic is £348 a year (£29.00 a month) for 1 user and 1 site. Professional is £549 a year (£45.75 a month) for 2 users and 5 sites.
+- Verdict: CO2 Impact: The table has changed again. Every licence is a 12-month commitment, monthly payment included, and the licence terms make fees non-refundable.
+- Price: (read 2026-11-22 in a headless browser on co2impact.co.uk's homepage pricing section, and in the vendor's llms.txt the same day; excluding VAT) The table has changed again. It now has three plans: Essentials for 2 users and 2 sites, Professional for 10 users and 5 sites, and Enterprise for unlimited users and sites.
 
 ## Compliancely
 - Review: https://officesoftwaremarketplace.com/compliancely-review.html
