@@ -1078,7 +1078,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/sunsama-review.html
 - Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: Settings, Billing shows Sunsama Free Trial, 1 seat, 14 days remaining, and the upgrade page says Your trial ends Thursday, Dec 3.
 - Verdict: Sunsama: Pro costs $22 a month per person billed monthly, or $17 a month billed yearly ($204 a year), with unlimited usage and integrations.
-- Price: (re-read 19 November 2026 on sunsama.com/pricing and sunsama.com/llms.txt) Pro costs $22 a month per person billed monthly, or $17 a month billed yearly ($204 a year), with unlimited usage and integrations; Enterprise is quote-only. There is a 14-day free trial with no card required and no free plan after it.
+- Price: (re-read 19 and 23 November 2026 on sunsama.com/pricing and sunsama.com/llms.txt) Pro costs $22 a month per person billed monthly, or $17 a month billed yearly ($204 a year), with unlimited usage and integrations; Enterprise is quote-only. There is a 14-day free trial with no card required and no free plan after it.
 
 ## SurveyMonkey
 - Review: https://officesoftwaremarketplace.com/surveymonkey-review.html
