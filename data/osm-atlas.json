@@ -5864,19 +5864,19 @@
    "entry_price": "$15",
    "entry_price_terms": "Team, per seat · per seat per month billed annually, with a minimum of 3 billable users",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-11-16 on their own pricing page and FAQ, USD; seat prices unchanged since our August reading) No free plan: a 14-day trial of Professional with no credit card, and the page states there is no automatic charge when it ends. Team is $15 per seat a month billed annually, or $20 billed monthly, with a minimum of 3 billable users, 5,000 records per solution, 50GB of storage and a 30-day recycle bin. Professional is $32 per seat annually, or $36 monthly, with a minimum of 5 billable users, 100,000 records, 100GB and 45 days. Enterprise is custom priced with a minimum of 25 billable users on an annual plan, and lifts the limits to 400,000 records, 500GB and 60 days, adding SSO, SCIM, audit logs, IP restrictions and data-loss prevention; a further Signature plan sits above it, on request. Storage over the plan limit is added automatically and billed in 100GB blocks at $10 a month. The minimums matter more than the rate: a three-person team on Team pays for three seats whether or not all three log in, and Professional cannot be bought for fewer than five, so the real entry price is $45 a month on Team and $160 on Professional rather than the per-seat figures on the cards. You pay for users with edit permissions; read-only users, commenters and form submitters are not billed, and charges are prorated.",
+   "price_note": "(re-verified 2026-11-16 and 2026-11-23 on their own pricing page and FAQ, USD; seat prices unchanged since our August reading) No free plan: a 14-day trial of Professional with no credit card, and the page states there is no automatic charge when it ends. Team is $15 per seat a month billed annually, or $20 billed monthly, with a minimum of 3 billable users, 5,000 records per solution, 50GB of storage and a 30-day recycle bin. Professional is $32 per seat annually, or $36 monthly, with a minimum of 5 billable users, 100,000 records, 100GB and 45 days. Enterprise is custom priced with a minimum of 25 billable users on an annual plan, and lifts the limits to 400,000 records, 500GB and 60 days, adding SSO, SCIM, audit logs, IP restrictions and data-loss prevention; a further Signature plan sits above it, on request. Storage over the plan limit is added automatically and billed in 100GB blocks at $10 a month. The minimums matter more than the rate: a three-person team on Team pays for three seats whether or not all three log in, and Professional cannot be bought for fewer than five, so the real entry price is $45 a month on Team and $160 on Professional rather than the per-seat figures on the cards. You pay for users with edit permissions; read-only users, commenters and form submitters are not billed, and charges are prorated.",
    "flags": [
     {
      "flag": "per_seat",
      "evidence": "Team is $15 per seat a month billed annually, or $20 billed monthly, with a minimum of 3 billable users, 5,000 records per solution, 50GB of storage and a 30-day recycle bin.",
      "evidence_excerpt": null,
-     "source_url": null,
+     "source_url": "https://www.smartsuite.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-16"
+     "verified_at": "2026-11-23"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-16",
+   "price_verified_at": "2026-11-23",
    "first_observed_at": "2026-11-16"
   },
   {

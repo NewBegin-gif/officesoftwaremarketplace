@@ -1048,7 +1048,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/smartsuite-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: SmartSuite, No free plan: a 14-day trial of Professional with no credit card. One gate comes before all of that.
-- Price: (re-verified 2026-11-16 on their own pricing page and FAQ, USD; seat prices unchanged since our August reading) No free plan: a 14-day trial of Professional with no credit card, and the page states there is no automatic charge when it ends. Team is $15 per seat a month billed annually, or $20 billed monthly, with a minimum of 3 billable users, 5,000 records per solution, 50GB of storage and a 30-day recycle bin.
+- Price: (re-verified 2026-11-16 and 2026-11-23 on their own pricing page and FAQ, USD; seat prices unchanged since our August reading) No free plan: a 14-day trial of Professional with no credit card, and the page states there is no automatic charge when it ends. Team is $15 per seat a month billed annually, or $20 billed monthly, with a minimum of 3 billable users, 5,000 records per solution, 50GB of storage and a…
 
 ## SMTP.com
 - Review: https://officesoftwaremarketplace.com/smtp-com-review.html
