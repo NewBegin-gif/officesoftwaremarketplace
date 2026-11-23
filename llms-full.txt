@@ -310,7 +310,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/devs-ai-review.html
 - Hands-on: tested by us on 2026-11-13. Measured 2026-11-13: The App Builder asks 'What do you want to build?' with a model picker set to GPT-5.5, a Plan first option and templates such as CRM, Analytics Dashboard and HR Portal. The Free plan showed unlimited users…
 - Verdict: Devs.ai: Personal is $15 per seat / month billed annually or $18 billed monthly. The seat price is the smaller half of the bill.
-- Price: (re-verified 2026-10-11 and 2026-08-26, read in a live browser session on devs.ai/home/pricing with both billing toggles) Devs.ai does publish its pricing — on the marketing site at devs.ai/home/pricing, not at the app's /pricing route, which bounces you to a login screen. Free is $0 forever, but Agent Builder and App Builder appear there in "Core" rather than "Full" form, data upload is capped at 2 GB, and…
+- Price: (re-verified 2026-11-23 from the plan data that devs.ai/home/pricing loads, both billing columns; earlier 2026-10-11 and 2026-08-26 in a live browser session with both toggles) Devs.ai does publish its pricing — on the marketing site at devs.ai/home/pricing, not at the app's /pricing route, which bounces you to a login screen. Free is $0 forever, but Agent Builder and App Builder appear there in "Core" rather…
 
 ## Dext
 - Review: https://officesoftwaremarketplace.com/dext-review.html
@@ -393,8 +393,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Evolve
 - Review: https://officesoftwaremarketplace.com/evolve-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Evolve: No public price list; there is no /pricing page and the call to action across the site is 'Book an intro'. It's built for large organizations.
-- Price: (re-verified 2026-09-22 on evolveplatform.ai) No public price list -- there is no /pricing page and the call to action across the site is 'Book an intro'. The platform is modular by design and the quote is built from which modules you contract and how many seats: Evolve Learning, Course Generate, Evolve Studio course builder, Assessment Center, Knowledge base and Simulations -- six independent but connected…
+- Verdict: Evolve, No public price list: /pricing and /llms.txt still return 404. It's built for large organizations.
+- Price: (re-verified 2026-11-23 on evolveplatform.ai) No public price list: /pricing and /llms.txt still return 404, and the site's own FAQ answers "How much does Evolve cost, and can I see a demo?" with "Pricing depends on the products you choose and the number of users. Book an Evolve demo with our team." The site was redesigned since September and the main call to action is now 'Book a demo' (the footer still says…
 
 ## ExpertEx
 - Review: https://officesoftwaremarketplace.com/expertex-review.html
