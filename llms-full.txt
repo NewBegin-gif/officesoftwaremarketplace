@@ -1,6 +1,6 @@
 # Office Software Marketplace — Full Review Catalog
 
-> All 215 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-22.
+> All 218 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-23.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -942,6 +942,12 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Verdict: Samsara: The Pricing and Plans page names seven packages. The pricing page asks how many vehicles you run and leads to a sales form.
 - Price: (read 2026-10-10 on samsara.com/pricing and samsara.com/resources/plans, US site) No prices are shown. The pricing page opens a form that first asks how many vehicles or assets you have (1-5, 6-29, 30-499, 500-4,999 or 5,000+) and prints no figure.
 
+## SaneBox
+- Review: https://officesoftwaremarketplace.com/sanebox-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Verdict: SaneBox: Snack $5.42/mo billed $65 a year, or $9.49 month to month. You are paying monthly to filter mail that modern clients increasingly sort for free.
+- Price: (re-read 21 November 2026 from the plan data that sanebox.com/pricing embeds for its client-side price cards) Three plans, billed yearly or month to month. The two-year option we recorded on 24 September 2026 (Snack $4.54 a month, $109 every 2 years) is no longer offered: the served page now carries a flag that hides it and no two-year price for any plan.
+
 ## Sendcloud
 - Review: https://officesoftwaremarketplace.com/sendcloud-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
@@ -1080,6 +1086,12 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Verdict: SurveyMonkey: Euro storefronts read €360 and €900 a user a year, shown on the page as €30 and €75 a month. Branding and customisation are limited.
 - Price: (re-verified 2026-10-01 in surveymonkey.com/pricing.md, whose header now dates the content 2026-09-22, and on surveymonkey.com/pricing/ as served to a euro storefront) Team plans are billed annually and need three or more users; pricing.md no longer lists any monthly Team variant. Every Team seat costs the same, the first one included: in the US table Team Advantage Annual is $360 a user a year and Team Premier…
 
+## Survicate
+- Review: https://officesoftwaremarketplace.com/survicate-review.html
+- Hands-on: tested by us on 2026-10-29. Measured 2026-10-29: Home shows Free 10-Day Trial, 10 days remaining in trial and 25 responses remaining. The post-test response balance was not read.
+- Verdict: Survicate: $56 a month for 100 responses and 500 data points, $114 for 250 and 1,000, $169 for 500 and 1,500, $229 for 1,000 and 2,000.
+- Price: (read 2026-09-08 and re-read unchanged 2026-09-26, 2026-11-11 and 2026-11-22 (Growth from $56, Pro $349, Enterprise $569) in the plan data embedded in survicate.com/pricing; from an EU exit the cards show EUR 99 for Growth at 250 responses, EUR 299 for Pro and EUR 499 for Enterprise) A 10-day trial of all features, no card. Growth is metered on feedback rather than seats and is a ladder, not a single price: $56 a…
+
 ## SurvIQ
 - Review: https://officesoftwaremarketplace.com/surviq-review.html
 - Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: The Free plan lists 10 question types, while the question type menu in the editor showed 19 types.
@@ -1163,6 +1175,12 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: A share link with a password, an open limit of 10, expiry after 30 days and access logs was set up in about 3 minutes; the link was not opened by an outside recipient.
 - Verdict: Tresorit: The business prices below are unchanged, €36, €24 and €30 monthly and €28.80, €19.20 and €24 yearly. For regulated teams that's exactly the deal.
 - Price: (re-verified 2026-11-22 on tresorit.com/pricing/business with both billing toggles: the business prices below are unchanged, €36, €24 and €30 monthly and €28.80, €19.20 and €24 yearly, and the page now also shows an Enterprise card at custom pricing, billed annually. The Personal, Engage and FileSharing prices were last read 2026-11-05.) (re-verified 2026-11-05 on tresorit.com/pricing/business, /personal,…
+
+## Turbotic
+- Review: https://officesoftwaremarketplace.com/turbotic-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Verdict: Turbotic: Automation AI has a Free plan with up to 100 executions and up to 100 AI chats a month. Verify it integrates with your actual stack first.
+- Price: (Read 21 November 2026 on Turbotic's product pages) Automation AI has a Free plan with up to 100 executions and up to 100 AI chats a month, and up to 3 automations. Basic starts at $19.99 a month on monthly billing or $14.99 a month billed annually.
 
 ## UltaHost
 - Review: https://officesoftwaremarketplace.com/ultahost-review.html

@@ -1193,6 +1193,22 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/surveymonkey-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/surveymonkey.svg\" width=\"340\" height=\"115\" alt=\"SurveyMonkey hands-on test by Office Software Marketplace, 5 Nov 2026: Vendor claims checked 8; 7 confirmed · 1 contradicted; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "survicate",
+  "name": "Survicate",
+  "review_url": "https://officesoftwaremarketplace.com/survicate-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/survicate.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#survicate",
+  "tested_on": "2026-10-29",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 2",
+   "2 confirmed",
+   "Data export: file opened, re-import not tested"
+  ],
+  "alt": "Survicate hands-on test by Office Software Marketplace, 29 Oct 2026: Vendor claims checked 2; 2 confirmed; Data export: file opened, re-import not tested",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/survicate-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/survicate.svg\" width=\"340\" height=\"115\" alt=\"Survicate hands-on test by Office Software Marketplace, 29 Oct 2026: Vendor claims checked 2; 2 confirmed; Data export: file opened, re-import not tested\"></a>"
+ },
+ {
   "slug": "surviq",
   "name": "SurvIQ",
   "review_url": "https://officesoftwaremarketplace.com/surviq-review.html",
