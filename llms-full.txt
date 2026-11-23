@@ -484,7 +484,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/goflow-review.html
 - Hands-on: tested by us on 2026-10-24. Measured 2026-10-24: After sign-up Goflow opened on a setup checklist that can be skipped; we saw no card, call or integration requirement.
 - Verdict: Goflow Core is free forever at $0/mo with no credit card. Core is free forever but no longer the whole platform.
-- Price: (re-verified 23 Sep 2026 on goflow.com/pricing; the plan ladder was restructured since 3 Sep) Goflow Core is free forever at $0/mo with no credit card, capped at 500 orders a month (new orders then wait until the 1st of the next month or an upgrade), 3 users and 1,000 newly created listings, and limited to stores on Amazon, eBay, Shopify, TikTok and Walmart, QuickBooks Online only, with no API and no App Store.…
+- Price: (re-verified 23 Sep 2026 on goflow.com/pricing, the plan ladder having been restructured since 3 Sep; read again 23 Nov 2026 with every amount unchanged) Goflow Core is free forever at $0/mo with no credit card, capped at 500 orders a month (new orders then wait until the 1st of the next month or an upgrade), 3 users and 1,000 newly created listings, and limited to stores on Amazon, eBay, Shopify, TikTok and…
 
 ## Gravity Forms
 - Review: https://officesoftwaremarketplace.com/gravity-forms-review.html
@@ -532,7 +532,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/hopp-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Hopp Business publishes no subscription price because it does not charge one. The honest note is that the platform is free and the rides are not.
-- Price: (price re-verified 2026-09-23 on gethopp.com/en/business/) Hopp Business publishes no subscription price because it does not charge one: the page states there are no activation costs and no minimum commitment, and billing is per ride on a single consolidated monthly invoice. Ride fares vary by city, vehicle class and demand and are not published as a rate card.
+- Price: (price re-verified 2026-11-23 on gethopp.com/en/business/; earlier 2026-09-23) Hopp Business publishes no subscription price because it does not charge one: the page states there are no activation costs and no minimum commitment, and billing is per ride on a single consolidated monthly invoice. Ride fares vary by city, vehicle class and demand and are not published as a rate card.
 
 ## Hostinger
 - Review: https://officesoftwaremarketplace.com/hostinger-review.html
@@ -1168,7 +1168,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/top-echelon-review.html
 - Hands-on: tested by us on 2026-10-31. Measured 2026-10-31: The trial showed 30 days, with no card. The account came pre-filled with 100 sample people and 50 sample companies.
 - Verdict: Top Echelon: $95 billed annually or $115 month-to-month on Professional. Almost everything people shop for sits in Professional, not Standard.
-- Price: (2026-09-10, read on their own pricing page, both billing toggles; re-verified unchanged on 2026-10-06) TE Recruit (the ATS and CRM) runs $79 per seat per month billed annually or $95 month-to-month on Standard, and $95 billed annually or $115 month-to-month on Professional. Those seat rates rose during 2026: the same cards read $75/$89 on Standard and $89/$110 on Professional when we read them on 25 August 2026.
+- Price: (2026-09-10, read on their own pricing page, both billing toggles; re-verified unchanged on 2026-10-06 and again on 2026-11-23) TE Recruit (the ATS and CRM) runs $79 per seat per month billed annually or $95 month-to-month on Standard, and $95 billed annually or $115 month-to-month on Professional. Those seat rates rose during 2026: the same cards read $75/$89 on Standard and $89/$110 on Professional when we read…
 
 ## Tresorit
 - Review: https://officesoftwaremarketplace.com/tresorit-review.html

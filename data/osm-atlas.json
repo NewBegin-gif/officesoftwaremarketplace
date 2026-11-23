@@ -2758,27 +2758,27 @@
    "entry_price": "$499",
    "entry_price_terms": "entry plan (750 orders) · per month for 750 orders, month-to-month",
    "pricing_status": "public",
-   "price_note": "(re-verified 23 Sep 2026 on goflow.com/pricing; the plan ladder was restructured since 3 Sep) Goflow Core is free forever at $0/mo with no credit card, capped at 500 orders a month (new orders then wait until the 1st of the next month or an upgrade), 3 users and 1,000 newly created listings, and limited to stores on Amazon, eBay, Shopify, TikTok and Walmart, QuickBooks Online only, with no API and no App Store. Paid subscriptions are priced by typical monthly order volume through a calculator on the page; its plan data lists $499 for 750 orders, $789 for 2,500, $1,149 for 5,000, $1,449 for 10,000 plus 100 wholesale, $2,249 for 25,000, $2,999 for 50,000 and $4,599 for 100,000, each with a wholesale-weighted twin at the same price that trades retail orders for wholesale ones ($1,149 buys 5,000 retail orders or 2,000 plus 100 wholesale). The $499 and $789 plans include no wholesale orders. Overage per additional order runs from $0.70 on the $499 plan through $0.50 and $0.30 down to $0.10, and from $8 down to $3 per wholesale order. On 3 September the page showed named tiers instead, Launch $499 (750 orders) and Scale $979 (5,000 orders plus wholesale); no $979 plan exists in the current data. Every paid plan is month-to-month, billed on the 1st, with no setup or implementation fees; Enterprise is shown as \"Let's talk\" and is the one 12-month commitment. EDI, SFTP and AS2 connections carry a one-time setup and testing fee of typically $500-1,300 per connection, and custom document or label design is billed hourly. Channel-fulfilled orders count at half weight. There is no free trial and no discount programme — the free Core plan is the trial (vendor mail, 12 Aug 2026).",
+   "price_note": "(re-verified 23 Sep 2026 on goflow.com/pricing, the plan ladder having been restructured since 3 Sep; read again 23 Nov 2026 with every amount unchanged) Goflow Core is free forever at $0/mo with no credit card, capped at 500 orders a month (new orders then wait until the 1st of the next month or an upgrade), 3 users and 1,000 newly created listings, and limited to stores on Amazon, eBay, Shopify, TikTok and Walmart, QuickBooks Online only, with no API and no App Store. Paid subscriptions are priced by typical monthly order volume through a calculator on the page; its plan data lists $499 for 750 orders, $789 for 2,500, $1,149 for 5,000, $1,449 for 10,000 plus 100 wholesale, $2,249 for 25,000, $2,999 for 50,000 and $4,599 for 100,000, each with a wholesale-weighted twin at the same price that trades retail orders for wholesale ones ($1,149 buys 5,000 retail orders or 2,000 plus 100 wholesale). The $499 and $789 plans include no wholesale orders. Overage per additional order runs from $0.70 on the $499 plan through $0.50 and $0.30 down to $0.10, and from $8 down to $3 per wholesale order. On 3 September the page showed named tiers instead, Launch $499 (750 orders) and Scale $979 (5,000 orders plus wholesale); no $979 plan exists in the current data. Every paid plan is month-to-month, billed on the 1st, with no setup or implementation fees; Enterprise is shown as \"Let's talk\" and is the one 12-month commitment. EDI, SFTP and AS2 connections carry a one-time setup and testing fee of typically $500-1,300 per connection, and custom document or label design is billed hourly. Channel-fulfilled orders count at half weight. There is no free trial and no discount programme — the free Core plan is the trial (vendor mail, 12 Aug 2026). Re-read 23 November 2026 from the calculator's plan data: the same twelve plans and prices, and the wholesale allowance of the larger plans is now visible in the data as well ($1,449 includes 100 wholesale orders, $2,249 includes 200, $2,999 includes 300 and $4,599 includes 500). The comparison table now credits a subscription with 2,100+ integrations against Core's five marketplaces, and the FAQ adds that payment is by credit card or ACH in USD and that a change or cancellation must be notified at least one business day before the next cycle.",
    "flags": [
     {
      "flag": "usage_metered",
      "evidence": "Overage per additional order runs from $0.70 on the $499 plan through $0.50 and $0.30 down to $0.10, and from $8 down to $3 per wholesale order.",
      "evidence_excerpt": null,
-     "source_url": null,
+     "source_url": "https://goflow.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-11-23"
     },
     {
      "flag": "free_tier",
-     "evidence": "(re-verified 23 Sep 2026 on goflow.com/pricing; the plan ladder was restructured since 3 Sep) Goflow Core is free forever at $0/mo with no credit card, capped at 500 orders a month (new orders then wait until the 1st of the next month or an upgrade), 3 users and 1,000 newly created listings, and limited to stores on Amazon, eBay, Shopify, TikTok and Walmart, QuickBooks Online only, with no API and no App Store.",
-     "evidence_excerpt": "(re-verified 23 Sep 2026 on goflow.com/pricing; the plan ladder was restructured since 3 Sep) Goflow Core is free forever at $0/mo with no credit card, capped at 500 orders a month (new orders then w…",
-     "source_url": null,
+     "evidence": "(re-verified 23 Sep 2026 on goflow.com/pricing, the plan ladder having been restructured since 3 Sep; read again 23 Nov 2026 with every amount unchanged) Goflow Core is free forever at $0/mo with no credit card, capped at 500 orders a month (new orders then wait until the 1st of the next month or an upgrade), 3 users and 1,000 newly created listings, and limited to stores on Amazon, eBay, Shopify, TikTok and Walmart, QuickBooks Online only, with no API and no App Store.",
+     "evidence_excerpt": "(re-verified 23 Sep 2026 on goflow.com/pricing, the plan ladder having been restructured since 3 Sep; read again 23 Nov 2026 with every amount unchanged) Goflow Core is free forever at $0/mo with no …",
+     "source_url": "https://goflow.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-11-23"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-23",
+   "price_verified_at": "2026-11-23",
    "first_observed_at": null
   },
   {
@@ -3085,11 +3085,11 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "see_details",
-   "price_note": "(price re-verified 2026-09-23 on gethopp.com/en/business/) Hopp Business publishes no subscription price because it does not charge one: the page states there are no activation costs and no minimum commitment, and billing is per ride on a single consolidated monthly invoice. Ride fares vary by city, vehicle class and demand and are not published as a rate card. The site cites 50,000+ businesses; the equivalent Bolt for Business page cited over 70,000 companies when read on 2 September 2026. The gethopp.com homepage says Hopp is brought to you by Bolt Technology OU and cites the group's 50+ countries on 5 continents; neither page lists the cities where Hopp Business itself runs.",
+   "price_note": "(price re-verified 2026-11-23 on gethopp.com/en/business/; earlier 2026-09-23) Hopp Business publishes no subscription price because it does not charge one: the page states there are no activation costs and no minimum commitment, and billing is per ride on a single consolidated monthly invoice. Ride fares vary by city, vehicle class and demand and are not published as a rate card. The site cites 50,000+ businesses; the equivalent Bolt for Business page cited over 70,000 companies when read on 2 September 2026. The gethopp.com homepage says Hopp is brought to you by Bolt Technology OU and cites the group's 50+ countries on 5 continents; neither page lists the cities where Hopp Business itself runs. Re-read 23 November 2026: the business page still states \"no activation costs or minimum commitment\" and a single consolidated invoice, still cites 50,000+ businesses, and still publishes no fares. The gethopp.com homepage now cites 200+ million customers, 50+ countries on 5 continents and 4.5+ million drivers and couriers for Bolt.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-23",
-   "first_observed_at": "2026-09-23"
+   "price_verified_at": "2026-11-23",
+   "first_observed_at": "2026-11-23"
   },
   {
    "name": "Hostinger",
@@ -6614,15 +6614,15 @@
    "entry_price": "$79",
    "entry_price_terms": "TE Recruit Standard… · per seat per month billed annually",
    "pricing_status": "public",
-   "price_note": "(2026-09-10, read on their own pricing page, both billing toggles; re-verified unchanged on 2026-10-06) TE Recruit (the ATS and CRM) runs $79 per seat per month billed annually or $95 month-to-month on Standard, and $95 billed annually or $115 month-to-month on Professional. Those seat rates rose during 2026: the same cards read $75/$89 on Standard and $89/$110 on Professional when we read them on 25 August 2026. TE Network, the split-placement network, is priced per agency rather than per seat and is unchanged: $135 per month billed annually with the $350 startup fee waived, or $150 per month billed monthly plus a $350 one-time startup fee.",
+   "price_note": "(2026-09-10, read on their own pricing page, both billing toggles; re-verified unchanged on 2026-10-06 and again on 2026-11-23) TE Recruit (the ATS and CRM) runs $79 per seat per month billed annually or $95 month-to-month on Standard, and $95 billed annually or $115 month-to-month on Professional. Those seat rates rose during 2026: the same cards read $75/$89 on Standard and $89/$110 on Professional when we read them on 25 August 2026. TE Network, the split-placement network, is priced per agency rather than per seat and is unchanged: $135 per month billed annually with the $350 startup fee waived, or $150 per month billed monthly plus a $350 one-time startup fee. Re-read 23 November 2026 on topechelon.com/pricing with both toggles: Standard $79 billed annually or $95 billed monthly, Professional $95 or $115, TE Network $135 a month billed annually with the $350 startup fee waived or $150 billed monthly plus the $350 fee, all unchanged. The cards also list 5K emails a month and 10 GB of storage with one backup a month on Standard, against 10K emails, 100 GB and a weekly backup on Professional.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "(2026-09-10, read on their own pricing page, both billing toggles; re-verified unchanged on 2026-10-06) TE Recruit (the ATS and CRM) runs $79 per seat per month billed annually or $95 month-to-month on Standard, and $95 billed annually or $115 month-to-month on Professional.",
-     "evidence_excerpt": "(2026-09-10, read on their own pricing page, both billing toggles; re-verified unchanged on 2026-10-06) TE Recruit (the ATS and CRM) runs $79 per seat per month billed annually or $95 month-to-month …",
+     "evidence": "(2026-09-10, read on their own pricing page, both billing toggles; re-verified unchanged on 2026-10-06 and again on 2026-11-23) TE Recruit (the ATS and CRM) runs $79 per seat per month billed annually or $95 month-to-month on Standard, and $95 billed annually or $115 month-to-month on Professional.",
+     "evidence_excerpt": "(2026-09-10, read on their own pricing page, both billing toggles; re-verified unchanged on 2026-10-06 and again on 2026-11-23) TE Recruit (the ATS and CRM) runs $79 per seat per month billed annuall…",
      "source_url": "https://www.topechelon.com/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-06"
+     "verified_at": "2026-11-23"
     },
     {
      "flag": "addons_extra",
@@ -6630,7 +6630,7 @@
      "evidence_excerpt": null,
      "source_url": "https://www.topechelon.com/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-06"
+     "verified_at": "2026-11-23"
     },
     {
      "flag": "annual_lock",
@@ -6638,11 +6638,11 @@
      "evidence_excerpt": null,
      "source_url": "https://www.topechelon.com/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-06"
+     "verified_at": "2026-11-23"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-06",
+   "price_verified_at": "2026-11-23",
    "first_observed_at": "2026-09-10"
   },
   {
