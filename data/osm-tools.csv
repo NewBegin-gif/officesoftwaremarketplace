@@ -7,7 +7,7 @@ ADP,HR & People,adp.com,,quote_only|per_seat,https://aibuildermarketplace.com/b2
 Airia,IT & Productivity,airia.com,,quote_only,https://aibuildermarketplace.com/b2b/airia-review/,2026-07,,,quote_only,2026-11-21
 Airwallex,Finance,airwallex.com,12.0,usage_metered,https://aibuildermarketplace.com/b2b/airwallex-review/,2026-07,$12,a month per active Spend user plus a team-size platform fee,public,2026-11-19
 Alohi,Operations & Workflow,alohi.com,6.99,per_seat|usage_metered|addons_extra|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/alohi-review/,2026-07,$6.99,a month billed annually ($83.99/yr),public,2026-11-19
-Alvys,Operations & Workflow,alvys.com,,quote_only|addons_extra,https://aibuildermarketplace.com/b2b/alvys-review/,2026-07,,,quote_only,2026-09-20
+Alvys,Operations & Workflow,alvys.com,,per_seat|usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/alvys-review/,2026-07,,,see_details,2026-11-23
 AML Watcher,Financial Operations,amlwatcher.com,,usage_metered,https://aibuildermarketplace.com/b2b/aml-watcher-review/,2026-07,,,see_details,2026-11-07
 Aplos,Finance & Accounting,aplos.com,79.0,per_seat|annual_lock,https://aibuildermarketplace.com/b2b/aplos-review/,2026-07,$79,"Lite · billed monthly, as published for all three tiers",public,2026-10-13
 Arbor,Financial Operations,joinarbor.com,,,https://aibuildermarketplace.com/b2b/arbor-review/,2026-07,,,see_details,2026-10-09
@@ -186,7 +186,7 @@ Rippling,HR & People,rippling.com,8.0,per_seat,https://aibuildermarketplace.com/
 Runpod,IT & Productivity,runpod.io,,,https://aibuildermarketplace.com/b2b/runpod-review/,2026-07,$0.27,"RTX A5000 pod, Secure… · per hour, billed per second",public,2026-09-24
 Samsara,Business Operations,samsara.com,,quote_only,https://aibuildermarketplace.com/b2b/samsara-review/,2026-07,,,quote_only,2026-10-10
 SaneBox,Operations & Workflow,sanebox.com,5.42,,https://aibuildermarketplace.com/b2b/sanebox-review/,2026-07,$5.42,Snack… · per month billed annually ($65 a year),public,2026-11-21
-Sendcloud,Operations & Workflow,sendcloud.com,,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/sendcloud-review/,2026-07,€28,Lite · billed monthly,public,2026-11-17
+Sendcloud,Operations & Workflow,sendcloud.com,,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/sendcloud-review/,2026-07,€28,Lite · billed monthly,public,2026-11-23
 Sentaro,IT & Productivity,sentaro.com,6.0,,https://aibuildermarketplace.com/b2b/sentaro-review/,2026-07,$6,a month per protected account (first account free),public,2026-09-24
 ServiceM8,Operations & Workflow,servicem8.com,,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/servicem8-review/,2026-07,,,see_details,2026-09-19
 Shiftie,Operations & Workflow,shiftie.co,,,https://aibuildermarketplace.com/b2b/shiftie-review/,2026-07,£2.75,per employee per month,public,2026-09-24
@@ -223,7 +223,7 @@ Tellent,Operations & Workflow,tellent.com,,quote_only|usage_metered|addons_extra
 Tenable,IT & Productivity,tenable.com,,addons_extra,https://aibuildermarketplace.com/b2b/tenable-review/,2026-07,"$4,790",per year,public,2026-10-04
 TestGorilla,HR & People,testgorilla.com,77.0,per_seat|usage_metered|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/testgorilla-review/,2026-07,$77,per month billed annually,public,2026-10-15
 TextExpander,Productivity,textexpander.com,,per_seat|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/textexpander-review/,2026-07,,,see_details,2026-10-09
-TheTop,IT & Productivity,thetop.com,,quote_only,https://aibuildermarketplace.com/b2b/thetop-review/,2026-07,,,quote_only,2026-09-19
+TheTop,IT & Productivity,thetop.com,175.0,usage_metered,https://aibuildermarketplace.com/b2b/thetop-review/,2026-07,$175,"Transparency +… · per month, billed monthly, for the first 12 months, then $350 a month",public,2026-11-23
 Thryv,Business Operations,thryv.com,99.0,,https://aibuildermarketplace.com/b2b/thryv-review/,2026-07,$99,"a month, or $85 a month billed annually",public,2026-09-19
 Todoist,Operations & Workflow,todoist.com,5.0,per_seat|free_tier,https://aibuildermarketplace.com/b2b/todoist-review/,2026-07,$5,a month billed annually ($60/yr) or $7 billed monthly,public,2026-09-25
 Toggl,Operations & Workflow,toggl.com,9.0,per_seat|addons_extra|free_tier,https://aibuildermarketplace.com/b2b/toggl-review/,2026-07,$9,"per user a month billed annually, or $12 monthly",public,2026-10-22

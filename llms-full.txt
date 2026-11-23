@@ -46,7 +46,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/alvys-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Alvys: The pricing page is public again. Implementation runs to weeks, the vendor's own pricing FAQ says most operations are live in under two to four weeks.
-- Price: (re-verified 20 Sep 2026) The pricing page is public again, and it has tiers now. On 26 August 2026 alvys.com/pricing answered an ordinary request with HTTP 401 and sat behind a password; read on 20 September 2026 it returns 200 and shows three plans — Foundations, Growth and Scale — none of which carries an amount.
+- Price: (re-verified 23 Nov 2026; first read with tiers 20 Sep 2026) The pricing page is public again, and it has tiers now. On 26 August 2026 alvys.com/pricing answered an ordinary request with HTTP 401 and sat behind a password; read on 20 September 2026 it returns 200 and shows three plans — Foundations, Growth and Scale — none of which carries an amount.
 
 ## AML Watcher
 - Review: https://officesoftwaremarketplace.com/aml-watcher-review.html
@@ -952,7 +952,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/sendcloud-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Sendcloud, Paid tiers at the monthly rate: Lite €28/mo + €0.10 per label, Growth €87/mo + €0.09, Premium €175/mo + €0.08, Pro €639/mo + €0.07.
-- Price: (price re-verified 2026-11-17 against the vendor's own pricing page, read from our EU server, after 2026-09-22 from a Dutch exit; subscriptions, label fees, caps, users and integrations identical to the 31 Aug and 22 Sep 2026 readings; three carrier rates moved, see below) Free plan €0/mo: up to 20 parcels a month, no courier contract, no subscription; on 22 Sep 2026 the comparison table gave €0.50 a label beyond…
+- Price: (price re-verified 2026-11-23 against the vendor's own pricing page, read from our EU server; every figure below matched the 2026-11-17 reading, including the carrier rates; earlier readings 2026-09-22 from a Dutch exit and 31 Aug 2026; subscriptions, label fees, caps, users and integrations identical across all of them; three carrier rates moved between September and November, see below) Free plan €0/mo: up to…
 
 ## Sentaro
 - Review: https://officesoftwaremarketplace.com/sentaro-review.html
@@ -1155,8 +1155,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## TheTop
 - Review: https://officesoftwaremarketplace.com/thetop-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: TheTop: The $8 a month and $80 a year this review used to quote were withdrawn along with the product they belonged to. TheTop publishes no rate of any kind.
-- Price: (read 19 September 2026) TheTop publishes no price. The navigation carries no pricing link, every button is Book a demo, and the page this review's figures came from is gone: thetop.com/pricing returns a hard 404, as do /pricing/ and /plans.
+- Verdict: TheTop publishes prices again. Transparency moves between $150 and $500 a month with your AI spend, Governance is metered per million tokens.
+- Price: (read 23 November 2026 on thetop.com/pricing) TheTop publishes prices again. On 19 September 2026 that URL returned a 404 and every button said Book a demo; it now carries a full rate card, priced on your AI spend and on the tokens that pass through TheTop.
 
 ## Todoist
 - Review: https://officesoftwaremarketplace.com/todoist-review.html

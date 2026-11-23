@@ -613,6 +613,20 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/imagify-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/imagify.svg\" width=\"340\" height=\"98\" alt=\"Imagify hands-on test by Office Software Marketplace, 21 Oct 2026: Vendor claims checked 2; 2 confirmed\"></a>"
  },
  {
+  "slug": "invideo",
+  "name": "InVideo",
+  "review_url": "https://officesoftwaremarketplace.com/invideo-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/invideo.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#invideo",
+  "tested_on": "2026-11-22",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "InVideo hands-on test by Office Software Marketplace, 22 Nov 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/invideo-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/invideo.svg\" width=\"340\" height=\"81\" alt=\"InVideo hands-on test by Office Software Marketplace, 22 Nov 2026: No claim or export checks recorded\"></a>"
+ },
+ {
   "slug": "joiin",
   "name": "Joiin",
   "review_url": "https://officesoftwaremarketplace.com/joiin-review.html",
