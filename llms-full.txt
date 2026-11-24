@@ -118,7 +118,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/bitvavo-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Bitvavo, Above that: 0.03%/0.12% from €2,500,000, 0.01%/0.10% from €5,000,000. The honest caveats are crypto-wide, not Bitvavo-specific.
-- Price: (re-verified 2026-11-22, read on their own fees page; every figure below matches the 8 October 2026 reading) No subscription — you pay per trade. EUR markets (Category A) run ten volume tiers.
+- Price: (re-verified 2026-11-22 and 2026-11-24, read on their own fees page; every figure below matches the 8 October 2026 reading) No subscription — you pay per trade. EUR markets (Category A) run ten volume tiers.
 
 ## Bizee
 - Review: https://officesoftwaremarketplace.com/bizee-review.html
@@ -1240,7 +1240,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/wing-assistant-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Wing Assistant: General Virtual Assistant part-time is $699 a month for 80 hours and full-time $999 a month for 160 hours.
-- Price: (re-verified 2026-11-21 against the homepage plan cards and wingassistant.com/llms.txt: $699 part-time and $999 full-time unchanged) (re-verified 2026-08-17 and again on 2026-09-28 against Wing's homepage plan cards and its machine-readable llms.txt; wingassistant.com/pricing/ itself now redirects to a call-booking page) This is a managed assistant service, not software. General Virtual Assistant part-time is…
+- Price: (re-verified 2026-11-21 and 2026-11-24 against the homepage plan cards and wingassistant.com/llms.txt: $699 part-time and $999 full-time unchanged) (re-verified 2026-08-17 and again on 2026-09-28 against Wing's homepage plan cards and its machine-readable llms.txt; wingassistant.com/pricing/ itself now redirects to a call-booking page) This is a managed assistant service, not software. General Virtual Assistant…
 
 ## Wondershare PDFelement
 - Review: https://officesoftwaremarketplace.com/wondershare-pdfelement-review.html
