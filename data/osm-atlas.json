@@ -1144,7 +1144,7 @@
    "entry_price": "$9",
    "entry_price_terms": "Core, per user · per month, billed yearly",
    "pricing_status": "public",
-   "price_note": "(corrected 2026-11-21, read on clickup.com/pricing in a rendered browser) ClickUp has rebuilt its plan ladder since our 30 September reading. Free Forever stays at $0 with unlimited tasks, unlimited free members and 60MB of storage. The paid plans are now Core at $9 per user/month billed yearly (the card strikes through a regular price of $12), Business at $17 billed yearly (regular price $25), Enterprise on quote, and a new Max plan at $100 per user/month billed yearly (regular price $120). The page says yearly billing saves up to 33%; the month-to-month figures did not render when we switched the billing tab, so we do not quote them. AI now sits inside the paid plans instead of on top: Core carries a Brain² trial with 1,000 AI credits per user a month, Business 1,500, Enterprise 3,000 and Max 10,000, pooled across the Workspace, with extra credits at $10 per 10,000. An upgrade covers every member of the Workspace, and the refund window is 30 days.",
+   "price_note": "(corrected 2026-11-21, read on clickup.com/pricing in a rendered browser) ClickUp has rebuilt its plan ladder since our 30 September reading. Free Forever stays at $0 with unlimited tasks, unlimited free members and 60MB of storage. The paid plans are now Core at $9 per user/month billed yearly (the card strikes through a regular price of $12), Business at $17 billed yearly (regular price $25), Enterprise on quote, and a new Max plan at $100 per user/month billed yearly (regular price $120). The page says yearly billing saves up to 33%; the month-to-month figures did not render when we switched the billing tab, so we do not quote them. AI now sits inside the paid plans instead of on top: Core carries a Brain² trial with 1,000 AI credits per user a month, Business 1,500, Enterprise 3,000 and Max 10,000, pooled across the Workspace, with extra credits at $10 per 10,000. An upgrade covers every member of the Workspace, and the refund window is 30 days. Re-read 24 November 2026 on clickup.com/pricing with curl: Core $9 (regular $12), Business $17 (regular $25) and Max $100 (regular $120) per user a month billed yearly, Enterprise on quote, the same pooled AI credits (1K, 1.5K, 3K and 10K per user) and extra credits at $10 per 10K; unchanged.",
    "flags": [
     {
      "flag": "per_seat",
@@ -1152,7 +1152,7 @@
      "evidence_excerpt": "The paid plans are now Core at $9 per user/month billed yearly (the card strikes through a regular price of $12), Business at $17 billed yearly (regular price $25), Enterprise on quote, and a new Max…",
      "source_url": "https://clickup.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     },
     {
      "flag": "usage_metered",
@@ -1160,7 +1160,7 @@
      "evidence_excerpt": "AI now sits inside the paid plans instead of on top: Core carries a Brain² trial with 1,000 AI credits per user a month, Business 1,500, Enterprise 3,000 and Max 10,000, pooled across the Workspace, …",
      "source_url": "https://clickup.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     },
     {
      "flag": "free_tier",
@@ -1168,11 +1168,11 @@
      "evidence_excerpt": null,
      "source_url": "https://clickup.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-21",
+   "price_verified_at": "2026-11-24",
    "first_observed_at": "2026-11-21"
   },
   {
@@ -2552,15 +2552,15 @@
    "entry_price": "$19",
    "entry_price_terms": "per agent a month, billed annually ($29 billed monthly)",
    "pricing_status": "public",
-   "price_note": "(price re-verified 2026-11-21 against freshworks.com/freshservice/pricing/: Starter $19/$29, Growth $49/$59, Pro $99/$119 per agent and Enterprise 'Custom' unchanged) (price re-verified 2026-09-29 against the vendor's own pricing page) Per agent, read 29 Sep 2026 on freshworks.com/freshservice/pricing/: Starter $19/agent/mo billed annually or $29 monthly; Growth $49 or $59; Pro $99 or $119. Enterprise is quote-only again: the card now reads 'Custom' with a 'Contact us' button. The page's own plan data still carries $139 annual and $167 monthly for it, but with a hidePrices flag set and 'Custom' as the display text, so those two numbers are not an offer (on 1 Sep 2026 they were printed). Monthly billing costs 53% more on Starter and about 20% more on Growth and Pro. The same plan data carries a euro set -- Starter EUR 15 annual / EUR 25 monthly, Growth 40/50, Pro 84/102 -- in which the Starter monthly surcharge is 67%, not 53%. Add-ons and allowances: Freddy AI Copilot $29/agent/mo, offered on the Pro and Enterprise cards only and still an add-on on Enterprise even though that card now says 'Freddy AI included' (what is included there is the Freddy AI Agent (Classic) at 1,200 sessions per Enterprise licence per year, plus Freddy AI Insights); orchestration transactions included at 1,000/2,000/5,000/20,000 per account per month with extra packs at $250 per 1,000; MCP actions allowanced at 1,200, 6,000 or 12,000 a year with packs at $15 per 1,000; an e-signature pack at $90 for 30 signature credits; project management licences at $15/user/mo; a Business Agent licence for non-IT teams at $49/agent/mo on Pro and Enterprise only; connector app tasks at $80 per 5,000 after a one-time 500 free. Growth, Pro and Enterprise include the ITAM Growth package and 100 asset units (Starter does not); further units are sold in packs of 500. Three free Day Passes for occasional agents at signup, more from $3. 14-day free trial with all features. FAQ: upgrades apply instantly, downgrades and cancellations only at the end of the term.",
+   "price_note": "(price re-verified 2026-11-24 against freshworks.com/freshservice/pricing/: Starter $19/$29, Growth $49/$59, Pro $99/$119 per agent, Enterprise 'Custom', Freddy AI Copilot $29 and Day Passes from $3 unchanged) (price re-verified 2026-11-21 against freshworks.com/freshservice/pricing/: Starter $19/$29, Growth $49/$59, Pro $99/$119 per agent and Enterprise 'Custom' unchanged) (price re-verified 2026-09-29 against the vendor's own pricing page) Per agent, read 29 Sep 2026 on freshworks.com/freshservice/pricing/: Starter $19/agent/mo billed annually or $29 monthly; Growth $49 or $59; Pro $99 or $119. Enterprise is quote-only again: the card now reads 'Custom' with a 'Contact us' button. The page's own plan data still carries $139 annual and $167 monthly for it, but with a hidePrices flag set and 'Custom' as the display text, so those two numbers are not an offer (on 1 Sep 2026 they were printed). Monthly billing costs 53% more on Starter and about 20% more on Growth and Pro. The same plan data carries a euro set -- Starter EUR 15 annual / EUR 25 monthly, Growth 40/50, Pro 84/102 -- in which the Starter monthly surcharge is 67%, not 53%. Add-ons and allowances: Freddy AI Copilot $29/agent/mo, offered on the Pro and Enterprise cards only and still an add-on on Enterprise even though that card now says 'Freddy AI included' (what is included there is the Freddy AI Agent (Classic) at 1,200 sessions per Enterprise licence per year, plus Freddy AI Insights); orchestration transactions included at 1,000/2,000/5,000/20,000 per account per month with extra packs at $250 per 1,000; MCP actions allowanced at 1,200, 6,000 or 12,000 a year with packs at $15 per 1,000; an e-signature pack at $90 for 30 signature credits; project management licences at $15/user/mo; a Business Agent licence for non-IT teams at $49/agent/mo on Pro and Enterprise only; connector app tasks at $80 per 5,000 after a one-time 500 free. Growth, Pro and Enterprise include the ITAM Growth package and 100 asset units (Starter does not); further units are sold in packs of 500. Three free Day Passes for occasional agents at signup, more from $3. 14-day free trial with all features. FAQ: upgrades apply instantly, downgrades and cancellations only at the end of the term.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "(price re-verified 2026-11-21 against freshworks.com/freshservice/pricing/: Starter $19/$29, Growth $49/$59, Pro $99/$119 per agent and Enterprise 'Custom' unchanged) (price re-verified 2026-09-29 against the vendor's own pricing page) Per agent, read 29 Sep 2026 on freshworks.com/freshservice/pricing/: Starter $19/agent/mo billed annually or $29 monthly; Growth $49 or $59; Pro $99 or $119.",
-     "evidence_excerpt": "(price re-verified 2026-11-21 against freshworks.com/freshservice/pricing/: Starter $19/$29, Growth $49/$59, Pro $99/$119 per agent and Enterprise 'Custom' unchanged) (price re-verified 2026-09-29 ag…",
+     "evidence": "(price re-verified 2026-11-24 against freshworks.com/freshservice/pricing/: Starter $19/$29, Growth $49/$59, Pro $99/$119 per agent, Enterprise 'Custom', Freddy AI Copilot $29 and Day Passes from $3 unchanged) (price re-verified 2026-11-21 against freshworks.com/freshservice/pricing/: Starter $19/$29, Growth $49/$59, Pro $99/$119 per agent and Enterprise 'Custom' unchanged) (price re-verified 2026-09-29 against the vendor's own pricing page) Per agent, read 29 Sep 2026 on freshworks.com/freshservice/pricing/: Starter $19/agent/mo billed annually or $29 monthly; Growth $49 or $59; Pro $99 or $119.",
+     "evidence_excerpt": "(price re-verified 2026-11-24 against freshworks.com/freshservice/pricing/: Starter $19/$29, Growth $49/$59, Pro $99/$119 per agent, Enterprise 'Custom', Freddy AI Copilot $29 and Day Passes from $3 …",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     },
     {
      "flag": "usage_metered",
@@ -2568,7 +2568,7 @@
      "evidence_excerpt": "Add-ons and allowances: Freddy AI Copilot $29/agent/mo, offered on the Pro and Enterprise cards only and still an add-on on Enterprise even though that card now says 'Freddy AI included' (what is inc…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     },
     {
      "flag": "addons_extra",
@@ -2576,12 +2576,12 @@
      "evidence_excerpt": "The $19 headline rarely survives contact with a real deployment: the ITSM features most IT teams buy for (change/problem management, deeper analytics) live at Pro, and so does Freddy AI Copilot, a $2…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-21",
-   "first_observed_at": "2026-11-21"
+   "price_verified_at": "2026-11-24",
+   "first_observed_at": "2026-11-24"
   },
   {
    "name": "Future Skills Academy",
