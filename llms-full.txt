@@ -129,8 +129,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Blinq
 - Review: https://officesoftwaremarketplace.com/blinq-review.html
 - Hands-on: tested by us on 2026-10-23. Measured 2026-10-23: The web dashboard was enough to make and share a card: 'Finish setup' still asked for the app, but nothing we did needed it. The dashboard opened with a ready-made 'Work' card and two sample contacts from…
-- Verdict: Blinq, Free forever for individuals: two cards, unlimited sharing, unlimited lead capture with email enrichment. The core product is honestly cheap.
-- Price: (corrected 2026-11-21, read on blinq.me/pricing and in two Blinq help-centre articles updated 20 November 2026) Free forever for individuals: two cards, unlimited sharing, unlimited lead capture with email enrichment, and the AI Notetaker with notes from the last 30 days. Premium is $9.99 a month billed monthly or $7.33 billed annually, for up to five custom-branded cards without Blinq branding.
+- Verdict: Blinq: Free forever for individuals. The core product is honestly cheap: the cost that grows sits in events, at $500 per Campaign on pay as you go.
+- Price: (corrected 2026-11-21 and again 2026-11-24, read on blinq.me/pricing, Blinq's Event Lead Capture page and two Blinq help-centre articles) Free forever for individuals: two cards, unlimited sharing, unlimited lead capture with email enrichment, and the AI Notetaker with notes from the last 30 days. Premium is $9.99 a month billed monthly or $7.33 billed annually, for up to five custom-branded cards without Blinq…
 
 ## Bokun
 - Review: https://officesoftwaremarketplace.com/bokun-review.html
