@@ -4982,7 +4982,7 @@
    "entry_price": "$3.99",
    "entry_price_terms": "Mail Plus · per month, billed yearly at the standard rate",
    "pricing_status": "public",
-   "price_note": "(read 2026-08-26 on proton.me/pricing over a US connection, on the Mail tab with yearly billing) Free is $0.00 a month for 1 GB and one address. Mail Plus is $3.99 a month, marked 20% off $4.99 and billed at $47.88 every twelve months, for 15 GB, ten addresses and one custom domain. Unlimited is $9.99 a month, 23% off $12.99, billed at $119.88 a year, for 500 GB, fifteen addresses, three domains and the VPN, password manager and Drive storage. Those are the default figures an American is shown; the page also has a currency selector, and picking euros gives euro amounts rather than a conversion of these. Re-read on 11 October 2026 in euros, on the Mail and business pricing pages with both billing options: the euro page prints the same numbers as the dollar ladder above (Mail Plus 3.99 a month billed at 47.88 a year or 4.99 monthly, Unlimited 9.99 billed at 119.88 a year or 12.99 monthly), and the business per-user prices (see the business paragraph below) are unchanged from our 18 August reading, with a 30-day money-back guarantee. Re-read 21 November 2026 on proton.me/pricing (Mail tab, yearly billing, USD): the page now shows a first-year offer marked 50% off. Mail Plus is $2.49 a month, \"Billed at $29.88 for the first 12 months, then renews at $47.88 every 12 months\", and Unlimited is $6.49 a month, billed at $77.88 for the first 12 months and then $119.88. The renewal amounts match the standard yearly prices above, so treat $3.99 and $9.99 a month as the price from year two. The page does not say when the offer ends. Business prices were not re-read on this date.",
+   "price_note": "(read 2026-08-26 on proton.me/pricing over a US connection, on the Mail tab with yearly billing) Free is $0.00 a month for 1 GB and one address. Mail Plus is $3.99 a month, marked 20% off $4.99 and billed at $47.88 every twelve months, for 15 GB, ten addresses and one custom domain. Unlimited is $9.99 a month, 23% off $12.99, billed at $119.88 a year, for 500 GB, fifteen addresses, three domains and the VPN, password manager and Drive storage. Those are the default figures an American is shown; the page also has a currency selector, and picking euros gives euro amounts rather than a conversion of these. Re-read on 11 October 2026 in euros, on the Mail and business pricing pages with both billing options: the euro page prints the same numbers as the dollar ladder above (Mail Plus 3.99 a month billed at 47.88 a year or 4.99 monthly, Unlimited 9.99 billed at 119.88 a year or 12.99 monthly), and the business per-user prices (see the business paragraph below) are unchanged from our 18 August reading, with a 30-day money-back guarantee. Re-read 21 November 2026 on proton.me/pricing (Mail tab, yearly billing, USD): the page now shows a first-year offer marked 50% off. Mail Plus is $2.49 a month, \"Billed at $29.88 for the first 12 months, then renews at $47.88 every 12 months\", and Unlimited is $6.49 a month, billed at $77.88 for the first 12 months and then $119.88. The renewal amounts match the standard yearly prices above, so treat $3.99 and $9.99 a month as the price from year two. The page does not say when the offer ends. Business prices were not re-read on this date. Re-read 24 November 2026 on proton.me/pricing with curl: the first-year offer is still on (Mail Plus $2.49 a month, $29.88 for the first 12 months then $47.88; Unlimited $6.49, $77.88 then $119.88), still with no end date on the page.",
    "flags": [
     {
      "flag": "per_seat",
@@ -4990,7 +4990,7 @@
      "evidence_excerpt": "Re-read on 11 October 2026 in euros, on the Mail and business pricing pages with both billing options: the euro page prints the same numbers as the dollar ladder above (Mail Plus 3.99 a month billed …",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     },
     {
      "flag": "renewal_jump",
@@ -4998,7 +4998,7 @@
      "evidence_excerpt": "Mail Plus is $2.49 a month, \"Billed at $29.88 for the first 12 months, then renews at $47.88 every 12 months\", and Unlimited is $6.49 a month, billed at $77.88 for the first 12 months and then $119.8…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     },
     {
      "flag": "free_tier",
@@ -5006,11 +5006,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-21",
+   "price_verified_at": "2026-11-24",
    "first_observed_at": "2026-08-26"
   },
   {
@@ -5373,10 +5373,10 @@
    "entry_price": "$5.42",
    "entry_price_terms": "Snack… · per month billed annually ($65 a year)",
    "pricing_status": "public",
-   "price_note": "(re-read 21 November 2026 from the plan data that sanebox.com/pricing embeds for its client-side price cards) Three plans, billed yearly or month to month. The two-year option we recorded on 24 September 2026 (Snack $4.54 a month, $109 every 2 years) is no longer offered: the served page now carries a flag that hides it and no two-year price for any plan. Snack $5.42/mo billed $65 a year, or $9.49 month to month: 1 email account and 2 of the Sane features. Lunch $9.08/mo ($109 a year) or $15.99: 2 accounts and 6 features. Dinner $26.58/mo ($319 a year) or $42.99: 4 accounts, every listed feature, and the AI features SaneDrafts, SaneSummary and Digest Plus. The page states the yearly saving as 43% on Snack and Lunch and 38% on Dinner against twelve monthly payments. The free trial is 7 days. On 24 September the page also offered education, non-profit and government buyers another 25% off on request during the trial; that line is not in the page served on 21 November, so ask before counting on it.",
+   "price_note": "(re-read 21 and 24 November 2026 from the plan data that sanebox.com/pricing embeds for its client-side price cards) Three plans, billed yearly or month to month. The two-year option we recorded on 24 September 2026 (Snack $4.54 a month, $109 every 2 years) is no longer offered: the served page now carries a flag that hides it and no two-year price for any plan. Snack $5.42/mo billed $65 a year, or $9.49 month to month: 1 email account and 2 of the Sane features. Lunch $9.08/mo ($109 a year) or $15.99: 2 accounts and 6 features. Dinner $26.58/mo ($319 a year) or $42.99: 4 accounts, every listed feature, and the AI features SaneDrafts, SaneSummary and Digest Plus. The page states the yearly saving as 43% on Snack and Lunch and 38% on Dinner against twelve monthly payments. The free trial is 7 days. On 24 September the page also offered education, non-profit and government buyers another 25% off on request during the trial; that line is not in the page served on 21 November, so ask before counting on it.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-21",
+   "price_verified_at": "2026-11-24",
    "first_observed_at": null
   },
   {
