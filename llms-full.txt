@@ -1,6 +1,6 @@
 # Office Software Marketplace — Full Review Catalog
 
-> All 220 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-24.
+> All 222 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-25.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -113,6 +113,12 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Hands-on: tested by us on 2026-11-02. Measured 2026-11-02: We saw no trial banner or countdown anywhere, although the homepage promises a 3-day free trial; General settings simply showed 'Premium Plan'.
 - Verdict: BillingNow: $9.99 a month, or $99.90 a year which the page itself works out to $8.33 a month and labels 'Save 17%'.
 - Price: (re-verified 2026-10-09 on their own pricing FAQ and refund policy; first verified 2026-08-20) Two plans, both carrying the identical feature list with no limits: $9.99 a month, or $99.90 a year which the page itself works out to $8.33 a month and labels 'Save 17%'. Both include unlimited invoices, expenses, client relations, users, estimates and credit notes, plus payment tracking, tax rates, PDF export and the…
+
+## Bitdefender
+- Review: https://officesoftwaremarketplace.com/bitdefender-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Verdict: Bitdefender: $32.50, $38.50 and $88.00 per device per year. Protection scores are consistently strong, so the real trade-off is cost, not efficacy.
+- Price: Read on their own product pages, 6 September 2026 and again, unchanged, 25 September 2026, where a configurator prices each tier by device count and term. At 10 devices for one year the list prices are GravityZone Small Business Security $324.99, Business Security $384.99 and Business Security Premium $879.99 — $32.50, $38.50 and $88.00 per device per year.
 
 ## Bitvavo
 - Review: https://officesoftwaremarketplace.com/bitvavo-review.html
@@ -267,8 +273,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Database Mart
 - Review: https://officesoftwaremarketplace.com/database-mart-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Database Mart: Windows VPS, which includes the Microsoft licence, runs from $5.99 to $63.99. Database Mart is cheap partly because the hardware is older.
-- Price: (read 2026-10-06 on databasemart.com/pricing, which lists every server row with its monthly price, and on databasemart.com/gpu-server) Flat monthly prices per server, billed in advance. Linux VPS runs from $2.88 a month for Express (2 cores, 4GB RAM, 60GB SSD, marked save 51%) through $7.99, $5.85, $12.99, $10.80, $27.99 and $31.99 to $28.80 for Advanced Plus (16 cores, 32GB, 400GB); several rows are discounted,…
+- Verdict: Database Mart: Windows VPS, which includes the Microsoft licence, runs from $8.99 to $63.99 at regular monthly rates. Every server is in Dallas, Texas.
+- Price: (read 2026-11-25 on databasemart.com/pricing and its Black Friday page) Windows VPS, which includes the Microsoft licence, runs from $8.99 to $63.99 at regular monthly rates. Linux VPS starts at $2.99 a month for Express (2 cores, 4GB RAM, 60GB SSD).
 
 ## Databox
 - Review: https://officesoftwaremarketplace.com/databox-review.html
@@ -423,8 +429,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Flatpay
 - Review: https://officesoftwaremarketplace.com/flatpay-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Flatpay: The card terminal is 1.49% and costs GBP 0 to start. “Zero monthly fees” is the headline, and there is no subscription, but there is a floor.
-- Price: (re-verified 2026-10-14 on flatpay.com/en-gb/pricing and their separate /pricelist page; the four transaction rates and up-front fees unchanged since 2026-08-13, the minimum monthly turnover changed -- see below) Flatpay charges one rate per transaction on every card type, with no monthly subscription. The card terminal is 1.49% and costs GBP 0 to start.
+- Verdict: Flatpay charges one rate per transaction on every card type, with no monthly subscription. “Zero monthly fees” is the headline, and there is no subscription.
+- Price: (re-verified 2026-11-24 on Flatpay’s UK pricing page and price list. POS Pro now shows GBP 1,995 on both pages) Flatpay charges one rate per transaction on every card type, with no monthly subscription.
 
 ## FlexiQuiz
 - Review: https://officesoftwaremarketplace.com/flexiquiz-review.html
@@ -520,7 +526,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/heard-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Heard, For solo sole proprietors: Lite is $139 a month billed annually ($1,668 a year) or $159 billed monthly. Mind the fine print between tiers.
-- Price: (re-verified 2026-11-22 on joinheard.com/pricing, rendered, and in joinheard.com/llms.txt; the Lite and Essential prices match the 27 October 2026 reading, when Heard said they apply to new members from 26 October 2026, and a Premium tier is back; earlier readings on 5 September and 6 October 2026 showed Lite at $129, Essential at $169 and Premium at $255 a month) Heard now prices by practice type, with annual…
+- Price: (re-verified 2026-11-22 on joinheard.com/pricing, rendered, and in joinheard.com/llms.txt, and again 2026-11-25 by plain fetch of both; the Lite and Essential prices match the 27 October 2026 reading, when Heard said they apply to new members from 26 October 2026, and a Premium tier is back; earlier readings on 5 September and 6 October 2026 showed Lite at $129, Essential at $169 and Premium at $255 a month)…
 
 ## HiBob
 - Review: https://officesoftwaremarketplace.com/hibob-review.html
@@ -808,13 +814,19 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/parim-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Parim: One number is published and the rest is not. Unlimited users sounds like the generous part, and it is, until you notice what replaces per-seat pricing.
-- Price: (re-read 2026-09-17 and again on 2026-10-05 on parim.co/pricing; unchanged since 20 August 2026) One number is published and the rest is not. The page says pricing starts from £47 per month with unlimited users on every plan, but each of the three tiers — Starter, Pro, Premium — carries a ‘Request Pricing’ button rather than a figure.
+- Price: (pricing page read 25 November 2026) The pricing page asks for a custom quote and says every plan includes unlimited users. Its page description lists a starting price of £47 per month.
 
 ## Passpack
 - Review: https://officesoftwaremarketplace.com/passpack-review.html
 - Hands-on: tested by us on 2026-11-13. Measured 2026-11-13: The record form has fields for name, username, email, password (with a generator and a strength meter), TOTP, website address and tags. We saved the record with the password left empty. It defaults to private.
 - Verdict: Passpack: Business at $4.50 sits inside the $3 to $8 range the mainstream managers charge. The honest trade-off is maturity, not security.
 - Price: (re-verified 30 September 2026 on passpack.com/plans/ and passpack.com/llms.txt, which agree, and again on 17 November 2026 on passpack.com/plans/, when llms.txt returned 404; unchanged since our 25 August, 2, 3 and 6 September readings) Teams is $20 per user per year, paid annually, for teams of up to 20 people. Business is $4.50 per user per month, paid annually, includes everything in Teams and has a monthly…
+
+## Payoneer
+- Review: https://officesoftwaremarketplace.com/payoneer-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Verdict: Payoneer: Free to open; the cost is in the fees. The conversion and cross-currency withdrawal markups are where it quietly costs you.
+- Price: (re-verified 2026-10-02 on payoneer.com/pricing/, where the older payoneer.com/about/pricing/ address now redirects; the page itself carries "Last updated on 1 January 2026") Free to open; the cost is in the fees. Receiving into a receiving account in your local currency is free, in a currency that is not your local currency 1% (minimum $1).
 
 ## PayRewards
 - Review: https://officesoftwaremarketplace.com/payrewards-review.html
@@ -873,8 +885,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Prezi
 - Review: https://officesoftwaremarketplace.com/prezi-review.html
 - Hands-on: tested by us on 2026-11-06. Measured 2026-11-06: No card was asked for at sign-up. The dashboard showed 500 credits. One generation of two slides took about a minute and brought the balance to 350, so 150 credits.
-- Verdict: Prezi has a free plan, Basic, and three paid individual plans: Standard €5 a month, Plus €15 and Premium €25, all billed annually.
-- Price: Prezi has a free plan, Basic, and three paid individual plans: Standard €5 a month, Plus €15 and Premium €25, all billed annually. Read on 28 September 2026 on prezi.com/pricing (which redirects to prezi.com/gts/pricing), in euros from a Netherlands exit, with every section of the comparison table opened; the three paid plans sit on the Individual tab, and Basic has a tab of its own, where it is shown next to Plus.
+- Verdict: Prezi has a free plan called Basic. The pricing table puts PDF export and portable presentations at Plus, not Standard.
+- Price: Prezi has a free plan called Basic. The paid Individual plans are Standard €6.50, Plus €19 and Premium €32 a month, all billed annually, as read on prezi.com/pricing on 25 November 2026.
 
 ## Process Street
 - Review: https://officesoftwaremarketplace.com/process-street-review.html
@@ -927,8 +939,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Remote People
 - Review: https://officesoftwaremarketplace.com/remote-people-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Remote People, Employer of Record: EOR Global from $499 per employee a month. The monthly rates are the cheapest we have on file for this category.
-- Price: (read 2026-11-12 and re-read unchanged 2026-11-22 on their own pricing page. NEW since our readings of 2026-08-07, 2026-10-06 and 2026-10-09, which showed EOR Flex from $199 and EOR Plus from $399) Priced per service rather than per plan, and every figure is a floor.
+- Verdict: Remote People: US PEO from $99 per employee a month and US payroll from $29. The monthly rates are the cheapest we have on file for this category.
+- Price: (read 2026-11-12 and re-read unchanged 2026-11-22 and 2026-11-25 on their own pricing page. NEW since our readings of 2026-08-07, 2026-10-06 and 2026-10-09, which showed EOR Flex from $199 and EOR Plus from $399) Priced per service rather than per plan, and every figure is a floor.
 
 ## Replit
 - Review: https://officesoftwaremarketplace.com/replit-review.html
@@ -945,8 +957,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Runpod
 - Review: https://officesoftwaremarketplace.com/runpod-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Runpod: $1.79/hr per A100 SXM and $4.31/hr per H200 SXM. On the same card serverless runs roughly 1.7x the pod rate per compute-hour.
-- Price: Pay-per-use GPU cloud (re-verified 24 September 2026 against runpod.io/pricing). Secure Cloud on-demand pods run from $0.27/hr (RTX A5000) and $0.49/hr (L4) up to $2.89/hr for an H100 PCIe, $3.49/hr H100 SXM, $4.59/hr H200, $6.79/hr B200 and $7.89/hr B300.
+- Verdict: Runpod: H100 serverless costs $5.89/hr vs $2.89/hr for a Secure Cloud PCIe pod. A100 serverless costs $2.99/hr vs $2.09/hr for a Secure Cloud PCIe pod.
+- Price: Pay-per-use GPU cloud. As of 24 November 2026, Secure Cloud pods range from $0.27/hr for RTX A5000 to $8.99/hr for B300.
 
 ## Samsara
 - Review: https://officesoftwaremarketplace.com/samsara-review.html
@@ -1102,7 +1114,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/survicate-review.html
 - Hands-on: tested by us on 2026-10-29. Measured 2026-10-29: Home shows Free 10-Day Trial, 10 days remaining in trial and 25 responses remaining. The post-test response balance was not read.
 - Verdict: Survicate: $56 a month for 100 responses and 500 data points, $114 for 250 and 1,000, $169 for 500 and 1,500, $229 for 1,000 and 2,000.
-- Price: (read 2026-09-08 and re-read unchanged 2026-09-26, 2026-11-11 and 2026-11-22 (Growth from $56, Pro $349, Enterprise $569) in the plan data embedded in survicate.com/pricing; from an EU exit the cards show EUR 99 for Growth at 250 responses, EUR 299 for Pro and EUR 499 for Enterprise) A 10-day trial of all features, no card. Growth is metered on feedback rather than seats and is a ladder, not a single price: $56 a…
+- Price: (read 2026-09-08 and re-read unchanged 2026-09-26, 2026-11-11, 2026-11-22 and 2026-11-25 (Growth from $56, Pro $349, Enterprise $569) in the plan data embedded in survicate.com/pricing; from an EU exit the cards show EUR 99 for Growth at 250 responses, EUR 299 for Pro and EUR 499 for Enterprise) A 10-day trial of all features, no card. Growth is metered on feedback rather than seats and is a ladder, not a single…
 
 ## SurvIQ
 - Review: https://officesoftwaremarketplace.com/surviq-review.html
@@ -1120,7 +1132,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/synthesia-review.html
 - Hands-on: tested by us on 2026-10-01
 - Verdict: Synthesia: The page now also has a 'For business' tab we had not recorded before. A small edit generated again cost us 4 credits rather than the whole video.
-- Price: (re-read 22 November 2026: the dollar Starter and Pro prices below are unchanged.) The page now also has a 'For business' tab we had not recorded before: Business at $99 a month billed monthly or $79 a month billed yearly ($948 a year), with 6,000 credits a month or 72,000 a year, up to 10 team members and team members added at $20 a seat a month. A Black Friday banner on the same day offered new customers and…
+- Price: (re-read 25 November 2026: Starter $19 a month or $14 billed yearly ($168) and Pro $89 or $59 billed yearly ($708) are unchanged. The plan we called Business below is now labelled Team on the page, at the same $99 a month or $79 billed yearly ($948), with up to 10 team members and extra members at $20 a seat a month.
 
 ## Tally
 - Review: https://officesoftwaremarketplace.com/tally-review.html
