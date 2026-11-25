@@ -76,7 +76,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/assembly-review.html
 - Hands-on: tested by us on 2026-10-24. Measured 2026-10-24: Settings > Plans in the new Free workspace showed 'Build credits 50 available' and 'Used this billing period 0 of 50 monthly', with the credits expiring on 24 Nov 2026.
 - Verdict: Assembly: $29 a month billed yearly or $49 monthly, 50 active contacts, 1 internal user. Active contacts bite first: Starter stops at 50.
-- Price: (re-verified 28 September 2026 in a rendered browser, both billing tabs and the full comparison table) Assembly, the client-portal platform at assembly.com, publishes five tiers. Free, a free-forever plan: $0 with 5 active contacts, 1 internal user, 50 build credits a month and 3 apps.
+- Price: (re-verified 28 September 2026 in a rendered browser, both billing tabs and the full comparison table) Assembly, the client-portal platform at assembly.com, publishes five tiers. Free, a free-forever plan: $0 with 5 active contacts, 1 internal user, 75 build credits a month and 3 apps.
 
 ## Atto
 - Review: https://officesoftwaremarketplace.com/atto-review.html
@@ -405,8 +405,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## ExpertEx
 - Review: https://officesoftwaremarketplace.com/expertex-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: ExpertEx: Starter is $10 or $7 for 1,000 credits. Starter is sold as 65 product photos and 10 short video ads a month on 1,000 credits.
-- Price: (read 2026-08-22 in a live browser on expertex.ai/pricing -- plain fetches return an empty page, so this is the first reading we have of the real ladder) There are four credit tiers, monthly against yearly with two months free. Starter is $10 or $7 for 1,000 credits, and Premium $30 or $20 for 3,000.
+- Verdict: ExpertEx: On Monthly, the cards show Starter at $7, Premium at $20, Ultra at $45 and Professional at $149, each per month.
+- Price: Pricing read 25 November 2026 on expertex.ai/pricing. On Monthly, the cards show Starter at $7, Premium at $20, Ultra at $45 and Professional at $149, each per month.
 
 ## Expertise AI
 - Review: https://officesoftwaremarketplace.com/expertise-ai-review.html
@@ -597,8 +597,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Insightful
 - Review: https://officesoftwaremarketplace.com/insightful-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Insightful, Add-ons: Workspace Security $4/seat/mo, screen recording $4, on-demand screenshots $4, higher-frequency screenshots $3 (up to 120 an hour).
-- Price: (price re-verified 2026-09-09 against the vendor's own pricing page, re-read unchanged 2026-09-26) (2026) Per seat; the rates below are the annual ones. Workforce Analytics $8/seat/mo, Workflow Optimization $12/seat/mo (a beta open to selected customers), or both bundled at $16/seat/mo (saves 20%); Enterprise custom, and that is where audit logs and SSO sit.
+- Verdict: Insightful: On the September readings, the plan cards showed Workforce Analytics at $8, Workflow Optimization at $12 and a $16 bundle.
+- Price: (price re-verified 2026-09-09 against the vendor's own pricing page, re-read unchanged 2026-09-26) On the September readings, the plan cards showed Workforce Analytics at $8, Workflow Optimization at $12 and a $16 bundle. Pricing read 25 November 2026: Analytics costs $10 per seat per month on monthly billing or $8 per seat per month billed annually.
 
 ## InVideo
 - Review: https://officesoftwaremarketplace.com/invideo-review.html
@@ -759,8 +759,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Niural AI
 - Review: https://officesoftwaremarketplace.com/niural-ai-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Niural AI: Eight products, each priced separately. At five employees that is $200 a month, or $40 an employee: double the headline rate.
-- Price: (read 18 September 2026 in a live browser on niural.com/pricing) Eight products, each priced separately, and unusually for this category every one of them carries a published figure. US Payroll Standard is $100 a month as a platform fee plus $20 per employee a month, covering multi-state payroll with W-2s and 1099s, unlimited pay schedules and payroll runs, PTO and leave policies, workforce analytics, same-day…
+- Verdict: Niural AI: Niural lists eight options with separately quoted or published pricing. US Payroll is $100 a month before anyone is paid, plus $20 a head.
+- Price: (read 18 September 2026 in a live browser on niural.com/pricing) Niural lists eight options with separately quoted or published pricing. US Payroll Enterprise has custom pricing.
 
 ## NordPass
 - Review: https://officesoftwaremarketplace.com/nordpass-review.html
