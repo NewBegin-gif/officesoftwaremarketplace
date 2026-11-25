@@ -813,7 +813,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Parim
 - Review: https://officesoftwaremarketplace.com/parim-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Parim: One number is published and the rest is not. Unlimited users sounds like the generous part, and it is, until you notice what replaces per-seat pricing.
+- Verdict: Parim: The pricing page asks for a custom quote and says every plan includes unlimited users. Unlimited users sounds like the generous part.
 - Price: (pricing page read 25 November 2026) The pricing page asks for a custom quote and says every plan includes unlimited users. Its page description lists a starting price of £47 per month.
 
 ## Passpack
@@ -1131,7 +1131,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Synthesia
 - Review: https://officesoftwaremarketplace.com/synthesia-review.html
 - Hands-on: tested by us on 2026-10-01
-- Verdict: Synthesia: The page now also has a 'For business' tab we had not recorded before. A small edit generated again cost us 4 credits rather than the whole video.
+- Verdict: Synthesia: Pro $89 or $59 billed yearly ($708) are unchanged. A small edit generated again cost us 4 credits rather than the whole video.
 - Price: (re-read 25 November 2026: Starter $19 a month or $14 billed yearly ($168) and Pro $89 or $59 billed yearly ($708) are unchanged. The plan we called Business below is now labelled Team on the page, at the same $99 a month or $79 billed yearly ($948), with up to 10 team members and extra members at $20 a seat a month.
 
 ## Tally
