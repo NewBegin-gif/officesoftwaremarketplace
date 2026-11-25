@@ -1258,7 +1258,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/wondershare-pdfelement-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Wondershare PDFelement: The 2-Year Plan is US$109.99 (list US$149) and renews manually. A perpetual licence covers PDFelement 13, not later major versions.
-- Price: (read 2026-11-18 in a browser on pdf.wondershare.com/store/windows-individuals.html, USD, Windows, individuals, single-platform tab, under a Black Friday banner 'UP TO 84% OFF') All three prices are shown as a sale price next to a struck-through list price. The Yearly Plan is US$63.99 a year (list US$129) and renews automatically.
+- Price: (re-read 2026-11-25 with the same sale prices; read 2026-11-18 in a browser on pdf.wondershare.com/store/windows-individuals.html, USD, Windows, individuals, single-platform tab, under a Black Friday banner 'UP TO 84% OFF') All three prices are shown as a sale price next to a struck-through list price. The Yearly Plan is US$63.99 a year (list US$129) and renews automatically.
 
 ## WordPerfect Office
 - Review: https://officesoftwaremarketplace.com/wordperfect-office-review.html
