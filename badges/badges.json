@@ -1,5 +1,21 @@
 [
  {
+  "slug": "alohi",
+  "name": "Alohi",
+  "review_url": "https://officesoftwaremarketplace.com/alohi-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/alohi.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#alohi",
+  "tested_on": "2026-11-19",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 6",
+   "4 confirmed · 1 not comparable · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Alohi hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 6; 4 confirmed · 1 not comparable · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/alohi-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/alohi.svg\" width=\"340\" height=\"115\" alt=\"Alohi hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 6; 4 confirmed · 1 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "aml-watcher",
   "name": "AML Watcher",
   "review_url": "https://officesoftwaremarketplace.com/aml-watcher-review.html",

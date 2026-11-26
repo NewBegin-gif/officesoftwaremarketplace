@@ -208,7 +208,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/checkr-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Checkr: Tenant screening is priced separately at $24.99, $34.99 and $44.99 per report. The headline per-check price is rarely what you actually pay.
-- Price: (re-verified 2026-08-17 and again 2026-09-30) Pay-as-you-go per report, no subscription: Basic $29.99, Essential $59.99 and Complete $94.99 per report, with Enterprise quote-only. Tenant screening is priced separately at $24.99, $34.99 and $44.99 per report, and personal checks start from $49.99.
+- Price: (re-verified 2026-08-17, 2026-09-30 and 2026-11-26 on checkr.com/pricing; every figure unchanged) Pay-as-you-go per report, no subscription: Basic $29.99, Essential $59.99 and Complete $94.99 per report, with Enterprise quote-only. Tenant screening is priced separately at $24.99, $34.99 and $44.99 per report, and personal checks start from $49.99.
 
 ## ChemiCloud
 - Review: https://officesoftwaremarketplace.com/chemicloud-review.html
@@ -1210,7 +1210,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/tresorit-review.html
 - Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: A share link with a password, an open limit of 10, expiry after 30 days and access logs was set up in about 3 minutes; the link was not opened by an outside recipient.
 - Verdict: Tresorit: The business prices below are unchanged, €36, €24 and €30 monthly and €28.80, €19.20 and €24 yearly. For regulated teams that's exactly the deal.
-- Price: (re-verified 2026-11-22 on tresorit.com/pricing/business with both billing toggles: the business prices below are unchanged, €36, €24 and €30 monthly and €28.80, €19.20 and €24 yearly, and the page now also shows an Enterprise card at custom pricing, billed annually. The Personal, Engage and FileSharing prices were last read 2026-11-05.) (re-verified 2026-11-05 on tresorit.com/pricing/business, /personal,…
+- Price: (re-verified 2026-11-26 on tresorit.com/pricing/business: the euro yearly rates are unchanged at €28.80, €19.20 and €24; the euro monthly toggle did not load in that reading, so the €36, €24 and €30 monthly prices rest on the 22 November reading and our 19 November checkout at €36.00 for Professional.) (re-verified 2026-11-22 on tresorit.com/pricing/business with both billing toggles: the business prices below…
 
 ## Turbotic
 - Review: https://officesoftwaremarketplace.com/turbotic-review.html
@@ -1245,8 +1245,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## UserHelp.co
 - Review: https://officesoftwaremarketplace.com/userhelp-co-review.html
 - Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: The Responses tab on the free plan says that only the 5 oldest responses are shown and offers a one-time payment to see all of them. Our research says that Free has unlimited responses.
-- Verdict: UserHelp.co, Basic is free forever: unlimited responses, annotated screenshots, response categories.
-- Price: (read 2026-11-18 on userhelp.co/pricing and in our own test that day; earlier: read 2026-10-17 in a browser; the card shows a $ sign without naming the currency) Two plans, and the page says there are no subscriptions and no per-seat fees. Basic is free forever: unlimited responses, annotated screenshots, response categories, localization and one project, with a UserHelp.co watermark.
+- Verdict: UserHelp.co, Basic is free forever: unlimited responses, annotated screenshots, response categories. Basic is limited to one project and shows a watermark.
+- Price: (re-verified 2026-11-26 on userhelp.co/pricing: Basic free and Pro $59 one-time, features unchanged) (read 2026-11-18 on userhelp.co/pricing and in our own test that day; earlier: read 2026-10-17 in a browser; the card shows a $ sign without naming the currency) Two plans, and the page says there are no subscriptions and no per-seat fees. Basic is free forever: unlimited responses, annotated screenshots, response…
 
 ## Velora
 - Review: https://officesoftwaremarketplace.com/velora-review.html
@@ -1258,7 +1258,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/videoscribe-review.html
 - Hands-on: tested by us on 2026-11-02. Measured 2026-11-02: The trial banner read 'Free Trial - 6 days 23h 58m 54s remaining', which matches the 7-day trial on the pricing page, and said to purchase to remove VideoScribe watermarks.
 - Verdict: VideoScribe: Lite is €34.00 a month billed monthly, or €13.75 a month billed annually at €165.00. Payments are non-refundable according to the help centre.
-- Price: (read 2026-10-18 in a browser on videoscribe.co/pricing in the monthly and annual view, from a Netherlands connection, prices shown in euros; the cards do not say whether tax is included) Three paid plans, priced per licence. Lite is €34.00 a month billed monthly, or €13.75 a month billed annually at €165.00: 5 video downloads a month, videos up to 5 minutes, watermarks only on premium images.
+- Price: (re-verified 2026-11-26 on videoscribe.co/pricing, annual view plus the monthly prices in the page's structured data, in euros: unchanged; the page adds that 5 or more licences on Core or Max qualify for a discount) (read 2026-10-18 in a browser on videoscribe.co/pricing in the monthly and annual view, from a Netherlands connection, prices shown in euros; the cards do not say whether tax is included) Three paid…
 
 ## Wing Assistant
 - Review: https://officesoftwaremarketplace.com/wing-assistant-review.html

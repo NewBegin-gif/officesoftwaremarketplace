@@ -1039,9 +1039,9 @@
    "review_url": "https://aibuildermarketplace.com/b2b/checkr-review/",
    "from_price_usd_mo": null,
    "entry_price": "$29.99",
-   "entry_price_terms": "per report",
+   "entry_price_terms": "Basic · per report, pay-as-you-go per report: Basic $29.99, Essential $59.99, Complete…",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-08-17 and again 2026-09-30) Pay-as-you-go per report, no subscription: Basic $29.99, Essential $59.99 and Complete $94.99 per report, with Enterprise quote-only. Tenant screening is priced separately at $24.99, $34.99 and $44.99 per report, and personal checks start from $49.99. Add-ons stack on top: MVR report $9.50 per check, identity verification $4.99 per check, and employment verification from $12.50 a check for the current employer, rising to $15, $25, $35 and $50 for three, five, seven and ten years back, with third-party court and database fees passed through at cost. The $59.95 (employment) and $64.95 (income and employment) figures on the same page belong to Checkr's separate pay-as-you-go verification product for mortgage lending, billed per verification with no commitment or contract, not to the hiring add-ons.",
+   "price_note": "(re-verified 2026-08-17, 2026-09-30 and 2026-11-26 on checkr.com/pricing; every figure unchanged) Pay-as-you-go per report, no subscription: Basic $29.99, Essential $59.99 and Complete $94.99 per report, with Enterprise quote-only. Tenant screening is priced separately at $24.99, $34.99 and $44.99 per report, and personal checks start from $49.99. Add-ons stack on top: MVR report $9.50 per check, identity verification $4.99 per check, and employment verification from $12.50 a check for the current employer, rising to $15, $25, $35 and $50 for three, five, seven and ten years back, with third-party court and database fees passed through at cost. The $59.95 (employment) and $64.95 (income and employment) figures on the same page belong to Checkr's separate pay-as-you-go verification product for mortgage lending, billed per verification with no commitment or contract, not to the hiring add-ons.",
    "flags": [
     {
      "flag": "addons_extra",
@@ -1049,11 +1049,11 @@
      "evidence_excerpt": null,
      "source_url": "https://checkr.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-30"
+     "verified_at": "2026-11-26"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-30",
+   "price_verified_at": "2026-11-26",
    "first_observed_at": "2026-08-17"
   },
   {
@@ -6742,7 +6742,7 @@
    "entry_price": "€36",
    "entry_price_terms": "Professional, 1 user · billed monthly",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-11-22 on tresorit.com/pricing/business with both billing toggles: the business prices below are unchanged, €36, €24 and €30 monthly and €28.80, €19.20 and €24 yearly, and the page now also shows an Enterprise card at custom pricing, billed annually. The Personal, Engage and FileSharing prices were last read 2026-11-05.) (re-verified 2026-11-05 on tresorit.com/pricing/business, /personal, /tresorit-engage and /file-sharing in a browser, both billing toggles; Tresorit announced a price increase to partners on 5 November 2026) There are three business plans: Professional for 1 user, Business from 3 users and Business Pro from 5 users. Priced from our location in euros, they run €36, €24 and €30 per user per month on monthly billing, and €28.80, €19.20 and €24 on yearly, which the page badges as 20% off. Before the increase we read €29.99, €20 and €25 monthly and €23.99, €16 and €20 yearly (14 August 2026). Personal runs a permanent free Basic tier plus Lite, Essential and Pro: €5.99, €13.99 and €35.99 a month on monthly billing, €4.79, €11.19 and €28.79 a month on yearly billing. Engage, the data-room product, is priced separately: Engage Professional (1 room manager, 5 contributors) €71 a month and Engage Business (at least 3 room managers, 15 contributors) €177 a month on monthly billing, €63.80 and €162.60 on yearly billing (10% off). FileSharing Business, from 3 users, is €18 per user a month monthly or €14.40 yearly. Our dollar reading of the old plans on 4 August 2026 gave Professional $33.99, Business $24 and Business Pro $30 per user per month; we have not re-read dollar prices since the increase. Storage runs 4 TB on Professional, from 6 TB on Business and from 15 TB on Business Pro, with maximum file sizes of 10, 15 and 20 GB. Every plan carries a 14-day trial with no feature limits, but Tresorit requires payment details up front to start it. Enterprise is quote-only.",
+   "price_note": "(re-verified 2026-11-26 on tresorit.com/pricing/business: the euro yearly rates are unchanged at €28.80, €19.20 and €24; the euro monthly toggle did not load in that reading, so the €36, €24 and €30 monthly prices rest on the 22 November reading and our 19 November checkout at €36.00 for Professional.) (re-verified 2026-11-22 on tresorit.com/pricing/business with both billing toggles: the business prices below are unchanged, €36, €24 and €30 monthly and €28.80, €19.20 and €24 yearly, and the page now also shows an Enterprise card at custom pricing, billed annually. The Personal, Engage and FileSharing prices were last read 2026-11-05.) (re-verified 2026-11-05 on tresorit.com/pricing/business, /personal, /tresorit-engage and /file-sharing in a browser, both billing toggles; Tresorit announced a price increase to partners on 5 November 2026) There are three business plans: Professional for 1 user, Business from 3 users and Business Pro from 5 users. Priced from our location in euros, they run €36, €24 and €30 per user per month on monthly billing, and €28.80, €19.20 and €24 on yearly, which the page badges as 20% off. Before the increase we read €29.99, €20 and €25 monthly and €23.99, €16 and €20 yearly (14 August 2026). Personal runs a permanent free Basic tier plus Lite, Essential and Pro: €5.99, €13.99 and €35.99 a month on monthly billing, €4.79, €11.19 and €28.79 a month on yearly billing. Engage, the data-room product, is priced separately: Engage Professional (1 room manager, 5 contributors) €71 a month and Engage Business (at least 3 room managers, 15 contributors) €177 a month on monthly billing, €63.80 and €162.60 on yearly billing (10% off). FileSharing Business, from 3 users, is €18 per user a month monthly or €14.40 yearly. Our dollar reading of the old plans on 4 August 2026 gave Professional $33.99, Business $24 and Business Pro $30 per user per month; on 26 November 2026 the page served dollars at $40, $29 and $36 monthly and $32, $23.20 and $28.80 yearly. Storage runs 4 TB on Professional, from 6 TB on Business and from 15 TB on Business Pro, with maximum file sizes of 10, 15 and 20 GB. Every plan carries a 14-day trial with no feature limits, but Tresorit requires payment details up front to start it. Enterprise is quote-only.",
    "flags": [
     {
      "flag": "per_seat",
@@ -6750,7 +6750,7 @@
      "evidence_excerpt": null,
      "source_url": "https://tresorit.com/pricing/business",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-22"
+     "verified_at": "2026-11-26"
     },
     {
      "flag": "addons_extra",
@@ -6758,12 +6758,12 @@
      "evidence_excerpt": "Engage, the data-room product, is priced separately: Engage Professional (1 room manager, 5 contributors) €71 a month and Engage Business (at least 3 room managers, 15 contributors) €177 a month on m…",
      "source_url": "https://tresorit.com/pricing/business",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-22"
+     "verified_at": "2026-11-26"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-22",
-   "first_observed_at": "2026-11-22"
+   "price_verified_at": "2026-11-26",
+   "first_observed_at": "2026-11-26"
   },
   {
    "name": "Turbotic",
@@ -6917,7 +6917,7 @@
    "entry_price": "$59",
    "entry_price_terms": "Pro · one-time payment, use on as many sites as you need, no watermark",
    "pricing_status": "public",
-   "price_note": "(read 2026-11-18 on userhelp.co/pricing and in our own test that day; earlier: read 2026-10-17 in a browser; the card shows a $ sign without naming the currency) Two plans, and the page says there are no subscriptions and no per-seat fees. Basic is free forever: unlimited responses, annotated screenshots, response categories, localization and one project, with a UserHelp.co watermark. Pro is $59 one-time: use on as many sites as you need, no watermark, team collaboration, error logs, the browser's technical details, email replies to users, public forums and session recordings. The pricing page does not say how many team members Pro includes, how long session recordings are kept, or how long one-time access lasts, and neither it nor the terms of service (dated 4 April 2024, read in October) state a refund rule. In our test on 18 November 2026 the free plan showed only the 5 oldest responses ('Only the 5 oldest responses are shown'), so Basic collects responses without showing them all; the app also treated categories as a Pro feature although the pricing page lists them on Basic, and it offered an Email add-on with no price shown.",
+   "price_note": "(re-verified 2026-11-26 on userhelp.co/pricing: Basic free and Pro $59 one-time, features unchanged) (read 2026-11-18 on userhelp.co/pricing and in our own test that day; earlier: read 2026-10-17 in a browser; the card shows a $ sign without naming the currency) Two plans, and the page says there are no subscriptions and no per-seat fees. Basic is free forever: unlimited responses, annotated screenshots, response categories, localization and one project, with a UserHelp.co watermark. Pro is $59 one-time: use on as many sites as you need, no watermark, team collaboration, error logs, the browser's technical details, email replies to users, public forums and session recordings. The pricing page does not say how many team members Pro includes, how long session recordings are kept, or how long one-time access lasts, and neither it nor the terms of service (dated 4 April 2024, read in October) state a refund rule. In our test on 18 November 2026 the free plan showed only the 5 oldest responses ('Only the 5 oldest responses are shown'), so Basic collects responses without showing them all; the app also treated categories as a Pro feature although the pricing page lists them on Basic, and it offered an Email add-on with no price shown.",
    "flags": [
     {
      "flag": "addons_extra",
@@ -6925,7 +6925,7 @@
      "evidence_excerpt": "In our test on 18 November 2026 the free plan showed only the 5 oldest responses ('Only the 5 oldest responses are shown'), so Basic collects responses without showing them all; the app also treated …",
      "source_url": "https://www.userhelp.co/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-18"
+     "verified_at": "2026-11-26"
     },
     {
      "flag": "free_tier",
@@ -6933,12 +6933,12 @@
      "evidence_excerpt": null,
      "source_url": "https://www.userhelp.co/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-18"
+     "verified_at": "2026-11-26"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-18",
-   "first_observed_at": "2026-11-18"
+   "price_verified_at": "2026-11-26",
+   "first_observed_at": "2026-11-26"
   },
   {
    "name": "VEA",
@@ -7005,7 +7005,7 @@
    "entry_price": "€13.75",
    "entry_price_terms": "Lite · per month, per licence, billed annually at €165",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-18 in a browser on videoscribe.co/pricing in the monthly and annual view, from a Netherlands connection, prices shown in euros; the cards do not say whether tax is included) Three paid plans, priced per licence. Lite is €34.00 a month billed monthly, or €13.75 a month billed annually at €165.00: 5 video downloads a month, videos up to 5 minutes, watermarks only on premium images. Core is €55.00 monthly, or €22.92 a month at €275.00 a year: 30 downloads a month, videos up to 10 minutes, 5M premium images and icons, no watermark on videos, preview links and training bundles. Max is €70.00 monthly, or €29.17 a month at €350.00 a year: unlimited downloads, videos up to 20 minutes, reseller rights, custom fonts and a brand kit. All plans include unlimited projects, the music library and Full HD MP4 downloads. The AI tools are metered per month: image generation 5, 20, 50 and 100 on Free, Lite, Core and Max; script generation 2, 30, 75 and 150 minutes; AI voiceover none on Free and Lite, 75 minutes on Core and 150 on Max. The free trial lasts 7 days with no credit card: 3 downloads, videos up to 5 minutes, watermarked. VideoScribe's help centre says payments already made are non-refundable, with refund requests about unresolved technical problems considered individually.",
+   "price_note": "(re-verified 2026-11-26 on videoscribe.co/pricing, annual view plus the monthly prices in the page's structured data, in euros: unchanged; the page adds that 5 or more licences on Core or Max qualify for a discount) (read 2026-10-18 in a browser on videoscribe.co/pricing in the monthly and annual view, from a Netherlands connection, prices shown in euros; the cards do not say whether tax is included) Three paid plans, priced per licence. Lite is €34.00 a month billed monthly, or €13.75 a month billed annually at €165.00: 5 video downloads a month, videos up to 5 minutes, watermarks only on premium images. Core is €55.00 monthly, or €22.92 a month at €275.00 a year: 30 downloads a month, videos up to 10 minutes, 5M premium images and icons, no watermark on videos, preview links and training bundles. Max is €70.00 monthly, or €29.17 a month at €350.00 a year: unlimited downloads, videos up to 20 minutes, reseller rights, custom fonts and a brand kit. All plans include unlimited projects, the music library and Full HD MP4 downloads. The AI tools are metered per month: image generation 5, 20, 50 and 100 on Free, Lite, Core and Max; script generation 2, 30, 75 and 150 minutes; AI voiceover none on Free and Lite, 75 minutes on Core and 150 on Max. The free trial lasts 7 days with no credit card: 3 downloads, videos up to 5 minutes, watermarked. VideoScribe's help centre says payments already made are non-refundable, with refund requests about unresolved technical problems considered individually.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -7013,12 +7013,12 @@
      "evidence_excerpt": "The AI tools are metered per month: image generation 5, 20, 50 and 100 on Free, Lite, Core and Max; script generation 2, 30, 75 and 150 minutes; AI voiceover none on Free and Lite, 75 minutes on Core…",
      "source_url": "https://www.videoscribe.co/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-18"
+     "verified_at": "2026-11-26"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-18",
-   "first_observed_at": "2026-10-18"
+   "price_verified_at": "2026-11-26",
+   "first_observed_at": "2026-11-26"
   },
   {
    "name": "WebCatalog",
