@@ -477,7 +477,7 @@
   "category": "Business Operations",
   "desc": "Booking, point of sale and client management for salons, spas and self-care businesses.",
   "domain": "joinblvd.com",
-  "link": "https://aibuildermarketplace.com/b2b/boulevard-review/",
+  "link": "https://officesoftwaremarketplace.com/boulevard-review.html",
   "name": "Boulevard"
  },
  {
@@ -950,7 +950,7 @@
   "domain": "dripify.com",
   "link": "https://aibuildermarketplace.com/b2b/dripify-review/",
   "category": "Sales & CRM",
-  "desc": "Cloud-based LinkedIn outreach automation: drip sequences of connection requests, messages, InMails and profile views, with configurable daily limits and a built-in email finder."
+  "desc": "Cloud-based LinkedIn and email outreach automation: drip sequences of connection requests, messages, InMails, profile views and email steps, with configurable daily limits and a built-in email finder."
  },
  {
   "name": "Dripshipper",
@@ -3151,7 +3151,7 @@
   "category": "Operations & Workflow",
   "domain": "vea.ai",
   "desc": "AI built for entrepreneurs, not enterprises: VEA learns your business like a great employee would, finds the constraint keeping you stuck and helps you solve it, then finds the next one.",
-  "link": "https://aibuildermarketplace.com/b2b/vea-review/"
+  "link": "https://officesoftwaremarketplace.com/vea-review.html"
  },
  {
   "name": "Velora",
@@ -5183,5 +5183,28 @@
   "desc": "Shopify app for building custom quotes from your products with your own prices and emailing them to customers, with e-signatures on paid plans.",
   "link": "https://aibuildermarketplace.com/b2b/proposall-review/",
   "platform": "shopify"
+ },
+ {
+  "name": "BestTrack",
+  "category": "E-commerce",
+  "domain": "apps.shopify.com",
+  "desc": "Shopify order tracking app with a branded tracking page, carrier detection, status email templates and a dropshipping mode.",
+  "link": "https://aibuildermarketplace.com/b2b/besttrack-review/",
+  "platform": "shopify"
+ },
+ {
+  "name": "Loox",
+  "category": "E-commerce",
+  "domain": "apps.shopify.com",
+  "desc": "Shopify app that collects photo and video reviews with review request emails and shows them in on brand widgets, with AI sorting on paid plans.",
+  "link": "https://aibuildermarketplace.com/b2b/loox-review/",
+  "platform": "shopify"
+ },
+ {
+  "name": "Pabbly Connect",
+  "category": "Operations & Workflow",
+  "domain": "pabbly.com",
+  "desc": "Workflow automation tool that connects apps with webhooks, formatters and API steps. Only actions on outside apps count as tasks, and there is a free plan.",
+  "link": "https://officesoftwaremarketplace.com/pabbly-connect-review.html"
  }
 ]
