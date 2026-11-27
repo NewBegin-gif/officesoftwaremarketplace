@@ -136,13 +136,13 @@ MigrationPro,Operations & Workflow,migrationpro.io,,usage_metered|addons_extra,h
 MindStudio,IT & Productivity,mindstudio.ai,20.0,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/mindstudio-review/,2026-07,$20,a month plus usage ($16 billed yearly),public,2026-10-05
 Miro,Operations & Workflow,miro.com,8.0,per_seat|usage_metered|free_tier,https://aibuildermarketplace.com/b2b/miro-review/,2026-07,$8,"per member a month, billed annually ($10 billed monthly)",public,2026-11-17
 Modge,HR & People,modge.com,4.0,per_seat|addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/modge-review/,2026-07,$4,Basic · per seat a month billed annually ($5 monthly),public,2026-11-20
-Momence,Operations & Workflow,momence.com,60.0,addons_extra|free_tier,https://aibuildermarketplace.com/b2b/momence-review/,2026-07,$60,per month at 2.5%),public,2026-09-25
+Momence,Operations & Workflow,momence.com,60.0,addons_extra|free_tier,https://aibuildermarketplace.com/b2b/momence-review/,2026-07,$60,per month at 2.5%),public,2026-11-27
 monday.com,Project Management,monday.com,9.0,per_seat|usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/monday-com-review/,2026-07,$9,per seat a month,public,2026-10-23
 Motive,Business Operations,gomotive.com,,quote_only,https://aibuildermarketplace.com/b2b/motive-review/,2026-07,,,quote_only,2026-10-04
 MRPeasy,Operations & Workflow,mrpeasy.com,49.0,per_seat,https://aibuildermarketplace.com/b2b/mrpeasy-review/,2026-07,$49,per user a month (Starter),public,2026-09-28
 Murf,Operations & Workflow,murf.ai,19.0,usage_metered|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/murf-review/,2026-07,$19,"per month billed annually ($228/yr), 100 projects",public,2026-10-03
 Mycroft,Security,mycroft.io,,quote_only,https://aibuildermarketplace.com/b2b/mycroft-review/,2026-07,,,quote_only,2026-11-21
-Navan,Financial Operations,navan.com,15.0,per_seat|usage_metered,https://aibuildermarketplace.com/b2b/navan-review/,2026-07,$15,per user a month from user 6,public,2026-09-24
+Navan,Financial Operations,navan.com,15.0,per_seat|usage_metered,https://aibuildermarketplace.com/b2b/navan-review/,2026-07,$15,per user a month from user 6,public,2026-11-27
 Netart,IT & Productivity,netart.com,18.75,addons_extra,https://aibuildermarketplace.com/b2b/netart-review/,2026-07,$18.75,"CloudHosting Start · standard monthly price, net (VAT added where it applies)",public,2026-10-25
 NexGen Virtual Office,IT & Productivity,nexgenvirtualworkplace.net,25.0,per_seat,https://aibuildermarketplace.com/b2b/nexgen-virtual-office-review/,2026-07,$25,"SMB Monthly · per user, paid monthly, for 1 to 100 employees with self implementation",public,2026-10-27
 Ngram,IT & Productivity,ngram.com,29.0,usage_metered|annual_lock,https://aibuildermarketplace.com/b2b/ngram-review/,2026-07,$29,"per month, or $23.20/mo billed annually ($278.40/yr)",public,2026-10-07
@@ -154,6 +154,7 @@ Nouswise,IT & Productivity,nouswise.com,19.99,annual_lock,https://aibuildermarke
 Optery,Security,optery.com,3.25,per_seat,https://aibuildermarketplace.com/b2b/optery-review/,2026-07,$3.25,Core · per month billed yearly ($39 a year),public,2026-10-24
 Ownr,Operations & Workflow,ownr.co,,addons_extra,https://aibuildermarketplace.com/b2b/ownr-review/,2026-07,,,see_details,2026-09-22
 Oyster,HR & People,oysterhr.com,699.0,per_seat|addons_extra,https://aibuildermarketplace.com/b2b/oyster-review/,2026-07,$699,per employee a month,public,2026-10-09
+Pabbly Connect,Operations & Workflow,pabbly.com,19.0,free_tier,https://aibuildermarketplace.com/b2b/pabbly-connect-review/,2026-07,$19,"Standard · Standard $19 a month for 10,000 tasks in the upgrade dialog of our own…",public,2026-11-26
 Pagely,IT & Productivity,pagely.com,99.0,usage_metered,https://aibuildermarketplace.com/b2b/pagely-review/,2026-07,$99,StartPress · StartPress $99 a month for 5 WordPress sites,public,2026-11-15
 Pangram,Operations & Workflow,pangram.com,20.0,per_seat|usage_metered|free_tier,https://aibuildermarketplace.com/b2b/pangram-review/,2026-07,$20,per month ($15 billed yearly),public,2026-09-30
 Papaya Global,HR & People,papayaglobal.com,499.0,per_seat,https://aibuildermarketplace.com/b2b/papaya-global-review/,2026-07,$499,"Employer of Record · per employee per month, and a published 'starting from' floor under…",public,2026-10-01
@@ -183,11 +184,11 @@ Recruit CRM,HR & People,recruitcrm.io,,per_seat|usage_metered|annual_lock,https:
 Remote People,HR & People,remotepeople.com,499.0,per_seat|annual_lock,https://aibuildermarketplace.com/b2b/remote-people-review/,2026-07,$499,per employee per month (EOR Select from $199 in selected countries and salary ranges),public,2026-11-25
 Replit,IT & Productivity,replit.com,18.0,usage_metered,https://aibuildermarketplace.com/b2b/replit-review/,2026-07,$18,"a month, billed annually ($20 billed monthly)",public,2026-09-26
 Rippling,HR & People,rippling.com,8.0,per_seat,https://aibuildermarketplace.com/b2b/rippling-review/,2026-07,$8,per employee a month plus a $40 monthly base fee (published floor),public,2026-10-16
-Runpod,IT & Productivity,runpod.io,,,https://aibuildermarketplace.com/b2b/runpod-review/,2026-07,$0.27,"RTX A5000 pod, Secure… · per hour, billed per second",public,2026-09-24
+Runpod,IT & Productivity,runpod.io,,,https://aibuildermarketplace.com/b2b/runpod-review/,2026-07,$0.27,"RTX A5000 pod, Secure… · per hour, billed per second",public,2026-11-27
 Samsara,Business Operations,samsara.com,,quote_only,https://aibuildermarketplace.com/b2b/samsara-review/,2026-07,,,quote_only,2026-10-10
 SaneBox,Operations & Workflow,sanebox.com,5.42,,https://aibuildermarketplace.com/b2b/sanebox-review/,2026-07,$5.42,Snack… · per month billed annually ($65 a year),public,2026-11-24
 Sendcloud,Operations & Workflow,sendcloud.com,,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/sendcloud-review/,2026-07,€28,Lite · billed monthly,public,2026-11-23
-Sentaro,IT & Productivity,sentaro.com,6.0,,https://aibuildermarketplace.com/b2b/sentaro-review/,2026-07,$6,a month per protected account (first account free),public,2026-09-24
+Sentaro,IT & Productivity,sentaro.com,6.0,per_seat,https://aibuildermarketplace.com/b2b/sentaro-review/,2026-07,$6,a month per protected account (first account free),public,2026-11-27
 ServiceM8,Operations & Workflow,servicem8.com,,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/servicem8-review/,2026-07,,,see_details,2026-09-19
 Shiftie,Operations & Workflow,shiftie.co,,,https://aibuildermarketplace.com/b2b/shiftie-review/,2026-07,£2.75,per employee per month,public,2026-09-24
 Shippo,Operations & Workflow,goshippo.com,19.0,usage_metered|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/shippo-review/,2026-07,$19,"per month for 1-200 labels, or $205/yr",public,2026-09-25
@@ -225,7 +226,7 @@ TestGorilla,HR & People,testgorilla.com,77.0,per_seat|usage_metered|annual_lock|
 TextExpander,Productivity,textexpander.com,,per_seat|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/textexpander-review/,2026-07,,,see_details,2026-10-09
 TheTop,IT & Productivity,thetop.com,175.0,usage_metered,https://aibuildermarketplace.com/b2b/thetop-review/,2026-07,$175,"Transparency +… · per month, billed monthly, for the first 12 months, then $350 a month",public,2026-11-23
 Thryv,Business Operations,thryv.com,99.0,,https://aibuildermarketplace.com/b2b/thryv-review/,2026-07,$99,"a month, or $85 a month billed annually",public,2026-09-19
-Todoist,Operations & Workflow,todoist.com,5.0,per_seat|free_tier,https://aibuildermarketplace.com/b2b/todoist-review/,2026-07,$5,a month billed annually ($60/yr) or $7 billed monthly,public,2026-09-25
+Todoist,Operations & Workflow,todoist.com,5.0,per_seat|free_tier,https://aibuildermarketplace.com/b2b/todoist-review/,2026-07,$5,a month billed annually ($60/yr) or $7 billed monthly,public,2026-11-27
 Toggl,Operations & Workflow,toggl.com,9.0,per_seat|addons_extra|free_tier,https://aibuildermarketplace.com/b2b/toggl-review/,2026-07,$9,"per user a month billed annually, or $12 monthly",public,2026-10-22
 Top Echelon,HR & People,topechelon.com,79.0,per_seat|addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/top-echelon-review/,2026-07,$79,TE Recruit Standard… · per seat per month billed annually,public,2026-11-23
 Tradify,Operations & Workflow,tradifyhq.com,47.0,per_seat|addons_extra,https://aibuildermarketplace.com/b2b/tradify-review/,2026-07,$47,per user a month,public,2026-10-02

@@ -742,7 +742,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/navan-review.html
 - Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: Text we checked: "Navan Business, For companies up to 300 employees, Free". What we saw: The public pricing page and the account Pricing page both say travel costs nothing for companies with 300 or fewer…
 - Verdict: Navan Expense is free for the first 5 monthly expensing users and then $15 per user per month. 'Free' is real but has a mechanism.
-- Price: (read 24 September 2026 on navan.com/pricing) Navan Business is free for companies of up to 300 employees, with no limit on trips, and Navan Expense is free for the first 5 monthly expensing users and then $15 per user per month. Above 300 employees the plan is Navan Enterprise, priced by quote.
+- Price: (read 24 September 2026 and re-read 27 November 2026 on navan.com/pricing, unchanged) Navan Business is free for companies of up to 300 employees, with no limit on trips, and Navan Expense is free for the first 5 monthly expensing users and then $15 per user per month. Above 300 employees the plan is Navan Enterprise, priced by quote.
 
 ## Netart
 - Review: https://officesoftwaremarketplace.com/netart-review.html
@@ -982,7 +982,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/runpod-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Runpod: H100 serverless costs $5.89/hr vs $2.89/hr for a Secure Cloud PCIe pod. A100 serverless costs $2.99/hr vs $2.09/hr for a Secure Cloud PCIe pod.
-- Price: Pay-per-use GPU cloud. As of 24 November 2026, Secure Cloud pods range from $0.27/hr for RTX A5000 to $8.99/hr for B300.
+- Price: Pay-per-use GPU cloud. As of 27 November 2026, Secure Cloud pods range from $0.27/hr for RTX A5000 to $10.49/hr for B300.
 
 ## Samsara
 - Review: https://officesoftwaremarketplace.com/samsara-review.html
@@ -1005,8 +1005,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Sentaro
 - Review: https://officesoftwaremarketplace.com/sentaro-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Sentaro: Priced per protected account, in USD. The category claim (AI catches what filters miss) is plausible.
-- Price: (read 24 September 2026 on sentaro.com/en/pricing) Priced per protected account, in USD. Pro is $6 per protected account per month after the first account, or $68 per account per year, about $5.67 a month and roughly 5.6% below monthly.
+- Verdict: Sentaro, Priced per user, in USD: 'Prices in USD, per user.' Pro is $6 per user per month after the first, and the first account stays free.
+- Price: (read 27 November 2026 on sentaro.com/en/pricing) Priced per user, in USD: 'Prices in USD, per user.' Pro is $6 per user per month after the first, and the first account stays free. The page no longer shows an annual price; on 24 September 2026 it offered $68 per account per year.
 
 ## ServiceM8
 - Review: https://officesoftwaremarketplace.com/servicem8-review.html
@@ -1210,7 +1210,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/todoist-review.html
 - Hands-on: tested by us on 2026-10-20. Measured 2026-10-20: A new account started at '0 projects' with a 'Free' label; the Inbox does not count as a project.
 - Verdict: Todoist: Pro $5 a month billed annually ($60 a year) or $7 billed monthly, with 300 personal projects, custom reminders. The free plan's 5-project cap.
-- Price: (re-verified 25 September 2026 on todoist.com/pricing, currency set to USD, both billing toggles) Free Beginner plan: 5 personal projects, 3 filter views, 5 MB uploads, one week of activity history and one automatic reminder per task. Pro $5 a month billed annually ($60 a year) or $7 billed monthly, with 300 personal projects, custom reminders, calendar layout, task duration, deadlines and full history.
+- Price: (re-verified 27 November 2026 on todoist.com/pricing, prices in USD, both billing cycles; every amount the same as on 25 September 2026) Free Beginner plan: 5 personal projects, 3 filter views, 5 MB uploads, one week of activity history and one automatic reminder per task. Pro $5 a month billed annually ($60 a year) or $7 billed monthly, with 300 personal projects, custom reminders, calendar layout, task…
 
 ## Top Echelon
 - Review: https://officesoftwaremarketplace.com/top-echelon-review.html
