@@ -861,6 +861,22 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/nouswise-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/nouswise.svg\" width=\"340\" height=\"115\" alt=\"Nouswise hands-on test by Office Software Marketplace, 13 Nov 2026: Vendor claims checked 4; 2 confirmed · 1 contradicted · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "pabbly-connect",
+  "name": "Pabbly Connect",
+  "review_url": "https://officesoftwaremarketplace.com/pabbly-connect-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/pabbly-connect.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#pabbly-connect",
+  "tested_on": "2026-11-26",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 7",
+   "4 confirmed · 3 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Pabbly Connect hands-on test by Office Software Marketplace, 26 Nov 2026: Vendor claims checked 7; 4 confirmed · 3 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/pabbly-connect-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/pabbly-connect.svg\" width=\"340\" height=\"115\" alt=\"Pabbly Connect hands-on test by Office Software Marketplace, 26 Nov 2026: Vendor claims checked 7; 4 confirmed · 3 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "passpack",
   "name": "Passpack",
   "review_url": "https://officesoftwaremarketplace.com/passpack-review.html",
