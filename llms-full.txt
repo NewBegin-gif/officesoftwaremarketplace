@@ -177,8 +177,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Browse.ai
 - Review: https://officesoftwaremarketplace.com/browse-ai-review.html
 - Hands-on: tested by us on 2026-11-13. Measured 2026-11-13: The start screen offered 'Extract structured data' or 'Monitor for changes'. We chose monitoring. Three training methods followed: Table Studio (AI training, labelled Beta), Robot Studio (point and click)…
-- Verdict: Browse.ai: Free is $0 with 50 credits a month, 2 websites and 3 users. Two honest realities of no-code scraping.
-- Price: (price re-verified 2026-09-21 in a live browser on www.browse.ai/pricing, with browse.ai/llms.txt read alongside it) Credit-metered, prices in USD. Free is $0 with 50 credits a month, 2 websites and 3 users.
+- Verdict: Browse.ai: Free is $0 with 50 credits a month, 2 domains and 3 team members. Two honest realities of no-code scraping.
+- Price: (price re-verified 2026-11-27 on www.browse.ai/pricing with a plain fetch, with browse.ai/llms.txt, last updated 2026-11-17, read alongside it; first re-verified 2026-09-21) Credit-metered, prices in USD. Free is $0 with 50 credits a month, 2 domains and 3 team members.
 
 ## BugHerd
 - Review: https://officesoftwaremarketplace.com/bugherd-review.html
@@ -466,7 +466,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/foxit-review.html
 - Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: In the web editor the trial offer behind Edit Text has a Free Trial button that opened the desktop downloads page for Foxit PDF Editor+. No trial could be started in the browser, so on the web route the…
 - Verdict: Foxit: PDF Editor+ is $159.99 per user per year or $13.99 per user per month. Foxit's pitch is being the honest fraction of Acrobat's price.
-- Price: (re-verified 2026-09-22 on the Foxit PDF Editor pricing page; every figure identical to the 1 Sep 2026 reading) PDF Editor is $129.99 per user per year, or $10.99 per user per month, with a 14-day free trial that asks for no card. PDF Editor+ is $159.99 per user per year or $13.99 per user per month, and bundles what used to be a second bill: mobile apps for iOS and Android, AI Smart Redact, cloud storage and…
+- Price: (re-verified 2026-11-27 on the Foxit PDF Editor pricing page and foxit.com/esign-pdf/pricing/: the Editor, Editor+, perpetual, AI Assistant, eSign and volume figures are unchanged; first re-verified 2026-09-22) PDF Editor is $129.99 per user per year, or $10.99 per user per month, with a 14-day free trial that asks for no card. PDF Editor+ is $159.99 per user per year or $13.99 per user per month, and bundles…
 
 ## FreshBooks
 - Review: https://officesoftwaremarketplace.com/freshbooks-review.html
@@ -933,8 +933,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## QuickBooks UK
 - Review: https://officesoftwaremarketplace.com/quickbooks-uk-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: QuickBooks UK: Sole Trader Plus £10, Simple Start £16, Essentials £38 for three users, Plus £56 for five and Advanced £123 for twenty-five.
-- Price: Read in a live browser on their own UK pricing page, 28 Aug 2026, in pounds. The page now shows monthly list prices and carries no annual option: Sole Trader Plus £10, Simple Start £16, Essentials £38 for three users, Plus £56 for five and Advanced £123 for twenty-five — all plus VAT at 20%.
+- Verdict: QuickBooks UK: Simple Start, Essentials, Plus and Advanced each list £2 to £5 a month higher than on that reading, Sole Trader Plus stays at £10.
+- Price: Read in a live browser on their own UK pricing page, 27 Nov 2026, in pounds, with the Monthly toggle selected: Sole Trader Plus £10, Simple Start £18, Essentials £40 for three users, Plus £60 for five and Advanced £128 for twenty-five, all plus VAT at 20%. A discount was running at the time of reading and on monthly billing the page states its length plainly: 90% off for SIX months, so each tier costs a tenth of…
 
 ## QuillBot
 - Review: https://officesoftwaremarketplace.com/quillbot-review.html
@@ -1353,8 +1353,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## ZenBusiness
 - Review: https://officesoftwaremarketplace.com/zenbusiness-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: ZenBusiness: Formation itself is $0 plus the state's fee. A registered agent is a legal requirement in every state, and theirs is $199/year.
-- Price: (re-verified 2026-09-22 on zenbusiness.com/pricing-products/, where /pricing/ now redirects; every one of the sixteen published amounts unchanged since 25 Jul 2026) Formation itself is $0 plus the state's fee — that applies to LLC, S corp and C corp filings alike, and the state fee is separate, varies by state and is not shown until you pick one. Everything else is priced as its own line rather than bundled into…
+- Verdict: ZenBusiness: The recurring items are registered agent at $199/year, Worry-Free Compliance Filing at $199/year. Price the second year, not the first.
+- Price: (re-verified 2026-11-27 on zenbusiness.com/pricing-products/: fourteen of the sixteen amounts unchanged since 25 Jul 2026; the business website changed and the banking line is gone, see below; first re-verified 2026-09-22) Formation itself is $0 plus the state's fee — that applies to LLC, S corp and C corp filings alike, and the state fee is separate, varies by state and is not shown until you pick one.…
 
 ## Zenind
 - Review: https://officesoftwaremarketplace.com/zenind-review.html

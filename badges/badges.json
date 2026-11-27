@@ -971,6 +971,22 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/proton-drive-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/proton-drive.svg\" width=\"340\" height=\"81\" alt=\"Proton Drive hands-on test by Office Software Marketplace, 23 Oct 2026: Data export: file opened, re-import not tested\"></a>"
  },
  {
+  "slug": "quickbooks-uk",
+  "name": "QuickBooks UK",
+  "review_url": "https://officesoftwaremarketplace.com/quickbooks-uk-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/quickbooks-uk.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#quickbooks-uk",
+  "tested_on": "2026-11-27",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 2",
+   "1 confirmed · 1 contradicted",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "QuickBooks UK hands-on test by Office Software Marketplace, 27 Nov 2026: Vendor claims checked 2; 1 confirmed · 1 contradicted; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/quickbooks-uk-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/quickbooks-uk.svg\" width=\"340\" height=\"115\" alt=\"QuickBooks UK hands-on test by Office Software Marketplace, 27 Nov 2026: Vendor claims checked 2; 1 confirmed · 1 contradicted; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "reclaim-ai",
   "name": "Reclaim.ai",
   "review_url": "https://officesoftwaremarketplace.com/reclaim-ai-review.html",
