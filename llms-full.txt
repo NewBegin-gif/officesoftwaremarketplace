@@ -933,7 +933,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## QuickBooks UK
 - Review: https://officesoftwaremarketplace.com/quickbooks-uk-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: QuickBooks UK: Simple Start, Essentials, Plus and Advanced each list £2 to £5 a month higher than on that reading, Sole Trader Plus stays at £10.
+- Verdict: QuickBooks UK on monthly billing: Sole Trader Plus £10, Simple Start £18, Essentials £40, Plus £60, Advanced £128 plus VAT. The 90% offer lasts six months. We tested the trial.
 - Price: Read in a live browser on their own UK pricing page, 27 Nov 2026, in pounds, with the Monthly toggle selected: Sole Trader Plus £10, Simple Start £18, Essentials £40 for three users, Plus £60 for five and Advanced £128 for twenty-five, all plus VAT at 20%. A discount was running at the time of reading and on monthly billing the page states its length plainly: 90% off for SIX months, so each tier costs a tenth of…
 
 ## QuillBot

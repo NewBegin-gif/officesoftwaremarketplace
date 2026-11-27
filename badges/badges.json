@@ -962,13 +962,15 @@
   "review_url": "https://officesoftwaremarketplace.com/proton-drive-review.html",
   "badge_svg": "https://officesoftwaremarketplace.com/badges/proton-drive.svg",
   "badge_page": "https://officesoftwaremarketplace.com/badges/#proton-drive",
-  "tested_on": "2026-10-23",
+  "tested_on": "2026-11-27",
   "signup_blocked": false,
   "lines": [
+   "Vendor claims checked: 1",
+   "1 confirmed",
    "Data export: file opened, re-import not tested"
   ],
-  "alt": "Proton Drive hands-on test by Office Software Marketplace, 23 Oct 2026: Data export: file opened, re-import not tested",
-  "snippet": "<a href=\"https://officesoftwaremarketplace.com/proton-drive-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/proton-drive.svg\" width=\"340\" height=\"81\" alt=\"Proton Drive hands-on test by Office Software Marketplace, 23 Oct 2026: Data export: file opened, re-import not tested\"></a>"
+  "alt": "Proton Drive hands-on test by Office Software Marketplace, 27 Nov 2026: Vendor claims checked 1; 1 confirmed; Data export: file opened, re-import not tested",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/proton-drive-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/proton-drive.svg\" width=\"340\" height=\"115\" alt=\"Proton Drive hands-on test by Office Software Marketplace, 27 Nov 2026: Vendor claims checked 1; 1 confirmed; Data export: file opened, re-import not tested\"></a>"
  },
  {
   "slug": "quickbooks-uk",
