@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 261,
-  "flags": 425,
+  "flags": 424,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on officesoftwaremarketplace.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -383,7 +383,7 @@
    "entry_price": "$29",
    "entry_price_terms": "a month, billed annually ($49 billed monthly)",
    "pricing_status": "public",
-   "price_note": "(re-verified 28 September 2026 in a rendered browser, both billing tabs and the full comparison table) Assembly, the client-portal platform at assembly.com, publishes five tiers. Free, a free-forever plan: $0 with 5 active contacts, 1 internal user, 75 build credits a month and 3 apps. Starter: $29 a month billed yearly or $49 monthly, 50 active contacts, 1 internal user. Professional: $99 billed yearly or $139 monthly, 500 active contacts, 3 internal users included and each extra one +$29 a month yearly or +$39 monthly. Advanced: $499 billed yearly or $599 monthly, unlimited active contacts, 5 internal users included and each extra one +$59 or +$79. Enterprise shows a $2,000 starting price with no billing period on the card. The comparison table lists 200 monthly build credits and 5 apps on Starter, Professional and Advanced. On Enterprise it lists custom credits and unlimited apps. Extra credits on Starter, Professional and Advanced are $0.60 each up to 10,000 a month, unused credits roll over for one month, and extra apps are $5 a month each. Build credits, apps and the Enterprise card were read 25 November 2026. If you bill clients through Assembly, cards cost 2.9% + $0.30 on every plan and ACH 1% (capped at $10 from Professional up); the table also lists store fees of 2.0%, 1.5%, 1% and 0.7% from Free to Advanced, invoices at +0.7% down to +0.3% and recurring subscriptions at +1.1% down to +0.5%. The FAQ says there are no setup, hosting or per-client fees, no contracts on self-serve plans, and downgrades take effect at the end of the billing period. Correction: until 28 September 2026 this field described a different company's employee-recognition plan at $3 per user; that was never the price of Assembly's client portal.",
+   "price_note": "(re-verified 28 September 2026 and again 27 November 2026 in a rendered browser, both billing tabs and the full comparison table; every amount unchanged) Assembly, the client-portal platform at assembly.com, publishes five tiers. Free, a free-forever plan: $0 with 5 active contacts, 1 internal user, 75 build credits a month and 3 apps. Starter: $29 a month billed yearly or $49 monthly, 50 active contacts, 1 internal user. Professional: $99 billed yearly or $139 monthly, 500 active contacts, 3 internal users included and each extra one +$29 a month yearly or +$39 monthly. Advanced: $499 billed yearly or $599 monthly, unlimited active contacts, 5 internal users included and each extra one +$59 or +$79. Enterprise shows a $2,000 starting price with no billing period on the card. The comparison table lists 200 monthly build credits and 5 apps on Starter, Professional and Advanced. On Enterprise it lists custom credits and unlimited apps. Extra credits on Starter, Professional and Advanced are $0.60 each up to 10,000 a month, unused credits roll over for one month, and extra apps are $5 a month each. Build credits, apps and the Enterprise card were read 25 November 2026. If you bill clients through Assembly, cards cost 2.9% + $0.30 on every plan and ACH 1% (capped at $10 from Professional up); the table also lists store fees of 2.0%, 1.5%, 1% and 0.7% from Free to Advanced, invoices at +0.7% down to +0.3% and recurring subscriptions at +1.1% down to +0.5%. The FAQ says there are no setup, hosting or per-client fees, no contracts on self-serve plans, and downgrades take effect at the end of the billing period. Correction: until 28 September 2026 this field described a different company's employee-recognition plan at $3 per user; that was never the price of Assembly's client portal.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -391,7 +391,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-28"
+     "verified_at": "2026-11-27"
     },
     {
      "flag": "free_tier",
@@ -399,11 +399,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-28"
+     "verified_at": "2026-11-27"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-28",
+   "price_verified_at": "2026-11-27",
    "first_observed_at": null
   },
   {
@@ -5651,10 +5651,10 @@
    "entry_price": "€49.90",
    "entry_price_terms": "per month billed yearly, €59.90 monthly (Booking, up to 5 staff)",
    "pricing_status": "public",
-   "price_note": "(2026-09-26, read on shore.com/en/pricing and its 'All features compared' page, in euros, excluding VAT, for businesses only) Five packages on two product lines, each with a yearly-billing and a monthly-billing rate a flat EUR 10 apart ('Yearly (Save EUR 120)'). Appointments: Booking EUR 49.90 a month billed yearly or EUR 59.90 monthly, up to 5 staff; Booking + Marketing EUR 69.90 / EUR 79.90, unlimited staff. Till: POS EUR 49.90 / EUR 59.90, up to 5 staff; POS+ EUR 69.90 / EUR 79.90, unlimited staff. Both: All-in-One EUR 119.90 / EUR 129.90, unlimited staff. An 'Oktoberfest Sale' ('up to 40%', for a limited time, no end date given) cuts the first 12 months to EUR 29.90 / 39.90 (Booking and POS), EUR 49.90 / 59.90 (Booking + Marketing and POS+) and EUR 89.90 / 99.90 (All-in-One); list price applies from month 13. Card-reader fees are no longer published: they are 'based on your sales' and quoted on request. Cloud TSE EUR 9/month, professional website EUR 65/month, branded web app EUR 40/month; more than 10 locations goes to Key Account. Hardware: Shore Complete bundle EUR 1,499, card reader EUR 69, dock EUR 49, stand EUR 199, cash drawer EUR 99, Epson receipt printer EUR 269. The POS is only sold in Germany, Austria and Switzerland. 14-day free trial. Yearly payment carries a 12-month initial term; monthly billing cancels with 14 days' notice to the end of the period.",
+   "price_note": "(2026-09-26, list prices re-read unchanged 2026-11-27, read on shore.com/en/pricing and its 'All features compared' page, in euros, excluding VAT, for businesses only) Five packages on two product lines, each with a yearly-billing and a monthly-billing rate a flat EUR 10 apart ('Yearly (Save EUR 120)'). Appointments: Booking EUR 49.90 a month billed yearly or EUR 59.90 monthly, up to 5 staff; Booking + Marketing EUR 69.90 / EUR 79.90, unlimited staff. Till: POS EUR 49.90 / EUR 59.90, up to 5 staff; POS+ EUR 69.90 / EUR 79.90, unlimited staff. Both: All-in-One EUR 119.90 / EUR 129.90, unlimited staff. On 27 November 2026 a 'New Year's Sale' ('up to 40%', for a limited time) had replaced the September 'Oktoberfest Sale' and cuts the first 12 months to EUR 39.90 / 49.90 (Booking and POS), EUR 49.90 / 59.90 (Booking + Marketing and POS+) and EUR 89.90 / 99.90 (All-in-One, whose card also offers a free iPad for the POS instead of a discount); list price applies from month 13. A banner offers 'up to €360 off or a free iPad', valid through November 30. In September the Booking and POS sale price was EUR 29.90 / 39.90. Card-reader fees are no longer published: they are 'based on your sales' and quoted on request. Cloud TSE EUR 9/month, professional website EUR 65/month, branded web app EUR 40/month; more than 10 locations goes to Key Account. Hardware: Shore Complete bundle EUR 1,499, card reader EUR 69, dock EUR 49, stand EUR 199, cash drawer EUR 99, Epson receipt printer EUR 269. The POS is only sold in Germany, Austria and Switzerland. 14-day free trial. Yearly payment carries a 12-month initial term; monthly billing cancels with 14 days' notice to the end of the period.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-26",
+   "price_verified_at": "2026-11-27",
    "first_observed_at": "2026-09-26"
   },
   {
@@ -7275,20 +7275,12 @@
    "entry_price": "$10",
    "entry_price_terms": "per user a month, for 2 to 15 users",
    "pricing_status": "public",
-   "price_note": "(price re-verified 2026-09-25 and re-read 2026-11-27, every amount the same) A permanent free plan at $0 per user, with no user cap named on the plan card; Team $10 per user a month for 2 to 15 users; Business $25 per user a month for 5 to 200 users. Pinnacle and Apex publish no amount at all — both carry only a Contact us button and the line \"Connect with us for pricing\". Business and every tier above it is sold as an annual subscription only. Seats are bought in blocks: groups of five up to 30 seats, groups of 10 from 30 to 100, groups of 25 above 100. Self-service checkout covers Team and Business up to 15 users with no add-ons; beyond that the purchase goes through a Wrike representative. All prices are listed in US dollars and exclude local taxes. The page read on 27 November 2026 also lists add-ons: Wrike Whiteboard at $15 per user a month (included with Apex), AI Elite action packs, Integrate, Two-Way Sync, Datahub and Lock on custom pricing. The paid tiers carry AI Elite actions: a starter pack on Business, three times as many on Pinnacle and ten times as many on Apex. A footnote says the pricing applies to new purchases on or after 21 January 2026.",
+   "price_note": "(price re-verified 2026-09-25 and re-read 2026-11-27, every amount the same) A permanent free plan at $0 per user, with no user cap named on the plan card; Team $10 per user a month for 2 to 15 users; Business $25 per user a month for 5 to 200 users. Pinnacle and Apex publish no amount at all — both carry only a Contact us button and the line \"Connect with us for pricing\". Business and every tier above it is sold as an annual subscription only. Seats are bought in blocks: groups of five up to 30 seats, groups of 10 from 30 to 100, groups of 25 above 100. Self-service checkout covers Team and Business up to 15 users with no add-ons; beyond that the purchase goes through a Wrike representative. All prices are listed in US dollars and exclude local taxes. The page read on 27 November 2026 also prices Wrike Whiteboard at $15 per user a month (included with Apex) and lists AI Elite action packs, Integrate, Two-Way Sync, Datahub and Lock as separate extras on custom pricing. The paid tiers carry AI Elite actions: a starter pack on Business, three times as many on Pinnacle and ten times as many on Apex. A footnote says the pricing applies to new purchases on or after 21 January 2026.",
    "flags": [
     {
      "flag": "per_seat",
      "evidence": "(price re-verified 2026-09-25 and re-read 2026-11-27, every amount the same) A permanent free plan at $0 per user, with no user cap named on the plan card; Team $10 per user a month for 2 to 15 users; Business $25 per user a month for 5 to 200 users.",
      "evidence_excerpt": "(price re-verified 2026-09-25 and re-read 2026-11-27, every amount the same) A permanent free plan at $0 per user, with no user cap named on the plan card; Team $10 per user a month for 2 to 15 users…",
-     "source_url": null,
-     "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-27"
-    },
-    {
-     "flag": "addons_extra",
-     "evidence": "The page read on 27 November 2026 also lists add-ons: Wrike Whiteboard at $15 per user a month (included with Apex), AI Elite action packs, Integrate, Two-Way Sync, Datahub and Lock on custom pricing.",
-     "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
      "verified_at": "2026-11-27"

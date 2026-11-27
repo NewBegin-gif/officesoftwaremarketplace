@@ -82,7 +82,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/assembly-review.html
 - Hands-on: tested by us on 2026-10-24. Measured 2026-10-24: Settings > Plans in the new Free workspace showed 'Build credits 50 available' and 'Used this billing period 0 of 50 monthly', with the credits expiring on 24 Nov 2026.
 - Verdict: Assembly: $29 a month billed yearly or $49 monthly, 50 active contacts, 1 internal user. Active contacts bite first: Starter stops at 50.
-- Price: (re-verified 28 September 2026 in a rendered browser, both billing tabs and the full comparison table) Assembly, the client-portal platform at assembly.com, publishes five tiers. Free, a free-forever plan: $0 with 5 active contacts, 1 internal user, 75 build credits a month and 3 apps.
+- Price: (re-verified 28 September 2026 and again 27 November 2026 in a rendered browser, both billing tabs and the full comparison table; every amount unchanged) Assembly, the client-portal platform at assembly.com, publishes five tiers. Free, a free-forever plan: $0 with 5 active contacts, 1 internal user, 75 build credits a month and 3 apps.
 
 ## Atto
 - Review: https://officesoftwaremarketplace.com/atto-review.html
@@ -1048,7 +1048,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/shore-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Shore: Five packages on two product lines, each with a yearly-billing and a monthly-billing rate a flat EUR 10 apart ('Yearly (Save EUR 120)').
-- Price: (2026-09-26, read on shore.com/en/pricing and its 'All features compared' page, in euros, excluding VAT, for businesses only) Five packages on two product lines, each with a yearly-billing and a monthly-billing rate a flat EUR 10 apart ('Yearly (Save EUR 120)'). Appointments: Booking EUR 49.90 a month billed yearly or EUR 59.90 monthly, up to 5 staff; Booking + Marketing EUR 69.90 / EUR 79.90, unlimited staff.
+- Price: (2026-09-26, list prices re-read unchanged 2026-11-27, read on shore.com/en/pricing and its 'All features compared' page, in euros, excluding VAT, for businesses only) Five packages on two product lines, each with a yearly-billing and a monthly-billing rate a flat EUR 10 apart ('Yearly (Save EUR 120)'). Appointments: Booking EUR 49.90 a month billed yearly or EUR 59.90 monthly, up to 5 staff; Booking + Marketing…
 
 ## Shortcut Chat
 - Review: https://officesoftwaremarketplace.com/shortcut-chat-review.html
