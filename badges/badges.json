@@ -455,6 +455,22 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/ebillity-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/ebillity.svg\" width=\"340\" height=\"115\" alt=\"eBillity hands-on test by Office Software Marketplace, 31 Oct 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: file opened, re-import not tested\"></a>"
  },
  {
+  "slug": "expertex",
+  "name": "ExpertEx",
+  "review_url": "https://officesoftwaremarketplace.com/expertex-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/expertex.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#expertex",
+  "tested_on": "2026-11-27",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 1",
+   "1 contradicted",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "ExpertEx hands-on test by Office Software Marketplace, 27 Nov 2026: Vendor claims checked 1; 1 contradicted; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/expertex-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/expertex.svg\" width=\"340\" height=\"115\" alt=\"ExpertEx hands-on test by Office Software Marketplace, 27 Nov 2026: Vendor claims checked 1; 1 contradicted; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "expertise-ai",
   "name": "Expertise AI",
   "review_url": "https://officesoftwaremarketplace.com/expertise-ai-review.html",
