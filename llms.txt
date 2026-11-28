@@ -375,6 +375,10 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [Test team workflow software before you buy](https://officesoftwaremarketplace.com/tools/software-test-drive/)
 - [Free VAT & Sales Tax Calculator (2026)](https://officesoftwaremarketplace.com/tools/vat-calculator/)
 
+## Research and datasets to cite
+- [Foxit alternatives](https://officesoftwaremarketplace.com/compare/foxit-alternatives.html): for teams replacing Foxit PhantomPDF
+- [Office software atlas (CSV)](https://officesoftwaremarketplace.com/data/osm-tools.csv): the tools and cost flags behind the atlas
+
 ## Machine-readable
 - [For AI agents](https://aibuildermarketplace.com/agents/): a read-only JSON API covering the reviews on this site too. https://aibuildermarketplace.com/api/v1/index.json lists every product; each record links its canonical review here, plan prices where structured, cost traps with full evidence, the pricing date and what is unknown. No key needed. Remote MCP server (read-only, no key): https://api.aibuildermarketplace.com/mcp, with tools such as search_products, get_product, compare_products, get_evidence, estimate_cost and check_choice; the same data as HTTP/JSON under https://api.aibuildermarketplace.com/v1/.
 - [Full review catalog with prices (plain text)](https://officesoftwaremarketplace.com/llms-full.txt)
