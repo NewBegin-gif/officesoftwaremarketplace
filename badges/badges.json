@@ -439,6 +439,22 @@
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/dochub-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/dochub.svg\" width=\"340\" height=\"115\" alt=\"DocHub hands-on test by Office Software Marketplace, 19 Nov 2026: Vendor claims checked 4; 2 confirmed · 1 contradicted · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "easydmarc",
+  "name": "EasyDMARC",
+  "review_url": "https://officesoftwaremarketplace.com/easydmarc-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/easydmarc.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#easydmarc",
+  "tested_on": "2026-11-15",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 5",
+   "3 confirmed · 1 contradicted · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "EasyDMARC hands-on test by Office Software Marketplace, 15 Nov 2026: Vendor claims checked 5; 3 confirmed · 1 contradicted · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/easydmarc-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/easydmarc.svg\" width=\"340\" height=\"115\" alt=\"EasyDMARC hands-on test by Office Software Marketplace, 15 Nov 2026: Vendor claims checked 5; 3 confirmed · 1 contradicted · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "ebillity",
   "name": "eBillity",
   "review_url": "https://officesoftwaremarketplace.com/ebillity-review.html",
@@ -1333,6 +1349,22 @@
   ],
   "alt": "Team Pulse hands-on test by Office Software Marketplace, 13 Nov 2026: Vendor claims checked 3; 3 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://officesoftwaremarketplace.com/team-pulse-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/team-pulse.svg\" width=\"340\" height=\"115\" alt=\"Team Pulse hands-on test by Office Software Marketplace, 13 Nov 2026: Vendor claims checked 3; 3 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "tellent",
+  "name": "Tellent",
+  "review_url": "https://officesoftwaremarketplace.com/tellent-review.html",
+  "badge_svg": "https://officesoftwaremarketplace.com/badges/tellent.svg",
+  "badge_page": "https://officesoftwaremarketplace.com/badges/#tellent",
+  "tested_on": "2026-10-31",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 3",
+   "2 confirmed · 1 not testable",
+   "Data export: file opened, re-import not tested"
+  ],
+  "alt": "Tellent hands-on test by Office Software Marketplace, 31 Oct 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: file opened, re-import not tested",
+  "snippet": "<a href=\"https://officesoftwaremarketplace.com/tellent-review.html\"><img src=\"https://officesoftwaremarketplace.com/badges/tellent.svg\" width=\"340\" height=\"115\" alt=\"Tellent hands-on test by Office Software Marketplace, 31 Oct 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: file opened, re-import not tested\"></a>"
  },
  {
   "slug": "testgorilla",
