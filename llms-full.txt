@@ -832,7 +832,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/pangram-review.html
 - Hands-on: tested by us on 2026-10-01
 - Verdict: Pangram: Llms.txt says funds from $5 to $2,000. The unavoidable honest limit of every AI detector, including accurate ones: it is never infallible.
-- Price: (re-verified 6 September and again 30 September 2026 on pangram.com/pricing and pangram.com/llms.txt, which agree with each other on every figure) Free: $0, no payment method, up to 2,000 words a day (20 credits of 100 words, rounded up per check: ten checks of 150 words in our test of 1 October 2026) and 3 image scans a day. Individual $20/mo or $15/mo billed annually ($180 a year) for up to 300,000 words a…
+- Price: (re-verified 6 September and 30 September 2026 on pangram.com/pricing and pangram.com/llms.txt, which then agreed on every figure; re-read 28 November 2026, when they no longer agree on the allowances) Free: $0, no payment method, up to 2,000 words a day (20 credits of 100 words, rounded up per check: ten checks of 150 words in our test of 1 October 2026) and 3 image scans a day. Individual $20/mo or $15/mo…
 
 ## Papaya Global
 - Review: https://officesoftwaremarketplace.com/papaya-global-review.html
@@ -1126,7 +1126,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://officesoftwaremarketplace.com/softr-review.html
 - Hands-on: tested by us on 2026-10-21. Measured 2026-10-21: The trial runs on Business for 7 days and drops back to Free on its own: the plan panel in the app marked Free 'Automatic when trial ends'. The same panel listed Basic at $25, Pro at $119 and Business at…
 - Verdict: Softr: A free plan with unlimited apps, up to 3 builders, 5 app users, 5,000 database records, 500 workflow actions and 5 AI credits a month.
-- Price: (re-verified 2026-09-07 and again 2026-10-01) A free plan with unlimited apps, up to 3 builders, 5 app users, 5,000 database records, 500 workflow actions and 5 AI credits a month. Paid on yearly billing: Basic $19/month, Pro $99/month and Business $329/month, with Enterprise on custom limits; the pricing page opens on the Yearly tab and advertises two months off, so month-to-month costs more: the plan panel…
+- Price: (re-verified 2026-09-07, 2026-10-01 and 2026-11-28) A free plan with unlimited apps, up to 3 builders, 5 app users, 5,000 database records, 500 workflow actions and 5 AI credits a month. Paid on yearly billing: Basic $19/month, Pro $99/month and Business $329/month, with Enterprise on custom limits; the pricing page opens on the Yearly tab and advertises two months off, so month-to-month costs more: the plan…
 
 ## Sucuri
 - Review: https://officesoftwaremarketplace.com/sucuri-review.html
@@ -1251,8 +1251,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## UltaHost
 - Review: https://officesoftwaremarketplace.com/ultahost-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: UltaHost: Basic $5.18 (list $9.19) for 4 domains, ~15,000 visits and 60 GB. The sticker price is a term commitment: the page opens on the 2-year prices.
-- Price: (re-verified 2026-10-01 on ultahost.com/shared-hosting, all four term tabs rendered) The term ladder is Monthly, Yearly -30%, 2 Years -40% and 3 Years -50%, and the page opens on the two-year term. At that term the shared plans are Starter $3.44/mo (list $6.89) for 1 domain, ~10,000 visits a month and 30 GB NVMe; Basic $5.18 (list $9.19) for 4 domains, ~15,000 visits and 60 GB; Business $10.35 (list $17.02) for…
+- Verdict: UltaHost: On one year Starter $4.03, Business $12.08 and Pro $14.94. The sticker price is a term commitment: the page opens on the 2-year prices.
+- Price: (re-verified 2026-10-01 and 2026-11-28 on ultahost.com/shared-hosting; on 28 November the four term tabs were read from the page's own price endpoint) The term ladder is Monthly, Yearly, 2 Years and 3 Years. The renewal rates have not moved since 1 October 2026: Starter $4.39, Basic $6.39, Business $12.29 and Pro $16.29 a month on monthly billing; on one year Starter $4.03, Business $12.08 and Pro $14.94; on two…
 
 ## Unleashed Software
 - Review: https://officesoftwaremarketplace.com/unleashed-software-review.html
