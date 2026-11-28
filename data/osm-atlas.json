@@ -3810,19 +3810,19 @@
    "entry_price": "$4",
    "entry_price_terms": "per month",
    "pricing_status": "public",
-   "price_note": "(read 2026-09-30 on mera.work/pricing, INR and USD tabs, and on mera.work/signup) One plan, priced per user, with every feature included: the page states there are no feature restrictions and no add-ons. In US dollars it is $4 per user a month billed monthly or $3 per user a month billed annually, which the page describes as saving $12 per user a year. In rupees the same plan is ₹325 per user a month billed monthly or ₹250 billed annually, saving ₹900 per user a year. Enterprise is a custom quote for 1,000 or more users. The sign-up page offers a 14-day free trial of the Pro plan with no credit card and says the subscription starts only if you choose to continue. The feature table lists data retention of up to three months, and the privacy policy puts that into practice: unless your order form says otherwise, customer data is kept on a rolling 90-day basis and older data may be deleted automatically. A 50% inaugural discount for July that appeared in earlier readings is no longer shown.",
+   "price_note": "(read 2026-09-30 and re-read 2026-11-28 on mera.work/pricing and mera.work/signup) One plan, priced per user, with every feature included: the page says there are no tiers and no add-ons for core features, and that taxes depend on your location and appear on the invoice. In US dollars it is $4 per user a month billed monthly or $3 per user a month billed yearly, which the page states as $36 per user a year. In rupees the same plan is ₹325 a month or ₹250 billed yearly (₹3,000 a year), and on 28 November 2026 the page also showed Australian dollars, A$6 or A$4.5 (A$54 a year); the currency follows your IP address. The minimum is two users, an admin and a team member. Enterprise is a custom quote for private cloud or on-premise hosting, volume and multi-year pricing; on 30 September 2026 the page tied it to 1,000 or more users, and on 28 November 2026 it named no user threshold. The 14-day free trial needs no card, and the sign-up page says the subscription starts only if you choose to continue. The feature table lists data retention of up to three months, and the privacy policy puts that into practice: unless your order form says otherwise, customer data is kept on a rolling 90-day basis and older data may be deleted automatically. The product was renamed from Mera Monitor in 2026; a 50% inaugural discount for July that appeared in earlier readings is no longer shown.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "In US dollars it is $4 per user a month billed monthly or $3 per user a month billed annually, which the page describes as saving $12 per user a year.",
+     "evidence": "In US dollars it is $4 per user a month billed monthly or $3 per user a month billed yearly, which the page states as $36 per user a year.",
      "evidence_excerpt": null,
      "source_url": "https://mera.work/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-30"
+     "verified_at": "2026-11-28"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-30",
+   "price_verified_at": "2026-11-28",
    "first_observed_at": "2026-09-30"
   },
   {

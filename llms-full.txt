@@ -705,8 +705,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Mera Work
 - Review: https://officesoftwaremarketplace.com/mera-work-review.html
 - Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The plan page shows INR Annual Billing at 3000 rupees per user per year and INR Monthly Billing at 325 rupees per user per month, with GST of 18% on top, and asks for a GST number, so the dollar prices of…
-- Verdict: Mera Work: In US dollars it is $4 per user a month billed monthly or $3 per user a month billed annually. The price is low and the feature list is long.
-- Price: (read 2026-09-30 on mera.work/pricing, INR and USD tabs, and on mera.work/signup) One plan, priced per user, with every feature included: the page states there are no feature restrictions and no add-ons. In US dollars it is $4 per user a month billed monthly or $3 per user a month billed annually, which the page describes as saving $12 per user a year.
+- Verdict: Mera Work: In US dollars it is $4 per user a month billed monthly or $3 per user a month billed yearly. The price is low and the feature list is long.
+- Price: (read 2026-09-30 and re-read 2026-11-28 on mera.work/pricing and mera.work/signup) One plan, priced per user, with every feature included: the page says there are no tiers and no add-ons for core features, and that taxes depend on your location and appear on the invoice. In US dollars it is $4 per user a month billed monthly or $3 per user a month billed yearly, which the page states as $36 per user a year.
 
 ## MigrationPro
 - Review: https://officesoftwaremarketplace.com/migrationpro-review.html
